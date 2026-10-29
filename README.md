@@ -48,16 +48,16 @@ The following datasets are managed in this repository:
 
 The properties in frontmatter are defined in the specification https://github.com/digital-land/specification/content, specifically each markdown file here contains the following common fields:
 
-- entity — a unique number for the entity assigned by planning.data.gov.uk 
-- prefix — a reference for the value which when combined with the reference to form a URI for the entity, usually the class/dataset name
-- reference — a symbolic name for the item, matching the markdown filename
-- name — a displayed singular name for the item
-- plural — a displayed name for a collectino of the items
-- start-date — the date the entity applies from
-- end-date — the last date the entity applied until, otherwise blank
-- entry-date — the timestamp when the data was created or modified
-- documentation-url — webpage describing the entity
-- document-url — a link to a PDF or other document which is the material source of information about the entity which should appear on the documentation-url page
+- [entity](content/field/entity.md) — a unique number for the entity assigned by planning.data.gov.uk 
+- [prefix](content/field/prefix.md) — a reference for the value which when combined with the reference to form a URI for the entity, usually the class/dataset name
+- [reference](content/field/reference.md) — a symbolic name for the item, matching the markdown filename
+- [name](content/field/name.md) — a displayed singular name for the item
+- [plural](content/field/plural.md) — a displayed name for a collectino of the items
+- [start-date](content/field/start-date.md) — the date the entity applies from
+- [end-date](content/field/end-date.md) — the last date the entity applied until, otherwise blank
+- [entry-date](content/field/entry-date.md) — the timestamp when the data was created or modified
+- [documentation-url](content/field/documentation-url.md) — webpage describing the entity
+- [document-url](content/field/document-url.md) — a link to a PDF or other document which is the material source of information about the entity which should appear on the documentation-url page
 
 Markdown files should match a lower-case version of the reference, with spaces and other special characters 
 not representable in a filename replaced with a hyphen.

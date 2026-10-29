@@ -6,7 +6,7 @@ and is presented at https://design.planning.data.gov.uk
 
 ## Content structure
 
-The content is maintaind as individual markdown files in the [content/] directory
+The content is maintaind as individual markdown files in the [content](content/) directory
 which are designed to be edited using markdown or text editor.
 Collectively the content directory is an [Obsidian](https://obsidian.md/) vault.
 
@@ -28,21 +28,21 @@ The content in this repository will be used to generate specifications and other
 
 The following datasets are managed in this repository:
 
-* [content/term] — a term used in data and on the platform, with synomyms, abbreviations, and acronyms
-* [content/quotation] — a quotation from legislation, policy or other source which references one or more term
-* [content/legislation] — act or statutory instrument on legislation.gov.uk
-* [content/source] — a source of information
-* [content/topic] — topic of data (also known as a "consideration")
-* [content/theme] — topic category (a "domain")
-* [content/user] — category of user of planning data
-* [content/need] — "as a `user` I need to consider `topic` when I `action`" 
-* [content/action] — "apply for certificate of lawful development", "make a decision on a planning application 
-* [content/operation] — "which means I need to be able to: `operation` from `source-dataset` (plural) using `target-dataset` (plural) which is `quality`"
-* [content/quality] — data quality level
-* [content/quality-dimension] — data quality dimension
-* [content/quality-dimension-need] — data quality dimension for a given need
-* [content/stage] — stage in the development process used to sequence needs
-* [content/class] — a type of entity used to create a dataset
+* [content/term](content/term) — a term used in data and on the platform, with synomyms, abbreviations, and acronyms
+* [content/quotation](content/quotation) — a quotation from legislation, policy or other source which references one or more term
+* [content/legislation](content/legislation) — act or statutory instrument on legislation.gov.uk
+* [content/source](content/source) — a source of information
+* [content/topic](content/topic) — topic of data (also known as a "consideration")
+* [content/theme](content/theme) — topic category (a "domain")
+* [content/user](content/user) — category of user of planning data
+* [content/need](content/need) — "as a `user` I need to consider `topic` when I `action`" 
+* [content/action](content/action) — "apply for certificate of lawful development", "make a decision on a planning application 
+* [content/operation](content/operation) — "which means I need to be able to: `operation` from `source-dataset` (plural) using `target-dataset` (plural) which is `quality`"
+* [content/quality](content/quality) — data quality level
+* [content/quality-dimension](content/quality-dimension) — data quality dimension
+* [content/quality-dimension-need](content/quality-dimension-need) — data quality dimension for a given need
+* [content/stage](content/stage) — stage in the development process used to sequence needs
+* [content/class](content/class) — a type of entity used to create a dataset
 
 # Properties
 

@@ -27,6 +27,26 @@ QUERIES = [
     "National Planning Policy for Waste",
     "planning policy for traveller sites",
     "planning obligations section 106",
+    "brownfield land register",
+    "publish your plan data",
+    "publish your data planning",
+    "developer contributions data",
+    "infrastructure funding statement",
+]
+# pages about publishing planning data, relevant to planning.data.gov.uk
+SEEDS = [
+    "/government/publications/brownfield-land-registers-data-standard",
+    "/government/publications/brownfield-land-registers-data-standard/publish-your-brownfield-land-data",
+    "/government/publications/publish-your-plan-data",
+    "/government/publications/publish-your-plan-data/publish-your-plan-data",
+    "/guidance/publish-your-developer-contributions-data",
+    "/government/publications/developer-contributions-data-improvement-project-privacy-notice",
+    "/guidance/publishing-your-local-plan-housing-requirement",
+    "/guidance/brownfield-land-registers",
+    "/guidance/permission-in-principle",
+    "/government/collections/housing-and-planning-data",
+    "/government/collections/create-or-update-a-local-plan-using-the-new-system",
+    "/guidance/plan-for-neighbourhoods-data-packs",
 ]
 PREFIXES = ("/guidance/", "/government/publications/", "/government/collections/",
     "/government/consultations/",
@@ -227,6 +247,9 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     seen = set()
     total = 0
+    for link in [] if args.query else SEEDS:
+        total += len(snapshot(link, args.output, now, seen, args.force))
+        time.sleep(0.2)
     for q in args.query or QUERIES:
         for link in search(q, args.count):
             total += len(snapshot(link, args.output, now, seen, args.force))

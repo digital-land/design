@@ -148,6 +148,7 @@ class Markdown(HTMLParser):
     def result(self):
         text = "".join(self.out)
         text = re.sub(r"[ \t]+\n", "\n", text)
+        text = re.sub(r"^(\s*(?:-|\d+\.)) *\n+", r"\1 ", text, flags=re.M)
         return re.sub(r"\n{3,}", "\n\n", text).strip() + "\n"
 
 
@@ -183,26 +184,25 @@ def snapshot(path, outdir, now, seen, force):
     doc = get_json(f"{BASE}/api/content{path}")
     if not doc or doc.get("document_type") in SKIP_TYPES:
         return []
-    slug = path.split("/")[-1]
+    reference = path.lstrip("/")
     parent = (doc.get("links", {}).get("parent") or [{}])[0].get("base_path")
-    if parent:
-        slug = f"{parent.split('/')[-1][:100]}--{slug[:100]}"
-    out = outdir / f"{slug}.md"
+    out = outdir / f"govuk-{reference.replace('/', '-')}"[:200]
+    out = out.with_name(out.name + ".md")
     new = []
     if force or not out.exists():
         first = (doc.get("first_published_at") or doc.get("public_updated_at") or "")[:10]
         lines = [
             "---",
             "prefix: govuk",
-            f"reference: {slug}",
-            f"name: {yaml(doc.get('title', slug))}",
+            f"reference: {reference}",
+            f"name: {yaml(doc.get('title', reference))}",
             f"entry-date: {now}",
             f"start-date: {first}",
             f"document-url: {BASE}{path}",
         ]
         if parent:
             lines.append(f"documentation-url: {BASE}{parent}")
-        lines += ["---", "", f"# {doc.get('title', slug)}", "", ""]
+        lines += ["---", "", f"# {doc.get('title', reference)}", "", ""]
         out.write_text(
             "\n".join(lines) + to_markdown(body_of(doc)), encoding="utf-8"
         )

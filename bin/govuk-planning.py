@@ -186,7 +186,7 @@ def snapshot(path, outdir, now, seen, force):
     slug = path.split("/")[-1]
     parent = (doc.get("links", {}).get("parent") or [{}])[0].get("base_path")
     if parent:
-        slug = f"{parent.split('/')[-1]}--{slug}"
+        slug = f"{parent.split('/')[-1][:100]}--{slug[:100]}"
     out = outdir / f"{slug}.md"
     new = []
     if force or not out.exists():

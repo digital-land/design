@@ -17,6 +17,9 @@ QUERIES = [
     "national planning policy framework",
     "planning practice guidance",
     "planning policy England",
+    "planning consultation England",
+    "spatial development strategies",
+    "design and placemaking planning practice guidance",
     "local plans England",
     "neighbourhood planning",
     "permitted development rights",
@@ -25,7 +28,9 @@ QUERIES = [
     "planning policy for traveller sites",
     "planning obligations section 106",
 ]
-PREFIXES = ("/guidance/", "/government/publications/", "/government/collections/")
+PREFIXES = ("/guidance/", "/government/publications/", "/government/collections/",
+    "/government/consultations/",
+)
 SKIP_TYPES = {"html_publication_index"}
 
 
@@ -205,7 +210,7 @@ def snapshot(path, outdir, now, seen, force):
         print(out, file=sys.stderr)
     for att in doc.get("details", {}).get("attachments", []) or []:
         url = att.get("url", "")
-        if att.get("attachment_type") == "html" and url.startswith(BASE):
+        if att.get("attachment_type") == "html" and url.startswith(("/", BASE)):
             new += snapshot(url, outdir, now, seen, force)
     return new
 

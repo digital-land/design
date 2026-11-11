@@ -1,89 +1,108 @@
 ---
 name: Design principles
 ---
-Follow these principles when designing planning data.
+Follow these principles when you design planning data.
 
 ## 1. Model the world, not existing data
 
-Design data which represents things in the real-world and how they are related. Don’t just copy existing data sources, formats, and schemas. 
+Design data that represents real things and how they relate to each other.
+Do not copy existing data sources, formats, and schemas. 
 
 We can collect data in many different ways, and make it available to users in many different forms,
 but the core concepts of data on the platform needs to reflect reality.
 
-* [Start with user needs](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs)  
-* [Modelling entities and relationships](https://en.wikipedia.org/wiki/Ontology_\(information_science\))
+Find out how to:
 
-## 2. Use precise definitions, not general terms
+* [start with user needs](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs)  
+* [model entities and relationships](https://en.wikipedia.org/wiki/Ontology_\(information_science\))
 
-The names you use in your model must be simple, easily understood and unambiguous. 
-Avoid using product names, abbreviations or acronyms as they are often unclear, ambiguous, or quickly become outdated.
+## 2. Use precise terms
 
-Ensure each term you use has an authoritative definition found in legislation, policy, or other trusted source. 
-Where a good definition for a term is hard to find, pick a short, plain English term and test it with users.
+Names in your data model must be simple, clear, and only have one meaning.
+Do not use product names, abbreviations, or acronyms.
+They are often unclear and can go out of date quickly.
 
-* [Be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform)
-* [Domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Wikipedia:Citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)
+Each term should have an official definition from legislation, policy, or other trusted source. 
+If you cannot find a good definition, choose a short, plain English term and test it with users.
 
-## 3. Do not repeat yourself
+Find out more about:
 
-Repeating values, such as the name and other information about the local authority 
-against each planning application, increases opportunities for the values to diverge, and for mistakes to creep in.
-Duplication makes it harder to reliably update data, and increases the size of the data stored.
+* [how to be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform)
+* [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [citations](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)
 
-Design datasets which only contain one type of entity managed by a single kind of organisation and link between them.
+## 3. Do not repeat information
 
-* [Tidy data principles](https://www.gov.uk/government/statistics/personal-and-stakeholder-pensions-statistics/tidy-data-guide)
-* [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
-* [Database normalisation](https://en.wikipedia.org/wiki/Database_normalization)   
+Repeating information makes mistakes more likely and means values can stop matching. 
+Repeated information also makes data harder to update and bigger to store.
+For example, if you repeat the local authority’s name on every planning application, 
+you will have to change every planning application if the local authority changes its name.
+
+Learn about:
+
+* [tidy data principles](https://www.gov.uk/government/statistics/personal-and-stakeholder-pensions-statistics/tidy-data-guide)  
+* [the do not repeat yourself principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
+* [database normalisation](https://en.wikipedia.org/wiki/Database_normalization)
 
 ## 4. Only include what is needed
 
-Resist the temptation to add anything and everything related to an entity. 
+Do not add everything that relates to a dataset.
+Only include the core data that users need to act or make a decision, or that the law requires.
 
-Instead, discover the core data a user needs to act, or inform a decision, or where it’s a legal requirement, and just include that.
+Design the data you know users need, not what people say they want or think might be useful.
 
-Don’t just add what people say they want, or think could be useful: design the data you know users need. 
+Only ask people for information they are responsible for. 
+Do not ask for data that you can easily work out, or that someone else manages more reliably.
+Every field you add makes more work for the people providing the data, which often lowers its quality.
 
-Only ask a user to provide information for which they are responsible.
-Don't ask them to provide data which can be easily derived, or which is more authoritatively managed elsewhere.
-Every field you ask for places a burden on the provider of the data, often leading to a reduction in its quality. 
+You should:
 
-* [Do less](https://www.gov.uk/guidance/government-design-principles#do-less)
-* [Do the hard work to make it simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple)
+* [do less](https://www.gov.uk/guidance/government-design-principles#do-less)  
+* [do the hard work to make it simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple)
 
-## 5. Link to the sources
+## 5. Link to sources
 
-The information recorded in your data model may come from multiple places, but every fact recorded should have a single, authoritative source. Linking facts back to where information is available helps users assess its veracity, increasing the trust they can place in the data.
+Information in your data model can come from many places, but each fact should have one authoritative source.
+Linking each fact to its source helps users to check and trust the data.
 
-* [Persistent resolvable identifiers](https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers)
-* [Reuse and linkage](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/dataprinciples#reuse-and-linkage)  
+Find about:
 
-## 6. Preserve history
+* [persistent resolvable identifiers](https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers)
+* [reuse and linkage](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/dataprinciples#reuse-and-linkage)  
 
-The world changes and the data needs to be able to reperesent the changes. There are many use-cases in planning which depend on understanding this change, to monitor the impact of policies, or to challenge a decision made in the past. 
+## 6. Keep a history of changes
 
-Deleting old facts erodes trust users can place in the data and reduces its use.
-This means your model needs to support keeping all entiies and values, making it clear when they change state,
-particularly when they start and end being relevant.
+Things change over time and the data must show those changes.
+Many planning tasks rely on this, such as checking the effect of a policy or challenging a past decision.
 
-There is one exception to this principle. You should expect to quickly remove data added by mistake, especially where it contains sensitive or personal information. Mistakes in authoritative records should be preserved, but erroneous recordings, especially outliers which cause issues with statistical analysis can be removed.
+Deleting old information makes data less trustworthy and less useful.
+Your model must keep every record and value, then show clearly when they change.
+This includes when they start and stop applying.
 
+The exception is information added by mistake.
+Remove it quickly, especially if it contains sensitive or personal information.
+If an official record itself contains a mistake, keep it as it is.
+If we recorded something incorrectly, you can remove it.
+This is especially important for unusual values that distort statistics.
 
-* [Digital continuity](https://www.nationalarchives.gov.uk/information-management/manage-information/policy-process/digital-continuity/what-is-digital-continuity/)
-* [No link left behind](https://gds.blog.gov.uk/2012/10/11/no-link-left-behind/)
-* [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+Find out more:
 
-## 7. Seek and give feedback, early and often
+* [digital continuity](https://www.nationalarchives.gov.uk/information-management/manage-information/policy-process/digital-continuity/what-is-digital-continuity/)
+* [no link left behind](https://gds.blog.gov.uk/2012/10/11/no-link-left-behind/)
+* [cool URIs don't change](https://www.w3.org/Provider/Style/URI)
 
-Openness should be the default across all design decisions. Wherever possible, share draft specifications, concept models, and documentation publicly to invite early feedback from planning authorities, software vendors, and downstream data users.
+## 7. Ask for and give feedback &mdash; early and often
 
-Quickly responding to, and acting on feedback is essential to increasing the trust users can place in the platform.
-Conversely, you should provide good feedback to others, in a way they value, and can easily act upon.
+Be open by default.
+Wherever you can, share draft specifications, models and documentation publicly.
+This lets planning authorities, software suppliers and data users give feedback early.
 
-*  [Make things open: it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)
+Respond to feedback quickly and act on it, because this builds trust in the platform.
+When you give feedback to others, make it useful and easy to act on.
 
-## 8. Expect change, and don't make breaking changes
+You should [make things open: it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better)
+
+## 8. Expect change and avoid breaking changes
 
 Data standards need to evolve as legislation changes, and new users and needs emerge. 
 

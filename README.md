@@ -34,8 +34,8 @@ The following datasets are managed in this repository:
 * [content/source](content/source) — a source of information
 * [content/topic](content/topic) — topic of data (also known as a "consideration")
 * [content/theme](content/theme) — topic category (a "domain")
-* [content/user](content/user) — category of user of planning data
-* [content/need](content/need) — "as a `user` I need to consider `topic` when I `action`" 
+* [content/user](content/user) — category of user of planning data "as a `user`"
+* [content/need](content/need) — "I need to consider `topic` when I `action`" 
 * [content/action](content/action) — "apply for certificate of lawful development", "make a decision on a planning application 
 * [content/operation](content/operation) — "which means I need to be able to: `operation` from `source-dataset` (plural) using `target-dataset` (plural) which is `quality`"
 * [content/quality](content/quality) — data quality level

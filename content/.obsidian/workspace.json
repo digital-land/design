@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "term/developer-contribution.md",
+                "file": "quotation/nppf-2026-08-pm12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "developer-contribution"
+              "title": "nppf-2026-08-pm12"
             }
           }
         ],
@@ -202,6 +202,10 @@
   },
   "active": "c158622a4d21e17f",
   "lastOpenFiles": [
+    "term/affordable-housing-requirement.md",
+    "quotation/nppf-2026-08-pm12.md",
+    "abbreviation/asnw.md",
+    "term/developer-contribution.md",
     "term/ancient-woodland.md",
     "term/ancient-semi-natural-woodland.md",
     "dataset/entity.md~",
@@ -227,11 +231,7 @@
     "datatype/decimal.md",
     "datatype/datetime.md",
     "datatype/curie.md",
-    "datatype/blob.md",
     "datatype",
-    "field/world-heritage-site.md",
-    "field/world-heritage-convention-site.md",
-    "field/wkt.md",
     "field",
     "dataset",
     "prefix/legislation.md~",

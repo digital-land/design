@@ -43,13 +43,14 @@ The following datasets are managed in this repository:
 * [content/quality-dimension-need](content/quality-dimension-need) — data quality dimension for a given need
 * [content/stage](content/stage) — stage in the development process used to sequence needs
 * [content/class](content/class) — a type of entity used to create a dataset
+* [content/prefix](content/prefix) — a CURIE prefix which can be used to find the `prefix-uri` which can be concatenated with a reference to construct a URI
 
 # Properties
 
 The properties in frontmatter are defined in the specification https://github.com/digital-land/specification/content, specifically each markdown file here contains the following common fields:
 
 - [entity](content/field/entity.md) — a unique number for the entity assigned by planning.data.gov.uk 
-- [prefix](content/field/prefix.md) — a reference for the value which when combined with the reference to form a URI for the entity, usually the class/dataset name
+- [prefix](content/field/prefix.md) — a CURIE prefix to provide scope for the reference, usually the class/dataset name or the provision reference
 - [reference](content/field/reference.md) — a symbolic name for the item, matching the markdown filename
 - [name](content/field/name.md) — a displayed singular name for the item
 - [plural](content/field/plural.md) — a displayed name for a collectino of the items

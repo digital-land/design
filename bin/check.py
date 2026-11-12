@@ -70,7 +70,10 @@ def check(path, errors, warnings):
             errors.append(f"{where}: term-status {status} needs a documentation-url")
         if not body.strip():
             errors.append(f"{where}: no definition text")
-    for t in fm.get("terms") or []:
+    listed = fm.get("terms") or []
+    if isinstance(listed, str):  # semi-colon separated list
+        listed = [t.strip() for t in listed.split(";") if t.strip()]
+    for t in listed:
         if not (CONTENT / "term" / f"{t}.md").exists():
             warnings.append(f"{where}: unknown term {t}")
     for kind_, target in LINK.findall(body):

@@ -16,6 +16,7 @@ terms::
 	python3 bin/nppf-glossary.py
 	python3 bin/legislation-terms.py --all --with-nppf
 	python3 bin/build-terms.py
+	python3 bin/abbreviations.py
 
 review::
 	python3 bin/dataset-review.py

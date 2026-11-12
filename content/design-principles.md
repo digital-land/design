@@ -106,37 +106,45 @@ You should [make things open: it makes things better](https://www.gov.uk/guidanc
 
 Data standards need to evolve as legislation changes, and new users and needs emerge. 
 
-Users of the platform should enable forwards compatibility by ignoring any unexpected fields added in a later version of a specification, or added as an extension to support a local use-case.
+Anyone that uses data from the platform should ignore any fields they do not recognise.
+These fields may be added:
 
-Conversely, your specifications must maintain backward compatibility whenever possible. 
-This means not removing existing fields, or changing the meaning of values users depend upon.
+* in a later version of a specification   
+* as an extension to support a local use-case
 
-Where a breaking change is unavoidable, it should be clearly communicated in advance, for example by marking a field as being deprecated before later removing it.
+When you update a specification, make sure it still works for existing users whenever possible.
+Do not remove fields or change the meaning of values that people rely on.
 
-* <a href="https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle">Open-Closed principle</a>.
+If you must make a change that will stop things working for users, tell them well in advance.
+For example, mark a field as being ‘deprecated’ before you remove it in a future specification.
+
+[Learn about the open-closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle).
 
 ## 9. Some data is better than no data
 
-Start small with the simplest of needs, with the clearest needs for data, which can be quickly met using data collected from the smallest number of sources.
-Then work to improve data quality, coverage, and cover more use-cases over time through feedback loops.
+Start small. Meet the simplest and clearest needs first, using data from as few sources as possible.
+Then use feedback to improve quality and coverage, so that you meet more needs over time.
 
-This iterative approach gives the most immediate value to users, allowing you to test and prove a specification before committing to it as a standard.
+This gives users value sooner and lets you test a specification before you make it a standard.
 
-* [Iterate, then iterate again](https://www.gov.uk/guidance/government-design-principles#iterate-then-iterate-again)
+[Iterate, then iterate again](https://www.gov.uk/guidance/government-design-principles#iterate-then-iterate-again).
 
 ## 10. Show the benefits
 
-Planning data is a public good that increases in value the more people use it.
-To sustain the platform and justify the effort required to publish and maintain data
-We need to clearly show that value.
+The more people that use data, the more valuable it becomes.
+We need to show this value to justify the work of publishing the data and maintaining the platform.
 
-Standard web analytics do not show real-world use. Popularity is not the same as impact:
+Standard website analytics do not show real-world use, because popularity is not the same as impact.
+For example:
 
-* a user might download a dataset once and serve it downstream to millions of people
-* an automated script or AI agent might make hundreds of API calls without creating any public value
+* someone might download a dataset once and use it in a service that millions of people use  
+* an automated script or AI tool might make hundreds of API requests without creating any public benefit
 
-Measuring benefit requires getting closer to users to understand the decisions, services, and policies data simplifies or makes possible. 
-So when designing a dataset, you need to work with users to develop quantitative metrics on how the data is being used, and case studies which document the savings and benefits which arise from using the data, not just vainly measure hits and downloads.
+To measure benefit, work closely with users to understand which decisions, services and policies the data supports.
+When you design a dataset, agree measures with users and write case studies that show real results, not just website traffic.
 
-* [Value of Public Sector Data Estimate](https://www.gov.uk/government/publications/value-of-public-sector-data-estimate/value-of-public-sector-data-estimate)
-* [Design with data](https://www.gov.uk/guidance/government-design-principles#design-with-data)
+Find out more:
+
+* [value of public sector data estimate](https://www.gov.uk/government/publications/value-of-public-sector-data-estimate/value-of-public-sector-data-estimate)  
+* [design with data](https://www.gov.uk/guidance/government-design-principles#design-with-data)
+

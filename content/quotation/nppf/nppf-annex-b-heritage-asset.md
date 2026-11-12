@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-A building, monument, site, place, area or landscape identified as having a degree of significance meriting consideration in planning decisions, because of its heritage interest. It includes but is not limited to designated heritage assets and assets identified by the local planning authority (including local listing).
+A building, monument, site, place, area or landscape identified as having a degree of significance meriting consideration in planning decisions, because of its heritage interest. It includes but is not limited to designated heritage assets and assets identified by the [local planning authority][term:local-planning-authority] (including local listing).
+
+[term:local-planning-authority]: /term/local-planning-authority

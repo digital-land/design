@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[lease](term/lease)” includes an underlease and an agreement for a lease or underlease, but does not include an option to take a lease or a mortgage, and “leasehold interest” means the interest of the tenant under a lease as so defined;
+“[lease][term:lease]” includes an underlease and an agreement for a lease or underlease, but does not include an option to take a lease or a mortgage, and “leasehold interest” means the interest of the tenant under a lease as so defined;
+
+[term:lease]: /term/lease

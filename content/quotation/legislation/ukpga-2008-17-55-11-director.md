@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[director](term/director)”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate,
+“[director][term:director]”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate,
+
+[term:director]: /term/director

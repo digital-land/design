@@ -10,9 +10,12 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-“[unitary authority](term/unitary-authority)” means—
+“[unitary authority][term:unitary-authority]” means—
 
 - the council of a county, so far as it is the council of an area for which there are no district councils;
 - the council of any district comprised in an area for which there is no county council;
-- the council of a London borough;
+- the council of a [London borough][term:london-borough];
 - the council of a county borough in Wales.
+
+[term:london-borough]: /term/london-borough
+[term:unitary-authority]: /term/unitary-authority

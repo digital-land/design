@@ -10,7 +10,9 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[purchaser](term/purchaser)”, in relation to a residential property, means a person who has—
+“[purchaser][term:purchaser]”, in relation to a residential property, means a person who has—
 
 - made an offer to purchase it, or
 - purchased it,
+
+[term:purchaser]: /term/purchaser

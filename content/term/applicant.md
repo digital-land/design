@@ -11,5 +11,7 @@ entry-date: 2026-11-12
 
 “applicant” means—
 
-- an applicant for an order granting development consent or a person who proposes to apply for such an order; or
+- an applicant for an order granting [development consent][term:development-consent] or a person who proposes to apply for such an order; or
 - an applicant for subsequent consent or a person who proposes to make a subsequent application;
+
+[term:development-consent]: /term/development-consent

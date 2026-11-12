@@ -10,4 +10,6 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“[authorisation](term/authorisation)” means any approval, confirmation, consent, licence, permission or other authorisation (however described), whether special or general;
+“[authorisation][term:authorisation]” means any approval, confirmation, consent, licence, permission or other authorisation (however described), whether special or general;
+
+[term:authorisation]: /term/authorisation

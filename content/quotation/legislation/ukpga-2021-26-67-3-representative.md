@@ -10,7 +10,7 @@ start-date: 2021-06-10
 entry-date: 2026-11-12
 ---
 
-In this section, “[representative](term/representative)”, in relation to P, means—
+In this section, “[representative][term:representative]”, in relation to P, means—
 
 - (a) any of P's personal representatives;
 
@@ -21,3 +21,5 @@ In this section, “[representative](term/representative)”, in relation to P, 
 - (d) a trustee (or interim trustee) in a sequestration of P's estate under the Bankruptcy (Scotland) Act 2016;
 
 - (e) any other person acting in a representative capacity in relation to P (including under section 69).
+
+[term:representative]: /term/representative

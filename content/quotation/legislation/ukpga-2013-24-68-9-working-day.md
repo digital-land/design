@@ -10,7 +10,7 @@ start-date: 2013-04-25
 entry-date: 2026-11-12
 ---
 
-In subsection (7D), “**working day**” means a day other than—
+In subsection (7D), “**[working day][term:working-day]**” means a day other than—
 
 - (a) a Saturday or Sunday,
 
@@ -21,3 +21,5 @@ In subsection (7D), “**working day**” means a day other than—
  - (i) the part of the United Kingdom where the primary authority is, or
 
  - (ii) (if different) the part of the United Kingdom where the authority is that has given the notification referred to in subsection (7A)(a).
+
+[term:working-day]: /term/working-day

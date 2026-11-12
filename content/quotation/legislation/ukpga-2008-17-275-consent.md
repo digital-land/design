@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[consent](term/consent)” means written consent,
+“[consent][term:consent]” means written consent,
+
+[term:consent]: /term/consent

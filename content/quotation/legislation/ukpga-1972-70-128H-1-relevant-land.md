@@ -10,4 +10,7 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-“**relevant land**” means the land identified in the application for a statutory trust discharge order as the land relation to which the order is being sought;
+“**[relevant land][term:relevant-land]**” means [the land][term:the-land] identified in the application for a statutory trust discharge order as [the land][term:the-land] relation to which the order is being sought;
+
+[term:relevant-land]: /term/relevant-land
+[term:the-land]: /term/the-land

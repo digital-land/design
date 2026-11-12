@@ -9,4 +9,7 @@ terms:
 entry-date: 2026-11-12
 ---
 
-National Parks, National Landscapes, areas designated as rural under Section 157 of the Housing Act 1985, and other parishes or unparished areas with a population of 3,000 or less and a population density of two persons or less per hectare.
+National Parks, [National Landscapes][term:national-landscapes], areas designated as rural under Section 157 of the [Housing Act 1985][legislation:ukpga/1985/68], and other parishes or unparished areas with a population of 3,000 or less and a population density of two persons or less per hectare.
+
+[legislation:ukpga/1985/68]: /legislation/ukpga/1985/68
+[term:national-landscapes]: /term/national-landscapes

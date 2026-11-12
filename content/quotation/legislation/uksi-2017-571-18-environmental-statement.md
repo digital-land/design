@@ -10,7 +10,7 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-An environmental statement is a statement which includes at least—
+An [environmental statement][term:environmental-statement] is a statement which includes at least—
 
 - (a) a description of the proposed development comprising information on the site, design, size and other relevant features of the development;
 
@@ -23,3 +23,5 @@ An environmental statement is a statement which includes at least—
 - (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
 
 - (f) any additional information specified in Schedule 4 relevant to the specific characteristics of the particular development or type of development and to the environmental features likely to be significantly affected.
+
+[term:environmental-statement]: /term/environmental-statement

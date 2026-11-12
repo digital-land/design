@@ -10,4 +10,6 @@ start-date: 2004-05-13
 entry-date: 2026-11-12
 ---
 
-“**neighbourhood area**” has the meaning given by sections 61G and 61I(1) of the principal Act,
+“**[neighbourhood area][term:neighbourhood-area]**” has the meaning given by sections 61G and 61I(1) of the principal Act,
+
+[term:neighbourhood-area]: /term/neighbourhood-area

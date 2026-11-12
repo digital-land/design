@@ -10,4 +10,6 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[the Authority](term/the-authority)” means the Coal Authority;
+“[the Authority][term:the-authority]” means the Coal Authority;
+
+[term:the-authority]: /term/the-authority

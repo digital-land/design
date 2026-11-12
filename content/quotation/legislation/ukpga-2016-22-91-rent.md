@@ -10,4 +10,6 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[rent](term/rent)” includes payments under a licence to occupy;
+“[rent][term:rent]” includes payments under a licence to occupy;
+
+[term:rent]: /term/rent

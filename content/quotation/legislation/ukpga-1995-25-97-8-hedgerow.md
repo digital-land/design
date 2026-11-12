@@ -10,4 +10,6 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-“[hedgerow](term/hedgerow)” includes any stretch of hedgerow;
+“[hedgerow][term:hedgerow]” includes any stretch of hedgerow;
+
+[term:hedgerow]: /term/hedgerow

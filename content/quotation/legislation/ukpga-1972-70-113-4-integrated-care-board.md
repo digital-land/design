@@ -10,4 +10,6 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-In subsection (1A) above “Secretary of State” means the Secretary of State in relation to the exercise of functions under section 2A or 2B of, or paragraph 7C, 8 or 12 of Schedule 1 to, the National Health Service Act 2006, “Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006, “[integrated care board](term/integrated-care-board)” means a body established under section 14Z25 of the National Health Service Act 2006, and “NHS trust” means a National Health Service trust established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006 ....
+In subsection (1A) above “Secretary of State” means the Secretary of State in relation to the exercise of functions under section 2A or 2B of, or paragraph 7C, 8 or 12 of Schedule 1 to, the National Health Service Act 2006, “Local Health Board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006, “[integrated care board][term:integrated-care-board]” means a body established under section 14Z25 of the National Health Service Act 2006, and “NHS trust” means a National Health Service trust established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006 ....
+
+[term:integrated-care-board]: /term/integrated-care-board

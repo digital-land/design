@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[charity](term/charity)” means any body, corporate or not, established for charitable purposes;
+“[charity][term:charity]” means any body, corporate or not, established for charitable purposes;
+
+[term:charity]: /term/charity

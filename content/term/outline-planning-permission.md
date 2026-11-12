@@ -9,4 +9,8 @@ quotation: uksi-2015-595-2-1-outline-planning-permission
 entry-date: 2026-11-12
 ---
 
-“outline planning permission” means a planning permission for the erection of a building, which is granted subject to a condition requiring the subsequent approval of the local planning authority with respect to one or more reserved matters;
+“outline [planning permission][term:planning-permission]” means a [planning permission][term:planning-permission] for the erection of a building, which is granted subject to a condition requiring the subsequent approval of the [local planning authority][term:local-planning-authority] with respect to one or more [reserved matters][term:reserved-matters];
+
+[term:local-planning-authority]: /term/local-planning-authority
+[term:planning-permission]: /term/planning-permission
+[term:reserved-matters]: /term/reserved-matters

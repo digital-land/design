@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[the land](term/the-land)” means the land to which the proposed application relates or any part of that land;
+“[the land][term:the-land]” means [the land][term:the-land] to which the proposed application relates or any part of that land;
+
+[term:the-land]: /term/the-land

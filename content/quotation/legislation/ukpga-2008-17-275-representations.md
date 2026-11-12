@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[representations](term/representations)” means written representations,
+“[representations][term:representations]” means written representations,
+
+[term:representations]: /term/representations

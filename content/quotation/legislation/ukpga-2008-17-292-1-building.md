@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[building](term/building)” includes part of a building,
+“[building][term:building]” includes part of a building,
+
+[term:building]: /term/building

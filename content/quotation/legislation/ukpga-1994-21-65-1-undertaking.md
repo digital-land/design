@@ -10,4 +10,6 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[undertaking](term/undertaking)”, in relation to the Corporation, includes the undertakings of its wholly-owned subsidiaries.
+“[undertaking][term:undertaking]”, in relation to the Corporation, includes the undertakings of its wholly-owned subsidiaries.
+
+[term:undertaking]: /term/undertaking

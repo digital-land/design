@@ -10,4 +10,6 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-In subsection (1) “[tenant](term/tenant)” includes prospective tenant.
+In subsection (1) “[tenant][term:tenant]” includes prospective tenant.
+
+[term:tenant]: /term/tenant

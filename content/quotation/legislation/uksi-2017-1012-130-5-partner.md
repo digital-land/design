@@ -10,4 +10,6 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-“[partner](term/partner)” includes a person purporting to act as a partner.
+“[partner][term:partner]” includes a person purporting to act as a partner.
+
+[term:partner]: /term/partner

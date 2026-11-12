@@ -10,4 +10,6 @@ start-date: 1979-07-16
 entry-date: 2026-11-12
 ---
 
-In this Act “[scheduled monument](term/scheduled-monument)” means any monument which is for the time being included in the Schedule.
+In this Act “[scheduled monument][term:scheduled-monument]” means any monument which is for the time being included in the Schedule.
+
+[term:scheduled-monument]: /term/scheduled-monument

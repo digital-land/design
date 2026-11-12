@@ -10,4 +10,6 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-“[building](term/building)” includes structure;
+“[building][term:building]” includes structure;
+
+[term:building]: /term/building

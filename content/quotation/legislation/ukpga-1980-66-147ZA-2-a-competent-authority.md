@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[competent authority](term/competent-authority)” has the same meaning as in section 147 above,
+“[competent authority][term:competent-authority]” has the same meaning as in section 147 above,
+
+[term:competent-authority]: /term/competent-authority

@@ -10,7 +10,9 @@ start-date: 2026-03-25
 entry-date: 2026-11-12
 ---
 
-“[address](term/address)” means—
+“[address][term:address]” means—
 
 - a number or address used for the purposes of sending or receiving documents or information by electronic means;
 - a postal address;
+
+[term:address]: /term/address

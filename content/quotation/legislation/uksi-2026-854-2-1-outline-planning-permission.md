@@ -10,4 +10,7 @@ start-date: 2026-10-31
 entry-date: 2026-11-12
 ---
 
-“[outline planning permission](term/outline-planning-permission)” has the same meaning as in [DMPO](https://www.legislation.gov.uk/uksi/2015/595/contents) as it has effect when these Regulations come into force;
+“[outline planning permission][term:outline-planning-permission]” has the same meaning as in [DMPO][legislation:uksi/2015/595] as it has effect when these Regulations come into force;
+
+[legislation:uksi/2015/595]: /legislation/uksi/2015/595
+[term:outline-planning-permission]: /term/outline-planning-permission

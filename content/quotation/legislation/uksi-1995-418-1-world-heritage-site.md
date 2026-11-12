@@ -10,4 +10,6 @@ start-date: 1995-06-03
 entry-date: 2026-11-12
 ---
 
-“**World Heritage Site**” means a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage.
+“**[World Heritage Site][term:world-heritage-site]**” means a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage.
+
+[term:world-heritage-site]: /term/world-heritage-site

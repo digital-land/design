@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[Outline planning permission](term/outline-planning-permission)” has the meaning given by section 92(1).
+“[Outline planning permission][term:outline-planning-permission]” has the meaning given by section 92(1).
+
+[term:outline-planning-permission]: /term/outline-planning-permission

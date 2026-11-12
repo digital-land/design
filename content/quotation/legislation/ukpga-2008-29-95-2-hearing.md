@@ -10,7 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In this section “[hearing](term/hearing)” means—
+In this section “[hearing][term:hearing]” means—
 
 - (a) a preliminary meeting under section 88,
 
@@ -20,6 +20,9 @@ In this section “[hearing](term/hearing)” means—
 
 - (d) an open-floor hearing (see section 93),
 
-- (e) any other meeting or hearing that the Examining authority causes to be held for the purposes of the Examining authority's examination of the application, or
+- (e) any other meeting or hearing that the [Examining authority][term:examining-authority] causes to be held for the purposes of the [Examining authority][term:examining-authority]'s examination of the application, or
 
 - (f) a site visit.
+
+[term:examining-authority]: /term/examining-authority
+[term:hearing]: /term/hearing

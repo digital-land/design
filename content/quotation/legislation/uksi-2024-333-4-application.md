@@ -12,8 +12,10 @@ entry-date: 2026-11-12
 
 “**application**” means—
 
-- for the purposes of Part 2, an application for an order granting development consent;
+- for the purposes of Part 2, an application for an order granting [development consent][term:development-consent];
 - for the purposes of Part 3, an application or proposed application for—
 
- - an order granting development consent, or
- - an order to change or revoke such an order granting development consent.
+ - an order granting [development consent][term:development-consent], or
+ - an order to change or revoke such an order granting [development consent][term:development-consent].
+
+[term:development-consent]: /term/development-consent

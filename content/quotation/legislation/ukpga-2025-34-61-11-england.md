@@ -10,7 +10,9 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[England](term/england)” includes—
+“[England][term:england]” includes—
 
 - the waters adjacent to England up to the seaward limits of the territorial sea, and
 - the English offshore region;
+
+[term:england]: /term/england

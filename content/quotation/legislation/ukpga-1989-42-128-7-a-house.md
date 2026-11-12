@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[house](term/house)” means a dwelling which is not a flat (and,accordingly, does not include a house constructed as a house in multipleoccupation); and
+“[house][term:house]” means a dwelling which is not a flat (and,accordingly, does not include a house constructed as a house in multipleoccupation); and
+
+[term:house]: /term/house

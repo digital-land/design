@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-The process of maintaining and managing change to a heritage asset in a way that sustains, preserves and, where appropriate, enhances its significance.
+The process of maintaining and managing change to a [heritage asset][term:heritage-asset] in a way that sustains, preserves and, where appropriate, enhances its significance.
+
+[term:heritage-asset]: /term/heritage-asset

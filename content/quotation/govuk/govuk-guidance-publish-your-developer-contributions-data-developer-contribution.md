@@ -9,4 +9,8 @@ terms:
 entry-date: 2026-11-12
 ---
 
-Developer contributions include section 106 planning obligations, CIL, section 278 agreements and any agreements that either secure funding towards new development, or provide infrastructure as part of any new development.
+[Developer contributions][term:developer-contribution] include section 106 [planning obligations][term:planning-obligation], [CIL][abbreviation:cil], section 278 agreements and any agreements that either secure funding towards new development, or provide infrastructure as part of any new development.
+
+[abbreviation:cil]: /abbreviation/cil
+[term:developer-contribution]: /term/developer-contribution
+[term:planning-obligation]: /term/planning-obligation

@@ -9,4 +9,6 @@ quotation: ukpga-1990-8-336-l-government-department
 entry-date: 2026-11-12
 ---
 
-“government department” includes any Minister of the Crown;
+“government department” includes any Minister of [the Crown][term:the-crown];
+
+[term:the-crown]: /term/the-crown

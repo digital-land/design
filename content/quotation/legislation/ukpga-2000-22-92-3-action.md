@@ -10,4 +10,6 @@ start-date: 2000-07-28
 entry-date: 2026-11-12
 ---
 
-“[action](term/action)” includes failure to act,
+“[action][term:action]” includes failure to act,
+
+[term:action]: /term/action

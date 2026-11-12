@@ -10,8 +10,10 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-In this Part, “[competent authority](term/competent-authority)” means—
+In this Part, “[competent authority][term:competent-authority]” means—
 
 - (a) a person specified or described in Schedule 7, and
 
 - (b) any other person if and to the extent that the person has statutory functions for any of the law enforcement purposes.
+
+[term:competent-authority]: /term/competent-authority

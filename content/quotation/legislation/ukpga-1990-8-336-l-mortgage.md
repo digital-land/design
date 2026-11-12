@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[mortgage](term/mortgage)” includes any charge or lien on any property for securing money or money’s worth;
+“[mortgage][term:mortgage]” includes any charge or lien on any property for securing money or money’s worth;
+
+[term:mortgage]: /term/mortgage

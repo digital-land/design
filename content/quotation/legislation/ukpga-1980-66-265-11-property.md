@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[property](term/property)” includes property, rights and powers of every description.
+“[property][term:property]” includes property, rights and powers of every description.
+
+[term:property]: /term/property

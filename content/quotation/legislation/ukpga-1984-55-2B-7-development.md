@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“**development**” has the same meaning as in the Town and Country Planning Act 1990 (see section 55 of that Act);
+“**development**” has the same meaning as in the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] (see section 55 of that Act);
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8

@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-Refers to National Parks, the Norfolk and Suffolk Broads and National Landscapes in England.
+Refers to National Parks, the Norfolk and Suffolk Broads and [National Landscapes][term:national-landscapes] in England.
+
+[term:national-landscapes]: /term/national-landscapes

@@ -9,4 +9,7 @@ quotation: uksi-2015-595-2-1-site
 entry-date: 2026-11-12
 ---
 
-“access”, in relation to reserved matters, means the accessibility to and within the site, for vehicles, cycles and pedestrians in terms of the positioning and treatment of access and circulation routes and how these fit into the surrounding access network; where “site” means the site or part of the site in respect of which outline planning permission is granted or, as the case may be, in respect of which an application for such a permission has been made;
+“access”, in relation to [reserved matters][term:reserved-matters], means the accessibility to and within the site, for vehicles, cycles and pedestrians in terms of the positioning and treatment of access and circulation routes and how these fit into the surrounding access network; where “site” means the site or part of the site in respect of which [outline planning permission][term:outline-planning-permission] is granted or, as the case may be, in respect of which an application for such a permission has been made;
+
+[term:outline-planning-permission]: /term/outline-planning-permission
+[term:reserved-matters]: /term/reserved-matters

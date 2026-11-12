@@ -10,10 +10,13 @@ start-date: 2026-03-25
 entry-date: 2026-11-12
 ---
 
-“[unitary authority](term/unitary-authority)” means—
+“[unitary authority][term:unitary-authority]” means—
 
 - the council of a county for which there are no district councils;
 - the council of a district in an area for which there is no county council;
-- the council of a London borough;
+- the council of a [London borough][term:london-borough];
 - the Common Council of the City of London;
 - the Council of the Isles of Scilly.
+
+[term:london-borough]: /term/london-borough
+[term:unitary-authority]: /term/unitary-authority

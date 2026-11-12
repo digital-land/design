@@ -10,8 +10,10 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In subsections (2) to (3) “[the land](term/the-land)” means—
+In subsections (2) to (3) “[the land][term:the-land]” means—
 
-- (a) the land to which the application, or proposed application, relates, or
+- (a) [the land][term:the-land] to which the application, or proposed application, relates, or
 
 - (b) any part of that land.
+
+[term:the-land]: /term/the-land

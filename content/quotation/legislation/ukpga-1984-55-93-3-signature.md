@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-In subsection (2) above, “[signature](term/signature)” includes a facsimile of a signature by whatever process reproduced.
+In subsection (2) above, “[signature][term:signature]” includes a facsimile of a signature by whatever process reproduced.
+
+[term:signature]: /term/signature

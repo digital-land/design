@@ -9,4 +9,9 @@ terms:
 entry-date: 2026-11-12
 ---
 
-All international sites (Special Areas of Conservation, Special Protection Areas, and Ramsar sites), national sites (Sites of Special Scientific Interest) and locally designated sites including Local Wildlife Sites.
+All international sites ([Special Areas of Conservation][term:special-areas-of-conservation], [Special Protection Areas][term:special-protection-areas], and [Ramsar sites][term:ramsar-sites]), national sites (Sites of Special Scientific Interest) and locally designated sites including [Local Wildlife Sites][term:local-wildlife-sites].
+
+[term:local-wildlife-sites]: /term/local-wildlife-sites
+[term:ramsar-sites]: /term/ramsar-sites
+[term:special-areas-of-conservation]: /term/special-areas-of-conservation
+[term:special-protection-areas]: /term/special-protection-areas

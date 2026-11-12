@@ -10,4 +10,8 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[conservation area](term/conservation-area)” means an area designated under section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990 or section 158 of the Historic Environment (Wales) Act 2023;
+“[conservation area][term:conservation-area]” means an area designated under section 69 of the [Planning (Listed Buildings and Conservation Areas) Act 1990][legislation:ukpga/1990/9] or section 158 of the [Historic Environment][term:historic-environment] (Wales) Act 2023;
+
+[legislation:ukpga/1990/9]: /legislation/ukpga/1990/9
+[term:conservation-area]: /term/conservation-area
+[term:historic-environment]: /term/historic-environment

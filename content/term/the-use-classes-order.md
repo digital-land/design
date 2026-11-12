@@ -9,4 +9,6 @@ quotation: uksi-2015-596-2-1-the-use-classes-order
 entry-date: 2026-11-12
 ---
 
-“the Use Classes Order” means the Town and Country Planning (Use Classes) Order 1987 ; and
+“the Use Classes Order” means the [Town and Country Planning (Use Classes) Order 1987][legislation:uksi/1987/764] ; and
+
+[legislation:uksi/1987/764]: /legislation/uksi/1987/764

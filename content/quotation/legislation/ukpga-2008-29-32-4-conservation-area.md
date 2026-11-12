@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[conservation area](term/conservation-area)” has the meaning given by section 91(1) of the Listed Buildings Act;
+“[conservation area][term:conservation-area]” has the meaning given by section 91(1) of the Listed Buildings Act;
+
+[term:conservation-area]: /term/conservation-area

@@ -10,8 +10,15 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-Where a statement, referred to as an “**environmental statement**” for the purposes of these Regulations, has been prepared in relation to EIA development for which a local planning authority proposes to grant planning permission by a local development order, the local planning authority must—
+Where a statement, referred to as an “**[environmental statement][term:environmental-statement]**” for the purposes of these Regulations, has been prepared in relation to [EIA development][term:eia-development] for which a [local planning authority][term:local-planning-authority] proposes to grant [planning permission][term:planning-permission] by a [local development order][term:local-development-order], the [local planning authority][term:local-planning-authority] must—
 
 - (a) send a copy of the statement to the consultation bodies and inform them that they may make representations; and
 
-- (b) notify any particular person of whom the authority is aware, who is likely to be affected by, or has an interest in, the application, who is unlikely to become aware of it by means of a site notice or by local advertisement, of an address in the locality in which the land is situated where a copy of the statement may be obtained and the address to which representations may be sent.
+- (b) notify any particular person of whom the authority is aware, who is likely to be affected by, or has an interest in, the application, who is unlikely to become aware of it by means of a site notice or by local advertisement, of an address in the locality in which [the land][term:the-land] is situated where a copy of the statement may be obtained and the address to which representations may be sent.
+
+[term:eia-development]: /term/eia-development
+[term:environmental-statement]: /term/environmental-statement
+[term:local-development-order]: /term/local-development-order
+[term:local-planning-authority]: /term/local-planning-authority
+[term:planning-permission]: /term/planning-permission
+[term:the-land]: /term/the-land

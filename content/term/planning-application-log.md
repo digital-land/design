@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-The stages a planning application has gone through
+The stages a [planning application][term:planning-application] has gone through
+
+[term:planning-application]: /term/planning-application

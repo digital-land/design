@@ -10,8 +10,11 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[application](term/application)” means an application for development consent under section 37 (application for orders granting development consent) and includes—
+“[application][term:application]” means an application for [development consent][term:development-consent] under section 37 (application for orders granting [development consent][term:development-consent]) and includes—
 
 - part of an application;
 - any accompanying documents and further representations made by the applicant; and
 - any amendments made to the application;
+
+[term:application]: /term/application
+[term:development-consent]: /term/development-consent

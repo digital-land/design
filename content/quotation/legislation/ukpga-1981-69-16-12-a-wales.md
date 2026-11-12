@@ -10,4 +10,6 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[Wales](term/wales)” has the meaning given by section 158 of the Government of Wales Act 2006.
+“[Wales][term:wales]” has the meaning given by section 158 of the Government of Wales Act 2006.
+
+[term:wales]: /term/wales

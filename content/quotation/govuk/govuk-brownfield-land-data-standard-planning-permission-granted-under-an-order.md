@@ -9,4 +9,9 @@ terms:
 entry-date: 2026-11-12
 ---
 
-‘Planning permission granted under an order’ means planning permission granted under a local development order, a mayoral development order or a neighbourhood development order.
+‘[Planning permission granted under an order][term:planning-permission-granted-under-an-order]’ means [planning permission][term:planning-permission] granted under a [local development order][term:local-development-order], a mayoral development order or a [neighbourhood development order][term:neighbourhood-development-order].
+
+[term:local-development-order]: /term/local-development-order
+[term:neighbourhood-development-order]: /term/neighbourhood-development-order
+[term:planning-permission]: /term/planning-permission
+[term:planning-permission-granted-under-an-order]: /term/planning-permission-granted-under-an-order

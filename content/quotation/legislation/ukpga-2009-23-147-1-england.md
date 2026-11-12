@@ -10,4 +10,6 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“[England](term/england)” includes the English inshore region;
+“[England][term:england]” includes the English inshore region;
+
+[term:england]: /term/england

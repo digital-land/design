@@ -10,7 +10,9 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[the court](term/the-court)” means—
+“[the court][term:the-court]” means—
 
 - the High Court, or
 - the county court;
+
+[term:the-court]: /term/the-court

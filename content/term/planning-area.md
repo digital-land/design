@@ -14,7 +14,7 @@ entry-date: 2026-11-12
 - the area of—
 
  - a district council (including a metropolitan district council),
- - a London borough council, or
+ - a [London borough][term:london-borough] council, or
  - a county council in England for an area for which there is no district council,
 
  but only so far as that area is neither in a National Park nor in the Broads,
@@ -22,3 +22,5 @@ entry-date: 2026-11-12
 - the Broads,
 - the English inshore region, or
 - the English offshore region, and
+
+[term:london-borough]: /term/london-borough

@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-The set of changes to permitted development rights affecting an article 4 direction area
+The set of changes to permitted development rights affecting an [article 4 direction area][term:article-4-direction-area]
+
+[term:article-4-direction-area]: /term/article-4-direction-area

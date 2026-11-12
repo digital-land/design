@@ -10,12 +10,15 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-In this Part “[environmental protection](term/environmental-protection)” means—
+In this Part “[environmental protection][term:environmental-protection]” means—
 
-- (a) protection of the natural environment from the effects of human activity;
+- (a) protection of the [natural environment][term:natural-environment] from the effects of human activity;
 
-- (b) protection of people from the effects of human activity on the natural environment;
+- (b) protection of people from the effects of human activity on the [natural environment][term:natural-environment];
 
-- (c) maintenance, restoration or enhancement of the natural environment;
+- (c) maintenance, restoration or enhancement of the [natural environment][term:natural-environment];
 
 - (d) monitoring, assessing, considering, advising or reporting on anything in paragraphs [(a)](http://www.legislation.gov.uk/ukpga/2021/30/section/45/a) to [(c)](http://www.legislation.gov.uk/ukpga/2021/30/section/45/c).
+
+[term:environmental-protection]: /term/environmental-protection
+[term:natural-environment]: /term/natural-environment

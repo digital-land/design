@@ -10,4 +10,6 @@ start-date: 2015-04-15
 entry-date: 2026-11-12
 ---
 
-“[designated area](term/designated-area)” means—
+“[designated area][term:designated-area]” means—
+
+[term:designated-area]: /term/designated-area

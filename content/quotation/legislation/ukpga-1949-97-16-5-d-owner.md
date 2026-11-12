@@ -10,4 +10,6 @@ start-date: 1949-12-16
 entry-date: 2026-11-12
 ---
 
-the expression “[owner](term/owner)” includes any person empowered under this subsection to enter into agreements relating to land;
+the expression “[owner][term:owner]” includes any person empowered under this subsection to enter into agreements relating to land;
+
+[term:owner]: /term/owner

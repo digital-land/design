@@ -10,4 +10,7 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“ Ramsar site ” has the same meaning as in section 37A of the Wildlife and Countryside Act 1981 (c. 69);
+“ [Ramsar site][term:ramsar-site] ” has the same meaning as in section 37A of the [Wildlife and Countryside Act 1981][legislation:ukpga/1981/69] (c. 69);
+
+[legislation:ukpga/1981/69]: /legislation/ukpga/1981/69
+[term:ramsar-site]: /term/ramsar-site

@@ -10,7 +10,10 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-“[marine licence](term/marine-licence)” means—
+“[marine licence][term:marine-licence]” means—
 
 - a licence under Part 2 of the Food and Environment Protection Act 1985; or
-- a marine licence under Part 4 of the Marine and Coastal Access Act 2009;
+- a [marine licence][term:marine-licence] under Part 4 of the [Marine and Coastal Access Act 2009][legislation:ukpga/2009/23];
+
+[legislation:ukpga/2009/23]: /legislation/ukpga/2009/23
+[term:marine-licence]: /term/marine-licence

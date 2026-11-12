@@ -10,4 +10,6 @@ start-date: 2015-04-15
 entry-date: 2026-11-12
 ---
 
-“**National Planning Policy Framework**” means the National Planning Policy Framework issued by the Ministry of Housing, Communities and Local Government in August 2026;
+“**[National Planning Policy Framework][term:national-planning-policy-framework]**” means the [National Planning Policy Framework][term:national-planning-policy-framework] issued by the Ministry of Housing, Communities and Local Government in August 2026;
+
+[term:national-planning-policy-framework]: /term/national-planning-policy-framework

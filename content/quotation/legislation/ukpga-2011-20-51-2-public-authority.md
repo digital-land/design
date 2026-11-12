@@ -10,8 +10,10 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“[Public authority](term/public-authority)” means—
+“[Public authority][term:public-authority]” means—
 
 - (a) a local authority to which subsection (3) applies; or
 
 - (b) any other person or body which has any non-devolved functions.
+
+[term:public-authority]: /term/public-authority

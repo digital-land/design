@@ -10,8 +10,11 @@ start-date: 2000-11-30
 entry-date: 2026-11-12
 ---
 
-In this section “[relevant local authority](term/relevant-local-authority)” means—
+In this section “[relevant local authority][term:relevant-local-authority]” means—
 
-- (a) in the case of an area of outstanding natural beauty which is wholly comprised in one principal area, the local authority for that area, and
+- (a) in the case of an [area of outstanding natural beauty][term:area-of-outstanding-natural-beauty] which is wholly comprised in one principal area, the local authority for that area, and
 
-- (b) in any other case, the local authorities for all the principal areas wholly or partly comprised in the area of outstanding natural beauty, acting jointly.
+- (b) in any other case, the local authorities for all the principal areas wholly or partly comprised in the [area of outstanding natural beauty][term:area-of-outstanding-natural-beauty], acting jointly.
+
+[term:area-of-outstanding-natural-beauty]: /term/area-of-outstanding-natural-beauty
+[term:relevant-local-authority]: /term/relevant-local-authority

@@ -10,4 +10,6 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[Consent](term/consent)”, in relation to the processing of personal data relating to an individual, means a freely given, specific, informed and unambiguous indication of the individual's wishes by which the individual, by a statement or by a clear affirmative action, signifies agreement to the processing of the personal data.
+“[Consent][term:consent]”, in relation to the processing of personal data relating to an individual, means a freely given, specific, informed and unambiguous indication of the individual's wishes by which the individual, by a statement or by a clear affirmative action, signifies agreement to the processing of the personal data.
+
+[term:consent]: /term/consent

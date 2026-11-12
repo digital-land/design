@@ -10,4 +10,6 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-“[landfill](term/landfill)” has the meaning given in Article 2(g) of the Landfill Directive, but does not include any operation excluded from the scope of that Directive by Article 3(2) or (3);
+“[landfill][term:landfill]” has the meaning given in Article 2(g) of the Landfill Directive, but does not include any operation excluded from the scope of that Directive by Article 3(2) or (3);
+
+[term:landfill]: /term/landfill

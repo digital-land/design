@@ -25,8 +25,8 @@ def entries(text):
         if m:
             cur = [m.group(1).strip(), [m.group(2)]]
             out.append(cur)
-        elif cur and line.startswith(("## ", "# ")):
-            cur = None
+        elif cur and (line.startswith(("## ", "# ")) or line.startswith("**This is Annex")):
+            cur = None  # the page footer, after the last entry
         elif cur:
             cur[1].append(line)
     return [(n, "\n".join(b).strip()) for n, b in out]

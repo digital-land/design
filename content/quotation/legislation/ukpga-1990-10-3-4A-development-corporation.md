@@ -10,4 +10,6 @@ start-date: 1992-06-01
 entry-date: 2026-11-12
 ---
 
-In subsection (4), “**development corporation**” means an urban development corporation, a development corporation established under section 3 of the New Towns Act 1981 or a Mayoral development corporation.
+In subsection (4), “**[development corporation][term:development-corporation]**” means an urban [development corporation][term:development-corporation], a [development corporation][term:development-corporation] established under section 3 of the New Towns Act 1981 or a Mayoral development corporation.
+
+[term:development-corporation]: /term/development-corporation

@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-A legal agreement entered into under section 106 of the Town and Country Planning Act 1990 to mitigate the impacts of a development proposal.
+A legal agreement entered into under section 106 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] to mitigate the impacts of a development proposal.
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8

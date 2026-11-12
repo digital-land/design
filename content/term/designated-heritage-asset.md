@@ -8,4 +8,9 @@ quotation: nppf-annex-b-designated-heritage-asset
 entry-date: 2026-11-12
 ---
 
-A World Heritage Site, Scheduled Monument, Listed Building, Protected Wreck Site, Registered Park and Garden, Registered Battlefield or Conservation Area designated under the relevant legislation or the UNESCO World Heritage Convention.
+A [World Heritage Site][term:world-heritage-site], [Scheduled Monument][term:scheduled-monument], [Listed Building][term:listed-building], Protected Wreck Site, Registered Park and Garden, Registered Battlefield or [Conservation Area][term:conservation-area] designated under the relevant legislation or the UNESCO World Heritage Convention.
+
+[term:conservation-area]: /term/conservation-area
+[term:listed-building]: /term/listed-building
+[term:scheduled-monument]: /term/scheduled-monument
+[term:world-heritage-site]: /term/world-heritage-site

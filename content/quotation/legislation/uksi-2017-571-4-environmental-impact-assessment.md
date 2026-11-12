@@ -10,10 +10,14 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-The environmental impact assessment (“EIA”) is a process consisting of—
+The environmental impact assessment (“[EIA][abbreviation:eia]”) is a process consisting of—
 
-- (a) the preparation of an environmental statement;
+- (a) the preparation of an [environmental statement][term:environmental-statement];
 
-- (b) any consultation, publication and notification required by, or by virtue of, these Regulations or any other enactment in respect of EIA development; and
+- (b) any consultation, publication and notification required by, or by virtue of, these Regulations or any other enactment in respect of [EIA development][term:eia-development]; and
 
 - (c) the steps required under regulation 26.
+
+[abbreviation:eia]: /abbreviation/eia
+[term:eia-development]: /term/eia-development
+[term:environmental-statement]: /term/environmental-statement

@@ -9,4 +9,6 @@ quotation: ukpga-2025-34-43-1-listed-building-consent
 entry-date: 2026-11-12
 ---
 
-“listed building consent” means consent under section 8 of the Listed Buildings Act (listed building consent in England);
+“[listed building][term:listed-building] consent” means consent under section 8 of the Listed Buildings Act ([listed building][term:listed-building] consent in England);
+
+[term:listed-building]: /term/listed-building

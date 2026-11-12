@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[street](term/street)” includes a highway, including a highway over a bridge, and a road, lane, footway, square, court, alley or passage, whether a thoroughfare or not;
+“[street][term:street]” includes a highway, including a highway over a bridge, and a road, lane, footway, square, court, alley or passage, whether a thoroughfare or not;
+
+[term:street]: /term/street

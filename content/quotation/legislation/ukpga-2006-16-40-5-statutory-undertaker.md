@@ -12,5 +12,7 @@ entry-date: 2026-11-12
 
 “**statutory undertaker**” means a person—
 
-- who is or is deemed to be a statutory undertaker for the purposes of Part 11 of the Town and Country Planning Act 1990, or
+- who is or is deemed to be a statutory undertaker for the purposes of Part 11 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8], or
 - who holds a gas system planner licence under section 7AA of the Gas Act [1986 (c. 44)](http://www.legislation.gov.uk/id/ukpga/1986/44).
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8

@@ -8,4 +8,6 @@ quotation: nppf-annex-b-local-nature-reserves
 entry-date: 2026-11-12
 ---
 
-A site managed as a nature reserve under s.21 of the National Parks and Access to the Countryside Act 1949 by principal local authorities.
+A site managed as a nature reserve under s.21 of the [National Parks and Access to the Countryside Act 1949][legislation:ukpga/1949/97] by principal local authorities.
+
+[legislation:ukpga/1949/97]: /legislation/ukpga/1949/97

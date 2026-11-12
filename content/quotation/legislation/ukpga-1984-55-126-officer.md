@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[officer](term/officer)” includes servant;
+“[officer][term:officer]” includes servant;
+
+[term:officer]: /term/officer

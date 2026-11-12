@@ -26,4 +26,6 @@ This section applies to every notifiable land transaction other than a transacti
 
 - (d) under paragraph 13 (increase of rent) or 15A (reduction of rent or term) of that Schedule.
 
-In this subsection “[contract](term/contract)” includes any agreement and “conveyance” includes any instrument.
+In this subsection “[contract][term:contract]” includes any agreement and “conveyance” includes any instrument.
+
+[term:contract]: /term/contract

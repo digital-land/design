@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[European site](term/european-site)” has the meaning given by regulation 8 (European sites and European marine sites);
+“[European site][term:european-site]” has the meaning given by regulation 8 (European sites and European marine sites);
+
+[term:european-site]: /term/european-site

@@ -10,8 +10,11 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-In [subsection (4)](http://www.legislation.gov.uk/ukpga/2023/55/section/143/4)[(g)](http://www.legislation.gov.uk/ukpga/2023/55/section/143/4/g) “[affordable housing](term/affordable-housing)” means—
+In [subsection (4)](http://www.legislation.gov.uk/ukpga/2023/55/section/143/4)[(g)](http://www.legislation.gov.uk/ukpga/2023/55/section/143/4/g) “[affordable housing][term:affordable-housing]” means—
 
-- (a) social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, and
+- (a) social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17], and
 
 - (b) any other description of housing that CLA regulations may specify.
+
+[legislation:ukpga/2008/17]: /legislation/ukpga/2008/17
+[term:affordable-housing]: /term/affordable-housing

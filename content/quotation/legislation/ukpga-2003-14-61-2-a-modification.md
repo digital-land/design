@@ -10,4 +10,7 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-“[modification](term/modification)” of a planning obligation means modification as mentioned in section 106A(1) of that Act;
+“[modification][term:modification]” of a [planning obligation][term:planning-obligation] means modification as mentioned in section 106A(1) of that Act;
+
+[term:modification]: /term/modification
+[term:planning-obligation]: /term/planning-obligation

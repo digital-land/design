@@ -10,4 +10,6 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“**competent authority**” has the same meaning as in Part 3;
+“**[competent authority][term:competent-authority]**” has the same meaning as in Part 3;
+
+[term:competent-authority]: /term/competent-authority

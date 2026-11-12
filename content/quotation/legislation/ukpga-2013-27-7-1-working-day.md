@@ -10,4 +10,6 @@ start-date: 2013-04-25
 entry-date: 2026-11-12
 ---
 
-In this subsection, “**working day**” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+In this subsection, “**[working day][term:working-day]**” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+[term:working-day]: /term/working-day

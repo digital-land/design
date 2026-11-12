@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-Measures net homes delivered in a local authority area against the homes required, using national statistics and local authority data. The Secretary of State will publish the Housing Delivery Test results for each local authority in England annually.
+Measures net homes delivered in a local authority area against the homes required, using national statistics and local authority data. The Secretary of State will publish the [Housing Delivery Test][term:housing-delivery-test] results for each local authority in England annually.
+
+[term:housing-delivery-test]: /term/housing-delivery-test

@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-Areas of Greater London where there is significant known archaeological interest or potential for new discoveries
+Areas of Greater London where there is significant known [archaeological interest][term:archaeological-interest] or potential for new discoveries
+
+[term:archaeological-interest]: /term/archaeological-interest

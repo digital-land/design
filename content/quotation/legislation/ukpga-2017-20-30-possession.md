@@ -10,4 +10,6 @@ start-date: 2017-04-27
 entry-date: 2026-11-12
 ---
 
-“[possession](term/possession)” means exclusive occupation;
+“[possession][term:possession]” means exclusive occupation;
+
+[term:possession]: /term/possession

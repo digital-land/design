@@ -10,4 +10,7 @@ start-date: 2015-04-15
 entry-date: 2026-11-12
 ---
 
-“**supplementary plan**” has the meaning given in section 15LH of the Planning and Compulsory Purchase Act 2004;
+“**[supplementary plan][term:supplementary-plan]**” has the meaning given in section 15LH of the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5];
+
+[legislation:ukpga/2004/5]: /legislation/ukpga/2004/5
+[term:supplementary-plan]: /term/supplementary-plan

@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[erection](term/erection)”, in relation to buildings as defined in this subsection, includes extension, alteration and re-erection;
+“[erection][term:erection]”, in relation to buildings as defined in this subsection, includes extension, alteration and re-erection;
+
+[term:erection]: /term/erection

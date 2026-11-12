@@ -10,4 +10,7 @@ start-date: 2012-04-06
 entry-date: 2026-11-12
 ---
 
-“[the Act](term/the-act)” means the Planning and Compulsory Purchase Act 2004;
+“[the Act][term:the-act]” means the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5];
+
+[legislation:ukpga/2004/5]: /legislation/ukpga/2004/5
+[term:the-act]: /term/the-act

@@ -10,4 +10,6 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+“**[working day][term:working-day]**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
+
+[term:working-day]: /term/working-day

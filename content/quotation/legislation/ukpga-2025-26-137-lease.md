@@ -10,4 +10,6 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[lease](term/lease)” includes any tenancy;
+“[lease][term:lease]” includes any tenancy;
+
+[term:lease]: /term/lease

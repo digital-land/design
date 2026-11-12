@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[maintenance](term/maintenance)” includes repair, and “maintain” and “maintainable” are to be construed accordingly;
+“[maintenance][term:maintenance]” includes repair, and “maintain” and “maintainable” are to be construed accordingly;
+
+[term:maintenance]: /term/maintenance

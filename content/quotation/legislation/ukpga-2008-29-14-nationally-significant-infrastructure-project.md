@@ -10,7 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In this Act “nationally significant infrastructure project” means a project which consists of any of the following—
+In this Act “[nationally significant infrastructure project][term:nationally-significant-infrastructure-project]” means a project which consists of any of the following—
 
 - (a) the construction or extension of a generating station;
 
@@ -47,3 +47,5 @@ In this Act “nationally significant infrastructure project” means a project 
 - (p) the construction or alteration of a hazardous waste facility ;
 
 - (q) development relating to a radioactive waste geological disposal facility.
+
+[term:nationally-significant-infrastructure-project]: /term/nationally-significant-infrastructure-project

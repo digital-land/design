@@ -10,4 +10,6 @@ start-date: 2013-04-25
 entry-date: 2026-11-12
 ---
 
-“[amend](term/amend)” includes repeal or revoke;
+“[amend][term:amend]” includes repeal or revoke;
+
+[term:amend]: /term/amend

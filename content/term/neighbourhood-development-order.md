@@ -9,4 +9,6 @@ quotation: uksi-2017-571-2-1-neighbourhood-development-order
 entry-date: 2026-11-12
 ---
 
-“neighbourhood development order” means a neighbourhood development order made pursuant to section 61E (Neighbourhood development orders) of the Act;
+“neighbourhood development order” means a neighbourhood development order made pursuant to section 61E (Neighbourhood development orders) of [the Act][term:the-act];
+
+[term:the-act]: /term/the-act

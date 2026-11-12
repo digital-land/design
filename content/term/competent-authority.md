@@ -11,7 +11,7 @@ entry-date: 2026-11-12
 
 In these Regulations, “competent authority” means—
 
-- (a) a Minister of the Crown, government department, public or statutory undertaker, or public body of any description or person holding a public office;
+- (a) a Minister of [the Crown][term:the-crown], [government department][term:government-department], public or statutory undertaker, or public body of any description or person holding a public office;
 
 - (b) the Scottish Ministers;
 
@@ -20,3 +20,6 @@ In these Regulations, “competent authority” means—
 - (d) any Northern Ireland department; and
 
 - (e) any person exercising any function of a person or body referred to in sub-paragraphs (a) to (d).
+
+[term:government-department]: /term/government-department
+[term:the-crown]: /term/the-crown

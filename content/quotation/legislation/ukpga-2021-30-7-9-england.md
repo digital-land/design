@@ -10,10 +10,13 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-In this section “[England](term/england)” includes—
+In this section “[England][term:england]” includes—
 
 - (a) the English inshore region, and
 
 - (b) the English offshore region,
 
-within the meaning of the Marine and Coastal Access Act 2009 (see section 322 of that Act).
+within the meaning of the [Marine and Coastal Access Act 2009][legislation:ukpga/2009/23] (see section 322 of that Act).
+
+[legislation:ukpga/2009/23]: /legislation/ukpga/2009/23
+[term:england]: /term/england

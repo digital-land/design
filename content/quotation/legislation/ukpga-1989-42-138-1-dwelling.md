@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[dwelling](term/dwelling)” means a building or part of a building occupiedor intended to be occupied as a separate dwelling, together with any yard,garden, outhouses and appurtenances belonging to it or usually enjoyed withit;
+“[dwelling][term:dwelling]” means a building or part of a building occupiedor intended to be occupied as a separate dwelling, together with any yard,garden, outhouses and appurtenances belonging to it or usually enjoyed withit;
+
+[term:dwelling]: /term/dwelling

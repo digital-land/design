@@ -10,10 +10,13 @@ start-date: 2015-04-15
 entry-date: 2026-11-12
 ---
 
-“[reserved matters](term/reserved-matters)” in relation to an outline planning permission, or an application for such permission, means any of the following matters in respect of which details have not been given in the application—
+“[reserved matters][term:reserved-matters]” in relation to an [outline planning permission][term:outline-planning-permission], or an application for such permission, means any of the following matters in respect of which details have not been given in the application—
 
 - access;
 - appearance;
 - landscaping;
 - layout; and
 - scale;
+
+[term:outline-planning-permission]: /term/outline-planning-permission
+[term:reserved-matters]: /term/reserved-matters

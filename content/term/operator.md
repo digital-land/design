@@ -13,9 +13,11 @@ entry-date: 2026-11-12
 
 - the person—
 
- - carrying out operations on the land consisting of the winning and working of minerals;
- - using the land for the deposit of mineral waste;
- - carrying out operations on the land for the purposes of, or using the land as, a waste disposal site for the deposit of waste onto or into the land; or
+ - carrying out operations on [the land][term:the-land] consisting of the winning and working of minerals;
+ - using [the land][term:the-land] for the deposit of mineral waste;
+ - carrying out operations on [the land][term:the-land] for the purposes of, or using the land as, a waste disposal site for the deposit of waste onto or into the land; or
  - carrying out on the land other works to which a condition attached to a mineral permission or landfill permission relates;
 - where there is more than one person carrying out the operations, works or using the land in a way described in sub-paragraph (a), the person in overall control of the mining site, landfill site or, where a site is both a mining site and a landfill site, the mining site and the landfill site, as the case may be; or
 - where there is no person who falls within the description in sub-paragraph (a) or (b), the owner of the site; and
+
+[term:the-land]: /term/the-land

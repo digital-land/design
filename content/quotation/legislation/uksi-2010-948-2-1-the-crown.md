@@ -10,7 +10,7 @@ start-date: 2010-04-06
 entry-date: 2026-11-12
 ---
 
-“**the Crown**” includes—
+“**[the Crown][term:the-crown]**” includes—
 
 - the Duchy of Lancaster,
 - the Duchy of Cornwall,
@@ -18,3 +18,5 @@ entry-date: 2026-11-12
 - the Speaker of the House of Commons,
 - the Corporate Officer of the House of Lords, and
 - the Corporate Officer of the House of Commons; and
+
+[term:the-crown]: /term/the-crown

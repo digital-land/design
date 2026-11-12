@@ -10,4 +10,7 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[planning permission](term/planning-permission)” means permission under Part III or section 293A Parts 3 or 13, . . . but does not include permission in principle;
+“[planning permission][term:planning-permission]” means permission under Part III or section 293A Parts 3 or 13, . . . but does not include [permission in principle][term:permission-in-principle];
+
+[term:permission-in-principle]: /term/permission-in-principle
+[term:planning-permission]: /term/planning-permission

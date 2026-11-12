@@ -10,7 +10,7 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[Project](term/project)” means a project in the United Kingdom , a relevant offshore area or, where subsection (10) applies, an area beyond national jurisdiction involving—
+“[Project][term:project]” means a project in the United Kingdom , a relevant offshore area or, where subsection (10) applies, an area beyond national jurisdiction involving—
 
 - (a) construction, engineering, demolition, dismantling or decommissioning,
 
@@ -20,4 +20,7 @@ entry-date: 2026-11-12
 
 - (d) a change in the use of land, a building or other structure, or
 
-- (e) any other activity capable of affecting the natural environment, cultural heritage or landscape.
+- (e) any other activity capable of affecting the [natural environment][term:natural-environment], cultural heritage or landscape.
+
+[term:natural-environment]: /term/natural-environment
+[term:project]: /term/project

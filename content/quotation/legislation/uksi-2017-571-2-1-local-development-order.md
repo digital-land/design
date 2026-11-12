@@ -10,4 +10,7 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-“[local development order](term/local-development-order)” means a local development order made pursuant to section 61A (Local development orders) of the Act;
+“[local development order][term:local-development-order]” means a [local development order][term:local-development-order] made pursuant to section 61A (Local development orders) of [the Act][term:the-act];
+
+[term:local-development-order]: /term/local-development-order
+[term:the-act]: /term/the-act

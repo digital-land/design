@@ -10,4 +10,7 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-“[qualifying body](term/qualifying-body)” has the meaning given by section 61E(6) (Neighbourhood development Orders) of the Act;
+“[qualifying body][term:qualifying-body]” has the meaning given by section 61E(6) (Neighbourhood development Orders) of [the Act][term:the-act];
+
+[term:qualifying-body]: /term/qualifying-body
+[term:the-act]: /term/the-act

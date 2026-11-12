@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[premises](term/premises)” includes land and buildings;
+“[premises][term:premises]” includes land and buildings;
+
+[term:premises]: /term/premises

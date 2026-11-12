@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-Functions of the natural environment, that directly or indirectly provide benefits for people.
+Functions of the [natural environment][term:natural-environment], that directly or indirectly provide benefits for people.
+
+[term:natural-environment]: /term/natural-environment

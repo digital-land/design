@@ -10,7 +10,7 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[statutory undertakers](term/statutory-undertakers)” means persons authorised by any enactment to carry on any of the following undertakings:—
+“[statutory undertakers][term:statutory-undertakers]” means persons authorised by any enactment to carry on any of the following undertakings:—
 
 - a railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking, or
 - an undertaking for the supply of . . . . . . . . . or hydraulic power,
@@ -18,3 +18,5 @@ entry-date: 2026-11-12
 and “statutory undertaking” is to be construed accordingly;
 
 “**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015;
+
+[term:statutory-undertakers]: /term/statutory-undertakers

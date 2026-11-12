@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[listed building consent](term/listed-building-consent)” has the meaning given in section 8(7);
+“[listed building consent][term:listed-building-consent]” has the meaning given in section 8(7);
+
+[term:listed-building-consent]: /term/listed-building-consent

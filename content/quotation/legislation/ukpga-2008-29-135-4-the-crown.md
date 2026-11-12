@@ -10,7 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-For the purposes of this section “[the Crown](term/the-crown)” includes—
+For the purposes of this section “[the Crown][term:the-crown]” includes—
 
 - (a) the Duchy of Lancaster;
 
@@ -23,3 +23,5 @@ For the purposes of this section “[the Crown](term/the-crown)” includes—
 - (e) the Corporate Officer of the House of Lords;
 
 - (f) the Corporate Officer of the House of Commons.
+
+[term:the-crown]: /term/the-crown

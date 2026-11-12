@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-In this section “[decision](term/decision)” includes a direction or order, and references to the giving of a decision shall be construed accordingly.
+In this section “[decision][term:decision]” includes a direction or order, and references to the giving of a decision shall be construed accordingly.
+
+[term:decision]: /term/decision

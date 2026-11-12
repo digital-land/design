@@ -10,10 +10,12 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-In this section, “[officer](term/officer)”, in relation to a body corporate, means—
+In this section, “[officer][term:officer]”, in relation to a body corporate, means—
 
 - (a) any director, manager, secretary or other similar officer of the body corporate, or
 
 - (b) any person who was purporting to act in any such capacity,
 
 and, in relation to a body corporate whose affairs are managed by its members, “director” means a member of the body corporate.
+
+[term:officer]: /term/officer

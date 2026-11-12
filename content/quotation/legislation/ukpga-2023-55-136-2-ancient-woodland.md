@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-In subsection (1) “[ancient woodland](term/ancient-woodland)” means an area in England which has been continuously wooded since at least the end of the year 1600 A.D.
+In subsection (1) “[ancient woodland][term:ancient-woodland]” means an area in England which has been continuously wooded since at least the end of the year 1600 A.D.
+
+[term:ancient-woodland]: /term/ancient-woodland

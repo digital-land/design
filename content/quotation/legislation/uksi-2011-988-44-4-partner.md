@@ -10,4 +10,6 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-In paragraph (3) “[partner](term/partner)” includes a person purporting to act as a partner.
+In paragraph (3) “[partner][term:partner]” includes a person purporting to act as a partner.
+
+[term:partner]: /term/partner

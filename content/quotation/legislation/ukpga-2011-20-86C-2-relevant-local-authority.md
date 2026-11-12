@@ -10,4 +10,7 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-In this Chapter, the “**relevant local authority**” in relation to land of community value is the local authority on whose list of assets of community value the land is listed.
+In this Chapter, the “**relevant local authority**” in relation to land of community value is the local authority on whose list of [assets of community value][term:asset-of-community-value] [the land][term:the-land] is listed.
+
+[term:asset-of-community-value]: /term/asset-of-community-value
+[term:the-land]: /term/the-land

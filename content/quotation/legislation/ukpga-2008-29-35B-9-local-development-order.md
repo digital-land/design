@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“**local development order**” has the meaning given in section 61A of TCPA 1990;
+“**[local development order][term:local-development-order]**” has the meaning given in section 61A of TCPA 1990;
+
+[term:local-development-order]: /term/local-development-order

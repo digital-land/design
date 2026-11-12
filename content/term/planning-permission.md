@@ -10,4 +10,7 @@ quotation: ukpga-1990-8-336-l-planning-permission
 entry-date: 2026-11-12
 ---
 
-Permission under Part 3 or section 293A of the Town and Country Planning Act 1990 (Parts 3 or 13), but does not include permission in principle.
+Permission under Part 3 or section 293A of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] (Parts 3 or 13), but does not include [permission in principle][term:permission-in-principle].
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+[term:permission-in-principle]: /term/permission-in-principle

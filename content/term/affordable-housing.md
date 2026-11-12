@@ -11,5 +11,8 @@ entry-date: 2026-11-12
 
 “affordable housing” means—
 
-- social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, and
-- any other description of housing that CIL regulations may specify;
+- social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17], and
+- any other description of housing that [CIL][abbreviation:cil] regulations may specify;
+
+[abbreviation:cil]: /abbreviation/cil
+[legislation:ukpga/2008/17]: /legislation/ukpga/2008/17

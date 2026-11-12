@@ -10,4 +10,6 @@ start-date: 2026-03-25
 entry-date: 2026-11-12
 ---
 
-“[inspection](term/inspection)” means inspection by the public;
+“[inspection][term:inspection]” means inspection by the public;
+
+[term:inspection]: /term/inspection

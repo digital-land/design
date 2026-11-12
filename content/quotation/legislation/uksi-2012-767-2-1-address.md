@@ -10,4 +10,6 @@ start-date: 2012-04-06
 entry-date: 2026-11-12
 ---
 
-“[address](term/address)” in relation to electronic communications means any number or address used for the purposes of such communications;
+“[address][term:address]” in relation to electronic communications means any number or address used for the purposes of such communications;
+
+[term:address]: /term/address

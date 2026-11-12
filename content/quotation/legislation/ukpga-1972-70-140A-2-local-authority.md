@@ -10,4 +10,6 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-“[local authority](term/local-authority)” includes—
+“[local authority][term:local-authority]” includes—
+
+[term:local-authority]: /term/local-authority

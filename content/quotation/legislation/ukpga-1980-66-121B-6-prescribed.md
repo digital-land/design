@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[prescribed](term/prescribed)” means prescribed by regulations;
+“[prescribed][term:prescribed]” means prescribed by regulations;
+
+[term:prescribed]: /term/prescribed

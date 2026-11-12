@@ -8,4 +8,6 @@ quotation: nppf-annex-b-special-protection-areas
 entry-date: 2026-11-12
 ---
 
-Areas classified for being of international importance for the breeding, feeding, wintering or the migration of rare and vulnerable species of birds (in England, these sites are classified under the Conservation of Habitats and Species Regulations 2017).
+Areas classified for being of international importance for the breeding, feeding, wintering or the migration of rare and vulnerable species of birds (in England, these sites are classified under the [Conservation of Habitats and Species Regulations 2017][legislation:uksi/2017/1012]).
+
+[legislation:uksi/2017/1012]: /legislation/uksi/2017/1012

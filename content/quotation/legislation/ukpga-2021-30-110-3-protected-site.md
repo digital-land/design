@@ -10,12 +10,16 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-A “[protected site](term/protected-site)” means—
+A “[protected site][term:protected-site]” means—
 
-- (a) a European site,
+- (a) a [European site][term:european-site],
 
-- (b) a site of special scientific interest, or
+- (b) a [site of special scientific interest][term:site-of-special-scientific-interest], or
 
 - (c) a marine conservation zone,
 
 to the extent the site or zone is within England.
+
+[term:european-site]: /term/european-site
+[term:protected-site]: /term/protected-site
+[term:site-of-special-scientific-interest]: /term/site-of-special-scientific-interest

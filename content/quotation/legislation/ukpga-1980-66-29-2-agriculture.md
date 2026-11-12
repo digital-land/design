@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-In this section, “[agriculture](term/agriculture)” includes the breeding or keeping of horses.
+In this section, “[agriculture][term:agriculture]” includes the breeding or keeping of horses.
+
+[term:agriculture]: /term/agriculture

@@ -12,8 +12,10 @@ entry-date: 2026-11-12
 
 “**applicant**” means—
 
-- for the purposes of Part 2, an applicant for an order granting development consent or a person who proposes to apply for such an order;
+- for the purposes of Part 2, an applicant for an order granting [development consent][term:development-consent] or a person who proposes to apply for such an order;
 - for the purposes of Part 3, an applicant or a person who proposes to apply for—
 
- - an order granting development consent, or
- - an order to change or revoke such an order granting development consent.
+ - an order granting [development consent][term:development-consent], or
+ - an order to change or revoke such an order granting [development consent][term:development-consent].
+
+[term:development-consent]: /term/development-consent

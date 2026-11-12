@@ -9,4 +9,6 @@ quotation: uksi-2017-571-2-1-local-development-order
 entry-date: 2026-11-12
 ---
 
-“local development order” means a local development order made pursuant to section 61A (Local development orders) of the Act;
+“local development order” means a local development order made pursuant to section 61A (Local development orders) of [the Act][term:the-act];
+
+[term:the-act]: /term/the-act

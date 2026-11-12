@@ -10,7 +10,9 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[working day](term/working-day)” means a day other than—
+“[working day][term:working-day]” means a day other than—
 
 - a Saturday or Sunday, or
 - a day which is a bank holiday in any part of the United Kingdom under the Banking and Financial Dealings Act 1971.
+
+[term:working-day]: /term/working-day

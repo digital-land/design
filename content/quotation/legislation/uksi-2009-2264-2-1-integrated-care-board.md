@@ -10,4 +10,6 @@ start-date: 2009-10-01
 entry-date: 2026-11-12
 ---
 
-“**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+“**[integrated care board][term:integrated-care-board]**” means an [integrated care board][term:integrated-care-board] established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+
+[term:integrated-care-board]: /term/integrated-care-board

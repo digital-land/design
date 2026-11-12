@@ -10,4 +10,7 @@ start-date: 2010-04-08
 entry-date: 2026-11-12
 ---
 
-“[Highway authority](term/highway-authority)” has the meaning given by section 1 of the Highways Act 1980.
+“[Highway authority][term:highway-authority]” has the meaning given by section 1 of the [Highways Act 1980][legislation:ukpga/1980/66].
+
+[legislation:ukpga/1980/66]: /legislation/ukpga/1980/66
+[term:highway-authority]: /term/highway-authority

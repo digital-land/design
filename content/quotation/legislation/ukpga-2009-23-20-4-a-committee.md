@@ -10,4 +10,6 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“[committee](term/committee)” includes a joint committee of two or more local authorities which are harbour authorities and which include the local authority mentioned in subsection (1);
+“[committee][term:committee]” includes a joint committee of two or more local authorities which are harbour authorities and which include the local authority mentioned in subsection (1);
+
+[term:committee]: /term/committee

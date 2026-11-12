@@ -10,4 +10,7 @@ start-date: 2026-10-31
 entry-date: 2026-11-12
 ---
 
-“[committee](term/committee)”, in relation to a relevant local planning authority, means a committee or sub-committee of that authority;
+“[committee][term:committee]”, in relation to a [relevant local planning authority][term:relevant-local-planning-authority], means a committee or sub-committee of that authority;
+
+[term:committee]: /term/committee
+[term:relevant-local-planning-authority]: /term/relevant-local-planning-authority

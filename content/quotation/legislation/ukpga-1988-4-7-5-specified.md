@@ -10,4 +10,6 @@ start-date: 1988-03-15
 entry-date: 2026-11-12
 ---
 
-“[specified](term/specified)” means specified in the proposal in question.
+“[specified][term:specified]” means specified in the proposal in question.
+
+[term:specified]: /term/specified

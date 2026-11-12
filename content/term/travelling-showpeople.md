@@ -8,4 +8,6 @@ quotation: nppf-annex-b-travelling-showpeople
 entry-date: 2026-11-12
 ---
 
-Members of a group organised for the purposes of holding fairs, circuses or shows (whether or not travelling together as such). This includes such persons who on the grounds of their own or their family’s or dependants’ more localised pattern of trading, educational or health needs or old age have ceased to travel temporarily or permanently, but excludes gypsies and travellers as defined separately in this glossary.
+Members of a group organised for the purposes of holding fairs, circuses or shows (whether or not travelling together as such). This includes such persons who on the grounds of their own or their family’s or dependants’ more localised pattern of trading, educational or health needs or old age have ceased to travel temporarily or permanently, but excludes [gypsies and travellers][term:gypsies-and-travellers] as defined separately in this glossary.
+
+[term:gypsies-and-travellers]: /term/gypsies-and-travellers

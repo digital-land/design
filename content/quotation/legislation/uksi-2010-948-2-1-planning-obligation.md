@@ -10,4 +10,6 @@ start-date: 2010-04-06
 entry-date: 2026-11-12
 ---
 
-“**planning obligation**” except in regulation 122, means a planning obligation under section 106 of TCPA 1990;
+“**[planning obligation][term:planning-obligation]**” except in regulation 122, means a [planning obligation][term:planning-obligation] under section 106 of TCPA 1990;
+
+[term:planning-obligation]: /term/planning-obligation

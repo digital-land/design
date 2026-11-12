@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[functions](term/functions)” includes powers and duties;
+“[functions][term:functions]” includes powers and duties;
+
+[term:functions]: /term/functions

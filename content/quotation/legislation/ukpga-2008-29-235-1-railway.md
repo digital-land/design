@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[railway](term/railway)” has the meaning given by section 67(1) of the Transport and Works Act 1992 (c. 42);
+“[railway][term:railway]” has the meaning given by section 67(1) of the Transport and Works Act 1992 (c. 42);
+
+[term:railway]: /term/railway

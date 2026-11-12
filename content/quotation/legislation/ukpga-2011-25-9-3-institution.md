@@ -10,4 +10,6 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-In this Act “[institution](term/institution)” means an institution whether incorporated or not, and includes a trust or undertaking.
+In this Act “[institution][term:institution]” means an institution whether incorporated or not, and includes a trust or undertaking.
+
+[term:institution]: /term/institution

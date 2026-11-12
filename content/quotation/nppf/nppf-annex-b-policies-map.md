@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-A map prepared and maintained by a local planning authority, illustrating policies across all parts of the development plan.
+A map prepared and maintained by a [local planning authority][term:local-planning-authority], illustrating policies across all parts of the development plan.
+
+[term:local-planning-authority]: /term/local-planning-authority

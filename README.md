@@ -17,6 +17,23 @@ Large directories are sharded into sub-directories, for example [content/quotati
 The markdown files in each sub-directory are complied into a CSV files in the [dataset/] directory by the 
 make process.
 
+## Links
+
+References in the markdown text use [doctate](https://github.com/psd/doctate) links,
+a [CURIE](https://en.wikipedia.org/wiki/CURIE) as the link label, with the targets listed at the end of each file:
+
+    [England][term:england]
+    [CIL][abbreviation:cil]
+    [Town and Country Planning Act 1990][legislation:ukpga/1990/8]
+    [Viability][govuk:guidance/viability]
+
+    [term:england]: /term/england
+    [abbreviation:cil]: /abbreviation/cil
+    [legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+    [govuk:guidance/viability]: /govuk/guidance/viability
+
+Run `make doctate` to add these links to plain text and to convert other links to entities.
+
 ## Related applications
 
 The [planning-data-design](https://github.com/digital-land/planning-data-design) 

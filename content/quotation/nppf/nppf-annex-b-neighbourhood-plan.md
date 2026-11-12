@@ -9,4 +9,8 @@ terms:
 entry-date: 2026-11-12
 ---
 
-A plan prepared by a parish council or neighbourhood forum for a designated neighbourhood area. In law this is described as a neighbourhood development plan in the Planning and Compulsory Purchase Act 2004.
+A plan prepared by a parish council or [neighbourhood forum][term:neighbourhood-forum] for a designated [neighbourhood area][term:neighbourhood-area]. In law this is described as a neighbourhood development plan in the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5].
+
+[legislation:ukpga/2004/5]: /legislation/ukpga/2004/5
+[term:neighbourhood-area]: /term/neighbourhood-area
+[term:neighbourhood-forum]: /term/neighbourhood-forum

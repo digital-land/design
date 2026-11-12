@@ -10,13 +10,13 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-In subsection (1)(b) “[qualifying body](term/qualifying-body)” means—
+In subsection (1)(b) “[qualifying body][term:qualifying-body]” means—
 
 - (a) a relevant housing provider,
 
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (c) a principal council within the meaning of the Local Government Act 1972 (c. 70),
+- (c) a principal council within the meaning of the [Local Government Act 1972][legislation:ukpga/1972/70] (c. 70),
 
 - (d) the Common Council of the City of London,
 
@@ -29,3 +29,6 @@ In subsection (1)(b) “[qualifying body](term/qualifying-body)” means—
 - (h) the Department for Communities in Northern Ireland, or
 
 - (i) the Northern Ireland Housing Executive.
+
+[legislation:ukpga/1972/70]: /legislation/ukpga/1972/70
+[term:qualifying-body]: /term/qualifying-body

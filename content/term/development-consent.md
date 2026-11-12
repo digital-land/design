@@ -9,4 +9,6 @@ quotation: ukpga-1990-8-336-l-development-consent
 entry-date: 2026-11-12
 ---
 
-“development consent” means development consent under the Planning Act 2008;
+“development consent” means development consent under the [Planning Act 2008][legislation:ukpga/2008/29];
+
+[legislation:ukpga/2008/29]: /legislation/ukpga/2008/29

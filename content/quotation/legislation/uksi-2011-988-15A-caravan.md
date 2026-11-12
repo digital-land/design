@@ -10,4 +10,6 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-“**caravan**” has the meaning given by section 75(5)(b) of the Environmental Protection Act 1990;
+“**caravan**” has the meaning given by section 75(5)(b) of the [Environmental Protection][term:environmental-protection] Act 1990;
+
+[term:environmental-protection]: /term/environmental-protection

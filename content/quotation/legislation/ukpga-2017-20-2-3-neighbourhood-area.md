@@ -10,4 +10,6 @@ start-date: 2017-04-27
 entry-date: 2026-11-12
 ---
 
-“**neighbourhood area**” means an area designated as such under section 61G;
+“**[neighbourhood area][term:neighbourhood-area]**” means an area designated as such under section 61G;
+
+[term:neighbourhood-area]: /term/neighbourhood-area

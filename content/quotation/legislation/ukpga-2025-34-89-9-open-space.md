@@ -10,8 +10,10 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[open space](term/open-space)” means any land which is—
+“[open space][term:open-space]” means any land which is—
 
 - laid out as a public garden,
 - used for the purposes of public recreation, or
 - a disused burial ground;
+
+[term:open-space]: /term/open-space

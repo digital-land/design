@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[premises](term/premises)” includes buildings, land, easements and hereditaments of any tenure;
+“[premises][term:premises]” includes buildings, land, easements and hereditaments of any tenure;
+
+[term:premises]: /term/premises

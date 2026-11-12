@@ -10,4 +10,6 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-In [subsection (5)](http://www.legislation.gov.uk/ukpga/2025/34/section/3/5), “[consent](term/consent)” means any consent, approval, permission, authorisation, confirmation, direction or decision (however described, given or made).
+In [subsection (5)](http://www.legislation.gov.uk/ukpga/2025/34/section/3/5), “[consent][term:consent]” means any consent, approval, permission, authorisation, confirmation, direction or decision (however described, given or made).
+
+[term:consent]: /term/consent

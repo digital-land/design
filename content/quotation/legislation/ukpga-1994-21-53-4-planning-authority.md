@@ -10,7 +10,12 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[planning authority](term/planning-authority)” means—
+“[planning authority][term:planning-authority]” means—
 
-- any local planning authority within the meaning of the Town and Country Planning Act 1990 or any planning authority within the meaning of Part IX of the Local Government (Scotland) Act 1973; or
-- the Secretary of State in the exercise and performance of such of his powers and duties under those Acts as relate to the grant of planning permission.
+- any [local planning authority][term:local-planning-authority] within the meaning of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] or any planning authority within the meaning of Part IX of the Local Government (Scotland) Act 1973; or
+- the Secretary of State in the exercise and performance of such of his powers and duties under those Acts as relate to the grant of [planning permission][term:planning-permission].
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+[term:local-planning-authority]: /term/local-planning-authority
+[term:planning-authority]: /term/planning-authority
+[term:planning-permission]: /term/planning-permission

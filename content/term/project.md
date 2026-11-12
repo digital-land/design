@@ -19,4 +19,6 @@ entry-date: 2026-11-12
 
 - (d) a change in the use of land, a building or other structure, or
 
-- (e) any other activity capable of affecting the natural environment, cultural heritage or landscape.
+- (e) any other activity capable of affecting the [natural environment][term:natural-environment], cultural heritage or landscape.
+
+[term:natural-environment]: /term/natural-environment

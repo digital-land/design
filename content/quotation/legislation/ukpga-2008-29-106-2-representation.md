@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In this section “[representation](term/representation)” includes evidence.
+In this section “[representation][term:representation]” includes evidence.
+
+[term:representation]: /term/representation

@@ -10,7 +10,7 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-In these Regulations a “[European site](term/european-site)” means any of the following located in the United Kingdom—
+In these Regulations a “[European site][term:european-site]” means any of the following located in the United Kingdom—
 
 - (a) a special area of conservation;
 
@@ -25,3 +25,5 @@ In these Regulations a “[European site](term/european-site)” means any of th
  - (i) the site is designated as a special area of conservation under regulation 7; or
 
  - (ii) the relevant administration gives notice to the appropriate nature conservation body of its intention not to designate the site, setting out the reasons for its decision, in accordance with regulation 86A(3)(b).
+
+[term:european-site]: /term/european-site

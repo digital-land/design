@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-In this section, “**council**” means a county council, district council or London borough council.
+In this section, “**council**” means a county council, district council or [London borough][term:london-borough] council.
+
+[term:london-borough]: /term/london-borough

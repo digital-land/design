@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[modify](term/modify)”, in relation to enactments, includes amend, repeal or revoke;
+“[modify][term:modify]”, in relation to enactments, includes amend, repeal or revoke;
+
+[term:modify]: /term/modify

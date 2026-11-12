@@ -10,4 +10,6 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“develop” includes redevelop (and “[development](term/development)” includes redevelopment);
+“develop” includes redevelop (and “[development][term:development]” includes redevelopment);
+
+[term:development]: /term/development

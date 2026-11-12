@@ -10,4 +10,6 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[interest](term/interest)” means a freehold or leasehold interest;
+“[interest][term:interest]” means a freehold or leasehold interest;
+
+[term:interest]: /term/interest

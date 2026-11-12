@@ -10,7 +10,9 @@ start-date: 2004-05-13
 entry-date: 2026-11-12
 ---
 
-“**unitary authority**” means—
+“**[unitary authority][term:unitary-authority]**” means—
 
 - a county council for an area that does not include the areas of district councils, or
 - a district council for an area that does not form part of the area of a county council;
+
+[term:unitary-authority]: /term/unitary-authority

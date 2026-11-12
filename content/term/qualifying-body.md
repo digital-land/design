@@ -9,4 +9,7 @@ quotation: ukpga-2004-5-38A-12-qualifying-body
 entry-date: 2026-11-12
 ---
 
-“qualifying body” means a parish council, or an organisation or body designated as a neighbourhood forum, authorised for the purposes of a neighbourhood development plan to act in relation to a neighbourhood area as a result of section 61F of the principal Act, as applied by section 38C of this Act.
+“qualifying body” means a parish council, or an organisation or body designated as a [neighbourhood forum][term:neighbourhood-forum], authorised for the purposes of a neighbourhood development plan to act in relation to a [neighbourhood area][term:neighbourhood-area] as a result of section 61F of the principal Act, as applied by section 38C of this Act.
+
+[term:neighbourhood-area]: /term/neighbourhood-area
+[term:neighbourhood-forum]: /term/neighbourhood-forum

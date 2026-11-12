@@ -10,4 +10,6 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[enforcement notice](term/enforcement-notice)” has the meaning given in section 149;
+“[enforcement notice][term:enforcement-notice]” has the meaning given in section 149;
+
+[term:enforcement-notice]: /term/enforcement-notice

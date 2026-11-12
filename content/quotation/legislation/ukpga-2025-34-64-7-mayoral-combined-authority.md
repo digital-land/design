@@ -10,4 +10,6 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[mayoral combined authority](term/mayoral-combined-authority)” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
+“[mayoral combined authority][term:mayoral-combined-authority]” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
+
+[term:mayoral-combined-authority]: /term/mayoral-combined-authority

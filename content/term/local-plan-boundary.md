@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-The boundary covered by a local plan.
+The boundary covered by a [local plan][term:local-plan].
+
+[term:local-plan]: /term/local-plan

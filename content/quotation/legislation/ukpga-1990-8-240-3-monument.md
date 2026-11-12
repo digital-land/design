@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[monument](term/monument)” includes a tombstone or other memorial, and
+“[monument][term:monument]” includes a tombstone or other memorial, and
+
+[term:monument]: /term/monument

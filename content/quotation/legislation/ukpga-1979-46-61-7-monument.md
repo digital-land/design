@@ -10,9 +10,9 @@ start-date: 1979-07-16
 entry-date: 2026-11-12
 ---
 
-“[Monument](term/monument)” means (subject to subsection (8) below)—
+“[Monument][term:monument]” means (subject to subsection (8) below)—
 
-- (a) any building, structure or work, whether above or below the surface of the land, and any cave or excavation;
+- (a) any building, structure or work, whether above or below the surface of [the land][term:the-land], and any cave or excavation;
 
 - (b) any site comprising the remains of any such building, structure or work or of any cave or excavation; ...
 
@@ -21,3 +21,6 @@ entry-date: 2026-11-12
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and any machinery attached to a monument shall be regarded as part of the monument if it could not be detached without being dismantled.
+
+[term:monument]: /term/monument
+[term:the-land]: /term/the-land

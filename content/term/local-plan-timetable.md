@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-Log of past and predicted milestones and events when producing a local plan
+Log of past and predicted milestones and events when producing a [local plan][term:local-plan]
+
+[term:local-plan]: /term/local-plan

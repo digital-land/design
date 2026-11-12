@@ -10,4 +10,6 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-In this regulation, and in regulation 19, “[the register](term/the-register)” means the register of European sites provided for by regulation 17.
+In this regulation, and in regulation 19, “[the register][term:the-register]” means [the register][term:the-register] of European sites provided for by regulation 17.
+
+[term:the-register]: /term/the-register

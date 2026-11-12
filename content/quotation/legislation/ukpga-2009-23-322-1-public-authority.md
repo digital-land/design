@@ -10,8 +10,11 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“[public authority](term/public-authority)” means any of the following—
+“[public authority][term:public-authority]” means any of the following—
 
-- a Minister of the Crown;
+- a Minister of [the Crown][term:the-crown];
 - a public body;
 - a public office holder;
+
+[term:public-authority]: /term/public-authority
+[term:the-crown]: /term/the-crown

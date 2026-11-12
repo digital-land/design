@@ -10,4 +10,6 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-“**planning obligation**” means a planning agreement within the meaning of section 76 of the Planning Act (Northern Ireland) 2011 that is entered into in accordance with subsection (10) of that section, and
+“**[planning obligation][term:planning-obligation]**” means a planning agreement within the meaning of section 76 of the Planning Act (Northern Ireland) 2011 that is entered into in accordance with subsection (10) of that section, and
+
+[term:planning-obligation]: /term/planning-obligation

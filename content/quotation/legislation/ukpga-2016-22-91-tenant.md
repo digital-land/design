@@ -10,4 +10,6 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[tenant](term/tenant)” includes a person who has a licence to occupy.
+“[tenant][term:tenant]” includes a person who has a licence to occupy.
+
+[term:tenant]: /term/tenant

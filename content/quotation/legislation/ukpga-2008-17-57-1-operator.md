@@ -10,7 +10,9 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[operator](term/operator)”, in relation to an electronic communications code network means—
+“[operator][term:operator]”, in relation to an electronic communications code network means—
 
 - the electronic communications code operator providing that network, or
 - the Secretary of State, so far as the Secretary of State is providing or proposing to provide that network,
+
+[term:operator]: /term/operator

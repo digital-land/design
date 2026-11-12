@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“**relevant authority**” means a local authority or the regulator.
+“**[relevant authority][term:relevant-authority]**” means a local authority or the regulator.
+
+[term:relevant-authority]: /term/relevant-authority

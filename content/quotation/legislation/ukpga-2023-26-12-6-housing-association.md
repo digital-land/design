@@ -10,4 +10,6 @@ start-date: 2023-06-29
 entry-date: 2026-11-12
 ---
 
-“[housing association](term/housing-association)” has the meaning given by section 1 of the Housing Associations Act 1985;
+“[housing association][term:housing-association]” has the meaning given by section 1 of the Housing Associations Act 1985;
+
+[term:housing-association]: /term/housing-association

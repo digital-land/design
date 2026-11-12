@@ -10,4 +10,6 @@ quotation: ukpga-2008-29-6-development-consent-order
 entry-date: 2026-11-12
 ---
 
-“Development consent order” means an order granting development consent.
+“[Development consent][term:development-consent] order” means an order granting [development consent][term:development-consent].
+
+[term:development-consent]: /term/development-consent

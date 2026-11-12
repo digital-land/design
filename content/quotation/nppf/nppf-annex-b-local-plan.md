@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-A plan for the future development of a local area, drawn up by the local planning authority in consultation with the community.
+A plan for the future development of a local area, drawn up by the [local planning authority][term:local-planning-authority] in consultation with the community.
+
+[term:local-planning-authority]: /term/local-planning-authority

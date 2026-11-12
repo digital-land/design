@@ -8,4 +8,7 @@ quotation: nppf-annex-b-travellers
 entry-date: 2026-11-12
 ---
 
-Gypsies and travellers, and travelling showpeople.
+[Gypsies and travellers][term:gypsies-and-travellers], and [travelling showpeople][term:travelling-showpeople].
+
+[term:gypsies-and-travellers]: /term/gypsies-and-travellers
+[term:travelling-showpeople]: /term/travelling-showpeople

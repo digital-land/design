@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[local planning authority](term/local-planning-authority)” shall be construed in accordance with Part I;
+“[local planning authority][term:local-planning-authority]” shall be construed in accordance with Part I;
+
+[term:local-planning-authority]: /term/local-planning-authority

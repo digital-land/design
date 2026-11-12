@@ -8,4 +8,6 @@ quotation: nppf-annex-b-outstanding-universal-value
 entry-date: 2026-11-12
 ---
 
-Cultural and/or natural significance which is so exceptional as to transcend national boundaries and to be of common importance for present and future generations. An individual Statement of Outstanding Universal Value is agreed and adopted by the UNESCO World Heritage Committee for each World Heritage Site.
+Cultural and/or natural significance which is so exceptional as to transcend national boundaries and to be of common importance for present and future generations. An individual Statement of Outstanding Universal Value is agreed and adopted by the UNESCO World Heritage Committee for each [World Heritage Site][term:world-heritage-site].
+
+[term:world-heritage-site]: /term/world-heritage-site

@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[designated area](term/designated-area)” means an area designated by a designation order,
+“[designated area][term:designated-area]” means an area designated by a designation order,
+
+[term:designated-area]: /term/designated-area

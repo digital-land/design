@@ -9,4 +9,7 @@ quotation: ukpga-1990-8-336-l-minister
 entry-date: 2026-11-12
 ---
 
-“Minister” means any Minister of the Crown or other government department;
+“Minister” means any Minister of [the Crown][term:the-crown] or other [government department][term:government-department];
+
+[term:government-department]: /term/government-department
+[term:the-crown]: /term/the-crown

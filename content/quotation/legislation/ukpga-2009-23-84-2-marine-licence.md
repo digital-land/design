@@ -10,4 +10,7 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-In sub-paragraph (3A) “**marine licence**” has the same meaning as in Part 4 of the Marine and Coastal Access Act 2009.
+In sub-paragraph (3A) “**[marine licence][term:marine-licence]**” has the same meaning as in Part 4 of the [Marine and Coastal Access Act 2009][legislation:ukpga/2009/23].
+
+[legislation:ukpga/2009/23]: /legislation/ukpga/2009/23
+[term:marine-licence]: /term/marine-licence

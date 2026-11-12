@@ -10,9 +10,11 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[legislation](term/legislation)” includes provision made by or under—
+“[legislation][term:legislation]” includes provision made by or under—
 
 - an Act,
 - an Act of the Scottish Parliament,
 - Northern Ireland legislation, or
 - a Measure or Act of the National Assembly for Wales;
+
+[term:legislation]: /term/legislation

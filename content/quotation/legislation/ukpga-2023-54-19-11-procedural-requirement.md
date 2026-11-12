@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-In this section “[procedural requirement](term/procedural-requirement)” includes a requirement that a supplier provide information.
+In this section “[procedural requirement][term:procedural-requirement]” includes a requirement that a supplier provide information.
+
+[term:procedural-requirement]: /term/procedural-requirement

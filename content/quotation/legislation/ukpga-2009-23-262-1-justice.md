@@ -10,4 +10,6 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-“[justice](term/justice)” has the meaning given by section 249(5);
+“[justice][term:justice]” has the meaning given by section 249(5);
+
+[term:justice]: /term/justice

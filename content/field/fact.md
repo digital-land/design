@@ -9,3 +9,5 @@ parent-field: hash
 typology: value
 uri-template: https://www.digital-land.info/resource/{resource}
 ---
+
+

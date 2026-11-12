@@ -9,4 +9,6 @@ quotation: ukpga-1990-9-47-7-relevant-land
 entry-date: 2026-11-12
 ---
 
-“relevant land”, in relation to any building, means the land comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.
+“relevant land”, in relation to any building, means [the land][term:the-land] comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.
+
+[term:the-land]: /term/the-land

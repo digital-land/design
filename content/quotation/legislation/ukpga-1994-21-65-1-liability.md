@@ -10,4 +10,6 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[liability](term/liability)”, in relation to the transfer of liabilities from one person to another or to the modification of any liability, does not include any criminal liability;
+“[liability][term:liability]”, in relation to the transfer of liabilities from one person to another or to the modification of any liability, does not include any criminal liability;
+
+[term:liability]: /term/liability

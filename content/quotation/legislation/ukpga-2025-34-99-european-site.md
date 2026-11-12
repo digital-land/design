@@ -10,4 +10,7 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[European site](term/european-site)” has the same meaning as in [the Habitats Regulations 2017](https://www.legislation.gov.uk/uksi/2017/1012/contents) (see regulation 8);
+“[European site][term:european-site]” has the same meaning as in [the Habitats Regulations 2017][legislation:uksi/2017/1012] (see regulation 8);
+
+[legislation:uksi/2017/1012]: /legislation/uksi/2017/1012
+[term:european-site]: /term/european-site

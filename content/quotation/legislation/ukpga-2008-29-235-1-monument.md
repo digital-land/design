@@ -10,4 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[monument](term/monument)” has the same meaning as in the Ancient Monuments and Archaeological Areas Act 1979 (c. 46) (see section 61 of that Act);
+“[monument][term:monument]” has the same meaning as in the [Ancient Monuments and Archaeological Areas Act 1979][legislation:ukpga/1979/46] (c. 46) (see section 61 of that Act);
+
+[legislation:ukpga/1979/46]: /legislation/ukpga/1979/46
+[term:monument]: /term/monument

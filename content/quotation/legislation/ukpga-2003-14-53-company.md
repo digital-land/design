@@ -10,4 +10,6 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-“[company](term/company)” means any body corporate;
+“[company][term:company]” means any body corporate;
+
+[term:company]: /term/company

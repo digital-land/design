@@ -18,4 +18,6 @@ The HCA gives “assistance” to a person if it—
 
 - (c) gives financial assistance to the person,
 
-and for this purpose “[infrastructure](term/infrastructure)” has the same meaning as in Part 1.
+and for this purpose “[infrastructure][term:infrastructure]” has the same meaning as in Part 1.
+
+[term:infrastructure]: /term/infrastructure

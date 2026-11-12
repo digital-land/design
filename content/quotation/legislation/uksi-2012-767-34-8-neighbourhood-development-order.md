@@ -10,4 +10,7 @@ start-date: 2012-04-06
 entry-date: 2026-11-12
 ---
 
-In this regulation “[neighbourhood development order](term/neighbourhood-development-order)” has the meaning given in section 61E of the Town and Country Planning Act 1990 .
+In this regulation “[neighbourhood development order][term:neighbourhood-development-order]” has the meaning given in section 61E of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] .
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+[term:neighbourhood-development-order]: /term/neighbourhood-development-order

@@ -10,4 +10,6 @@ start-date: 2004-05-13
 entry-date: 2026-11-12
 ---
 
-“**combined authority**” means a combined authority established under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009;
+“**[combined authority][term:combined-authority]**” means a [combined authority][term:combined-authority] established under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009;
+
+[term:combined-authority]: /term/combined-authority

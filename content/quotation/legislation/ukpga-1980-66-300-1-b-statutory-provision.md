@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[statutory provision](term/statutory-provision)” means a provision contained in, or having effect under, any enactment.
+“[statutory provision][term:statutory-provision]” means a provision contained in, or having effect under, any enactment.
+
+[term:statutory-provision]: /term/statutory-provision

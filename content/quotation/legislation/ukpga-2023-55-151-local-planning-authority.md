@@ -10,10 +10,13 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[local planning authority](term/local-planning-authority)” means a local planning authority for the purposes of Part 2 of PCPA 2004 (see, in particular, section 15LF of that Act) other than—
+“[local planning authority][term:local-planning-authority]” means a [local planning authority][term:local-planning-authority] for the purposes of Part 2 of PCPA 2004 (see, in particular, section 15LF of that Act) other than—
 
 - a joint committee constituted under section 15J of that Act,
-- an urban development corporation, a development corporation established under the New Towns Act 1981 or a Mayoral development corporation, or
+- an urban [development corporation][term:development-corporation], a [development corporation][term:development-corporation] established under the New Towns Act 1981 or a Mayoral [development corporation][term:development-corporation], or
 - the Homes and Communities Agency,
 
-and references to the area of a local planning authority are to the area for which the authority is the local planning authority in accordance with Part 2 of PCPA 2004.
+and references to the area of a [local planning authority][term:local-planning-authority] are to the area for which the authority is the [local planning authority][term:local-planning-authority] in accordance with Part 2 of PCPA 2004.
+
+[term:development-corporation]: /term/development-corporation
+[term:local-planning-authority]: /term/local-planning-authority

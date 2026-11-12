@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[improvement](term/improvement)” includes alteration and enlargement;
+“[improvement][term:improvement]” includes alteration and enlargement;
+
+[term:improvement]: /term/improvement

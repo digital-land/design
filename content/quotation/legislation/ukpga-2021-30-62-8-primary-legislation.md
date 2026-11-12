@@ -10,9 +10,11 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-“**primary legislation**” means—
+“**[primary legislation][term:primary-legislation]**” means—
 
 - an Act of Parliament,
 - a Measure or Act of Senedd Cymru,
 - an Act of the Scottish Parliament, or
 - Northern Ireland legislation;
+
+[term:primary-legislation]: /term/primary-legislation

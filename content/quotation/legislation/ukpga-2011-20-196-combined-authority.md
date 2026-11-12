@@ -10,4 +10,6 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“**combined authority**” means a combined authority established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
+“**[combined authority][term:combined-authority]**” means a [combined authority][term:combined-authority] established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
+
+[term:combined-authority]: /term/combined-authority

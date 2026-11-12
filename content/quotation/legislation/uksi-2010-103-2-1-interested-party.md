@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[interested party](term/interested-party)”, in relation to an application, means a person who is an interested party for the purposes of Chapter 4 of Part 6;
+“[interested party][term:interested-party]”, in relation to an application, means a person who is an [interested party][term:interested-party] for the purposes of Chapter 4 of Part 6;
+
+[term:interested-party]: /term/interested-party

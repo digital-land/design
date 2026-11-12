@@ -10,7 +10,7 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-In this paragraph, “**interested party**” means—
+In this paragraph, “**[interested party][term:interested-party]**” means—
 
 - (a) the applicant,
 
@@ -19,3 +19,5 @@ In this paragraph, “**interested party**” means—
 - (c) any person who has made an objection in accordance with regulations under paragraph 3, or
 
 - (d) any person who has made representations in accordance with any other enactment.
+
+[term:interested-party]: /term/interested-party

@@ -10,10 +10,12 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-In this Chapter “[justice](term/justice)” means—
+In this Chapter “[justice][term:justice]” means—
 
 - (a) in relation to England and Wales, a justice of the peace;
 
 - (b) in relation to Northern Ireland, a lay magistrate;
 
 - (c) in relation to Scotland, a sheriff, stipendiary magistrate or justice of the peace.
+
+[term:justice]: /term/justice

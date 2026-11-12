@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[London borough](term/london-borough)” includes the City of London.
+“[London borough][term:london-borough]” includes the City of London.
+
+[term:london-borough]: /term/london-borough

@@ -18,4 +18,6 @@ entry-date: 2026-11-12
 - health, educational, employment or training facilities,
 - social, religious or recreational facilities,
 - cremation or burial facilities, and
-- community facilities not falling within paragraphs (a) to (f),
+- [community facilities][term:community-facilities] not falling within paragraphs (a) to (f),
+
+[term:community-facilities]: /term/community-facilities

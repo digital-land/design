@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[railway](term/railway)” includes a light railway;
+“[railway][term:railway]” includes a light railway;
+
+[term:railway]: /term/railway

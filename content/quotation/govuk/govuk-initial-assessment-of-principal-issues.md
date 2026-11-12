@@ -9,4 +9,7 @@ terms:
 entry-date: 2026-11-12
 ---
 
-The purpose of the IAPI is to assist the Examining Authority in identifying the matters most likely to require detailed examination.
+The purpose of the [IAPI][abbreviation:iapi] is to assist the [Examining Authority][term:examining-authority] in identifying the matters most likely to require detailed examination.
+
+[abbreviation:iapi]: /abbreviation/iapi
+[term:examining-authority]: /term/examining-authority

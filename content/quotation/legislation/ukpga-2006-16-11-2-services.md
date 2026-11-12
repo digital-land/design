@@ -10,10 +10,12 @@ start-date: 2006-03-30
 entry-date: 2026-11-12
 ---
 
-“[Services](term/services)” includes, in particular, anything done under—
+“[Services][term:services]” includes, in particular, anything done under—
 
 - (a) section 4(1) or (4)(a) (advice);
 
 - (b) section 9 (information services etc.);
 
 - (c) section 10 (consultancy services).
+
+[term:services]: /term/services

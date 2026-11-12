@@ -10,7 +10,7 @@ start-date: 1998-11-09
 entry-date: 2026-11-12
 ---
 
-“[primary legislation](term/primary-legislation)” means any—
+“[primary legislation][term:primary-legislation]” means any—
 
 - public general Act;
 - local and personal Act;
@@ -22,4 +22,6 @@ entry-date: 2026-11-12
 - made under section 38(1)(a) of the Northern Ireland Constitution Act 1973 or the corresponding provision of the Northern Ireland Act 1998; or
 - amending an Act of a kind mentioned in paragraph (a), (b) or (c);
 
-and includes an order or other instrument made under primary legislation (otherwise than by the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government, a member of the Scottish Executive, a Northern Ireland Minister or a Northern Ireland department) to the extent to which it operates to bring one or more provisions of that legislation into force or amends any primary legislation;
+and includes an order or other instrument made under [primary legislation][term:primary-legislation] (otherwise than by the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government, a member of the Scottish Executive, a Northern Ireland Minister or a Northern Ireland department) to the extent to which it operates to bring one or more provisions of that legislation into force or amends any [primary legislation][term:primary-legislation];
+
+[term:primary-legislation]: /term/primary-legislation

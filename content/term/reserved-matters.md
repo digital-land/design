@@ -9,10 +9,12 @@ quotation: uksi-2015-595-2-1-reserved-matters
 entry-date: 2026-11-12
 ---
 
-“reserved matters” in relation to an outline planning permission, or an application for such permission, means any of the following matters in respect of which details have not been given in the application—
+“reserved matters” in relation to an [outline planning permission][term:outline-planning-permission], or an application for such permission, means any of the following matters in respect of which details have not been given in the application—
 
 - access;
 - appearance;
 - landscaping;
 - layout; and
 - scale;
+
+[term:outline-planning-permission]: /term/outline-planning-permission

@@ -10,4 +10,6 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-“[groundwater](term/groundwater)” has the same meaning as in the Water Framework Directive;
+“[groundwater][term:groundwater]” has the same meaning as in the Water Framework Directive;
+
+[term:groundwater]: /term/groundwater

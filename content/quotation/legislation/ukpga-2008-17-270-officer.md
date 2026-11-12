@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-The Table gives the meaning of “[officer](term/officer)” in relation to registered providers.
+The Table gives the meaning of “[officer][term:officer]” in relation to registered providers.
+
+[term:officer]: /term/officer

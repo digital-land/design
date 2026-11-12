@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[modifications](term/modifications)” includes omissions,
+“[modifications][term:modifications]” includes omissions,
+
+[term:modifications]: /term/modifications

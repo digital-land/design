@@ -10,4 +10,7 @@ start-date: 1995-06-03
 entry-date: 2026-11-12
 ---
 
-“**listed building**” has the meaning given by section 76 of the Historic Environment (Wales) Act 2023;
+“**[listed building][term:listed-building]**” has the meaning given by section 76 of the [Historic Environment][term:historic-environment] (Wales) Act 2023;
+
+[term:historic-environment]: /term/historic-environment
+[term:listed-building]: /term/listed-building

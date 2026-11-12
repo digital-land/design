@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[conditions](term/conditions)” includes limitations; and
+“[conditions][term:conditions]” includes limitations; and
+
+[term:conditions]: /term/conditions

@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[member](term/member)”, in relation to a trade union consisting wholly or partly of, or of representatives of, constituent or affiliated organisations, includes a member of any of its constituent or affiliated trade unions;
+“[member][term:member]”, in relation to a trade union consisting wholly or partly of, or of representatives of, constituent or affiliated organisations, includes a member of any of its constituent or affiliated trade unions;
+
+[term:member]: /term/member

@@ -10,4 +10,6 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[improvement](term/improvement)”, in relation to any land, includes any development or change of use but does not include an improvement with respect to the supply of water, or the provision of sewerage services, to any premises; and
+“[improvement][term:improvement]”, in relation to any land, includes any development or change of use but does not include an improvement with respect to the supply of water, or the provision of sewerage services, to any premises; and
+
+[term:improvement]: /term/improvement

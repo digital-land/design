@@ -10,4 +10,6 @@ start-date: 2000-07-28
 entry-date: 2026-11-12
 ---
 
-“[executive](term/executive)”, in relation to a local authority, is to be construed in accordance with section 11,
+“[executive][term:executive]”, in relation to a local authority, is to be construed in accordance with section 11,
+
+[term:executive]: /term/executive

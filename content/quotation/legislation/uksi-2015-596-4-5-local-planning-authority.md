@@ -10,4 +10,7 @@ start-date: 2015-04-15
 entry-date: 2026-11-12
 ---
 
-“[local planning authority](term/local-planning-authority)” means the local planning authority whose function it would be to determine an application for planning permission for the development to which the direction relates or is proposed to relate; and
+“[local planning authority][term:local-planning-authority]” means the [local planning authority][term:local-planning-authority] whose function it would be to determine an application for [planning permission][term:planning-permission] for the development to which the direction relates or is proposed to relate; and
+
+[term:local-planning-authority]: /term/local-planning-authority
+[term:planning-permission]: /term/planning-permission

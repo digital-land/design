@@ -10,4 +10,6 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[highway authority](term/highway-authority)” means, in the case of a highway repairable by the inhabitants at large, the council in whom the highway is vested;
+“[highway authority][term:highway-authority]” means, in the case of a highway repairable by the inhabitants at large, the council in whom the highway is vested;
+
+[term:highway-authority]: /term/highway-authority

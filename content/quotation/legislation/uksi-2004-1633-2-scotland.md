@@ -10,4 +10,6 @@ start-date: 2004-07-20
 entry-date: 2026-11-12
 ---
 
-“[Scotland](term/scotland)” has the meaning given by section 126 of the Scotland Act 1998 ; and
+“[Scotland][term:scotland]” has the meaning given by section 126 of the Scotland Act 1998 ; and
+
+[term:scotland]: /term/scotland

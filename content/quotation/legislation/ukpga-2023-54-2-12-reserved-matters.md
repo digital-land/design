@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[reserved matters](term/reserved-matters)” has the same meaning as in the Scotland Act 1998.
+“[reserved matters][term:reserved-matters]” has the same meaning as in the Scotland Act 1998.
+
+[term:reserved-matters]: /term/reserved-matters

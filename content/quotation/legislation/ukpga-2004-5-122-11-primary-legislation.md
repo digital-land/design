@@ -10,8 +10,10 @@ start-date: 2004-05-13
 entry-date: 2026-11-12
 ---
 
-In subsection (6B), “**primary legislation**” means—
+In subsection (6B), “**[primary legislation][term:primary-legislation]**” means—
 
 - (a) an Act of Parliament;
 
 - (b) an Act or Measure of the National Assembly for Wales.
+
+[term:primary-legislation]: /term/primary-legislation

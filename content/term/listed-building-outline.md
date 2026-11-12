@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-Boundary of a listed building
+Boundary of a [listed building][term:listed-building]
+
+[term:listed-building]: /term/listed-building

@@ -10,10 +10,12 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[maintenance](term/maintenance)”, in relation to equipment, includes—
+“[maintenance][term:maintenance]”, in relation to equipment, includes—
 
 - repair of equipment;
 - modernisation of equipment;
 - modifications to equipment;
 - installing equipment, including after its transport to a new location;
 - testing equipment;
+
+[term:maintenance]: /term/maintenance

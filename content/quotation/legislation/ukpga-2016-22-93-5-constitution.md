@@ -10,4 +10,6 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[constitution](term/constitution)” includes rules;
+“[constitution][term:constitution]” includes rules;
+
+[term:constitution]: /term/constitution

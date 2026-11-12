@@ -10,4 +10,6 @@ start-date: 2010-04-08
 entry-date: 2026-11-12
 ---
 
-“[Risk](term/risk)” means a risk in respect of an occurrence assessed and expressed (as for insurance and scientific purposes) as a combination of the probability of the occurrence with its potential consequences.
+“[Risk][term:risk]” means a risk in respect of an occurrence assessed and expressed (as for insurance and scientific purposes) as a combination of the probability of the occurrence with its potential consequences.
+
+[term:risk]: /term/risk

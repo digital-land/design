@@ -10,7 +10,9 @@ start-date: 2015-08-17
 entry-date: 2026-11-12
 ---
 
-“[manufacturer](term/manufacturer)” means a person who—
+“[manufacturer][term:manufacturer]” means a person who—
 
 - manufactures a pyrotechnic article, or has such an article designed or manufactured; and
 - markets that pyrotechnic article under that person's name or trade mark;
+
+[term:manufacturer]: /term/manufacturer

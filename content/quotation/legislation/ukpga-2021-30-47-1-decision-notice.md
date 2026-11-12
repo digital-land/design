@@ -10,4 +10,6 @@ start-date: 2021-11-09
 entry-date: 2026-11-12
 ---
 
-“[decision notice](term/decision-notice)” means a notice given under section 36;
+“[decision notice][term:decision-notice]” means a notice given under section 36;
+
+[term:decision-notice]: /term/decision-notice

@@ -10,7 +10,11 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[development](term/development)” and “planning permission”—
+“[development][term:development]” and “[planning permission][term:planning-permission]”—
 
-- in relation to England and Wales, have the same meanings as in the Town and Country Planning Act 1990 , but “development” has the meaning given by section 133 of the Infrastructure (Wales) Act 2024 so far as it relates to coal-mining proposals included in an application for infrastructure consent; and
+- in relation to England and Wales, have the same meanings as in the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] , but “development” has the meaning given by section 133 of the Infrastructure (Wales) Act 2024 so far as it relates to coal-mining proposals included in an application for infrastructure consent; and
 - in relation to Scotland, have the same meanings as in the Town and Country Planning (Scotland) Act 1972; and
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+[term:development]: /term/development
+[term:planning-permission]: /term/planning-permission

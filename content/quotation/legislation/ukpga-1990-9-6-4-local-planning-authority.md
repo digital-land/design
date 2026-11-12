@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-In this section “[local planning authority](term/local-planning-authority)”, in relation to a building in Greater London, includes the Commission.
+In this section “[local planning authority][term:local-planning-authority]”, in relation to a building in Greater London, includes the Commission.
+
+[term:local-planning-authority]: /term/local-planning-authority

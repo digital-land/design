@@ -10,4 +10,6 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[relevant authority](term/relevant-authority)” means any of the following, that is to say—
+“[relevant authority][term:relevant-authority]” means any of the following, that is to say—
+
+[term:relevant-authority]: /term/relevant-authority

@@ -10,7 +10,7 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-In sections 294 and 295 and this section “[council](term/council)” means—
+In sections 294 and 295 and this section “[council][term:council]” means—
 
 - (a) a district council,
 
@@ -18,6 +18,9 @@ In sections 294 and 295 and this section “[council](term/council)” means—
 
 - (c) a county borough council,
 
-- (d) a London borough council, or
+- (d) a [London borough][term:london-borough] council, or
 
 - (e) the Common Council of the City of London.
+
+[term:council]: /term/council
+[term:london-borough]: /term/london-borough

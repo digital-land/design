@@ -10,4 +10,6 @@ start-date: 1998-11-09
 entry-date: 2026-11-12
 ---
 
-“[relief](term/relief)” includes any remedy or order (other than in criminal proceedings).
+“[relief][term:relief]” includes any remedy or order (other than in criminal proceedings).
+
+[term:relief]: /term/relief

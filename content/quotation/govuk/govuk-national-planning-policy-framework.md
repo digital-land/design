@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-The National Planning Policy Framework sets out the government’s planning policies for England and how these are expected to be applied.
+The [National Planning Policy Framework][term:national-planning-policy-framework] sets out the government’s planning policies for England and how these are expected to be applied.
+
+[term:national-planning-policy-framework]: /term/national-planning-policy-framework

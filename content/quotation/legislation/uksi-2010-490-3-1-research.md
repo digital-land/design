@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[research](term/research)” includes inquiries and investigations;
+“[research][term:research]” includes inquiries and investigations;
+
+[term:research]: /term/research

@@ -10,4 +10,7 @@ start-date: 2010-04-08
 entry-date: 2026-11-12
 ---
 
-“[Watercourse](term/watercourse)” has the meaning given by section 72(1) of the Land Drainage Act 1991.
+“[Watercourse][term:watercourse]” has the meaning given by section 72(1) of the [Land Drainage Act 1991][legislation:ukpga/1991/59].
+
+[legislation:ukpga/1991/59]: /legislation/ukpga/1991/59
+[term:watercourse]: /term/watercourse

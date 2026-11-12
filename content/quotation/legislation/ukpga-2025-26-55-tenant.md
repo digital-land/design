@@ -10,4 +10,6 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[tenant](term/tenant)” includes sub-tenant.
+“[tenant][term:tenant]” includes sub-tenant.
+
+[term:tenant]: /term/tenant

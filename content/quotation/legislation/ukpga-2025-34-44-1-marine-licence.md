@@ -10,4 +10,6 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“**marine licence**” means a marine licence under Part 4 of the MCAA 2009;
+“**[marine licence][term:marine-licence]**” means a [marine licence][term:marine-licence] under Part 4 of the MCAA 2009;
+
+[term:marine-licence]: /term/marine-licence

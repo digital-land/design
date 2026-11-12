@@ -10,4 +10,8 @@ start-date: 2015-06-01
 entry-date: 2026-11-12
 ---
 
-“[competent authority](term/competent-authority)” means any Minister of the Crown (as defined in section 8(1) of the Ministers of the Crown Act 1975 ), government department, or local authority with responsibility for deciding whether to give a consent, permission or other authorisation referred to in paragraph (1);
+“[competent authority][term:competent-authority]” means any Minister of [the Crown][term:the-crown] (as defined in section 8(1) of the Ministers of [the Crown][term:the-crown] Act 1975 ), [government department][term:government-department], or local authority with responsibility for deciding whether to give a consent, permission or other authorisation referred to in paragraph (1);
+
+[term:competent-authority]: /term/competent-authority
+[term:government-department]: /term/government-department
+[term:the-crown]: /term/the-crown

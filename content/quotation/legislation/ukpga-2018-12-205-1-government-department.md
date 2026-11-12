@@ -10,9 +10,12 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[government department](term/government-department)” includes the following (except in the expression “United Kingdom government department”)—
+“[government department][term:government-department]” includes the following (except in the expression “United Kingdom [government department][term:government-department]”)—
 
 - a part of the Scottish Administration;
 - a Northern Ireland department;
 - the Welsh Government;
-- a body or authority exercising statutory functions on behalf of the Crown;
+- a body or authority exercising statutory functions on behalf of [the Crown][term:the-crown];
+
+[term:government-department]: /term/government-department
+[term:the-crown]: /term/the-crown

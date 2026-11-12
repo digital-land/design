@@ -10,7 +10,7 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-The “[natural environment](term/natural-environment)” means—
+The “[natural environment][term:natural-environment]” means—
 
 - (a) plants, wild animals and other living organisms,
 
@@ -19,3 +19,5 @@ The “[natural environment](term/natural-environment)” means—
 - (c) land (except buildings or other structures), air and water,
 
 and the natural systems, cycles and processes through which they interact.
+
+[term:natural-environment]: /term/natural-environment

@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[interest](term/interest)” includes a personal, professional or financial interest and may be direct or indirect;
+“[interest][term:interest]” includes a personal, professional or financial interest and may be direct or indirect;
+
+[term:interest]: /term/interest

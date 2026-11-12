@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[provided](term/provided)” means provided by construction or conversion; and
+“[provided][term:provided]” means provided by construction or conversion; and
+
+[term:provided]: /term/provided

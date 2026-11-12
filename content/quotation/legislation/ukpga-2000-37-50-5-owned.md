@@ -10,4 +10,6 @@ start-date: 2000-11-30
 entry-date: 2026-11-12
 ---
 
-“owner”, in relation to any premises, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple of the premises, whether in possession or in reversion, and “[owned](term/owned)” shall be construed accordingly; and
+“owner”, in relation to any premises, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple of the premises, whether in possession or in reversion, and “[owned][term:owned]” shall be construed accordingly; and
+
+[term:owned]: /term/owned

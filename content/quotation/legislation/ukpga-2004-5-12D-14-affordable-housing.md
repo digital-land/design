@@ -10,8 +10,11 @@ start-date: 2004-05-13
 entry-date: 2026-11-12
 ---
 
-In subsection (5) “**affordable housing**” means—
+In subsection (5) “**[affordable housing][term:affordable-housing]**” means—
 
-- (a) social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, and
+- (a) social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17], and
 
 - (b) any other description of housing that may be prescribed.
+
+[legislation:ukpga/2008/17]: /legislation/ukpga/2008/17
+[term:affordable-housing]: /term/affordable-housing

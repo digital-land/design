@@ -10,4 +10,6 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[statutory undertakers](term/statutory-undertakers)” includes electronic communications code operators and former PTOs.
+“[statutory undertakers][term:statutory-undertakers]” includes electronic communications code operators and former PTOs.
+
+[term:statutory-undertakers]: /term/statutory-undertakers

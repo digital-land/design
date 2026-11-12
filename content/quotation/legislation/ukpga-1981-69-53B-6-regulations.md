@@ -10,4 +10,6 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[regulations](term/regulations)” means regulations made by the Secretary of State by statutory instrument;
+“[regulations][term:regulations]” means regulations made by the Secretary of State by statutory instrument;
+
+[term:regulations]: /term/regulations

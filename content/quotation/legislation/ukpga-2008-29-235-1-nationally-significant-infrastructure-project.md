@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[nationally significant infrastructure project](term/nationally-significant-infrastructure-project)” has the meaning given by Part 3;
+“[nationally significant infrastructure project][term:nationally-significant-infrastructure-project]” has the meaning given by Part 3;
+
+[term:nationally-significant-infrastructure-project]: /term/nationally-significant-infrastructure-project

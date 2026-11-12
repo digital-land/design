@@ -10,12 +10,17 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-For the purposes of these Regulations, “[competent authority](term/competent-authority)” includes—
+For the purposes of these Regulations, “[competent authority][term:competent-authority]” includes—
 
-- (a) any Minister of the Crown (as defined in the Ministers of the Crown Act 1975 ), government department, statutory undertaker, public body of any description or person holding a public office;
+- (a) any Minister of [the Crown][term:the-crown] (as defined in the Ministers of [the Crown][term:the-crown] Act 1975 ), [government department][term:government-department], statutory undertaker, public body of any description or person holding a public office;
 
 - (b) the Welsh Ministers; ...
 
 - (c) any person exercising any function of a person mentioned in sub-paragraph (a) or (b) ; and
 
-- (d) an examining authority appointed under section 40 of the Infrastructure (Wales) Act 2024.
+- (d) an [examining authority][term:examining-authority] appointed under section 40 of the Infrastructure (Wales) Act 2024.
+
+[term:competent-authority]: /term/competent-authority
+[term:examining-authority]: /term/examining-authority
+[term:government-department]: /term/government-department
+[term:the-crown]: /term/the-crown

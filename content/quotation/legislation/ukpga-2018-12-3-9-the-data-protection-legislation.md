@@ -10,7 +10,7 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[The data protection legislation](term/the-data-protection-legislation)” means—
+“[The data protection legislation][term:the-data-protection-legislation]” means—
 
 - (a) the UK GDPR,
 
@@ -21,3 +21,5 @@ entry-date: 2026-11-12
 - (d) regulations made under this Act or the UK GDPR, ...
 
 - (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[term:the-data-protection-legislation]: /term/the-data-protection-legislation

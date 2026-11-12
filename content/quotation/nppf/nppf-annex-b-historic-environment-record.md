@@ -9,4 +9,6 @@ terms:
 entry-date: 2026-11-12
 ---
 
-Information services that seek to provide access to comprehensive and dynamic resources relating to the historic environment of a defined geographic area for public benefit and use.
+Information services that seek to provide access to comprehensive and dynamic resources relating to the [historic environment][term:historic-environment] of a defined geographic area for public benefit and use.
+
+[term:historic-environment]: /term/historic-environment

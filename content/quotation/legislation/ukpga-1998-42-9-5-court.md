@@ -10,4 +10,6 @@ start-date: 1998-11-09
 entry-date: 2026-11-12
 ---
 
-“[court](term/court)” includes a tribunal;
+“[court][term:court]” includes a tribunal;
+
+[term:court]: /term/court

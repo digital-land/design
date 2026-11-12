@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[conservation](term/conservation)” has the meaning given by Article 1(a) of the Habitats Directive;
+“[conservation][term:conservation]” has the meaning given by Article 1(a) of the Habitats Directive;
+
+[term:conservation]: /term/conservation

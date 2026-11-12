@@ -10,4 +10,6 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[mayor](term/mayor)”, in relation to the area of a CCA, means the mayor for the area of the CCA by virtue of regulations under section 27(1);
+“[mayor][term:mayor]”, in relation to the area of a CCA, means the mayor for the area of the CCA by virtue of regulations under section 27(1);
+
+[term:mayor]: /term/mayor

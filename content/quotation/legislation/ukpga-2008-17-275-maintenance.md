@@ -10,4 +10,6 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[maintenance](term/maintenance)” includes repair,
+“[maintenance][term:maintenance]” includes repair,
+
+[term:maintenance]: /term/maintenance

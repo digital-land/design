@@ -10,4 +10,6 @@ start-date: 1998-11-09
 entry-date: 2026-11-12
 ---
 
-“[amend](term/amend)” includes repeal and apply (with or without modifications);
+“[amend][term:amend]” includes repeal and apply (with or without modifications);
+
+[term:amend]: /term/amend

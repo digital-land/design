@@ -10,4 +10,6 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[information](term/information)” includes anything contained in any records, accounts, estimates or returns;
+“[information][term:information]” includes anything contained in any records, accounts, estimates or returns;
+
+[term:information]: /term/information

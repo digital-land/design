@@ -10,8 +10,10 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In section 208 “[development](term/development)” means—
+In section 208 “[development][term:development]” means—
 
 - (a) anything done by way of or for the purpose of the creation of a new building, or
 
 - (b) anything done to or in respect of an existing building.
+
+[term:development]: /term/development

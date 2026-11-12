@@ -10,14 +10,18 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-In this Part, “[planning authority](term/planning-authority)” means—
+In this Part, “[planning authority][term:planning-authority]” means—
 
-- (a) a local planning authority;
+- (a) a [local planning authority][term:local-planning-authority];
 
-- (ba) a local planning authority or minerals and waste planning authority for the purposes of Part 2 of the 2004 Act;
+- (ba) a [local planning authority][term:local-planning-authority] or minerals and waste planning authority for the purposes of Part 2 of the 2004 Act;
 
 - (c) a person appointed under paragraph 1 of Schedule 6 to the 1990 Act ;
 
-- (d) a government department in respect of its functions under the planning Acts; or
+- (d) a [government department][term:government-department] in respect of its functions under the planning Acts; or
 
 - (e) an appropriate authority in respect of its functions under the planning Acts.
+
+[term:government-department]: /term/government-department
+[term:local-planning-authority]: /term/local-planning-authority
+[term:planning-authority]: /term/planning-authority

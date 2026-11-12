@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[statutory undertakers](term/statutory-undertakers)” means any of the following, namely, any body who are statutory undertakers within the meaning provided by section 329(1) below, any universal service provider in connection with the provision of a universal postal service. . . . . . and the operator of an electronic communications code networkor a driver information network.
+“[statutory undertakers][term:statutory-undertakers]” means any of the following, namely, any body who are [statutory undertakers][term:statutory-undertakers] within the meaning provided by section 329(1) below, any universal service provider in connection with the provision of a universal postal service. . . . . . and the operator of an electronic communications code networkor a driver information network.
+
+[term:statutory-undertakers]: /term/statutory-undertakers

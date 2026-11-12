@@ -6,4 +6,6 @@ term-status: draft
 entry-date: '2026-11-12'
 ---
 
-The examination process under which a local plan is produced
+The examination process under which a [local plan][term:local-plan] is produced
+
+[term:local-plan]: /term/local-plan

@@ -10,4 +10,6 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[relevant authority](term/relevant-authority)” means a local housing authority or county council.
+“[relevant authority][term:relevant-authority]” means a local housing authority or county council.
+
+[term:relevant-authority]: /term/relevant-authority

@@ -10,4 +10,6 @@ start-date: 1979-07-16
 entry-date: 2026-11-12
 ---
 
-“[possession](term/possession)” includes receipt of rents and profits or the right to receive rents and profits (if any);
+“[possession][term:possession]” includes receipt of rents and profits or the right to receive rents and profits (if any);
+
+[term:possession]: /term/possession

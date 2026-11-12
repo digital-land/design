@@ -10,4 +10,6 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[operator](term/operator)”, in relation to a railway, means any person carrying on an undertaking which includes maintaining the permanent way;
+“[operator][term:operator]”, in relation to a railway, means any person carrying on an undertaking which includes maintaining the permanent way;
+
+[term:operator]: /term/operator

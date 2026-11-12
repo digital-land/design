@@ -10,4 +10,6 @@ start-date: 1988-03-15
 entry-date: 2026-11-12
 ---
 
-“[statutory undertaker](term/statutory-undertaker)” means—
+“[statutory undertaker][term:statutory-undertaker]” means—
+
+[term:statutory-undertaker]: /term/statutory-undertaker

@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[planning permission](term/planning-permission)” means permission under Part 3 or, in relation to England, Part 13 of TCPA 1990;
+“[planning permission][term:planning-permission]” means permission under Part 3 or, in relation to England, Part 13 of TCPA 1990;
+
+[term:planning-permission]: /term/planning-permission

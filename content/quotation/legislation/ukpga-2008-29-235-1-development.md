@@ -10,4 +10,6 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[development](term/development)” has the meaning given by section 32;
+“[development][term:development]” has the meaning given by section 32;
+
+[term:development]: /term/development

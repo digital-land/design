@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[representation](term/representation)” includes evidence and references to the making of a representation include the giving of evidence;
+“[representation][term:representation]” includes evidence and references to the making of a representation include the giving of evidence;
+
+[term:representation]: /term/representation

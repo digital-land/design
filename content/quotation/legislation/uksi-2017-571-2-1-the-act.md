@@ -10,4 +10,7 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-“[the Act](term/the-act)” means the Town and Country Planning Act 1990 ;
+“[the Act][term:the-act]” means the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] ;
+
+[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
+[term:the-act]: /term/the-act

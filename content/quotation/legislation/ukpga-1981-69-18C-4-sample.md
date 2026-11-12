@@ -10,4 +10,6 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[Sample](term/sample)” means a sample of blood, tissue or other biological material.
+“[Sample][term:sample]” means a sample of blood, tissue or other biological material.
+
+[term:sample]: /term/sample

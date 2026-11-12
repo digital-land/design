@@ -10,4 +10,6 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“[improve](term/improve)”, in relation to buildings, includes refurbish, equip and fit out;
+“[improve][term:improve]”, in relation to buildings, includes refurbish, equip and fit out;
+
+[term:improve]: /term/improve

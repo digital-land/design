@@ -10,8 +10,10 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[the court](term/the-court)” means—
+“[the court][term:the-court]” means—
 
 - in England and Wales, the High Court,
 - in Northern Ireland, the High Court, and
 - in Scotland, the Court of Session.
+
+[term:the-court]: /term/the-court

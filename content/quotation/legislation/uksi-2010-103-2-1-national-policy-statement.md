@@ -10,4 +10,6 @@ start-date: 2010-03-01
 entry-date: 2026-11-12
 ---
 
-“[national policy statement](term/national-policy-statement)” means a statement designated under section 5(1) (national policy statements);
+“[national policy statement][term:national-policy-statement]” means a statement designated under section 5(1) (national policy statements);
+
+[term:national-policy-statement]: /term/national-policy-statement

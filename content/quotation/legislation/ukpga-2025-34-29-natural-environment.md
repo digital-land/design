@@ -10,8 +10,10 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“**natural environment**”, in relation to land, includes—
+“**[natural environment][term:natural-environment]**”, in relation to land, includes—
 
 - its plants, animals and other living organisms,
 - their habitats, and
 - its geological features;
+
+[term:natural-environment]: /term/natural-environment

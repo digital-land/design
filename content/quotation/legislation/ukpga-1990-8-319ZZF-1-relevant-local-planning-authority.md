@@ -10,8 +10,11 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-In sections 319ZZC to section 319ZZE, “**relevant local planning authority**” means a local planning authority in England which is an authority to which sections 101 and 102 of the 1972 Act apply, except that it does not include—
+In sections 319ZZC to section 319ZZE, “**[relevant local planning authority][term:relevant-local-planning-authority]**” means a [local planning authority][term:local-planning-authority] in England which is an authority to which sections 101 and 102 of the 1972 Act apply, except that it does not include—
 
 - (a) a National Park authority, or
 
 - (b) the Broads Authority.
+
+[term:local-planning-authority]: /term/local-planning-authority
+[term:relevant-local-planning-authority]: /term/relevant-local-planning-authority

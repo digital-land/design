@@ -10,7 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In this section (except subsection (3)) and sections 216A(2) and 216B(2) “[infrastructure](term/infrastructure)” includes—
+In this section (except subsection (3)) and sections 216A(2) and 216B(2) “[infrastructure][term:infrastructure]” includes—
 
 - (a) roads and other transport facilities,
 
@@ -24,6 +24,10 @@ In this section (except subsection (3)) and sections 216A(2) and 216B(2) “[inf
 
 - (f) open spaces.
 
-- (fa) where the CIL is chargeable in respect of street vote development, affordable housing.
+- (fa) where the [CIL][abbreviation:cil] is chargeable in respect of street vote development, [affordable housing][term:affordable-housing].
 
 - (g) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[abbreviation:cil]: /abbreviation/cil
+[term:affordable-housing]: /term/affordable-housing
+[term:infrastructure]: /term/infrastructure

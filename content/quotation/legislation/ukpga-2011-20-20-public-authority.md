@@ -10,4 +10,8 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“[public authority](term/public-authority)” includes a Minister of the Crown or a government department;
+“[public authority][term:public-authority]” includes a Minister of [the Crown][term:the-crown] or a [government department][term:government-department];
+
+[term:government-department]: /term/government-department
+[term:public-authority]: /term/public-authority
+[term:the-crown]: /term/the-crown

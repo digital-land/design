@@ -10,4 +10,6 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-“[register](term/register)” means a register kept pursuant to section 39 (register of applications);
+“[register][term:register]” means a register kept pursuant to section 39 (register of applications);
+
+[term:register]: /term/register

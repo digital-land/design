@@ -10,7 +10,9 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[development](term/development)”, in relation to equipment, includes—
+“[development][term:development]”, in relation to equipment, includes—
 
 - research allowing for the development of equipment, and
 - development of industrial processes allowing for the production of equipment;
+
+[term:development]: /term/development

@@ -32,7 +32,7 @@ The following datasets are managed in this repository:
 * [content/extract](content/extract) — a quotation from legislation, policy or other source which defines or references one or more term
 * [content/legislation](content/legislation) — act or statutory instrument on legislation.gov.uk
 * [content/source](content/source) — a source of information
-* [content/topic](content/topic) — topic of data (also known as a "consideration")
+* [content/topic](content/topic) — topic of data (previously called a "consideration") which can be collective nouns (plural) covering a number of related classes / datasets
 * [content/theme](content/theme) — topic category (a "domain")
 * [content/user](content/user) — category of user of planning data "as a `user`"
 * [content/need](content/need) — "I need to consider `topic` when I `action`" 

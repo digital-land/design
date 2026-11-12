@@ -5,13 +5,7 @@ term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2021/30/section/62
 legislation: ukpga/2021/30
 definition: legislation:ukpga/2021/30/section/62
-quotation: |
-  “primary legislation” means—
-
-  - an Act of Parliament,
-  - a Measure or Act of Senedd Cymru,
-  - an Act of the Scottish Parliament, or
-  - Northern Ireland legislation;
+quotation: ukpga-2021-30-62-8-primary-legislation
 entry-date: 2026-11-12
 ---
 

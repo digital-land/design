@@ -4,8 +4,7 @@ name: Large-scale shared living accommodation
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
-quotation: |
-  Accommodation which provides private rooms alongside shared communal spaces and facilities. This type of accommodation does not constitute self-contained dwellings (use class C3), HMOs, student accommodation, hotels, or other residential institutions.
+quotation: nppf-annex-b-large-scale-shared-living-accommodation
 entry-date: 2026-11-12
 ---
 

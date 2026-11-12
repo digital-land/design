@@ -5,8 +5,7 @@ term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2010/103/rule/2#term-representation
 legislation: uksi/2010/103
 definition: legislation:uksi/2010/103/rule/2
-quotation: |
-  “representation” includes evidence and references to the making of a representation include the giving of evidence;
+quotation: uksi-2010-103-2-1-representation
 entry-date: 2026-11-12
 ---
 

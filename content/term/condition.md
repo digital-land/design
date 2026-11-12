@@ -5,8 +5,7 @@ term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/74A
 legislation: ukpga/1990/8
 definition: legislation:ukpga/1990/8/section/74A
-quotation: |
-  “condition” includes a limitation;
+quotation: ukpga-1990-8-74A-10-condition
 entry-date: 2026-11-12
 ---
 

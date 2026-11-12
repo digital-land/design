@@ -4,8 +4,7 @@ name: Ecosystem services
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
-quotation: |
-  Functions of the natural environment, that directly or indirectly provide benefits for people.
+quotation: nppf-annex-b-ecosystem-services
 entry-date: 2026-11-12
 ---
 

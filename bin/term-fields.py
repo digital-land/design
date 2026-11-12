@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add `definition` (a CURIE for the page holding the definition) and `quotation` (its original text) to terms.
+"""Add `definition` (a CURIE for the page holding the definition) and `quotation` (the reference of its quotation) to terms.
 
 The quotation is found by matching the term's `documentation-url` to a quotation file.
 """
@@ -41,27 +41,17 @@ def curie(url):
     return ""
 
 
-def clean(text, term):
-    """The text as written in the source: without our link to the term, or bold."""
-    text = re.sub(r"\[([^\]]*)\]\(term/" + re.escape(term) + r"\)", r"\1", text)
-    return re.sub(r"\*\*(.*?)\*\*", r"\1", text).strip()
-
-
 def quotations():
     out = {}
     for p in sorted((CONTENT / "quotation").rglob("*.md")):
-        head, body = read(p)
+        head, _ = read(p)
         if field(head, "role") != "definition":
             continue
         url = field(head, "url").split("#")[0]
         terms = re.findall(r"^- (.+)$", head.split("terms:", 1)[-1], re.M)
         for t in terms:
-            out.setdefault((t, url), body)
+            out.setdefault((t, url), field(head, "reference"))
     return out
-
-
-def literal(text):
-    return "quotation: |\n" + "\n".join(("  " + l) if l else "" for l in text.splitlines())
 
 
 def main():
@@ -72,8 +62,8 @@ def main():
         if field(head, "term-status") not in ("legislation", "guidance"):
             continue
         url = field(head, "documentation-url")
-        quote = quotes.get((ALIASES.get(f.stem, f.stem), url.split("#")[0]))
-        if not quote:
+        ref = quotes.get((ALIASES.get(f.stem, f.stem), url.split("#")[0]))
+        if not ref:
             missing.append(f.stem)
             continue
         lines = [l for l in head.splitlines()]
@@ -89,7 +79,7 @@ def main():
         at = max(
             [i for i, l in enumerate(keep) if l.startswith(("documentation-url:", "legislation:"))]
         )
-        keep[at + 1 : at + 1] = [f"definition: {curie(url)}", literal(clean(quote, ALIASES.get(f.stem, f.stem)))]
+        keep[at + 1 : at + 1] = [f"definition: {curie(url)}", f"quotation: {ref}"]
         f.write_text("---\n" + "\n".join(keep) + "\n---\n" + body, encoding="utf-8")
     print(f"{len(missing)} terms without a matching quotation: {' '.join(missing)}", file=sys.stderr)
 

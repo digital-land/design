@@ -4,8 +4,7 @@ name: Designated heritage asset
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
-quotation: |
-  A World Heritage Site, Scheduled Monument, Listed Building, Protected Wreck Site, Registered Park and Garden, Registered Battlefield or Conservation Area designated under the relevant legislation or the UNESCO World Heritage Convention.
+quotation: nppf-annex-b-designated-heritage-asset
 entry-date: 2026-11-12
 ---
 

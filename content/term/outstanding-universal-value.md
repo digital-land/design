@@ -4,8 +4,7 @@ name: Outstanding Universal Value
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
-quotation: |
-  Cultural and/or natural significance which is so exceptional as to transcend national boundaries and to be of common importance for present and future generations. An individual Statement of Outstanding Universal Value is agreed and adopted by the UNESCO World Heritage Committee for each World Heritage Site.
+quotation: nppf-annex-b-outstanding-universal-value
 entry-date: 2026-11-12
 ---
 

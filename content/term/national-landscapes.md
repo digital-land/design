@@ -4,8 +4,7 @@ name: National Landscapes
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
-quotation: |
-  Areas legally designated as areas of outstanding natural beauty under the National Parks and Access to the Countryside Act 1949 and Countryside and Rights of Way Act 2000.
+quotation: nppf-annex-b-national-landscapes
 entry-date: 2026-11-12
 ---
 

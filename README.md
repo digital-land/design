@@ -69,7 +69,7 @@ Terms also have:
 - `term-status` — where the text comes from: `legislation`, `guidance` or `draft`
 - `legislation` — the reference of the Act or statutory instrument in [content/legislation](content/legislation), for terms defined in legislation
 - `definition` — a CURIE for the legislation or GOV.UK page containing the authoritative definition, for example `legislation:ukpga/1990/8/section/55` or `govuk:guidance/viability`
-- `quotation` — the original text of that definition
+- `quotation` — the reference of the quotation in [content/quotation](content/quotation) holding the original text of that definition
 
 Markdown files should match a lower-case version of the reference, with spaces and other special characters 
 not representable in a filename replaced with a hyphen.

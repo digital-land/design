@@ -5,11 +5,7 @@ term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2004/5/section/12X
 legislation: ukpga/2004/5
 definition: legislation:ukpga/2004/5/section/12X
-quotation: |
-  “unitary authority” means—
-
-  - a county council for an area that does not include the areas of district councils, or
-  - a district council for an area that does not form part of the area of a county council;
+quotation: ukpga-2004-5-12X-1-unitary-authority
 entry-date: 2026-11-12
 ---
 

@@ -39,7 +39,7 @@ _FILES = {}
 def exists(kind, target):
     """True if content/<kind>/**/<target>.md exists (directories may be sharded)."""
     if kind not in _FILES:
-        _FILES[kind] = {p.stem for p in (CONTENT / kind).rglob("*.md")}
+        _FILES[kind] = {slug(p.stem) for p in (CONTENT / kind).rglob("*.md")}
     return slug(target) in _FILES[kind]
 
 
@@ -75,8 +75,11 @@ def check(path, errors, warnings):
                 errors.append(f"{where}: term-status {status} needs a definition CURIE")
             elif not (CONTENT / "prefix" / f"{prefix}.md").exists():
                 errors.append(f"{where}: definition prefix {prefix!r} not in content/prefix")
-            if not fm.get("quotation"):
-                errors.append(f"{where}: term-status {status} needs the original quotation")
+            q = str(fm.get("quotation") or "")
+            if not q:
+                errors.append(f"{where}: term-status {status} needs a quotation reference")
+            elif not exists("quotation", q):
+                errors.append(f"{where}: quotation {q} not in content/quotation")
         if status == "legislation":
             leg = str(fm.get("legislation") or "")
             if not leg:

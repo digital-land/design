@@ -1,0 +1,9 @@
+---
+reference: condition
+name: Condition
+term-status: legislation
+documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/74A
+entry-date: 2026-11-12
+---
+
+“condition” includes a limitation;

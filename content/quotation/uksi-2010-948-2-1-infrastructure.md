@@ -1,0 +1,13 @@
+---
+reference: uksi-2010-948-2-1-infrastructure
+name: The Community Infrastructure Levy Regulations 2010, regulation 2
+url: https://www.legislation.gov.uk/uksi/2010/948/regulation/2
+source-class: legislation
+role: reference
+terms:
+- infrastructure
+start-date: 2010-04-06
+entry-date: 2026-11-12
+---
+
+“**infrastructure**” has the meaning given in section 216(2) of PA 2008 as amended by regulation 63;

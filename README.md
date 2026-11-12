@@ -1,4 +1,4 @@
-# Planning Data design content and ontology
+# Planning Data design concept model and associated content
 
 This repository contains the content, terms, data models and information 
 used to design planning data for https://planning.data.gov.uk
@@ -6,7 +6,7 @@ and is presented at https://design.planning.data.gov.uk
 
 ## Content structure
 
-The content is maintaind as individual markdown files in the [content](content/) directory
+The content is maintained as individual markdown files in the [content](content/) directory
 which are designed to be edited using markdown or text editor.
 Collectively the content directory is an [Obsidian](https://obsidian.md/) vault.
 
@@ -29,7 +29,7 @@ The content in this repository will be used to generate specifications and other
 The following datasets are managed in this repository:
 
 * [content/term](content/term) — a term used in data and on the platform, with synomyms, abbreviations, and acronyms
-* [content/quotation](content/quotation) — a quotation from legislation, policy or other source which references one or more term
+* [content/extract](content/extract) — a quotation from legislation, policy or other source which defines or references one or more term
 * [content/legislation](content/legislation) — act or statutory instrument on legislation.gov.uk
 * [content/source](content/source) — a source of information
 * [content/topic](content/topic) — topic of data (also known as a "consideration")
@@ -55,6 +55,7 @@ The properties in frontmatter are defined in the specification https://github.co
 - [name](content/field/name.md) — a displayed singular name for the item
 - [plural](content/field/plural.md) — a displayed name for a collectino of the items
 - [start-date](content/field/start-date.md) — the date the entity applies from
+- [made-date](content/field/made-date.md) — the date the entity was created, enacted or made
 - [end-date](content/field/end-date.md) — the last date the entity applied until, otherwise blank
 - [entry-date](content/field/entry-date.md) — the timestamp when the data was created or modified
 - [documentation-url](content/field/documentation-url.md) — webpage describing the entity
@@ -63,7 +64,7 @@ The properties in frontmatter are defined in the specification https://github.co
 Markdown files should match a lower-case version of the reference, with spaces and other special characters 
 not representable in a filename replaced with a hyphen.
 Unknown values should be left blank, empty properties don't need to be included in the markdown files.
-Dates and other datatypes are defined in the specifcation.
+Dates and other datatypes are defined in the specification.
 
 
 ## Development

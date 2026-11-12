@@ -66,6 +66,10 @@ show them side by side and record which one we adopt in the term's `description`
 - Step 6: started — `make review` writes `notes/dataset-review.md` comparing dataset descriptions with sourced definitions; descriptions not yet replaced
 - Steps 7 and 8: not started
 
+Legislation picks: terms are only taken from planning legislation (`planning()` in `bin/build-terms.py`),
+and `notes/ignore-terms.txt` lists generic words (address, document, company) whose statutory definitions are sense-specific.
+`python3 bin/build-terms.py --rebuild` regenerates terms that are still the unedited text of a quotation.
+
 ## Steps
 
 ### 1. Fix the foundations

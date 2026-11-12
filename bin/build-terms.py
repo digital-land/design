@@ -40,6 +40,24 @@ def read(path):
     return fm, m.group(2).strip()
 
 
+PLANNING_ACTS = (
+    "/ukpga/1990/8/", "/ukpga/1990/9/", "/ukpga/2004/5/", "/ukpga/2008/29/",
+    "/ukpga/2011/20/", "/ukpga/2013/27/", "/ukpga/2016/22/", "/ukpga/2017/20/",
+    "/ukpga/2023/55/", "/ukpga/2025/34/", "/ukpga/2021/30/", "/ukpga/1979/46/",
+)
+PLANNING_NAME = re.compile(
+    r"Planning|Neighbourhood|Community Infrastructure|Brownfield|Biodiversity Gain|"
+    r"Heritage|Hedgerows|Habitats|Environmental Impact|Permitted Development", re.I
+)
+
+
+def planning(fm):
+    """True if the quotation is from legislation about planning, not general law."""
+    return any(a in fm["url"] for a in PLANNING_ACTS) or bool(
+        "/uksi/" in fm["url"] and PLANNING_NAME.search(fm["name"])
+    )
+
+
 def score(fm, body):
     n = 0
     first = body.lstrip()[:1]
@@ -67,8 +85,29 @@ def deleted():
     return {Path(l).stem for l in log.split()}
 
 
+def unlink(term):
+    """Remove links to a deleted term from datasets."""
+    for f in (CONTENT / "dataset").glob("*.md"):
+        text = f.read_text(encoding="utf-8")
+        new = re.sub(rf"^term: {re.escape(term)}\n", "", text, count=1, flags=re.M)
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+
+
+def generated(path, qs, term):
+    """True if the term file is the unedited text of one of its quotations."""
+    _, body = read(path)
+    return any(body == clean(b, term) or body == b for _, b in qs)
+
+
 def main():
+    rebuild = "--rebuild" in sys.argv
     skip = deleted()
+    ignore = {
+        l.strip()
+        for l in Path("notes/ignore-terms.txt").read_text().splitlines()
+        if l.strip() and not l.startswith("#")
+    }
     quotes = {}
     for p in sorted((CONTENT / "quotation").glob("*.md")):
         fm, body = read(p)
@@ -78,14 +117,19 @@ def main():
     created, unresolved = 0, []
     for term, qs in sorted(quotes.items()):
         out = CONTENT / "term" / f"{term}.md"
-        if out.exists() or term in skip:
+        if term in skip:
             continue
+        if out.exists():
+            if not (rebuild and generated(out, qs, term)):
+                continue
         leg = [
             (score(fm, b), fm, b)
             for fm, b in qs
             if fm.get("role") == "definition" and fm.get("source-class") == "legislation"
         ]
-        leg = [x for x in leg if x[0] >= 0]
+        leg = [x for x in leg if x[0] >= 0 and planning(x[1])]
+        if term in ignore:
+            leg = []
         nppf = [
             (fm, b)
             for fm, b in qs
@@ -104,6 +148,9 @@ def main():
             name = fm["name"].split("Glossary, ", 1)[-1]
         else:
             unresolved.append(term)
+            if out.exists():  # was generated from a quotation no longer acceptable
+                out.unlink()
+                unlink(term)
             continue
         name = name[:1].upper() + name[1:]
         out.write_text(

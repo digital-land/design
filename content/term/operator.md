@@ -2,11 +2,17 @@
 reference: operator
 name: Operator
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/2008/17/section/57#term-operator
+documentation-url: https://www.legislation.gov.uk/uksi/2012/2920/regulation/15#term-operator
 entry-date: 2026-11-12
 ---
 
-“operator”, in relation to an electronic communications code network means—
+“operator”, in relation to a mining or a landfill site, means—
 
-- the electronic communications code operator providing that network, or
-- the Secretary of State, so far as the Secretary of State is providing or proposing to provide that network,
+- the person—
+
+ - carrying out operations on the land consisting of the winning and working of minerals;
+ - using the land for the deposit of mineral waste;
+ - carrying out operations on the land for the purposes of, or using the land as, a waste disposal site for the deposit of waste onto or into the land; or
+ - carrying out on the land other works to which a condition attached to a mineral permission or landfill permission relates;
+- where there is more than one person carrying out the operations, works or using the land in a way described in sub-paragraph (a), the person in overall control of the mining site, landfill site or, where a site is both a mining site and a landfill site, the mining site and the landfill site, as the case may be; or
+- where there is no person who falls within the description in sub-paragraph (a) or (b), the owner of the site; and

@@ -2,8 +2,8 @@
 reference: designated-area
 name: Designated area
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/2008/17/section/13#term-designated-area
+documentation-url: https://www.legislation.gov.uk/uksi/2015/595/article/9#term-designated-area
 entry-date: 2026-11-12
 ---
 
-“designated area” means an area designated by a designation order,
+“designated area” means—

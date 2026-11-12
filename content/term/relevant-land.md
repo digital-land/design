@@ -2,8 +2,8 @@
 reference: relevant-land
 name: Relevant land
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/1972/70/section/128H
+documentation-url: https://www.legislation.gov.uk/ukpga/1990/9/section/47#term-relevant-land
 entry-date: 2026-11-12
 ---
 
-“relevant land” means the land identified in the application for a statutory trust discharge order as the land relation to which the order is being sought;
+“relevant land”, in relation to any building, means the land comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.

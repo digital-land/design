@@ -2,8 +2,8 @@
 reference: improvement
 name: Improvement
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/1980/66/section/329#term-improvement
+documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/226
 entry-date: 2026-11-12
 ---
 
-“improvement” means the doing of any act under powers conferred by Part V of this Act and includes the erection, maintenance, alteration and removal of traffic signs, and the freeing of a highway or road-ferry from tolls;
+In the application of subsections (1) and (1A) in England, “improvement” includes regeneration.

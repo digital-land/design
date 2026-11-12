@@ -2,7 +2,7 @@
 reference: habitats-site
 name: Habitats site
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/1991/56/section/96L
+documentation-url: https://www.legislation.gov.uk/ukpga/2023/55/section/168
 entry-date: 2026-11-12
 ---
 

@@ -1,7 +1,6 @@
 ---
 reference: heritage-asset
-name: "Heritage asset"
-plural: "Heritage assets"
+name: Heritage asset
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 entry-date: 2026-11-12

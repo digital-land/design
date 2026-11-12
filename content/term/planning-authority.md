@@ -1,9 +1,0 @@
----
-reference: planning-authority
-name: Planning authority
-term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/1994/21/section/41#term-planning-authority
-entry-date: 2026-11-12
----
-
-“planning authority” means any local planning authority within the meaning of the Town and Country Planning Act 1990 and any corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021, or any planning authority within the meaning of Part IX of the Local Government (Scotland) Act 1973; and

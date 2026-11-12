@@ -2,8 +2,8 @@
 reference: london-borough
 name: London borough
 term-status: legislation
-documentation-url: https://www.legislation.gov.uk/ukpga/1980/66/section/45#term-london-borough
+documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-london-borough
 entry-date: 2026-11-12
 ---
 
-“London borough” includes the City of London.
+“London borough” includes the City of London, references to the council of a London borough or the clerk to such a council being construed, in relation to the City, as references to the Common Council of the City and the town clerk of the City respectively;

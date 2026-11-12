@@ -1,6 +1,6 @@
 ---
 reference: govuk-government-publications-permitted-development-rights-response-to-the-select-committee-report-permitted-development-rights-response-to-the-select
-name: 'Permitted development rights: response to the Select Committee report'
+name: "'Permitted development rights: response to the Select Committee report'"
 url: https://www.gov.uk/government/publications/permitted-development-rights-response-to-the-select-committee-report/permitted-development-rights-response-to-the-select-committee-report#government-response-to-recommendations
 source-class: GOV.UK
 role: use

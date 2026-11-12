@@ -1,6 +1,6 @@
 ---
 reference: govuk-guidance-design-design-code
-name: 'Design: process and tools'
+name: "'Design: process and tools'"
 url: https://www.gov.uk/guidance/design#what-are-design-codes
 source-class: GOV.UK
 role: definition

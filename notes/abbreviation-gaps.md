@@ -5,19 +5,12 @@ but there is no term yet. Add the term, then rerun the script to create the abbr
 
 | Abbreviation | Expansion | Pages |
 | --- | --- | --- |
-| NPPF | national planning policy framework | 10 |
-| CIL | community infrastructure levy | 8 |
-| EIA | environmental impact assessment | 6 |
-| BNG | biodiversity net gain | 4 |
-| ES | environmental statement | 3 |
 | MMO | marine management organisation | 3 |
 | BID | business improvement district | 3 |
 | AI | use of artificial intelligence | 3 |
 | CWS | county wildlife sites | 2 |
-| NSIP | nationally significant infrastructure project | 2 |
 | CULP | create and update a local plan | 2 |
 | CIL | level of neighbourhood community infrastructure levy | 2 |
-| DAD | design approach document | 2 |
 | FRA | grants functional standards on fraud risk assessment | 2 |
 | DESNZ | department for energy security and net zero | 2 |
 | EWR | east west rail | 2 |
@@ -28,8 +21,6 @@ but there is no term yet. Add the term, then rerun the script to create the abbr
 | SSSI | sites of special scientific interest | 2 |
 | IAPI | examining authority s initial assessment of principal issues | 2 |
 | PADSS | principal areas of disagreement summary statements | 2 |
-| DCO | development consent order | 2 |
 | EM | explanatory memorandum | 2 |
 | RIAA | report to inform appropriate assessment | 2 |
-| HRA | habitats regulations assessment | 2 |
 | CIL | cost implications of the community infrastructure levy | 2 |

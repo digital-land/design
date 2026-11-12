@@ -2,6 +2,7 @@
 reference: planning-obligation
 name: "Planning obligation"
 plural: "Planning obligations"
+term-status: draft
 entry-date: 2026-11-12
 ---
 Planning obligation is used to describe a specific legal mechanism, 

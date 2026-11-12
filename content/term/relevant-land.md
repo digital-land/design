@@ -3,6 +3,7 @@ reference: relevant-land
 name: Relevant land
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/9/section/47#term-relevant-land
+legislation: ukpga/1990/9
 entry-date: 2026-11-12
 ---
 

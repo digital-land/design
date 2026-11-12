@@ -3,6 +3,7 @@ reference: listed-building
 name: Listed building
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/9/section/1#term-listed-building
+legislation: ukpga/1990/9
 entry-date: 2026-11-12
 ---
 

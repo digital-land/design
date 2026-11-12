@@ -3,6 +3,7 @@ reference: listed-building-consent
 name: Listed building consent
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2025/34/section/43
+legislation: ukpga/2025/34
 entry-date: 2026-11-12
 ---
 

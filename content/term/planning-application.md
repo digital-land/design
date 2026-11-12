@@ -3,6 +3,7 @@ reference: planning-application
 name: Planning application
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2025/34/section/30#term-planning-application
+legislation: ukpga/2025/34
 entry-date: 2026-11-12
 ---
 

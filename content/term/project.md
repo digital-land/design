@@ -3,6 +3,7 @@ reference: project
 name: Project
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2023/55/section/154#term-project
+legislation: ukpga/2023/55
 entry-date: 2026-11-12
 ---
 

@@ -75,6 +75,12 @@ def clean(text, term):
     return re.sub(r"\*\*(.*?)\*\*", r"\1", text)
 
 
+def legislation(url):
+    """Reference of the legislation entity, e.g. ukpga/1990/8, from a legislation.gov.uk URL."""
+    m = re.search(r"legislation\.gov\.uk/((?:id/)?[a-z]+/\d{4}/\d+)", url)
+    return m.group(1).removeprefix("id/") if m else ""
+
+
 def deleted():
     """Terms removed from the repository on purpose; do not recreate them."""
     log = subprocess.run(
@@ -174,6 +180,11 @@ def main():
                     *([f"plural: {yaml(plural)}"] if plural else []),
                     f"term-status: {status}",
                     f"documentation-url: {fm['url']}",
+                    *(
+                        [f"legislation: {legislation(fm['url'])}"]
+                        if status == "legislation"
+                        else []
+                    ),
                     f"entry-date: {today}",
                     "---",
                     "",

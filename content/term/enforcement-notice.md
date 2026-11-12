@@ -3,6 +3,7 @@ reference: enforcement-notice
 name: Enforcement notice
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-enforcement-notice
+legislation: ukpga/1990/8
 entry-date: 2026-11-12
 ---
 

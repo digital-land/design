@@ -3,6 +3,7 @@ reference: european-site
 name: European site
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2017/571/regulation/2#term-european-site
+legislation: uksi/2017/571
 entry-date: 2026-11-12
 ---
 

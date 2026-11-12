@@ -3,6 +3,7 @@ reference: unitary-authority
 name: Unitary authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2004/5/section/12X
+legislation: ukpga/2004/5
 entry-date: 2026-11-12
 ---
 

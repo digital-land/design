@@ -68,6 +68,12 @@ def check(path, errors, warnings):
             errors.append(f"{where}: term-status must be one of {sorted(TERM_STATUS)}")
         elif status != "draft" and not fm.get("documentation-url"):
             errors.append(f"{where}: term-status {status} needs a documentation-url")
+        if status == "legislation":
+            leg = str(fm.get("legislation") or "")
+            if not leg:
+                errors.append(f"{where}: term-status legislation needs a legislation reference")
+            elif not (CONTENT / "legislation" / f"{leg.replace('/', '-')}.md").exists():
+                errors.append(f"{where}: legislation {leg} not in content/legislation")
         if not body.strip():
             errors.append(f"{where}: no definition text")
     listed = fm.get("terms") or []

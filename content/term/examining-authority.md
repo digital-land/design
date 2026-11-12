@@ -3,6 +3,7 @@ reference: examining-authority
 name: Examining authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2010/103/rule/2#term-examining-authority
+legislation: uksi/2010/103
 entry-date: 2026-11-12
 ---
 

@@ -3,6 +3,7 @@ reference: marine-licence
 name: Marine licence
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2025/34/section/44
+legislation: ukpga/2025/34
 entry-date: 2026-11-12
 ---
 

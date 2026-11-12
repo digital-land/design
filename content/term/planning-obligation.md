@@ -4,6 +4,7 @@ name: "Planning obligation"
 plural: "Planning obligations"
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/106#term-a-planning-obligation
+legislation: ukpga/1990/8
 entry-date: 2026-11-12
 ---
 

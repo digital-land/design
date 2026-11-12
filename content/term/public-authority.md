@@ -3,6 +3,7 @@ reference: public-authority
 name: Public authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2011/20/section/51#term-public-authority
+legislation: ukpga/2011/20
 entry-date: 2026-11-12
 ---
 

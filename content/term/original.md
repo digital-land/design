@@ -3,6 +3,7 @@ reference: original
 name: Original
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2015/596/article/2#term-original
+legislation: uksi/2015/596
 entry-date: 2026-11-12
 ---
 

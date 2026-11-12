@@ -3,6 +3,7 @@ reference: competent-authority
 name: Competent authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2017/1013/regulation/5#term-competent-authority
+legislation: uksi/2017/1013
 entry-date: 2026-11-12
 ---
 

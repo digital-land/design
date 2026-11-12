@@ -3,6 +3,7 @@ reference: local-planning-authority
 name: Local planning authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2015/596/article/4#term-local-planning-authority
+legislation: uksi/2015/596
 entry-date: 2026-11-12
 ---
 

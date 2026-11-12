@@ -3,6 +3,7 @@ reference: neighbourhood-plan
 name: Neighbourhood plan
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2012/2031/regulation/2#term-neighbourhood-plan
+legislation: uksi/2012/2031
 entry-date: 2026-11-12
 ---
 

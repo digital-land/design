@@ -3,6 +3,7 @@ reference: national-policy-statement
 name: National policy statement
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2010/103/rule/2#term-national-policy-statement
+legislation: uksi/2010/103
 entry-date: 2026-11-12
 ---
 

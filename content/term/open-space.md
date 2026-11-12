@@ -3,6 +3,7 @@ reference: open-space
 name: Open space
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-open-space
+legislation: ukpga/1990/8
 entry-date: 2026-11-12
 ---
 

@@ -3,6 +3,7 @@ reference: environmental-information
 name: Environmental information
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2017/572/regulation/3#term-environmental-information
+legislation: uksi/2017/572
 entry-date: 2026-11-12
 ---
 

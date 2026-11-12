@@ -3,6 +3,7 @@ reference: the-land
 name: The land
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2008/29/section/41#term-the-land
+legislation: ukpga/2008/29
 entry-date: 2026-11-12
 ---
 

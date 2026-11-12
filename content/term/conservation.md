@@ -3,6 +3,7 @@ reference: conservation
 name: Conservation
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2021/30/section/119#term-conservation
+legislation: ukpga/2021/30
 entry-date: 2026-11-12
 ---
 

@@ -3,6 +3,7 @@ reference: environmental-protection
 name: Environmental protection
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2023/55/section/152#term-environmental-protection
+legislation: ukpga/2023/55
 entry-date: 2026-11-12
 ---
 

@@ -3,6 +3,7 @@ reference: land
 name: Land
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2004/5/section/33A
+legislation: ukpga/2004/5
 entry-date: 2026-11-12
 ---
 

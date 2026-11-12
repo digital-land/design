@@ -3,6 +3,7 @@ reference: england
 name: England
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2021/30/section/109#term-england
+legislation: ukpga/2021/30
 entry-date: 2026-11-12
 ---
 

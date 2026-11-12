@@ -4,6 +4,7 @@ name: Nationally significant infrastructure project
 plural: Nationally significant infrastructure projects
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2008/29/section/14#term-nationally-significant-infrastructure-project
+legislation: ukpga/2008/29
 entry-date: 2026-11-12
 ---
 

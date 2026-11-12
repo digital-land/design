@@ -1,6 +1,6 @@
 ---
 reference: community-infrastructure-levy
-name: Community Infrastructure Levy
+name: Community infrastructure levy
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/community-infrastructure-levy
 entry-date: 2026-11-12

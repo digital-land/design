@@ -3,6 +3,7 @@ reference: affordable-housing
 name: Affordable housing
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/2008/29/section/216
+legislation: ukpga/2008/29
 entry-date: 2026-11-12
 ---
 

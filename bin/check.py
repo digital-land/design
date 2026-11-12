@@ -9,7 +9,7 @@ from pathlib import Path
 import yaml
 
 CONTENT = Path("content")
-TERM_STATUS = {"draft", "guidance", "legislation"}
+TERM_STATUS = {p.stem for p in (CONTENT / "term-status").glob("*.md")}
 DATES = ("made-date", "start-date", "end-date", "entry-date")
 LINK = re.compile(r"\]\(/?([a-z-]+)/([^)\s#]+)")
 LINKED = {"term", "abbreviation", "legislation", "quotation", "source"}

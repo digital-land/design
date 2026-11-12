@@ -1,6 +1,6 @@
-# Planning Data design concept model and associated content
+# Planning Data design concept model
 
-This repository contains the content, terms, data models and information 
+This repository contains the terms, definitions, data models, information, and content
 used to design planning data for https://planning.data.gov.uk
 and is presented at https://design.planning.data.gov.uk 
 

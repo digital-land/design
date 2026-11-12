@@ -13,6 +13,7 @@ Collectively the content directory is an [Obsidian](https://obsidian.md/) vault.
 Each markdown file contains dataset fields as front-matter, with the markdown block being the "text" field.
 
 Each sub-directory in the content directory contains markdwon files of the same type, one file per-entity.
+Large directories are sharded into sub-directories, for example [content/quotation](content/quotation) is split into `govuk/`, `nppf/` and `legislation/`.
 The markdown files in each sub-directory are complied into a CSV files in the [dataset/] directory by the 
 make process.
 

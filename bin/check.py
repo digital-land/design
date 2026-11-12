@@ -33,6 +33,16 @@ def valid_date(v):
     return bool(re.fullmatch(r"\d{4}-\d\d-\d\d(T\d\d:\d\d:\d\dZ)?", str(v)))
 
 
+_FILES = {}
+
+
+def exists(kind, target):
+    """True if content/<kind>/**/<target>.md exists (directories may be sharded)."""
+    if kind not in _FILES:
+        _FILES[kind] = {p.stem for p in (CONTENT / kind).rglob("*.md")}
+    return slug(target) in _FILES[kind]
+
+
 def check(path, errors, warnings):
     where = str(path)
     try:
@@ -43,7 +53,7 @@ def check(path, errors, warnings):
     if fm is None:
         errors.append(f"{where}: no front-matter")
         return
-    kind = path.parent.name
+    kind = path.relative_to(CONTENT).parts[0]
     ref = fm.get("reference")
     if kind != "datatype" and not ref:
         errors.append(f"{where}: no reference")
@@ -64,14 +74,16 @@ def check(path, errors, warnings):
         if not (CONTENT / "term" / f"{t}.md").exists():
             warnings.append(f"{where}: unknown term {t}")
     for kind_, target in LINK.findall(body):
-        if kind_ in LINKED and not (CONTENT / kind_ / f"{slug(target)}.md").exists():
+        if kind_ in LINKED and not exists(kind_, target):
             warnings.append(f"{where}: broken link {kind_}/{target}")
 
 
 def main():
     strict = "--strict" in sys.argv
     errors, warnings = [], []
-    paths = sorted(p for p in CONTENT.glob("*/*.md") if p.parent.name != "snapshot")
+    paths = sorted(
+        p for p in CONTENT.glob("*/**/*.md") if p.relative_to(CONTENT).parts[0] != "snapshot"
+    )
     seen = {}
     for p in paths:
         check(p, errors, warnings)
@@ -81,7 +93,7 @@ def main():
             continue
         ref = (fm or {}).get("reference")
         if ref:
-            key = (p.parent.name, str(ref).lower())
+            key = (p.relative_to(CONTENT).parts[0], str(ref).lower())
             if key in seen:
                 errors.append(f"{p}: duplicate reference also in {seen[key]}")
             seen[key] = p

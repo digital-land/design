@@ -131,7 +131,7 @@ def collect(cache, legislation, wanted):
 def nppf_terms():
     return {
         t
-        for f in Path("content/quotation").glob("nppf-annex-b-*.md")
+        for f in Path("content/quotation/nppf").glob("nppf-annex-b-*.md")
         for t in re.findall(r"^- (.+)$", f.read_text(), re.M)
     }
 
@@ -167,7 +167,7 @@ def main():
     ap.add_argument("--max-per-term", type=int, default=8, help="quotations kept per term")
     ap.add_argument("-c", "--cache", default="var/cache/legislation", type=Path)
     ap.add_argument("-l", "--legislation", default="content/legislation", type=Path)
-    ap.add_argument("-o", "--output", default="content/quotation", type=Path)
+    ap.add_argument("-o", "--output", default="content/quotation/legislation", type=Path)
     args = ap.parse_args()
     wanted = None if args.all else {slug(t) for t in args.terms}
     found = collect(args.cache, args.legislation, wanted)

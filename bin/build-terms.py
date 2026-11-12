@@ -96,7 +96,9 @@ def unlink(term):
 
 def generated(path, qs, term):
     """True if the term file is the unedited text of one of its quotations."""
-    _, body = read(path)
+    fm, body = read(path)
+    if fm.get("plural"):  # generated terms have no plural; this one has been edited
+        return False
     return any(body == clean(b, term) or body == b for _, b in qs)
 
 
@@ -109,7 +111,7 @@ def main():
         if l.strip() and not l.startswith("#")
     }
     quotes = {}
-    for p in sorted((CONTENT / "quotation").glob("*.md")):
+    for p in sorted((CONTENT / "quotation").rglob("*.md")):
         fm, body = read(p)
         for t in fm.get("terms", []):
             quotes.setdefault(t, []).append((fm, body))
@@ -147,7 +149,11 @@ def main():
             fm, body = nppf[0]
             status = "guidance"
             text = body
-            name = fm["name"].split("Glossary, ", 1)[-1]
+            name = (
+                fm["name"].split("Glossary, ", 1)[1]
+                if "Glossary, " in fm["name"]
+                else term.replace("-", " ")
+            )
         else:
             unresolved.append(term)
             if out.exists() and not draft:  # was generated from a quotation no longer acceptable

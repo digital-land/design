@@ -23,7 +23,7 @@ def main():
     OUT.mkdir(exist_ok=True)
     for d in sorted(p for p in CONTENT.iterdir() if p.is_dir()):
         rows = []
-        for f in sorted(d.glob("*.md")):
+        for f in sorted(d.rglob("*.md")):
             fm, body = read(f)
             fm = {
                 k: "; ".join(map(str, v)) if isinstance(v, list) else v

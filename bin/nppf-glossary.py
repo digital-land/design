@@ -33,7 +33,7 @@ def entries(text):
 
 
 def main():
-    out = Path("content/quotation")
+    out = Path("content/quotation/nppf")
     today = date.today().isoformat()
     count = 0
     for name, text in entries(SNAPSHOT.read_text(encoding="utf-8")):

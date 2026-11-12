@@ -86,7 +86,7 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 2. Extend `legislation2md.py` (or a new `bin/legislation-terms.py`) to emit one record per `<Term>` definition:
    term text, section reference, the defining paragraph as the quotation, the instrument, the in-force date.
 3. Also capture "means" / "includes" interpretation clauses that lack `<Term>` markup (e.g. section 336 of the 1990 Act).
-4. Write quotations to `content/quotation/<instrument>-<section>-<term>.md`; create a stub term if none exists.
+4. Write quotations to `content/quotation/legislation/<instrument>-<section>-<term>.md`; create a stub term if none exists.
 5. Where the best definition is legislation, set the term's text to it, `term-status: legislation` and `documentation-url` to the section.
 6. Normalise term text: lower-case, singular, strip qualifiers like "(England)"; keep original wording as `alias`.
 7. Handle amendments: use the current version, record the `start-date`; flag definitions repealed or superseded.

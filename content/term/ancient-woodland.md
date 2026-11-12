@@ -1,6 +1,7 @@
 ---
 reference: ancient-woodland
 name: Ancient woodland
+entry-date: 2026-11-12
 ---
 An [area](term/area) that has been [wooded](term/wooded) continuously since at least 1600 AD.
 It includes [ancient semi-natural woodland](term/ancient-semi-natural-woodland) ([ASNW](abbreviation/ASWN),

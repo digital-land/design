@@ -5,22 +5,23 @@ but there is no term yet. Add the term, then rerun the script to create the abbr
 
 | Abbreviation | Expansion | Pages |
 | --- | --- | --- |
-| MMO | marine management organisation | 3 |
+| EIA | environmental impact assessment | 6 |
 | BID | business improvement district | 3 |
 | AI | use of artificial intelligence | 3 |
-| CWS | county wildlife sites | 2 |
-| CULP | create and update a local plan | 2 |
+| MMO | marine management organisation | 3 |
+| EV | pdrs to support the deployment of electric vehicle | 2 |
+| RAAC | schools affected by reinforced autoclaved aerated concrete | 2 |
+| ACV | assets of community value | 2 |
+| SSSI | sites of special scientific interest | 2 |
+| EWR | east west rail | 2 |
 | CIL | level of neighbourhood community infrastructure levy | 2 |
+| RICS | royal institution of chartered surveyors | 2 |
 | FRA | grants functional standards on fraud risk assessment | 2 |
 | DESNZ | department for energy security and net zero | 2 |
-| EWR | east west rail | 2 |
-| RICS | royal institution of chartered surveyors | 2 |
-| ACV | assets of community value | 2 |
-| RAAC | schools affected by reinforced autoclaved aerated concrete | 2 |
-| EV | pdrs to support the deployment of electric vehicle | 2 |
-| SSSI | sites of special scientific interest | 2 |
+| CULP | create and update a local plan | 2 |
+| CWS | county wildlife sites | 2 |
 | IAPI | examining authority s initial assessment of principal issues | 2 |
+| RIAA | report to inform appropriate assessment | 2 |
 | PADSS | principal areas of disagreement summary statements | 2 |
 | EM | explanatory memorandum | 2 |
-| RIAA | report to inform appropriate assessment | 2 |
 | CIL | cost implications of the community infrastructure levy | 2 |

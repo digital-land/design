@@ -16,7 +16,7 @@ Served at https://design.planning.data.gov.uk, each term page `/term/<term>` sho
 ## Current state
 
 - `content/legislation` — 153 instruments (England), with `made-date` and `start-date`
-- `content/snapshot` — 236 GOV.UK pages as markdown (`bin/govuk-planning.py`)
+- `content/govuk` — 236 GOV.UK pages as markdown (`bin/govuk-planning.py`)
 - `content/term`, `content/quotation`, `content/abbreviation` — a handful of hand-written examples
 - `content/class`, `dataset`, `field`, `column`, `intent`, `datatype`, `prefix` — mostly empty
 - `bin/legislation2md.py` — converts legislation XML to markdown and already finds `<Term>` definitions
@@ -30,7 +30,7 @@ One markdown file per entity, front-matter fields as in the README.
 | --- | --- | --- |
 | term | `term/<slug>` | the concept: `name`, `plural`, `term-status`, `documentation-url`; the markdown text is the definition |
 | quotation | `<source>-<location>` | verbatim definition or reference, with `source`, `url`, `terms` (list) |
-| source | `source/<slug>` | a document: Act, SI, NPPF, GOV.UK page; links to `legislation` or `snapshot` |
+| source | `source/<slug>` | a document: Act, SI, NPPF, GOV.UK page; links to `legislation` or `govuk` |
 | abbreviation | `abbreviation/<abbr>` | already exists; maps to `terms` |
 
 ### Term text and status
@@ -78,7 +78,7 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
    Validate `term-status` is one of `draft`, `guidance`, `legislation`, and that `documentation-url` is set unless `draft`.
 2. Fix existing examples (typo `abbreviaton/NPPF`; links use `term/x` not `/term/x`; one-file-per-entity naming).
 3. Add a validator (`bin/check.py`): unique references, filename matches reference, every linked term/abbreviation exists, dates valid.
-4. Add `make` targets: `init`, `check`, `snapshot`, `dataset` (compile each directory to CSV), `server`.
+4. Add `make` targets: `init`, `check`, `govuk`, `dataset` (compile each directory to CSV), `server`.
 
 ### 2. Extract definitions from legislation
 

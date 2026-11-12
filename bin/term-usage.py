@@ -27,7 +27,7 @@ def main():
                 re.I,
             )
     rows = []
-    for f in sorted((CONTENT / "snapshot").glob("*.md")):
+    for f in sorted((CONTENT / "govuk").glob("*.md")):
         fm, body = read(f)
         for term, pattern in terms.items():
             n = len(pattern.findall(body))
@@ -35,7 +35,7 @@ def main():
                 rows.append(
                     {
                         "term": term,
-                        "source-dataset": "snapshot",
+                        "source-dataset": "govuk",
                         "source-reference": fm.get("reference", f.stem),
                         "document-url": fm.get("document-url", ""),
                         "count": n,

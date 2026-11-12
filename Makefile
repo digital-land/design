@@ -1,4 +1,4 @@
-.PHONY: init check snapshot legislation terms dataset review
+.PHONY: init check govuk legislation terms dataset review
 
 init::
 	pip install -r requirements.txt
@@ -6,7 +6,7 @@ init::
 check::
 	python3 bin/check.py
 
-snapshot::
+govuk::
 	python3 bin/govuk-planning.py
 
 legislation::
@@ -17,6 +17,7 @@ terms::
 	python3 bin/legislation-terms.py --all --with-nppf
 	python3 bin/build-terms.py
 	python3 bin/term-fields.py
+	python3 bin/govuk-ensure.py
 	python3 bin/abbreviations.py
 
 review::

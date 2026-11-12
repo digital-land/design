@@ -56,7 +56,7 @@ NOISE = ("budget-2026", "lasting-power", "change-the-register", "public-health",
 def gaps(terms):
     """Abbreviations in planning snapshots whose expansion is not yet a term."""
     count = defaultdict(set)
-    for p in (CONTENT / "snapshot").glob("*.md"):
+    for p in (CONTENT / "govuk").glob("*.md"):
         if any(n in p.name for n in NOISE):
             continue
         for m in PATTERN.finditer(p.read_text(encoding="utf-8")):
@@ -86,7 +86,7 @@ def gaps(terms):
 def main():
     terms = {p.stem for p in (CONTENT / "term").glob("*.md")}
     found = defaultdict(set)
-    sources = list((CONTENT / "snapshot").glob("*.md")) + list((CONTENT / "quotation").rglob("*.md"))
+    sources = list((CONTENT / "govuk").glob("*.md")) + list((CONTENT / "quotation").rglob("*.md"))
     sources += list((CONTENT / "term").glob("*.md"))
     for p in sources:
         for abbr, term in expansions(p.read_text(encoding="utf-8"), terms):

@@ -149,7 +149,7 @@ def snapshots():
     if not _SNAPSHOTS:
         _SNAPSHOTS.extend(
             p.read_text(encoding="utf-8").lower()
-            for p in Path("content/snapshot").glob("*.md")
+            for p in Path("content/govuk").glob("*.md")
         )
     return _SNAPSHOTS
 

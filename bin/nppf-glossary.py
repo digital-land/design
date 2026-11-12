@@ -7,7 +7,7 @@ from datetime import date
 from pathlib import Path
 
 SNAPSHOT = Path(
-    "content/snapshot/govuk-guidance-national-planning-policy-framework-annex-b-glossary.md"
+    "content/govuk/guidance-national-planning-policy-framework-annex-b-glossary.md"
 )
 URL = "https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary"
 ENTRY = re.compile(r"^\*\*(.+?):\*\*(?:\s*\[\[footnote \d+\]\]\([^)]*\))?\s*(.*)$")

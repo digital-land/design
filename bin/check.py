@@ -103,7 +103,7 @@ def main():
     strict = "--strict" in sys.argv
     errors, warnings = [], []
     paths = sorted(
-        p for p in CONTENT.glob("*/**/*.md") if p.relative_to(CONTENT).parts[0] != "snapshot"
+        p for p in CONTENT.glob("*/**/*.md") if p.relative_to(CONTENT).parts[0] != "NONE"
     )
     seen = {}
     for p in paths:

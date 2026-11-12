@@ -196,7 +196,7 @@ def yaml(s):
     return json.dumps(s, ensure_ascii=False) if re.search(r"[:#\"'\[\]{}]", s) else s
 
 
-def snapshot(path, outdir, now, seen, force):
+def fetch_page(path, outdir, now, seen, force):
     path = urllib.parse.urlparse(path).path.rstrip("/")
     if not path.startswith(PREFIXES) or path in seen:
         return []
@@ -206,7 +206,7 @@ def snapshot(path, outdir, now, seen, force):
         return []
     reference = path.lstrip("/")
     parent = (doc.get("links", {}).get("parent") or [{}])[0].get("base_path")
-    out = outdir / f"govuk-{reference.replace('/', '-')}"[:200]
+    out = outdir / reference.replace("/", "-")[:200]
     out = out.with_name(out.name + ".md")
     new = []
     if force or not out.exists():
@@ -231,13 +231,13 @@ def snapshot(path, outdir, now, seen, force):
     for att in doc.get("details", {}).get("attachments", []) or []:
         url = att.get("url", "")
         if att.get("attachment_type") == "html" and url.startswith(("/", BASE)):
-            new += snapshot(url, outdir, now, seen, force)
+            new += fetch_page(url, outdir, now, seen, force)
     return new
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("-o", "--output", default="content/snapshot", type=Path)
+    ap.add_argument("-o", "--output", default="content/govuk", type=Path)
     ap.add_argument("-n", "--count", default=20, type=int, help="results per query")
     ap.add_argument("-q", "--query", action="append", help="search query (repeatable)")
     ap.add_argument("-f", "--force", action="store_true", help="overwrite existing")
@@ -248,11 +248,11 @@ def main():
     seen = set()
     total = 0
     for link in [] if args.query else SEEDS:
-        total += len(snapshot(link, args.output, now, seen, args.force))
+        total += len(fetch_page(link, args.output, now, seen, args.force))
         time.sleep(0.2)
     for q in args.query or QUERIES:
         for link in search(q, args.count):
-            total += len(snapshot(link, args.output, now, seen, args.force))
+            total += len(fetch_page(link, args.output, now, seen, args.force))
             time.sleep(0.2)
     print(f"{total} pages written to {args.output}", file=sys.stderr)
 

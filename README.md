@@ -34,6 +34,7 @@ The following datasets are managed in this repository:
 * [content/legislation](content/legislation) — act or statutory instrument on legislation.gov.uk
 * [content/abbreviation](content/abbreviation) — an abbreviation or acronym, with `terms` a semi-colon separated list of the terms it can stand for, to disambiguate
 * [content/term-status](content/term-status) — where the text of a term comes from: `legislation`, `guidance` or `draft`
+* [content/govuk](content/govuk) — GOV.UK page relevant to planning data, snapshotted as markdown, referenced by `govuk:<path>` CURIEs
 * [content/source](content/source) — a source of information
 * [content/topic](content/topic) — topic of data (previously called a "consideration") which can be collective nouns (plural) covering a number of related classes / datasets
 * [content/theme](content/theme) — topic category (a "domain")

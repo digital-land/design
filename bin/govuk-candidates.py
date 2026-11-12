@@ -48,7 +48,7 @@ def main():
         terms[f.stem] = pattern({n for n in names if n and len(n) > 3})
     today = date.today().isoformat()
     found = {}
-    for f in sorted((CONTENT / "snapshot").glob("*.md")):
+    for f in sorted((CONTENT / "govuk").glob("*.md")):
         if GLOSSARY in f.name:
             continue
         fm, body = read(f)
@@ -81,7 +81,7 @@ def main():
     generic = re.compile(
         r"^(?:[-*]\s+)?[*\"“‘]([A-Za-z][A-Za-z' -]{3,50}?)[*\"”’]\s+(?:means|is defined as|are defined as)\b(.{0,200})"
     )
-    for f in sorted((CONTENT / "snapshot").glob("*.md")):
+    for f in sorted((CONTENT / "govuk").glob("*.md")):
         if GLOSSARY in f.name:
             continue
         fm, body = read(f)

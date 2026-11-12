@@ -119,7 +119,8 @@ def main():
         out = CONTENT / "term" / f"{term}.md"
         if term in skip:
             continue
-        if out.exists():
+        draft = out.exists() and read(out)[0].get("term-status") == "draft"
+        if out.exists() and not draft:
             if not (rebuild and generated(out, qs, term)):
                 continue
         leg = [
@@ -142,23 +143,29 @@ def main():
             m = re.search(r"\[([^\]]*)\]\(term/" + re.escape(term) + r"\)", body)
             name = m.group(1) if m else term.replace("-", " ")
         elif nppf:
+            nppf.sort(key=lambda x: not x[0]["reference"].startswith("nppf-"))
             fm, body = nppf[0]
             status = "guidance"
             text = body
             name = fm["name"].split("Glossary, ", 1)[-1]
         else:
             unresolved.append(term)
-            if out.exists():  # was generated from a quotation no longer acceptable
+            if out.exists() and not draft:  # was generated from a quotation no longer acceptable
                 out.unlink()
                 unlink(term)
             continue
         name = name[:1].upper() + name[1:]
+        plural = ""
+        if draft:  # promote a draft: keep its names, replace the unsourced text
+            old = read(out)[0]
+            name, plural = old.get("name", name), old.get("plural", "")
         out.write_text(
             "\n".join(
                 [
                     "---",
                     f"reference: {term}",
                     f"name: {yaml(name)}",
+                    *([f"plural: {yaml(plural)}"] if plural else []),
                     f"term-status: {status}",
                     f"documentation-url: {fm['url']}",
                     f"entry-date: {today}",

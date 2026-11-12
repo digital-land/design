@@ -23,7 +23,7 @@ Compare each dataset's `description` with the sourced definition and replace it 
 | [street](../content/dataset/street.md) |  | “Street” means a street, within the meaning given by section 48(1) of the New Roads and Street Works Act 1991, to which the public have access on foot (whether… ([source](https://www.legislation.gov.uk/ukpga/2023/55/section/218#term-street)) |
 | [world-heritage-site](../content/dataset/world-heritage-site.md) |  | “World Heritage Site” means a property appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World C… ([source](https://www.legislation.gov.uk/uksi/2015/596/article/2#term-world-heritage-site)) |
 
-## Definition from guidance (8)
+## Definition from guidance (9)
 
 | Dataset | Current description | Definition |
 | --- | --- | --- |
@@ -33,10 +33,11 @@ Compare each dataset's `description` with the sourced definition and replace it 
 | [coastal-change-management-area](../content/dataset/coastal-change-management-area.md) |  | An area identified in plans as likely to be affected by physical changes to the coast, estuaries or tidal rivers, over the next century, through erosion, coast… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 | [design-code](../content/dataset/design-code.md) |  | A set of illustrated design requirements that provide specific, detailed parameters for the physical development of a site, or area. The graphic and written co… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 | [heritage-coast](../content/dataset/heritage-coast.md) |  | Areas of undeveloped coastline which are managed to conserve their natural beauty and, where appropriate, to improve accessibility for visitors. ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
+| [issue](../content/dataset/issue.md) | issues with fields processing resources | Issues are the critical issues, identified by the Inspector, on which the soundness of the plan will depend; and ([source](https://www.gov.uk/guidance/procedural-guide-for-examinations-and-gateways-under-the-town-and-country-planning-local-planning-england-regulations-2026#5-2-matters-issues-and-questions)) |
 | [mineral-safeguarding-area](../content/dataset/mineral-safeguarding-area.md) |  | An area designated by minerals planning authorities which covers known deposits of minerals which are desired to be kept safeguarded from unnecessary sterilisa… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 | [planning-condition](../content/dataset/planning-condition.md) | A condition that is attached to planning permission | A condition imposed on a grant of planning permission (in accordance with the Town and Country Planning Act 1990) or a condition included in a Local Developmen… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 
-## Draft term from the dataset description (110)
+## Draft term from the dataset description (109)
 
 Find an authoritative definition, or keep the plain English description.
 
@@ -95,7 +96,6 @@ Find an authoritative definition, or keep the plain English description.
 - [infrastructure-project-log](../content/dataset/infrastructure-project-log.md)
 - [infrastructure-project-type](../content/dataset/infrastructure-project-type.md)
 - [issue-type](../content/dataset/issue-type.md)
-- [issue](../content/dataset/issue.md)
 - [listed-building-outline](../content/dataset/listed-building-outline.md)
 - [local-plan-boundary](../content/dataset/local-plan-boundary.md)
 - [local-plan-document-type](../content/dataset/local-plan-document-type.md)

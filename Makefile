@@ -1,4 +1,4 @@
-.PHONY: init check snapshot legislation terms dataset
+.PHONY: init check snapshot legislation terms dataset review
 
 init::
 	pip install -r requirements.txt
@@ -16,6 +16,9 @@ terms::
 	python3 bin/nppf-glossary.py
 	python3 bin/legislation-terms.py --all --with-nppf
 	python3 bin/build-terms.py
+
+review::
+	python3 bin/dataset-review.py
 
 dataset::
 	python3 bin/dataset.py

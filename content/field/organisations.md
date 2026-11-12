@@ -1,0 +1,15 @@
+---
+reference: organisations
+name: Organisations
+cardinality: n
+datatype: string
+description: list of organisations.
+entry-date: '2026-11-12'
+examples:
+- value: local-authority:DUR
+- value: national-park-authority:Q72617158
+- value: local-authority:LIC;local-authority:NKE;local-authority:WLI
+guidance: "A list of CURIE references for one or more organisations.\nWhere you need to list more than one organisation, separate the values with a semicolon ';' character.\nYou can find the CURIE reference for each organisation from our [list of organisations](https://www.planning.data.gov.uk/organisation/).\nThe CURIE is made from the prefix value, followed by a colon ':' character, and then the reference value for the organisation being identified. \nYou may leave this value blank when the list of organisations is just the single organisation providing the data.\n"
+parent-field: organisation
+typology: organisation
+---

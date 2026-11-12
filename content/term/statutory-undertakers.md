@@ -4,6 +4,9 @@ name: Statutory undertakers
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/148#term-statutory-undertakers
 legislation: ukpga/1990/8
+definition: legislation:ukpga/1990/8/section/148
+quotation: |
+  “statutory undertakers” includes electronic communications code operators and former PTOs.
 entry-date: 2026-11-12
 ---
 

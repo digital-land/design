@@ -64,6 +64,13 @@ The properties in frontmatter are defined in the specification https://github.co
 - [documentation-url](content/field/documentation-url.md) — webpage describing the entity
 - [document-url](content/field/document-url.md) — a link to a PDF or other document which is the material source of information about the entity which should appear on the documentation-url page
 
+Terms also have:
+
+- `term-status` — where the text comes from: `legislation`, `guidance` or `draft`
+- `legislation` — the reference of the Act or statutory instrument in [content/legislation](content/legislation), for terms defined in legislation
+- `definition` — a CURIE for the legislation or GOV.UK page containing the authoritative definition, for example `legislation:ukpga/1990/8/section/55` or `govuk:guidance/viability`
+- `quotation` — the original text of that definition
+
 Markdown files should match a lower-case version of the reference, with spaces and other special characters 
 not representable in a filename replaced with a hyphen.
 Unknown values should be left blank, empty properties don't need to be included in the markdown files.

@@ -4,6 +4,9 @@ name: National policy statement
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2010/103/rule/2#term-national-policy-statement
 legislation: uksi/2010/103
+definition: legislation:uksi/2010/103/rule/2
+quotation: |
+  “national policy statement” means a statement designated under section 5(1) (national policy statements);
 entry-date: 2026-11-12
 ---
 

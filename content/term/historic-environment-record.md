@@ -3,6 +3,9 @@ reference: historic-environment-record
 name: Historic Environment Record
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
+quotation: |
+  Information services that seek to provide access to comprehensive and dynamic resources relating to the historic environment of a defined geographic area for public benefit and use.
 entry-date: 2026-11-12
 ---
 

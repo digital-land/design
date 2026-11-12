@@ -68,6 +68,15 @@ def check(path, errors, warnings):
             errors.append(f"{where}: term-status must be one of {sorted(TERM_STATUS)}")
         elif status != "draft" and not fm.get("documentation-url"):
             errors.append(f"{where}: term-status {status} needs a documentation-url")
+        if status in ("legislation", "guidance"):
+            d = str(fm.get("definition") or "")
+            prefix = d.partition(":")[0]
+            if not d:
+                errors.append(f"{where}: term-status {status} needs a definition CURIE")
+            elif not (CONTENT / "prefix" / f"{prefix}.md").exists():
+                errors.append(f"{where}: definition prefix {prefix!r} not in content/prefix")
+            if not fm.get("quotation"):
+                errors.append(f"{where}: term-status {status} needs the original quotation")
         if status == "legislation":
             leg = str(fm.get("legislation") or "")
             if not leg:

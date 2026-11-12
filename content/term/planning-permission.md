@@ -5,6 +5,9 @@ plural: "Planning permissions"
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-planning-permission
 legislation: ukpga/1990/8
+definition: legislation:ukpga/1990/8/section/336
+quotation: |
+  “planning permission” means permission under Part III or section 293A Parts 3 or 13, . . . but does not include permission in principle;
 entry-date: 2026-11-12
 ---
 

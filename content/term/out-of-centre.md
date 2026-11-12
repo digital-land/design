@@ -3,6 +3,9 @@ reference: out-of-centre
 name: Out of centre
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
+quotation: |
+  A location which is not in or on the edge of a centre but not necessarily outside the settlement.
 entry-date: 2026-11-12
 ---
 

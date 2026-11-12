@@ -4,6 +4,9 @@ name: Local development order
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2017/571/regulation/2#term-local-development-order
 legislation: uksi/2017/571
+definition: legislation:uksi/2017/571/regulation/2
+quotation: |
+  “local development order” means a local development order made pursuant to section 61A (Local development orders) of the Act;
 entry-date: 2026-11-12
 ---
 

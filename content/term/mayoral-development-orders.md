@@ -3,6 +3,9 @@ reference: mayoral-development-orders
 name: Mayoral Development Orders
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
+quotation: |
+  An Order made by a mayor (under the Town and Country Planning Act 1990) that grants planning permission for a specific development proposal.
 entry-date: 2026-11-12
 ---
 

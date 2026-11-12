@@ -3,6 +3,9 @@ reference: technical-sites
 name: Technical sites
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
+quotation: |
+  Any area within which is sited or is proposed to be sited equipment for the provision of air traffic services, as specified in the Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002.
 entry-date: 2026-11-12
 ---
 

@@ -4,6 +4,9 @@ name: Erection
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-erection
 legislation: ukpga/1990/8
+definition: legislation:ukpga/1990/8/section/336
+quotation: |
+  “erection”, in relation to buildings as defined in this subsection, includes extension, alteration and re-erection;
 entry-date: 2026-11-12
 ---
 

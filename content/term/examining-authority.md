@@ -4,6 +4,12 @@ name: Examining authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/uksi/2010/103/rule/2#term-examining-authority
 legislation: uksi/2010/103
+definition: legislation:uksi/2010/103/rule/2
+quotation: |
+  “Examining authority” means—
+
+  - the Panel or single appointed person appointed under section 65 (appointment of members, and lead member, of Panel) or section 79 (appointment of single appointed person), and may include one or more members of the Panel allocated a function of the Panel in accordance with section 76 (allocation within Panel of Panel’s functions); or
+  - the Secretary of State, in respect of those matters which are the subject of a direction by the Secretary of State under section 95A(2);
 entry-date: 2026-11-12
 ---
 

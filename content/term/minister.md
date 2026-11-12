@@ -4,6 +4,9 @@ name: Minister
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/336#term-minister
 legislation: ukpga/1990/8
+definition: legislation:ukpga/1990/8/section/336
+quotation: |
+  “Minister” means any Minister of the Crown or other government department;
 entry-date: 2026-11-12
 ---
 

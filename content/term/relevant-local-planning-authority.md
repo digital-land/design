@@ -4,6 +4,13 @@ name: Relevant local planning authority
 term-status: legislation
 documentation-url: https://www.legislation.gov.uk/ukpga/1990/8/section/319ZD
 legislation: ukpga/1990/8
+definition: legislation:ukpga/1990/8/section/319ZD
+quotation: |
+  “relevant local planning authority” means a local planning authority in Wales which is—
+
+  - a county council or county borough council,
+  - a joint planning board, or
+  - a National Park authority.
 entry-date: 2026-11-12
 ---
 

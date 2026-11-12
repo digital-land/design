@@ -3,6 +3,9 @@ reference: international-national-and-locally-designated-sites-of-importance-for
 name: International, national and locally designated sites of importance for biodiversity
 term-status: guidance
 documentation-url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+definition: govuk:guidance/national-planning-policy-framework-annex-b-glossary
+quotation: |
+  All international sites (Special Areas of Conservation, Special Protection Areas, and Ramsar sites), national sites (Sites of Special Scientific Interest) and locally designated sites including Local Wildlife Sites.
 entry-date: 2026-11-12
 ---
 

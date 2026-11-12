@@ -1,0 +1,12 @@
+---
+reference: nppf-annex-b-community-right-to-build-order
+name: "National Planning Policy Framework, Annex B: Glossary, Community Right to Build Order"
+url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+source-class: GOV.UK
+role: definition
+terms:
+- community-right-to-build-order
+entry-date: 2026-11-12
+---
+
+An Order made by the local planning authority (under the Town and Country Planning Act 1990) that grants planning permission for a site-specific development proposal or classes of development.

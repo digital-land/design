@@ -4,7 +4,7 @@ name: "National Planning Policy Framework, Annex B: Glossary, Heritage asset"
 url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 source-class: GOV.UK
 role: definition
-terms: 
+terms:
 - heritage-asset
 entry-date: 2026-11-12
 ---

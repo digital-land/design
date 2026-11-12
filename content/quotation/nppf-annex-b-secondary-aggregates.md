@@ -1,0 +1,12 @@
+---
+reference: nppf-annex-b-secondary-aggregates
+name: "National Planning Policy Framework, Annex B: Glossary, Secondary aggregates"
+url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+source-class: GOV.UK
+role: definition
+terms:
+- secondary-aggregates
+entry-date: 2026-11-12
+---
+
+Aggregates from industrial wastes such as glass (cullet), incinerator bottom ash, coal derived fly ash, railway ballast, fine ceramic waste (pitcher), and scrap tyres; and industrial and minerals by-products, notably waste from china clay, coal and slate extraction and spent foundry sand. These can also include hydraulically bound materials.

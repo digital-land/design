@@ -1,0 +1,12 @@
+---
+reference: nppf-annex-b-neighbourhood-plan
+name: "National Planning Policy Framework, Annex B: Glossary, Neighbourhood plan"
+url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+source-class: GOV.UK
+role: definition
+terms:
+- neighbourhood-plan
+entry-date: 2026-11-12
+---
+
+A plan prepared by a parish council or neighbourhood forum for a designated neighbourhood area. In law this is described as a neighbourhood development plan in the Planning and Compulsory Purchase Act 2004.

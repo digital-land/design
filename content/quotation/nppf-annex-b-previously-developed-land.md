@@ -4,8 +4,8 @@ name: "National Planning Policy Framework, Annex B: Glossary, Previously develop
 url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
 source-class: GOV.UK
 role: definition
-terms: 
-- brownfield-land
+terms:
+- previously-developed-land
 entry-date: 2026-11-12
 ---
 

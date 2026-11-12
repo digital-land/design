@@ -1,0 +1,12 @@
+---
+reference: nppf-annex-b-significance-for-heritage-policy
+name: "National Planning Policy Framework, Annex B: Glossary, Significance (for heritage policy)"
+url: https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary
+source-class: GOV.UK
+role: definition
+terms:
+- significance-for-heritage-policy
+entry-date: 2026-11-12
+---
+
+The value of a heritage asset to this and future generations because of its heritage interest. The interest may be archaeological, architectural, artistic or historic. Significance derives not only from a heritage asset’s physical presence, but also from its setting. For World Heritage Sites, the cultural value described within each site’s Statement of Outstanding Universal Value forms part of its significance.

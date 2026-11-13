@@ -1,0 +1,68 @@
+---
+reference: minerals-plan
+name: minerals plan
+plural: minerals plans
+term: minerals-plan
+attribution: crown-copyright
+collection: local-plan
+consideration: minerals-and-waste-plan
+description: minerals plans prepared by a Minerals and Waste Planning Authority
+entity-maximum: '539999'
+entity-minimum: '530000'
+entry-date: '2025-11-14'
+environment: production
+fields:
+- field: dataset
+- field: description
+- field: document-count
+- field: documentation-url
+- field: document-url
+- field: end-date
+- field: entity
+- field: entry-date
+- field: local-plan-process
+- field: minerals-plan-boundary
+- description: minerals and waste planning authority areas covered by the minerals plan
+  examples:
+  - value: E47000001
+  - value: E60000331;E60000225
+  field: minerals-and-waste-planning-authorities
+  guidance: 'Enter the GSS code for the 
+
+    [Minerals and Waste Planning Authority](https://www.planning.data.gov.uk/dataset/minerals-and-waste-planning-authority)
+
+    area that this minerals plan covers.
+
+    For a joint minerals plan, enter the list of references and separate each of them with a semi-colon.
+
+    '
+- field: name
+- field: notes
+- field: organisation
+- field: period-end-date
+- field: period-start-date
+- field: prefix
+- field: reference
+- field: start-date
+guidance: 'List the minerals plans you are responsible for with one row for each current, emerging or historical minerals plan.
+
+  '
+licence: ogl3
+phase: alpha
+realm: dataset
+themes:
+- development
+typology: legal-instrument
+wikidata: Q6664491
+wikipedia: Local_plan
+---
+
+A [minerals plan][term:minerals-plan] sets out policies for how mineral resources will be extracted and managed in an area.
+
+Each [minerals plan][term:minerals-plan] that a minerals and waste planning authority is responsible for. There is a separate row for each current, emerging or historical [minerals plan][term:minerals-plan].
+
+Use this to: 
+
+* check whether a plan is still in date
+* find out which authority or group of authorities are responsible for the minerals plan
+* link to detailed information on the plan

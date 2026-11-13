@@ -1,0 +1,50 @@
+---
+reference: tree-preservation-zone
+name: Tree preservation zone
+plural: Tree preservation zones
+term: tree-preservation-zone
+attribution: crown-copyright
+collection: tree-preservation-order
+consideration: tree-preservation-orders
+description: An area covered by a tree preservation order
+entity-maximum: '29099999'
+entity-minimum: '19100000'
+entry-date: '2026-11-12'
+environment: production
+fields:
+- field: address-text
+- field: description
+- field: end-date
+- field: entity
+- field: entry-date
+- field: geometry
+- field: name
+- field: notes
+- field: organisation
+- field: point
+- field: prefix
+- field: reference
+- field: start-date
+- field: tree-preservation-order
+- field: tree-preservation-zone-type
+- field: tree-species-list
+  guidance: Although this field doesn't appear in the technical spec or guidance if an LPA provides a species column we can map it to this
+- field: uprn
+github-discussion: 43
+licence: ogl3
+phase: beta
+realm: dataset
+themes:
+- environment
+typology: geography
+wikidata: Q10884
+wikipedia: Tree
+---
+
+This dataset contains the extent of groups of trees covered by a tree preservation order.
+
+It can be used for managing and protecting important trees by preventing their unauthorised removal or damage. 
+
+Members of the public and developers use the data to check if a tree is protected and to inform planning applications or tree work proposals. The data helps ensure trees remain a significant part of the local environment and public amenity.
+
+This dataset contains data from [a small group of local planning authorities](/about/) who we are working with to develop a [data specification for tree preservation orders](https://www.digital-land.info/guidance/specifications/tree-preservation-order).

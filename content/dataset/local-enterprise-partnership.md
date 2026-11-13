@@ -1,0 +1,33 @@
+---
+reference: local-enterprise-partnership
+name: Local Enterprise Partnership
+plural: Local Enterprise Partnerships
+attribution: crown-copyright
+entity-maximum: '4999'
+entity-minimum: '4000'
+entry-date: '2026-11-12'
+fields:
+- field: company
+- field: end-date
+- field: entity
+- field: entry-date
+- field: local-enterprise-partnership-area
+- field: name
+- field: notes
+- field: parliament-thesaurus
+- field: prefix
+- field: reference
+- field: start-date
+- field: twitter
+- field: website
+- field: wikidata
+- field: wikipedia
+licence: ogl3
+phase: alpha
+realm: dataset
+themes:
+- administrative
+typology: organisation
+---
+
+We keep and maintain this dataset to help us identify the organisations which provide planning and housing data.

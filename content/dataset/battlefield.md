@@ -1,0 +1,39 @@
+---
+reference: battlefield
+name: Battlefield
+plural: Battlefields
+attribution: historic-england
+collection: historic-england
+consideration: battlefields
+entity-maximum: '1499999'
+entity-minimum: '1400000'
+entry-date: '2026-11-12'
+environment: production
+fields:
+- field: document-url
+- field: documentation-url
+- field: end-date
+- field: entity
+- field: entry-date
+- field: geometry
+- field: name
+- field: notes
+- field: organisation
+- field: point
+- field: prefix
+- field: reference
+- field: start-date
+- field: wikidata
+- field: wikipedia
+licence: ogl3
+paint-options: '{ "colour": "#4d2942", "opacity": 0.2 }'
+phase: live
+realm: dataset
+themes:
+- heritage
+typology: geography
+wikidata: Q4895508
+wikipedia: Battlefield
+---
+
+Battlefields as designated by [Historic England](https://historicengland.org.uk) in their [Register of Historic Battlefields](https://historicengland.org.uk/listing/what-is-designation/registered-battlefields/).

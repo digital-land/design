@@ -2,7 +2,7 @@
 
 This repository contains the terms, definitions, data models, information, and content
 used to design planning data for https://planning.data.gov.uk
-and is presented at https://design.planning.data.gov.uk 
+The content is presented at https://design.planning.data.gov.uk 
 
 ## Content structure
 
@@ -42,6 +42,26 @@ web application presents this content and data at https://design.planning.data.g
 The content in this repository will be used to generate specifications and other metadata currently maintained in the 
 [specification](https://github.com/digital-land/specification) repository, visible at https://digital-land.github.io/specification/
 
+# Entities and datasets
+
+Planning.data.gov.uk aims to build a collection of consistent entities from across the planning and housing system in England.  
+This project manages the data model which makes data consistent across domains related to planning and housing.
+
+Planning data is collected from a large number of different sources, converted into entities which can be 
+accessed individually from a webpage-per entity, searched and queried using an API, or downloaded in
+bulk as normalised datasets. These entities may then be assembled into datapackages
+containing data relating to a topic, nationally, or for a local area.
+These datapackages can be denormalised, bundled, and converted into different 
+formats including Excel, Geopackage, QGIS projects and other datapackages with different column names
+to help analysts and data scientists to quickly use the data in their projects.
+
+The "class" of an entity is defined in the model by the entity for each dataset. 
+This definition includes key fields (properties), along with the fields attached to each entity.
+The word "dataset" is often used synonymously with "class" as a 
+dataset is a collection of entities with the same class. 
+Each class is assigned a single typology which defines the base fields for all entities of the same 
+typology. The key typologies are "organisation", "geography", "category", "document", and "event".
+
 # Datasets
 
 The following datasets are managed in this repository:
@@ -66,7 +86,8 @@ The following datasets are managed in this repository:
 * [content/class](content/class) — a type of entity used to create a dataset
 * [content/prefix](content/prefix) — a CURIE prefix which can be used to find the `prefix-uri` which can be concatenated with a reference to construct a URI
 
-# Properties
+# Fields and properties
+
 
 The properties in frontmatter are defined in the specification https://github.com/digital-land/specification/content, specifically each markdown file here contains the following common fields:
 
@@ -93,7 +114,6 @@ Markdown files should match a lower-case version of the reference, with spaces a
 not representable in a filename replaced with a hyphen.
 Unknown values should be left blank, empty properties don't need to be included in the markdown files.
 Dates and other datatypes are defined in the specification.
-
 
 ## Development
 

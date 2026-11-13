@@ -4,7 +4,6 @@ name: National park
 plural: National parks
 attribution: ons-boundary
 collection: national-park
-consideration: national-parks-and-the-broads
 entity-maximum: '520999'
 entity-minimum: '520000'
 entry-date: '2026-11-12'
@@ -30,6 +29,7 @@ themes:
 typology: geography
 wikidata: Q60256727
 wikipedia: National_park
+topic: national-park-and-the-broads
 ---
 
 The administrative boundaries of [national park authorities][dataset:national-park-authority] in England as provided by the ONS for the purposes of producing statistics.

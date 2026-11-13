@@ -3,7 +3,6 @@ reference: suitable-alternative-green-space
 name: Suitable alternative green space
 plural: Suitable alternative green spaces
 attribution: crown-copyright
-consideration: suitable-alternative-natural-greenspace
 entity-maximum: '15099999'
 entity-minimum: '15000000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: suitable-alternative-natural-greenspace-sang
 ---
-
-

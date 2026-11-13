@@ -3,9 +3,9 @@ reference: development-plan-document-type
 name: Development plan document type
 plural: Development plan document types
 term: development-plan-document-type
+topic: development-plan-and-timetable
 attribution: crown-copyright
 collection: local-plan
-consideration: development-plans-and-timetables
 description: The types of documents published for a development plan
 entity-maximum: '5299999'
 entity-minimum: '5280000'

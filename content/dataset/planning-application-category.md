@@ -3,8 +3,8 @@ reference: planning-application-category
 name: Planning application category
 plural: Planning application categories
 term: planning-application-category
+topic: planning-application-and-decision
 attribution: crown-copyright
-consideration: planning-applications-decisions
 description: A planning application category is a high level categorisation of the type of planning application, such as "householder" or "full planning application"
 entity-maximum: '3999999'
 entity-minimum: '3900000'
@@ -28,5 +28,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

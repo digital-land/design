@@ -3,7 +3,6 @@ reference: development-policy-area
 name: Development policy area
 plural: Development policy areas
 attribution: crown-copyright
-consideration: local-plan-policies
 entity-maximum: '5399999'
 entity-minimum: '5300000'
 entry-date: '2026-11-12'
@@ -28,6 +27,5 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: development-plan-policy
 ---
-
-

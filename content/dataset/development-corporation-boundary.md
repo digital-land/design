@@ -5,7 +5,6 @@ plural: Development corporation boundaries
 term: development-corporation-boundary
 attribution: crown-copyright
 collection: development-corporation-boundary
-consideration: development-corporation-boundary
 description: development corporation administrative boundaries
 entity-maximum: '569999'
 entity-minimum: '560000'
@@ -37,5 +36,3 @@ themes:
 - administrative
 typology: geography
 ---
-
-

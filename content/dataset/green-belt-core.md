@@ -4,7 +4,6 @@ name: Green belt core
 plural: Green belt cores
 attribution: crown-copyright
 collection: green-belt
-consideration: greenbelt
 entity-maximum: '611999'
 entity-minimum: '611000'
 entry-date: '2026-11-12'
@@ -30,6 +29,7 @@ themes:
 typology: category
 wikidata: Q2734873
 wikipedia: Green_belt_(United_Kingdom)
+topic: greenbelt
 ---
 
 A category used to collect [green belt][dataset:green-belt] areas which surround an single urban area.

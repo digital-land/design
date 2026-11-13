@@ -3,9 +3,9 @@ reference: planning-application-condition
 name: Planning application condition
 plural: Planning application conditions
 term: planning-application-condition
+topic: planning-condition
 attribution: crown-copyright
 collection: planning-condition
-consideration: planning-conditions
 description: A record of which conditions apply to which planning applications
 entity-maximum: '72999999'
 entity-minimum: '71000000'
@@ -35,5 +35,3 @@ themes:
 - monitoring
 typology: policy
 ---
-
-

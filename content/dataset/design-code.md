@@ -3,9 +3,9 @@ reference: design-code
 name: Design code
 plural: Design codes
 term: design-code
+topic: design-code
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '699999'
 entity-minimum: '641000'
 entry-date: '2026-11-12'
@@ -32,5 +32,3 @@ themes:
 - development
 typology: policy
 ---
-
-

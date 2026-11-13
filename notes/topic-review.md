@@ -1,0 +1,163 @@
+# Topic migration review
+
+275 topics written, 122 archived considerations skipped.
+
+## Names and references to check
+
+- `abandoned-mine`: Abandoned mines → Abandoned mine
+- `air-quality-management-area`: Air quality management areas → Air quality management area
+- `allotment`: Allotments → Allotment
+- `ancient-and-veteran-tree`: Ancient and veteran trees → Ancient and veteran tree
+- `ancient-woodland`: Ancient woodlands → Ancient woodland
+- `area-habitat`: Area habitats → Area habitat
+- `area-of-outstanding-natural-beauty`: Areas of outstanding natural beauty → Area of outstanding natural beauty
+- `area-which-would-benefit-from-flood-defences`: Areas which would benefit from flood defences → Area which would benefit from flood defences
+- `article-4-direction`: Article 4 Directions → Article 4 direction
+- `asset-of-community-value`: Assets of community value → Asset of community value
+- `authorised-landfill-site`: Authorised landfill sites → Authorised landfill site
+- `battlefield`: Battlefields → Battlefield
+- `biodiversity-net-gain-assessment`: Biodiversity net gain assessments → Biodiversity net gain assessment
+- `biosphere-reserve`: Biosphere reserves → Biosphere reserve
+- `bowling-green`: Bowling greens → Bowling green
+- `britpits-mine-quarry`: Britpits mines & quarries → Britpits mine & quarry
+- `building-preservation-notice`: Building preservation notices → Building preservation notice
+- `built-up-area`: Built up areas → Built up area
+- `business-improvement-district`: Business improvement districts → Business improvement district
+- `canal`: Canals → Canal
+- `central-activities-zone`: datasets not in content/dataset: central-activites-zone
+- `coal-authority-managed-tip`: Coal authority managed tips → Coal authority managed tip
+- `coal-authority-mine-water-treatment-scheme`: Coal authority mine water treatment schemes → Coal authority mine water treatment scheme
+- `coastal-change-management-area`: Coastal change management areas → Coastal change management area
+- `coastal-storm-surge-flood-risk-area`: Coastal storm surge flood risk areas → Coastal storm surge flood risk area
+- `coastal-topographic-survey`: Coastal topographic surveys → Coastal topographic survey
+- `common-land-and-village-green`: Common land and village greens → Common land and village green
+- `community-hall`: Community halls → Community hall
+- `completion-notice`: Completion notices → Completion notice
+- `compulsory-purchase-order`: Compulsory purchase orders → Compulsory purchase order
+- `conservation-area`: Conservation areas → Conservation area
+- `council-ward`: Council wards → Council ward
+- `country-park`: Country parks → Country park
+- `countryside-stewardship-scheme-agreement`: Countryside stewardship scheme agreements → Countryside stewardship scheme agreement
+- `critical-drainage-area`: Critical drainage areas → Critical drainage area
+- `design-code`: Design codes → Design code
+- `designated-neighbourhood-forum`: Designated neighbourhood forums → Designated neighbourhood forum
+- `developer-contribution`: Developer contributions → Developer contribution
+- `development-plan-and-timetable`: datasets not in content/dataset: development-plan-event
+- `development-plan-and-timetable`: Development plans and timetables → Development plan and timetable
+- `drainage-agreement-and-consent`: Drainage agreements and consents → Drainage agreement and consent
+- `employment-allocation`: Employment allocations → Employment allocation
+- `energy-performance-certificate`: Energy performance certificates → Energy performance certificate
+- `enforcement-notice`: Enforcement notices → Enforcement notice
+- `environmental-outcome-report`: Environmental outcome reports → Environmental outcome report
+- `essex-wildlife-trust-reserve`: Essex wildlife trust reserves → Essex wildlife trust reserve
+- `fire-and-rescue-station`: Fire and rescue stations → Fire and rescue station
+- `flood-risk-zone`: Flood risk zones → Flood risk zone
+- `flood-storage-area`: Flood storage areas → Flood storage area
+- `gas-pipeline-zone`: Gas pipeline zones → Gas pipeline zone
+- `golf-course`: Golf courses → Golf course
+- `great-crested-newt-risk-zone`: Great crested newt risk zones → Great crested newt risk zone
+- `great-crested-newt-strategic-opportunity-area`: Great Crested Newt strategic opportunity areas → Great Crested Newt strategic opportunity area
+- `great-crested-newt-edna-pond-survey`: Great crested newts edna pond surveys → Great crested newt eDNA pond survey
+- `greater-london-archaeological-priority-area`: Greater london archaeological priority areas → Greater London archaeological priority area
+- `green-corridor`: Green corridors → Green corridor
+- `groundwater-source-protection-zone`: Groundwater source protection zones → Groundwater source protection zone
+- `habitat-network`: Habitat networks → Habitat network
+- `health-and-safety-executive-consultation-zone`: Health and Safety Executive Consultation Zones → Health and Safety Executive Consultation Zone
+- `hedgerow`: Hedgerows → Hedgerow
+- `heritage-asset-of-archaeological-interest`: Heritage assets of archaeological interest → Heritage asset of archaeological interest
+- `historic-park-and-garden`: Historic parks and gardens → Historic park and garden
+- `historical-mineral-planning-permission`: Historical mineral planning permissions → Historical mineral planning permission
+- `indoor-sports-and-leisure-facility`: Indoor sports and leisure facilities → Indoor sports and leisure facility
+- `infrastructure-funding-statement`: Infrastructure funding statements → Infrastructure funding statement
+- `irreplaceable-habitat`: Irreplaceable habitats → Irreplaceable habitat
+- `lake`: Lakes → Lake
+- `land-registry-polygon-red-line-boundary`: Land registry polygons / red line boundaries → Land registry polygon / red line boundary
+- `less-favoured-area`: Less favoured areas → Less favoured area
+- `library`: Libraries → Library
+- `listed-building-outline`: Listed building outlines → Listed building outline
+- `local-environment-record-centre-boundary`: Local Environment Record Centre boundaries → Local Environment Record Centre boundary
+- `local-heritage-asset`: Local heritage assets → Local heritage asset
+- `local-nature-reserve`: Local nature reserves → Local nature reserve
+- `local-plan-consultation-and-representation`: Local plan consultations and representations → Local plan consultation and representation
+- `development-plan-policy`: Development plan policies → Development plan policy
+- `local-plan`: Local plans → Local plan
+- `local-wildlife-site`: Local wildlife sites → Local wildlife site
+- `local-listed-building-consent-order`: Local listed building consent orders → Local listed building consent order
+- `locally-listed-building`: Locally listed buildings → Locally listed building
+- `main-river`: Main rivers → Main river
+- `marine-conservation-zone`: Marine conservation zones → Marine conservation zone
+- `mineral-safeguarding-area`: Mineral safeguarding areas → Mineral safeguarding area
+- `mining-and-ground-stability`: datasets not in content/dataset: using-coal-mining-information
+- `national-character-area`: National character areas → National character area
+- `national-nature-reserve`: National nature reserves → National nature reserve
+- `national-park-and-the-broads`: National parks and the broads → National park and the Broads
+- `national-trust-land-always-open`: National trust land – always open → National trust land – always open
+- `nature-improvement-area`: Nature improvement areas → Nature improvement area
+- `neighbourhood-plan`: Neighbourhood plans → Neighbourhood plan
+- `nhs-trust`: Nhs trusts → NHS trust
+- `noise-action-important-area`: Noise action important areas → Noise action important area
+- `nuclear-power-station`: Nuclear power stations → Nuclear power station
+- `open-road`: Open roads → Open road
+- `opencast-coal-prospecting-area`: Opencast coal prospecting areas → Opencast coal prospecting area
+- `opportunity-area`: Opportunity areas → Opportunity area
+- `other-sports-facility`: Other sports facilities → Other sports facility
+- `permitted-development-right`: Permitted development rights → Permitted development right
+- `planning-application-consultation`: Planning application consultations → Planning application consultation
+- `planning-application-submission`: Planning application submissions → Planning application submission
+- `planning-application-and-decision`: Planning applications & decisions → Planning application and decision
+- `planning-condition`: Planning conditions → Planning condition
+- `play-space`: Play spaces → Play space
+- `playing-field`: Playing fields → Playing field
+- `police-station`: Police stations → Police station
+- `pollinator-corridor`: Pollinator corridors → Pollinator corridor
+- `port`: Ports → Port
+- `postcode`: Postcodes → Postcode
+- `previously-listed-building`: Previously listed buildings → Previously listed building
+- `primary-school`: Primary schools → Primary school
+- `priority-habitat`: Priority habitats → Priority habitat
+- `proposed-ramsar-site`: Proposed ramsar sites → Proposed ramsar site
+- `protected-rural-landscape`: Protected rural landscapes → Protected rural landscape
+- `protected-view`: Protected views → Protected view
+- `protected-wreck-site`: Protected wreck sites → Protected wreck site
+- `public-park-and-garden`: Public parks and gardens → Public park and garden
+- `public-path-and-byway`: Public paths byways → Public path and byway
+- `public-right-of-way-prow`: Public Rights of Way (PRoW) → Public Right of Way (PRoW)
+- `railway-track`: Railway tracks → Railway track
+- `religious-building`: Religious buildings → Religious building
+- `religious-ground`: Religious grounds → Religious ground
+- `reservoir`: Reservoirs → Reservoir
+- `river-basin-district`: River basin districts → River basin district
+- `safeguarded-wharf`: Safeguarded wharves → Safeguarded wharf
+- `safeguarded-aerodrome-technical-site-and-military-explosives-storage-area`: Safeguarding aerodromes, technical sites and military explosives storage areas → Safeguarded aerodrome, technical site and military explosives storage area
+- `scheduled-monument`: Scheduled monuments → Scheduled monument
+- `school-catchment-area`: School catchment areas → School catchment area
+- `seabird-nesting-count`: Seabird nesting counts → Seabird nesting count
+- `sensitive-area-nitrate`: Sensitive areas - nitrates → Sensitive area - nitrate
+- `shellfish-water`: Shellfish waters → Shellfish water
+- `site-of-importance-for-nature-conservation`: Sites of importance for nature conservation → Site of importance for nature conservation
+- `site-of-special-scientific-interest`: Sites of special scientific interest → Site of special scientific interest
+- `special-area-of-conservation`: Special areas of conservation → Special area of conservation
+- `special-protection-area`: Special protection areas → Special protection area
+- `special-roadside-verge`: Special roadside verges → Special roadside verge
+- `strategic-area-for-regeneration`: Strategic areas for regeneration → Strategic area for regeneration
+- `strategic-flood-risk-assessment`: Strategic flood risk assessments → Strategic flood risk assessment
+- `supplementary-plan`: Supplementary plans → Supplementary plan
+- `tennis-court`: Tennis courts → Tennis court
+- `traditional-orchard`: Traditional orchards → Traditional orchard
+- `tree-preservation-order`: Tree preservation orders → Tree preservation order
+- `waste-and-recycling-facility`: Waste and recycling facilities → Waste and recycling facility
+- `water-stressed-area`: Water stressed areas → Water stressed area
+- `wildbelt-designation`: Wildbelt designations → Wildbelt designation
+- `world-heritage-site`: World heritage sites → World heritage site
+
+## Datasets without a topic
+
+- `development-corporation-boundary`: consideration `development-corporation-boundary` is archived or missing
+- `forest-inventory`: consideration `national-forest-inventory` is archived or missing
+- `gypsy-and-traveller-site`: consideration `gypsy-roma-traveller-sites` is archived or missing
+- `non-designated-and-locally-listed-historic-asset`: consideration `non-designated-and-locally-listed-historic-assets` is archived or missing
+- `nutrient-neutrality-catchment`: consideration `nutrient-neutrality` is archived or missing
+- `site`: consideration `site` is archived or missing
+- `supplementary-plan`: consideration `supplementary-plan` is archived or missing
+- `waste-plan-boundary`: consideration `waste-local-plan` is archived or missing
+- `waste-plan`: consideration `waste-plans` is archived or missing

@@ -3,9 +3,9 @@ reference: planning-application-type
 name: Planning application type
 plural: Planning application types
 term: planning-application-type
+topic: planning-application-and-decision
 attribution: crown-copyright
 collection: planning-application
-consideration: planning-applications-decisions
 description: A type of planning application
 entity-maximum: '621999'
 entity-minimum: '621000'
@@ -32,5 +32,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

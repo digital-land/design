@@ -3,8 +3,8 @@ reference: planning-application-status
 name: Planning application status
 plural: Planning application statuses
 term: planning-application-status
+topic: planning-application-and-decision
 attribution: crown-copyright
-consideration: planning-applications-decisions
 description: A planning application status
 entity-maximum: '620999'
 entity-minimum: '620000'
@@ -28,5 +28,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

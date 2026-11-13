@@ -3,8 +3,8 @@ reference: local-plan-housing
 name: local plan housing number
 plural: local plan housing numbers
 term: local-plan-housing
+topic: local-plan
 attribution: crown-copyright
-consideration: local-plans
 description: Housing numbers for a Local Planning Authority in a local plan
 entity-maximum: '1199999'
 entity-minimum: '1100000'
@@ -119,5 +119,3 @@ themes:
 - development
 typology: legal-instrument
 ---
-
-

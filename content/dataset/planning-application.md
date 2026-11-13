@@ -3,9 +3,9 @@ reference: planning-application
 name: Planning application
 plural: Planning applications
 term: planning-application
+topic: planning-application-and-decision
 attribution: crown-copyright
 collection: planning-application
-consideration: planning-applications-decisions
 description: An application for planning permission
 entity-maximum: '10999999999'
 entity-minimum: '10000000000'
@@ -45,5 +45,3 @@ themes:
 - monitoring
 typology: geography
 ---
-
-

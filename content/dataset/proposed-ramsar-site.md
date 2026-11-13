@@ -3,7 +3,6 @@ reference: proposed-ramsar-site
 name: Proposed ramsar site
 plural: Proposed ramsar sites
 attribution: crown-copyright
-consideration: proposed-ramsar-sites
 entity-maximum: '12499999'
 entity-minimum: '12400000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: proposed-ramsar-site
 ---
-
-

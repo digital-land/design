@@ -3,8 +3,8 @@ reference: planning-application-log
 name: Planning application log
 plural: Planning application logs
 term: planning-application-log
+topic: planning-application-and-decision
 attribution: crown-copyright
-consideration: planning-applications-decisions
 description: The stages a planning application has gone through
 entity-maximum: '199999999'
 entity-minimum: '140000000'
@@ -32,5 +32,3 @@ themes:
 - development
 typology: timetable
 ---
-
-

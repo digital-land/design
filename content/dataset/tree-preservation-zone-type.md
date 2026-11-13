@@ -3,9 +3,9 @@ reference: tree-preservation-zone-type
 name: Tree preservation zone type
 plural: Tree preservation zone types
 term: tree-preservation-zone-type
+topic: tree-preservation-order
 attribution: crown-copyright
 collection: tree-preservation-order
-consideration: tree-preservation-orders
 description: Types of zone covered by the tree preservation order
 entity-maximum: '18100999'
 entity-minimum: '18100000'
@@ -29,5 +29,3 @@ themes:
 - environment
 typology: category
 ---
-
-

@@ -4,7 +4,6 @@ name: Brownfield site
 plural: Brownfield sites
 attribution: crown-copyright
 collection: brownfield-site
-consideration: brownfield-land
 entity-maximum: '1899999'
 entity-minimum: '1800000'
 entry-date: '2026-11-12'
@@ -36,6 +35,7 @@ themes:
 typology: geography
 wikidata: Q896586
 wikipedia: Brownfield_land
+topic: brownfield-land
 ---
 
 This is an experimental dataset of the boundaries of brownfield sites found on [data.gov.uk](https://www.data.gov.uk/search?q=brownfield)

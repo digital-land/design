@@ -3,8 +3,8 @@ reference: planning-decision-type
 name: Planning decision type
 plural: Planning decision types
 term: planning-decision-type
+topic: planning-application-and-decision
 attribution: crown-copyright
-consideration: planning-applications-decisions
 description: A type of planning decision
 entity-maximum: '6800999'
 entity-minimum: '6800000'

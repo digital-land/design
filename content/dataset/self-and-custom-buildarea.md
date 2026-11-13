@@ -3,7 +3,6 @@ reference: self-and-custom-buildarea
 name: Self and custom build area
 plural: Self and custom build areas
 attribution: crown-copyright
-consideration: self-and-custom-build-area
 entity-maximum: '14299999'
 entity-minimum: '14200000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - housing
 typology: geography
+topic: self-and-custom-build-area
 ---
-
-

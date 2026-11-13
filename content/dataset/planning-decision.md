@@ -3,8 +3,8 @@ reference: planning-decision
 name: Planning decision
 plural: Planning decision
 term: planning-decision
+topic: planning-application-and-decision
 attribution: crown-copyright
-consideration: planning-applications-decisions
 description: A planning decision
 entity-maximum: '6801999'
 entity-minimum: '6801000'
@@ -28,5 +28,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

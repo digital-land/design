@@ -3,7 +3,6 @@ reference: public-safety-zone-around-airport
 name: Public safety zone around airport
 plural: Public safety zones around airports
 attribution: crown-copyright
-consideration: public-safety-zone-around-airport
 entity-maximum: '13199999'
 entity-minimum: '13100000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - transport
 typology: geography
+topic: public-safety-zone-around-airport
 ---
-
-

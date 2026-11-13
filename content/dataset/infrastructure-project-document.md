@@ -3,8 +3,8 @@ reference: infrastructure-project-document
 name: Infrastructure project document
 plural: Infrastructure project documents
 term: infrastructure-project-document
+topic: nationally-significant-infrastructure-projects-nsip
 attribution: crown-copyright
-consideration: nationally-significant-infrastructure-projects
 description: The documents published and produced for a infrastructure project
 entity-maximum: '11069999999'
 entity-minimum: '11050000000'
@@ -32,5 +32,3 @@ themes:
 - development
 typology: document
 ---
-
-

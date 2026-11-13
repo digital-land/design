@@ -3,9 +3,9 @@ reference: built-up-area
 name: Built up area
 plural: Built up areas
 term: built-up-area
+topic: built-up-area
 attribution: ons-boundary
 collection: built-up-area
-consideration: built-up-areas
 description: built-up areas equal to or greater than 20 hectares
 entity-maximum: '2699999'
 entity-minimum: '2500000'

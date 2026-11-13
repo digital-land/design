@@ -4,7 +4,6 @@ name: Ramsar site
 plural: Ramsar sites
 attribution: natural-england
 collection: ramsar
-consideration: ramsar
 entity-maximum: '619999'
 entity-minimum: '612000'
 entry-date: '2026-11-12'
@@ -35,6 +34,7 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: ramsar
 ---
 
 An internationally [protected site][term:protected-site] listed as a wetland of international importance.

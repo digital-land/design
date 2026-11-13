@@ -4,7 +4,6 @@ name: Permitted development right
 plural: Permitted development right
 attribution: crown-copyright
 collection: legislation
-consideration: permitted-development-rights
 entity-maximum: '11599999'
 entity-minimum: '11500000'
 entry-date: '2026-11-12'
@@ -29,6 +28,7 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: permitted-development-right
 ---
 
 This dataset identifies the categories of [permitted development right][govuk:government/publications/permitted-development-rights-for-householders-technical-guidance/permitted-development-rights-for-householders-technical-guidance].

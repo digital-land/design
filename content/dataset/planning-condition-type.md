@@ -3,8 +3,8 @@ reference: planning-condition-type
 name: Planning condition type
 plural: Planning condition types
 term: planning-condition-type
+topic: planning-condition
 attribution: crown-copyright
-consideration: planning-conditions
 description: The type of the planning condition, for example the removal of permitted development rights
 entity-maximum: '70001999'
 entity-minimum: '70001000'
@@ -29,5 +29,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

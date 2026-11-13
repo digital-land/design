@@ -4,7 +4,6 @@ name: Design code rule category
 plural: Design code rule categories
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '640999'
 entity-minimum: '640100'
 entry-date: '2026-11-12'
@@ -31,6 +30,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: design-code
 ---
-
-

@@ -3,9 +3,9 @@ reference: tree
 name: Tree
 plural: Trees
 term: tree
+topic: tree-preservation-order
 attribution: crown-copyright
 collection: tree-preservation-order
-consideration: tree-preservation-orders
 description: An individual tree
 entity-maximum: '7009999999'
 entity-minimum: '7002000000'

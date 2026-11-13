@@ -4,7 +4,6 @@ name: Nutrient neutrality catchment
 plural: Nutrient neutrality catchments
 attribution: natural-england
 collection: nutrient-neutrality
-consideration: nutrient-neutrality
 entity-maximum: '590999'
 entity-minimum: '590000'
 entry-date: '2026-11-12'

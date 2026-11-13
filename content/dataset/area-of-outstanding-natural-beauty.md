@@ -3,9 +3,9 @@ reference: area-of-outstanding-natural-beauty
 name: Area of outstanding natural beauty
 plural: Areas of outstanding natural beauty
 term: area-of-outstanding-natural-beauty
+topic: area-of-outstanding-natural-beauty
 attribution: natural-england
 collection: area-of-outstanding-natural-beauty
-consideration: areas-of-outstanding-natural-beauty
 description: Land protected by law to conserve and enhance its natural beauty
 entity-maximum: '1099999'
 entity-minimum: '1000000'

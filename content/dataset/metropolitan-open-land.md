@@ -3,7 +3,6 @@ reference: metropolitan-open-land
 name: Metropolitan open land
 plural: Metropolitan open land
 attribution: crown-copyright
-consideration: metropolitan-open-land
 entity-maximum: '9799999'
 entity-minimum: '9700000'
 entry-date: '2026-11-12'
@@ -32,6 +31,5 @@ themes:
 typology: geography
 wikidata: Q16997686
 wikipedia: Metropolitan_Open_Land
+topic: metropolitan-open-land-london
 ---
-
-

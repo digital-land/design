@@ -4,7 +4,6 @@ name: Special protection area
 plural: Special protection areas
 attribution: natural-england
 collection: special-protection-area
-consideration: special-protection-areas
 entity-maximum: '14999999'
 entity-minimum: '14900000'
 entry-date: '2026-11-12'
@@ -32,6 +31,7 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: special-protection-area
 ---
 
 [Special protection areas](https://naturalengland-defra.opendata.arcgis.com/maps/Defra::special-protection-areas-england/about) is an area designated 

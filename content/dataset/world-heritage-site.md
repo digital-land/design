@@ -3,9 +3,9 @@ reference: world-heritage-site
 name: World heritage site
 plural: World heritage sites
 term: world-heritage-site
+topic: world-heritage-site
 attribution: historic-england
 collection: historic-england
-consideration: world-heritage-sites
 entity-maximum: '16109999'
 entity-minimum: '16100000'
 entry-date: '2026-11-12'

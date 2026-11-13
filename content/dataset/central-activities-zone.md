@@ -4,7 +4,6 @@ name: Central activities zone
 plural: Central activities zones
 attribution: crown-copyright
 collection: central-activities-zone
-consideration: central-activty-zones
 entity-maximum: '2299999'
 entity-minimum: '2200000'
 entry-date: '2026-11-12'
@@ -29,6 +28,7 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: central-activities-zone
 ---
 
 The [Greater London Authority](https://www.london.gov.uk/) (GLA) designates a central area of London with [implications for planning](https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/london-plan-guidance-and-spgs/central-activities-zone)

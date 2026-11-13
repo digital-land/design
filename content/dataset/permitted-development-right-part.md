@@ -4,7 +4,6 @@ name: Permitted development right part
 plural: Permitted development right parts
 attribution: crown-copyright
 collection: legislation
-consideration: permitted-development-rights
 entity-maximum: '11499999'
 entity-minimum: '11400000'
 entry-date: '2026-11-12'
@@ -26,6 +25,7 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: permitted-development-right
 ---
 
 Permitted development right part is a category used to group the [permitted development right][dataset:permitted-development-right] categories.

@@ -3,7 +3,6 @@ reference: gypsy-and-traveller-site
 name: Gypsy and traveller site
 plural: Gypsy and traveller sites
 attribution: crown-copyright
-consideration: gypsy-roma-traveller-sites
 entity-maximum: '7399999'
 entity-minimum: '7300000'
 entry-date: '2026-11-12'
@@ -33,5 +32,3 @@ themes:
 typology: geography
 wikidata: Q74497345
 ---
-
-

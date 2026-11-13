@@ -3,8 +3,8 @@ reference: planning-condition-target
 name: Planning condition target
 plural: Planning condition targets
 term: planning-condition-target
+topic: planning-condition
 attribution: crown-copyright
-consideration: planning-conditions
 description: The target of the condition, for example a property or site
 entity-maximum: '70000999'
 entity-minimum: '70000500'
@@ -29,5 +29,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

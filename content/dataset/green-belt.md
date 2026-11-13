@@ -4,7 +4,6 @@ name: Green belt
 plural: Green belt
 attribution: os-open-data
 collection: green-belt
-consideration: greenbelt
 entity-maximum: '610999'
 entity-minimum: '610000'
 entry-date: '2026-11-12'
@@ -32,6 +31,7 @@ themes:
 typology: geography
 wikidata: Q2734873
 wikipedia: Green_belt_(United_Kingdom)
+topic: greenbelt
 ---
 
 This dataset contains boundaries for land designated by a [local planning authority][term:local-planning-authority] as being [green belt](https://www.gov.uk/guidance/green-belt),

@@ -4,7 +4,6 @@ name: Design code status
 plural: Design code statuses
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '622499'
 entity-minimum: '622000'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: design-code
 ---
-
-

@@ -3,7 +3,6 @@ reference: internal-drainage-district
 name: Internal drainage district
 plural: Internal drainage districts
 attribution: crown-copyright
-consideration: internal-drainage-district
 entity-maximum: '8219999'
 entity-minimum: '8210000'
 entry-date: '2026-11-12'
@@ -27,6 +26,5 @@ themes:
 typology: geography
 wikidata: Q5305553
 wikipedia: Drainage_district
+topic: internal-drainage-district
 ---
-
-

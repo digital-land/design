@@ -3,8 +3,8 @@ reference: local-plan-event
 name: Local plan event
 plural: Local plan events
 term: local-plan-event
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: The different event types in a local plan timetable
 end-date: '2026-02-03'
 entry-date: '2024-10-22'
@@ -28,5 +28,3 @@ themes:
 - development
 typology: category
 ---
-
-

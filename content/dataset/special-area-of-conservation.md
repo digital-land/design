@@ -4,7 +4,6 @@ name: Special area of conservation
 plural: Special areas of conservation
 attribution: natural-england
 collection: special-area-of-conservation
-consideration: special-areas-of-conservation
 entity-maximum: '14899999'
 entity-minimum: '14800000'
 entry-date: '2026-11-12'
@@ -35,6 +34,7 @@ themes:
 typology: geography
 wikidata: Q1191622
 wikipedia: Special_Area_of_Conservation
+topic: special-area-of-conservation
 ---
 
 [Special areas of conservation][term:special-areas-of-conservation] (SACs) are area of land which have been designated by

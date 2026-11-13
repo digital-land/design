@@ -3,7 +3,6 @@ reference: common-land-and-village-green
 name: Common land and village green
 plural: Common land and village greens
 attribution: crown-copyright
-consideration: common-land-and-village-greens
 entity-maximum: '2799999'
 entity-minimum: '2700000'
 entry-date: '2026-11-12'
@@ -32,6 +31,5 @@ themes:
 typology: geography
 wikidata: Q2259176
 wikipedia: Common_land
+topic: common-land-and-village-green
 ---
-
-

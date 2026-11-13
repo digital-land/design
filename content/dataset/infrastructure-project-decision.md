@@ -3,9 +3,9 @@ reference: infrastructure-project-decision
 name: Infrastructure project decision
 plural: Infrastructure project decisions
 term: infrastructure-project-decision
+topic: nationally-significant-infrastructure-projects-nsip
 attribution: crown-copyright
 collection: infrastructure-project
-consideration: nationally-significant-infrastructure-projects
 description: The types of decision for infrastructure projects
 entity-maximum: '11019999999'
 entity-minimum: '11010000000'
@@ -28,5 +28,3 @@ themes:
 - development
 typology: category
 ---
-
-

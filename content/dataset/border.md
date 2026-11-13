@@ -4,7 +4,6 @@ name: Border
 plural: Borders
 attribution: ons-boundary
 collection: border
-consideration: border
 entity-maximum: '31999'
 entity-minimum: '31000'
 entry-date: '2026-11-12'
@@ -29,6 +28,7 @@ realm: dataset
 themes:
 - administrative
 typology: geography
+topic: border
 ---
 
 The boundary of England as provided by the ONS for the purposes of producing statistics.

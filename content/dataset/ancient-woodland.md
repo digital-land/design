@@ -3,9 +3,9 @@ reference: ancient-woodland
 name: Ancient woodland
 plural: Ancient woodlands
 term: ancient-woodland
+topic: ancient-woodland
 attribution: natural-england
 collection: ancient-woodland
-consideration: ancient-woodlands
 description: An area that’s been wooded continuously since at least 1600 AD
 entity-maximum: '129999999'
 entity-minimum: '110000000'

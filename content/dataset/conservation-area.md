@@ -3,9 +3,9 @@ reference: conservation-area
 name: Conservation area
 plural: Conservation areas
 term: conservation-area
+topic: conservation-area
 attribution: historic-england
 collection: conservation-area
-consideration: conservation-areas
 description: areas of special architectural or historic interest, the character or appearance of which it is desirable to preserve or enhance
 entity-maximum: '44999999'
 entity-minimum: '44000000'

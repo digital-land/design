@@ -3,8 +3,8 @@ reference: local-plan-process
 name: Local plan process
 plural: Local plan processes
 term: local-plan-process
+topic: local-plan
 attribution: crown-copyright
-consideration: local-plans
 description: The examination process under which a local plan is produced
 entity-maximum: '60999'
 entity-minimum: '60000'
@@ -28,5 +28,3 @@ themes:
 - development
 typology: category
 ---
-
-

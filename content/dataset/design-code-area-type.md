@@ -4,7 +4,6 @@ name: Design code area type
 plural: Design code area types
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '622999'
 entity-minimum: '622500'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: design-code
 ---
-
-

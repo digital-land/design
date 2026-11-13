@@ -3,9 +3,9 @@ reference: design-code-rule
 name: Design code rule
 plural: Design code rules
 term: design-code-rule
+topic: design-code
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 description: the set of design code rules affecting a design code area
 entity-maximum: '8799999'
 entity-minimum: '8700000'
@@ -35,5 +35,3 @@ themes:
 - heritage
 typology: policy
 ---
-
-

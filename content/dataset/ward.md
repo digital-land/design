@@ -3,9 +3,9 @@ reference: ward
 name: Ward
 plural: Wards
 term: ward
+topic: council-ward
 attribution: ons-boundary
 collection: ward
-consideration: council-wards
 description: Local areas that have been divided for voting purposes
 entity-maximum: '899999'
 entity-minimum: '800000'

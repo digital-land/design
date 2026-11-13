@@ -3,8 +3,8 @@ reference: development-plan-geography
 name: Development plan geography
 plural: Development plan geographies
 term: development-plan-geography
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: A geography that a development plan covers
 end-date: '2024-07-12'
 entity-maximum: 0
@@ -32,5 +32,3 @@ themes:
 - development
 typology: geography
 ---
-
-

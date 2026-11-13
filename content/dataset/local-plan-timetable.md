@@ -3,8 +3,8 @@ reference: local-plan-timetable
 name: Local plan timetable
 plural: Local plan timetables
 term: local-plan-timetable
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: log of past and predicted milestones and events when producing a local plan
 end-date: '2026-01-28'
 entity-maximum: '4299999'
@@ -131,5 +131,3 @@ themes:
 - development
 typology: timetable
 ---
-
-

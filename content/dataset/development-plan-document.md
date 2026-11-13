@@ -3,9 +3,9 @@ reference: development-plan-document
 name: Development plan document
 plural: Development plan documents
 term: development-plan-document
+topic: development-plan-and-timetable
 attribution: crown-copyright
 collection: local-plan
-consideration: development-plans-and-timetables
 description: documents associated with a development plan
 end-date: '2026-02-03'
 entity-maximum: '3899999'

@@ -3,8 +3,8 @@ reference: local-plan-document
 name: Local plan document
 plural: Local plan documents
 term: local-plan-document
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: documents associated with a local plan
 entry-date: '2024-09-14'
 fields:
@@ -107,5 +107,3 @@ themes:
 - development
 typology: document
 ---
-
-

@@ -3,8 +3,8 @@ reference: development-plan-status
 name: Development plan status
 plural: Development plan statuses
 term: development-plan-status
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: The different statuses a plan can have
 end-date: '2023-10-23'
 entity-maximum: '5099999'
@@ -27,5 +27,3 @@ themes:
 - development
 typology: category
 ---
-
-

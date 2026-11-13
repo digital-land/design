@@ -4,7 +4,6 @@ name: Contribution purpose
 plural: Contribution purposes
 attribution: crown-copyright
 collection: developer-contributions
-consideration: developer-contributions
 entity-maximum: '16299999'
 entity-minimum: '16200000'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: developer-contribution
 ---
-
-

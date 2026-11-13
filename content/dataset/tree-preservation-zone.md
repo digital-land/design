@@ -3,9 +3,9 @@ reference: tree-preservation-zone
 name: Tree preservation zone
 plural: Tree preservation zones
 term: tree-preservation-zone
+topic: tree-preservation-order
 attribution: crown-copyright
 collection: tree-preservation-order
-consideration: tree-preservation-orders
 description: An area covered by a tree preservation order
 entity-maximum: '29099999'
 entity-minimum: '19100000'

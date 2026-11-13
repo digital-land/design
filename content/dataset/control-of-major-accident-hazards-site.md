@@ -3,7 +3,6 @@ reference: control-of-major-accident-hazards-site
 name: Control of major accident hazards site
 plural: Control of major accident hazards sites
 attribution: crown-copyright
-consideration: control-of-major-accident-and-hazard-sites
 entity-maximum: '16399999'
 entity-minimum: '16300000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: control-of-major-accident-and-hazard-sites
 ---
-
-

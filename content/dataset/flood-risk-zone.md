@@ -3,9 +3,9 @@ reference: flood-risk-zone
 name: Flood risk zone
 plural: Flood risk zones
 term: flood-risk-zone
+topic: flood-risk-zone
 attribution: crown-copyright
 collection: flood-risk-zone
-consideration: flood-risk-zones
 description: Area identified as being at risk of flooding from rivers or the sea
 entity-maximum: '65999999'
 entity-minimum: '65000000'

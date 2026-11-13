@@ -4,7 +4,6 @@ name: Civil parish
 plural: Civil parishes
 attribution: ons-boundary
 collection: parish
-consideration: parish
 entity-maximum: '139999999'
 entity-minimum: '130000000'
 entry-date: '2026-11-12'
@@ -34,6 +33,7 @@ themes:
 typology: geography
 wikidata: Q1115575
 wikipedia: Civil_parish
+topic: parish
 ---
 
 The administrative boundaries of [civil parish councils](https://en.wikipedia.org/wiki/Parish_council_(England)) in England.

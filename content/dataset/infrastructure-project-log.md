@@ -3,8 +3,8 @@ reference: infrastructure-project-log
 name: Infrastructure project log
 plural: Infrastructure project logs
 term: infrastructure-project-log
+topic: nationally-significant-infrastructure-projects-nsip
 attribution: crown-copyright
-consideration: nationally-significant-infrastructure-projects
 description: A log of events that happen during the infrastructure projects
 entity-maximum: '11089999999'
 entity-minimum: '11070000000'
@@ -30,5 +30,3 @@ themes:
 - development
 typology: timetable
 ---
-
-

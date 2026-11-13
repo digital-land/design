@@ -4,7 +4,6 @@ name: Flood risk type
 plural: Flood risk types
 attribution: crown-copyright
 collection: flood-risk-zone
-consideration: flood-risk-zones
 entity-maximum: '6449999'
 entity-minimum: '6400000'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - environment
 typology: category
+topic: flood-risk-zone
 ---
-
-

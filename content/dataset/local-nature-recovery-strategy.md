@@ -3,7 +3,6 @@ reference: local-nature-recovery-strategy
 name: Local nature recovery strategy
 plural: Local nature recovery strategies
 attribution: crown-copyright
-consideration: local-nature-recovery-strategy
 entity-maximum: '9099999'
 entity-minimum: '9000000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: local-nature-recovery-strategy
 ---
-
-

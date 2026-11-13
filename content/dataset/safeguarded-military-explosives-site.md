@@ -3,7 +3,6 @@ reference: safeguarded-military-explosives-site
 name: Safeguarded military explosives site
 plural: Safeguarded military explosives sites
 attribution: crown-copyright
-consideration: safeguarding-aerodromes-technical-sites-and-military-explosives-storage-areas
 entity-maximum: '13699999'
 entity-minimum: '13600000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: safeguarded-aerodrome-technical-site-and-military-explosives-storage-area
 ---
-
-

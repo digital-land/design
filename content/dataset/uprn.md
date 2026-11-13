@@ -3,8 +3,8 @@ reference: uprn
 name: UPRN
 plural: UPRNs
 term: uprn
+topic: uprn
 attribution: ogl3
-consideration: uprn
 description: Unique property reference numbers
 entry-date: '2024-11-05'
 fields:
@@ -27,5 +27,3 @@ themes:
 - monitoring
 typology: geography
 ---
-
-

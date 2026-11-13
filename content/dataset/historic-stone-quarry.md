@@ -3,7 +3,6 @@ reference: historic-stone-quarry
 name: Historic stone quarry
 plural: Historic stone quarries
 attribution: crown-copyright
-consideration: historic-stone-quarry
 entity-maximum: '7899999'
 entity-minimum: '7800000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - heritage
 typology: geography
+topic: historic-stone-quarry
 ---
-
-

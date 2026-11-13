@@ -4,7 +4,6 @@ name: Infrastructure project
 plural: Infrastructure project
 attribution: crown-copyright
 collection: infrastructure-project
-consideration: nationally-significant-infrastructure-projects
 description: An application for a infrastructure development
 entity-maximum: '11999999999'
 entity-minimum: '11100000000'
@@ -35,6 +34,7 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: nationally-significant-infrastructure-projects-nsip
 ---
 
 The boundaries shown are used to inform the [Environmental Impact Assessment][govuk:guidance/environmental-impact-assessment] ([EIA][abbreviation:eia]). This information is used by the [Planning Inspectorate](https://www.gov.uk/government/organisations/planning-inspectorate) (PINS) to identify the consultation bodies. These site boundaries may change.

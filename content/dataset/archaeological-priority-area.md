@@ -3,9 +3,9 @@ reference: archaeological-priority-area
 name: Archaeological priority area
 plural: Archaeological priority areas
 term: archaeological-priority-area
+topic: greater-london-archaeological-priority-area
 attribution: historic-england
 collection: archaeological-priority-area
-consideration: greater-london-archaeological-priority-areas
 description: Areas of Greater London where there is significant known archaeological interest or potential for new discoveries
 entity-maximum: '59999'
 entity-minimum: '40000'

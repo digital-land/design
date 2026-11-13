@@ -4,7 +4,6 @@ name: Educational establishment
 plural: Educational establishments
 attribution: crown-copyright
 collection: educational-establishment
-consideration: educational-establishment
 entity-maximum: 3499999
 entity-minimum: 3100000
 entry-date: '2024-07-09'
@@ -37,6 +36,5 @@ realm: dataset
 themes:
 - administrative
 typology: geography
+topic: educational-establishment
 ---
-
-

@@ -4,7 +4,6 @@ name: Developer agreement type
 plural: Developer agreement types
 attribution: crown-copyright
 collection: developer-contributions
-consideration: developer-contributions
 entity-maximum: '4599999'
 entity-minimum: '4500000'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: developer-contribution
 ---
-
-

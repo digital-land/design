@@ -4,7 +4,6 @@ name: Site
 plural: Sites
 term: site
 attribution: crown-copyright
-consideration: site
 description: plot or area of land for a proposed development, operational work, or material change of use
 entity-maximum: '519999999'
 entity-minimum: '500000000'
@@ -37,5 +36,3 @@ typology: geography
 wikidata: Q1284677k
 wikipedia: Site_plan
 ---
-
-

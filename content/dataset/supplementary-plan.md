@@ -5,7 +5,6 @@ plural: supplementary plans
 term: supplementary-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: supplementary-plan
 description: supplementary local plans prepared by a Local Planning Authority
 entity-maximum: '559999'
 entity-minimum: '550000'
@@ -43,5 +42,3 @@ typology: legal-instrument
 wikidata: Q6664491
 wikipedia: Local_plan
 ---
-
-

@@ -3,9 +3,9 @@ reference: heritage-coast
 name: Heritage coast
 plural: Heritage coast
 term: heritage-coast
+topic: heritage-coast
 attribution: natural-england
 collection: heritage-coast
-consideration: heritage-coast
 entity-maximum: '7699999'
 entity-minimum: '7600000'
 entry-date: '2026-11-12'

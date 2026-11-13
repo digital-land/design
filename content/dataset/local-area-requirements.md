@@ -4,7 +4,6 @@ name: Local area requirements
 plural: Local area requirements
 attribution: crown-copyright
 collection: local-area-requirements
-consideration: local-area-requirements
 entity-maximum: '29999'
 entity-minimum: '20000'
 entry-date: '2026-11-12'
@@ -31,6 +30,5 @@ themes:
 - administrative
 - housing
 typology: document
+topic: local-area-requirements
 ---
-
-

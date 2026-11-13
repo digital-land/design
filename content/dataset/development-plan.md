@@ -3,7 +3,6 @@ reference: development-plan
 name: development plan
 plural: development plans
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 end-date: '2026-03-02'
 entry-date: '2026-11-12'
 fields:
@@ -143,6 +142,7 @@ themes:
 typology: legal-instrument
 wikidata: Q5266783
 wikipedia: Development_plan
+topic: development-plan-and-timetable
 ---
 
 This dataset is a package made from the local-plan, waste-plan, minerals-plan and supplementary-plan datasets.

@@ -14,6 +14,13 @@ fields:
 - field: plural
 - field: start-date
 - field: theme
+- field: term
+- field: topic-stage
+- field: synonyms
+- field: legislation
+- field: github-discussion
+- field: frequency-of-updates
+- field: tags
 - field: topic
 key-field: topic
 licence: ogl3

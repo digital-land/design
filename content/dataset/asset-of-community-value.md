@@ -3,9 +3,9 @@ reference: asset-of-community-value
 name: Asset of community value
 plural: Assets of community value
 term: asset-of-community-value
+topic: asset-of-community-value
 attribution: crown-copyright
 collection: asset-of-community-value
-consideration: assets-of-community-value
 description: Buildings or pieces of land that are used for the social wellbeing and interests of the local community
 entity-maximum: '17299999'
 entity-minimum: '17100000'

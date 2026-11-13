@@ -3,9 +3,9 @@ reference: transport-access-node
 name: Public transport access node
 plural: Public transport access node
 term: transport-access-node
+topic: national-public-transport-access-nodes-naptan
 attribution: crown-copyright
 collection: transport-access-node
-consideration: national-public-transport-access-nodes
 description: All public transport access points where you can get on or off public transport
 entity-maximum: 59999999
 entity-minimum: 50000000

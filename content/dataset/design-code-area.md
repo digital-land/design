@@ -4,7 +4,6 @@ name: Design code area
 plural: Design code areas
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '639999'
 entity-minimum: '627000'
 entry-date: '2026-11-12'
@@ -33,6 +32,7 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: design-code
 ---
 
 Geographical areas covered by a [design code][dataset:design-code].

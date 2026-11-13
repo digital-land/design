@@ -3,9 +3,9 @@ reference: plan-timetable
 name: plan timetable
 plural: plan timetables
 term: plan-timetable
+topic: development-plan-and-timetable
 attribution: crown-copyright
 collection: local-plan
-consideration: development-plans-and-timetables
 description: log of past and future milestones and events when producing a plan
 entity-maximum: '5199999'
 entity-minimum: '5100000'

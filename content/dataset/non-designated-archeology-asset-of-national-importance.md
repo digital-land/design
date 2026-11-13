@@ -3,7 +3,6 @@ reference: non-designated-archeology-asset-of-national-importance
 name: Non-designated archeology asset of national importance
 plural: Non-designated archeology assets of national importance
 attribution: crown-copyright
-consideration: non-designated-heritage-asset
 entity-maximum: '10499999'
 entity-minimum: '10400000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - heritage
 typology: geography
+topic: non-designated-heritage-asset
 ---
-
-

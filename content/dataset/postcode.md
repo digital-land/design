@@ -3,8 +3,8 @@ reference: postcode
 name: Postcode
 plural: Postcodes
 term: postcode
+topic: postcode
 attribution: ogl3
-consideration: postcodes
 description: Postcodes in England
 entity-maximum: 499999999
 entity-minimum: 300000000
@@ -26,5 +26,3 @@ themes:
 - administrative
 typology: geography
 ---
-
-

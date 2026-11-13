@@ -3,7 +3,6 @@ reference: safeguarded-wharf
 name: Safeguarded wharf
 plural: Safeguarded wharves
 attribution: crown-copyright
-consideration: safeguarded-wharves
 entity-maximum: '13799999'
 entity-minimum: '13700000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - transport
 typology: geography
+topic: safeguarded-wharf
 ---
-
-

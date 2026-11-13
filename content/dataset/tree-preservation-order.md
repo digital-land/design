@@ -4,7 +4,6 @@ name: Tree preservation order
 plural: Tree preservation orders
 attribution: crown-copyright
 collection: tree-preservation-order
-consideration: tree-preservation-orders
 entity-maximum: '7001999999'
 entity-minimum: '7001000000'
 entry-date: '2026-11-12'
@@ -32,6 +31,7 @@ realm: dataset
 themes:
 - environment
 typology: legal-instrument
+topic: tree-preservation-order
 ---
 
 This dataset contains information on trees with preservation orders.

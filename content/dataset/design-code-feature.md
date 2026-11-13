@@ -4,7 +4,6 @@ name: Design code feature
 plural: Design code features
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '4209999'
 entity-minimum: '4200000'
 entry-date: '2026-11-12'
@@ -28,6 +27,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: design-code
 ---
-
-

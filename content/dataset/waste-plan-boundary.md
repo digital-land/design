@@ -5,7 +5,6 @@ plural: Waste plan boundaries
 term: waste-plan-boundary
 attribution: crown-copyright
 collection: local-plan
-consideration: waste-local-plan
 description: The boundary covered by a waste plan.
 entity-maximum: '589999'
 entity-minimum: '580000'
@@ -32,5 +31,3 @@ themes:
 - development
 typology: geography
 ---
-
-

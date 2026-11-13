@@ -1,0 +1,12 @@
+---
+reference: public-path-and-byway
+name: Public path and byway
+plural: Public paths byways
+description: Tracks and paths open to the public
+topic-stage: backlog
+tags:
+- local land charge
+github-discussion: 239
+start-date: '2024-03-25'
+entry-date: '2025-01-28'
+---

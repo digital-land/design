@@ -3,9 +3,9 @@ reference: site-of-special-scientific-interest
 name: Site of special scientific interest
 plural: Sites of special scientific interest
 term: site-of-special-scientific-interest
+topic: site-of-special-scientific-interest
 attribution: natural-england
 collection: site-of-special-scientific-interest
-consideration: sites-of-special-scientific-interest
 entity-maximum: '14599999'
 entity-minimum: '14500000'
 entry-date: '2026-11-12'

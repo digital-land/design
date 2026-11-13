@@ -3,7 +3,6 @@ reference: protected-view
 name: Protected view
 plural: Protected views
 attribution: crown-copyright
-consideration: protected-views
 entity-maximum: '12799999'
 entity-minimum: '12700000'
 entry-date: '2026-11-12'
@@ -32,6 +31,5 @@ themes:
 typology: geography
 wikidata: Q4118263
 wikipedia: Protected_view
+topic: protected-view
 ---
-
-

@@ -3,9 +3,9 @@ reference: minerals-plan-boundary
 name: Minerals plan boundary
 plural: Minerals plan boundaries
 term: minerals-plan-boundary
+topic: minerals-and-waste-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: minerals-and-waste-plan
 description: The boundary covered by a minerals plan.
 entity-maximum: '579999'
 entity-minimum: '570000'
@@ -32,5 +32,3 @@ themes:
 - development
 typology: geography
 ---
-
-

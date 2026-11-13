@@ -3,9 +3,9 @@ reference: flood-storage-area
 name: Flood storage area
 plural: Flood storage areas
 term: flood-storage-area
+topic: flood-storage-area
 attribution: crown-copyright
 collection: flood-storage-area
-consideration: flood-storage-areas
 description: Areas that act as a balancing reservoir, storage basin or balancing pond for flood control
 entity-maximum: '529999'
 entity-minimum: '521000'
@@ -30,5 +30,3 @@ themes:
 - environment
 typology: geography
 ---
-
-

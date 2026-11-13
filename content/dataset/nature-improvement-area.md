@@ -4,7 +4,6 @@ name: Nature improvement area
 plural: Nature improvement areas
 attribution: natural-england
 collection: nature-improvement-area
-consideration: nature-improvement-areas
 entity-maximum: '10199999'
 entity-minimum: '10100000'
 entry-date: '2024-07-16'
@@ -29,6 +28,5 @@ themes:
 typology: geography
 wikidata: Q6980918
 wikipedia: Nature_Improvement_Area
+topic: nature-improvement-area
 ---
-
-

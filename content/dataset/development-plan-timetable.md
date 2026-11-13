@@ -3,8 +3,8 @@ reference: development-plan-timetable
 name: development plan timetable
 plural: development plan timetables
 term: development-plan-timetable
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: log of past and committed milestones and events when producing a development plan
 end-date: '2026-03-25'
 entity-maximum: '5269999'
@@ -177,5 +177,3 @@ themes:
 - development
 typology: timetable
 ---
-
-

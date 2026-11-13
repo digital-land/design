@@ -4,7 +4,6 @@ name: Local authority district
 plural: Local authority districts
 attribution: ons-boundary
 collection: local-authority-district
-consideration: local-authority-district
 entity-maximum: '8699999'
 entity-minimum: '8600000'
 entry-date: '2026-11-12'
@@ -36,6 +35,7 @@ themes:
 typology: geography
 wikidata: Q349084
 wikipedia: Districts_of_England
+topic: local-authority-district
 ---
 
 The administrative boundaries of local authorities in England as provided by the ONS for the purposes of producing statistics.

@@ -3,9 +3,9 @@ reference: development-corporation
 name: Development corporation
 plural: Development corporations
 term: development-corporation
+topic: development-corporation
 attribution: crown-copyright
 collection: organisation
-consideration: development-corporation
 entity-maximum: '4799999'
 entity-minimum: '4700000'
 entry-date: '2026-11-12'

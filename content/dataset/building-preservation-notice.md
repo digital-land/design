@@ -4,7 +4,6 @@ name: Building preservation notice
 plural: Building preservation notices
 attribution: historic-england
 collection: historic-england
-consideration: building-preservation-notices
 entity-maximum: '2099999'
 entity-minimum: '2000000'
 entry-date: '2026-11-12'
@@ -35,6 +34,7 @@ themes:
 typology: geography
 wikidata: Q98785867
 wikipedia: Listed_building#England_and_Wales
+topic: building-preservation-notice
 ---
 
 Local planning authorities can serve a Building Preservation Notice (BPN) on a building owner if they consider a building

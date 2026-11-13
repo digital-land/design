@@ -3,9 +3,9 @@ reference: local-planning-authority
 name: Local Planning Authority
 plural: Local Planning Authorities
 term: local-planning-authority
+topic: local-planning-authority
 attribution: ons-boundary
 collection: local-planning-authority
-consideration: local-planning-authority
 description: Local Planning Authorities and their boundaries
 entity-maximum: '626999'
 entity-minimum: '624000'

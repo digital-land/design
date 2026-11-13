@@ -3,7 +3,6 @@ reference: contaminated-land
 name: Contaminated land
 plural: Contaminated land
 attribution: crown-copyright
-consideration: contaminated-land
 entity-maximum: '16899999'
 entity-minimum: '16800000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: contaminated-land
 ---
-
-

@@ -3,7 +3,6 @@ reference: employment-allocation
 name: Employment allocation
 plural: Employment allocations
 attribution: crown-copyright
-consideration: employment-allocations
 entity-maximum: '5999999'
 entity-minimum: '5900000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - development
 typology: geography
+topic: employment-allocation
 ---
-
-

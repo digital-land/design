@@ -3,7 +3,6 @@ reference: local-green-space
 name: Local green space
 plural: Local green spaces
 attribution: crown-copyright
-consideration: local-green-space
 entity-maximum: '8999999'
 entity-minimum: '8900000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: local-green-space
 ---
-
-

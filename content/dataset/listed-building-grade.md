@@ -4,7 +4,6 @@ name: Listed building grade
 plural: Listed building grades
 attribution: crown-copyright
 collection: listed-building
-consideration: listed-buildings
 entity-maximum: '799999'
 entity-minimum: '700000'
 entry-date: '2026-11-12'
@@ -28,6 +27,7 @@ themes:
 typology: category
 wikidata: Q30634609
 wikipedia: Listed_building
+topic: listed-building-outline
 ---
 
 The grade assigned to each [listed building][dataset:listed-building] by [Historic England](https://historicengland.org.uk/).

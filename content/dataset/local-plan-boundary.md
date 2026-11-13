@@ -3,9 +3,9 @@ reference: local-plan-boundary
 name: Local plan boundary
 plural: Local plan boundaries
 term: local-plan-boundary
+topic: local-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: local-plans
 description: The boundary covered by a local plan.
 entity-maximum: '4219999'
 entity-minimum: '4211000'

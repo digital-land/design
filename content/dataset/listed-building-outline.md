@@ -3,9 +3,9 @@ reference: listed-building-outline
 name: Listed building outline
 plural: Listed building outlines
 term: listed-building-outline
+topic: listed-building-outline
 attribution: crown-copyright
 collection: listed-building
-consideration: listed-buildings
 description: boundary of a listed building
 entity-maximum: '43099999'
 entity-minimum: '42100000'

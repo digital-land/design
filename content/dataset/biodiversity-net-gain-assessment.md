@@ -3,7 +3,6 @@ reference: biodiversity-net-gain-assessment
 name: Biodiversity net gain assesment
 plural: Biodiversity net gain assesments
 attribution: crown-copyright
-consideration: biodiversity-net-gain-assessments
 entity-maximum: '1699999'
 entity-minimum: '1600000'
 entry-date: '2026-11-12'
@@ -29,6 +28,5 @@ realm: dataset
 themes:
 - environment
 typology: document
+topic: biodiversity-net-gain-assessment
 ---
-
-

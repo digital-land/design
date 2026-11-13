@@ -5,7 +5,6 @@ plural: waste plans
 term: waste-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: waste-plans
 description: waste plans prepared by a Minerals and Waste Planning Authority
 entity-maximum: '549999'
 entity-minimum: '540000'

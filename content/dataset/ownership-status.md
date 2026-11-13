@@ -4,7 +4,6 @@ name: Ownership status
 plural: Ownership statuses
 attribution: crown-copyright
 collection: ownership-status
-consideration: brownfield-land
 entity-maximum: '10999999'
 entity-minimum: '10900000'
 entry-date: '2026-11-12'
@@ -25,6 +24,7 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: brownfield-land
 ---
 
 The ownership status of [brownfield land][dataset:brownfield-land] or other site.

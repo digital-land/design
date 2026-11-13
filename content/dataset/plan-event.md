@@ -3,9 +3,9 @@ reference: plan-event
 name: Plan event
 plural: Plan events
 term: plan-event
+topic: development-plan-and-timetable
 attribution: crown-copyright
 collection: local-plan
-consideration: development-plans-and-timetables
 description: The different event types in a plan timetable
 entity-maximum: '2999999'
 entity-minimum: '2950000'
@@ -29,5 +29,3 @@ themes:
 - development
 typology: category
 ---
-
-

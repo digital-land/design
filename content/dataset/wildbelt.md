@@ -3,7 +3,6 @@ reference: wildbelt
 name: Wildbelt
 plural: Wildbelts
 attribution: crown-copyright
-consideration: wildbelt-designations
 entity-maximum: '15999999'
 entity-minimum: '15900000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - environment
 typology: geography
+topic: wildbelt-designation
 ---
-
-

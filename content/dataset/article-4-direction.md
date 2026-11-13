@@ -3,9 +3,9 @@ reference: article-4-direction
 name: Article 4 direction
 plural: Article 4 directions
 term: article-4-direction
+topic: article-4-direction
 attribution: crown-copyright
 collection: article-4-direction
-consideration: article-4-directions
 entity-maximum: '6199999'
 entity-minimum: '6100000'
 entry-date: '2026-11-12'

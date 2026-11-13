@@ -4,7 +4,6 @@ name: Design code section
 plural: Design code sections
 attribution: crown-copyright
 collection: design-code
-consideration: design-codes
 entity-maximum: '5279999'
 entity-minimum: '5270000'
 entry-date: '2026-11-12'
@@ -29,6 +28,5 @@ realm: dataset
 themes:
 - development
 typology: category
+topic: design-code
 ---
-
-

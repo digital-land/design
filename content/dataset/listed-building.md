@@ -3,9 +3,9 @@ reference: listed-building
 name: Listed building
 plural: Listed buildings
 term: listed-building
+topic: listed-building-outline
 attribution: historic-england
 collection: listed-building
-consideration: listed-buildings
 entity-maximum: '41099999'
 entity-minimum: '31100000'
 entry-date: '2026-11-12'

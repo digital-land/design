@@ -3,8 +3,8 @@ reference: mineral-safeguarding-area
 name: Mineral safeguarding area
 plural: Mineral safeguarding areas
 term: mineral-safeguarding-area
+topic: mineral-safeguarding-area
 attribution: crown-copyright
-consideration: mineral-safeguarding-areas
 entity-maximum: '9899999'
 entity-minimum: '9800000'
 entry-date: '2026-11-12'
@@ -32,5 +32,3 @@ themes:
 - environment
 typology: geography
 ---
-
-

@@ -4,7 +4,6 @@ name: Certificate of immunity
 plural: Certificates of immunity
 attribution: historic-england
 collection: historic-england
-consideration: certificate-of-immunity
 entity-maximum: '2399999'
 entity-minimum: '2300000'
 entry-date: '2026-11-12'
@@ -35,6 +34,5 @@ themes:
 typology: geography
 wikidata: Q5065092
 wikipedia: Certificate_of_Immunity_from_Listing
+topic: certificate-of-immunity
 ---
-
-

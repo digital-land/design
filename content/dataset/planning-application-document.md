@@ -3,7 +3,6 @@ reference: planning-application-document
 name: Planning application document
 plural: Planning application documents
 attribution: crown-copyright
-consideration: planning-applications-decisions
 entity-maximum: '299999999'
 entity-minimum: '200000000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - development
 typology: document
+topic: planning-application-and-decision
 ---
-
-

@@ -3,8 +3,8 @@ reference: development-plan-boundary
 name: Development plan boundary
 plural: Development plan boundaries
 term: development-plan-boundary
+topic: development-plan-and-timetable
 attribution: crown-copyright
-consideration: development-plans-and-timetables
 description: A boundary that a development plan covers
 entity-maximum: '3099999'
 entity-minimum: '3010000'
@@ -30,5 +30,3 @@ themes:
 - development
 typology: geography
 ---
-
-

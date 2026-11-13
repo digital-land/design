@@ -3,9 +3,9 @@ reference: scheduled-monument
 name: Scheduled monument
 plural: Scheduled monuments
 term: scheduled-monument
+topic: scheduled-monument
 attribution: historic-england
 collection: historic-england
-consideration: scheduled-monuments
 entity-maximum: '13999999'
 entity-minimum: '13900000'
 entry-date: '2026-11-12'

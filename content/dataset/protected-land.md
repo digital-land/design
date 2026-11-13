@@ -3,7 +3,6 @@ reference: protected-land
 name: Protected land
 plural: Protected land
 attribution: crown-copyright
-consideration: protected-land
 entity-maximum: '12599999'
 entity-minimum: '12500000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - heritage
 typology: geography
+topic: protected-land
 ---
-
-

@@ -3,9 +3,9 @@ reference: article-4-direction-area
 name: Article 4 direction area
 plural: Article 4 direction areas
 term: article-4-direction-area
+topic: article-4-direction
 attribution: crown-copyright
 collection: article-4-direction
-consideration: article-4-directions
 description: Orders made by the local planning authority to remove all or some of the permitted development rights on a site in order to protect it
 entity-maximum: '7019999999'
 entity-minimum: '7010000000'

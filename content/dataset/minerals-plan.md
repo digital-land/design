@@ -3,9 +3,9 @@ reference: minerals-plan
 name: minerals plan
 plural: minerals plans
 term: minerals-plan
+topic: minerals-and-waste-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: minerals-and-waste-plan
 description: minerals plans prepared by a Minerals and Waste Planning Authority
 entity-maximum: '539999'
 entity-minimum: '530000'

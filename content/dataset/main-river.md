@@ -3,7 +3,6 @@ reference: main-river
 name: Main river
 plural: Main rivers
 attribution: crown-copyright
-consideration: main-rivers
 entity-maximum: '9699999'
 entity-minimum: '9600000'
 entry-date: '2026-11-12'
@@ -32,6 +31,5 @@ themes:
 typology: geography
 wikidata: Q6736223
 wikipedia: Main_river
+topic: main-river
 ---
-
-

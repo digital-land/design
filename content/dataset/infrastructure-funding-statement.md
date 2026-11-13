@@ -4,7 +4,6 @@ name: Infrastructure funding statement
 plural: Infrastructure funding statements
 attribution: crown-copyright
 collection: infrastructure-funding-statement
-consideration: infrastructure-funding-statements
 entity-maximum: '8199999'
 entity-minimum: '8100000'
 entry-date: '2026-11-12'
@@ -29,6 +28,5 @@ realm: dataset
 themes:
 - development
 typology: document
+topic: infrastructure-funding-statement
 ---
-
-

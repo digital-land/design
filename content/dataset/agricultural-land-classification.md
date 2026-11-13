@@ -3,9 +3,9 @@ reference: agricultural-land-classification
 name: Agricultural land classification
 plural: Agricultural land classifications
 term: agricultural-land-classification
+topic: agricultural-land-classification
 attribution: natural-england
 collection: agricultural-land-classification
-consideration: agricultural-land-classification
 description: land graded by its quality for agricultural use
 entity-maximum: '34999'
 entity-minimum: '32000'
@@ -34,5 +34,3 @@ themes:
 typology: geography
 wikipedia: Agricultural_Land_Classification
 ---
-
-

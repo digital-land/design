@@ -3,8 +3,8 @@ reference: planning-condition-purpose
 name: Planning condition purpose
 plural: Planning condition purposes
 term: planning-condition-purpose
+topic: planning-condition
 attribution: crown-copyright
-consideration: planning-conditions
 description: The primary purpose of the condition, for example to restrict something
 entity-maximum: '70000499'
 entity-minimum: '70000000'
@@ -29,5 +29,3 @@ themes:
 - monitoring
 typology: category
 ---
-
-

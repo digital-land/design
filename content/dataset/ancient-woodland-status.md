@@ -4,7 +4,6 @@ name: Ancient woodland status
 plural: Ancient woodlands status
 attribution: natural-england
 collection: ancient-woodland
-consideration: ancient-woodlands
 entity-maximum: '30099999'
 entity-minimum: '29100000'
 entry-date: '2026-11-12'
@@ -28,6 +27,7 @@ themes:
 - environment
 typology: category
 wikipedia: Ancient_woodland
+topic: ancient-woodland
 ---
 
 The status assigned to an area of [ancient woodland][dataset:ancient-woodland] by Natural England.

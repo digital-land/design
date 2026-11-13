@@ -3,7 +3,6 @@ reference: hs2-safeguarded-area
 name: HS2 safeguarded area
 plural: HS2 safeguarded areas
 attribution: crown-copyright
-consideration: hs2-safeguarded-area
 entity-maximum: '8099999'
 entity-minimum: '8000000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - transport
 typology: geography
+topic: hs2-safeguarded-area
 ---
-
-

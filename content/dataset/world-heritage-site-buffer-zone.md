@@ -4,7 +4,6 @@ name: World heritage site buffer zone
 plural: World heritage site buffer zones
 attribution: historic-england
 collection: historic-england
-consideration: world-heritage-sites
 entity-maximum: '16129999'
 entity-minimum: '16110000'
 entry-date: '2026-11-12'
@@ -33,6 +32,7 @@ themes:
 typology: geography
 wikidata: Q9259
 wikipedia: World_Heritage_Site
+topic: world-heritage-site
 ---
 
 A [World Heritage Site][dataset:world-heritage-site] may have a [buffer zone](https://whc.unesco.org/en/series/25/) with implications for planning.

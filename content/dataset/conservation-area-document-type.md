@@ -4,7 +4,6 @@ name: Conservation area document type
 plural: Conservation area document types
 attribution: crown-copyright
 collection: conservation-area
-consideration: conservation-areas
 entity-maximum: '4210999'
 entity-minimum: '4210000'
 entry-date: '2026-11-12'
@@ -26,6 +25,5 @@ realm: dataset
 themes:
 - heritage
 typology: category
+topic: conservation-area
 ---
-
-

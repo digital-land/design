@@ -3,8 +3,8 @@ reference: coastal-change-management-area
 name: Coastal change management area
 plural: Coastal change management areas
 term: coastal-change-management-area
+topic: coastal-change-management-area
 attribution: crown-copyright
-consideration: coastal-change-management-areas
 entity-maximum: '2499999'
 entity-minimum: '2400000'
 entry-date: '2026-11-12'
@@ -32,5 +32,3 @@ themes:
 - environment
 typology: geography
 ---
-
-

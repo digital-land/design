@@ -3,9 +3,9 @@ reference: local-plan
 name: Local plan
 plural: Local plans
 term: local-plan
+topic: local-plan
 attribution: crown-copyright
 collection: local-plan
-consideration: local-plans
 description: local plans prepared by a Local Planning Authority
 entity-maximum: '4229999'
 entity-minimum: '4220000'

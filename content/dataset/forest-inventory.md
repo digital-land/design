@@ -4,7 +4,6 @@ name: Forest inventory
 plural: Forest inventory
 term: forest-inventory
 attribution: forestry-commission
-consideration: national-forest-inventory
 description: All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it
 entity-maximum: '60999999'
 entity-minimum: '60000000'
@@ -30,5 +29,3 @@ themes:
 - environment
 typology: geography
 ---
-
-

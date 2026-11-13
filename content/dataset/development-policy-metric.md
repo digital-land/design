@@ -3,8 +3,8 @@ reference: development-policy-metric
 name: Development policy metric
 plural: Development policy metrics
 term: development-policy-metric
+topic: development-plan-policy
 attribution: crown-copyright
-consideration: local-plan-policies
 description: Metrics associated with a development policy
 entity-maximum: '5599999'
 entity-minimum: '5500000'
@@ -30,5 +30,3 @@ themes:
 - development
 typology: metric
 ---
-
-

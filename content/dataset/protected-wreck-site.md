@@ -4,7 +4,6 @@ name: Protected wreck site
 plural: Protected wreck sites
 attribution: historic-england
 collection: historic-england
-consideration: protected-wreck-sites
 entity-maximum: '12899999'
 entity-minimum: '12800000'
 entry-date: '2026-11-12'
@@ -31,6 +30,7 @@ themes:
 typology: geography
 wikidata: Q6616121
 wikipedia: List_of_designations_under_the_Protection_of_Wrecks_Act
+topic: protected-wreck-site
 ---
 
 Protected wrecks are records of wreck sites, documented losses and seabed archaeological features.  They can be protected by designation under the [Protection of Wrecks Act 1973][legislation:ukpga/1973/33], the [Ancient Monuments and Archaeological Areas Act 1979][legislation:ukpga/1979/46] and the [Protection of Military Remains Act 1986](http://www.legislation.gov.uk/ukpga/1986/35/contents).

@@ -4,7 +4,6 @@ name: Community infrastructure levy schedule
 plural: Community infrastructure levy schedules
 attribution: crown-copyright
 collection: community-infrastructure-levy-schedule
-consideration: community-infrastructure-levy
 entity-maximum: 909999
 entity-minimum: 900000
 entry-date: '2024-12-12'
@@ -31,6 +30,5 @@ themes:
 - administrative
 - development
 typology: document
+topic: community-infrastructure-levy-cil
 ---
-
-

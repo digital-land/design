@@ -3,9 +3,9 @@ reference: locally-listed-building
 name: Locally listed building
 plural: Locally listed buildings
 term: locally-listed-building
+topic: locally-listed-building
 attribution: crown-copyright
 collection: listed-building
-consideration: locally-listed-buildings
 description: locally listed heritage assets, including buildings
 entity-maximum: '42099999'
 entity-minimum: '41100000'

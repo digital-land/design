@@ -3,8 +3,8 @@ reference: article-4-direction-rule
 name: Article 4 direction rule
 plural: Article 4 direction rules
 term: article-4-direction-rule
+topic: article-4-direction
 attribution: crown-copyright
-consideration: article-4-directions
 description: the set of changes to permitted development rights affecting an article 4 direction area
 end-date: '2023-09-11'
 entity-maximum: '8599999'

@@ -3,7 +3,6 @@ reference: safeguarded-aerodrome
 name: Safeguarded aerodrome
 plural: Safeguarded aerodromes
 attribution: crown-copyright
-consideration: safeguarding-aerodromes-technical-sites-and-military-explosives-storage-areas
 entity-maximum: '13599999'
 entity-minimum: '13500000'
 entry-date: '2026-11-12'
@@ -30,6 +29,5 @@ realm: dataset
 themes:
 - transport
 typology: geography
+topic: safeguarded-aerodrome-technical-site-and-military-explosives-storage-area
 ---
-
-

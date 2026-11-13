@@ -10,7 +10,7 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[school][term:school]” means—
+“school” means—
 
 - the governing body of a maintained school (see section 19(1) of the Education Act 2002);
 - the proprietor, within the meaning given by section 579(1) of the Education Act 1996, of an Academy within the meaning given by that section;

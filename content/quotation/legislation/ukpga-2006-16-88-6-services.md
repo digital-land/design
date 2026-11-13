@@ -10,4 +10,4 @@ start-date: 2006-03-30
 entry-date: 2026-11-12
 ---
 
-“[Services][term:services]” includes environmental and educational services.
+“Services” includes environmental and educational services.

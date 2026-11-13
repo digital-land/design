@@ -10,4 +10,4 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[Personal data][term:personal-data]” means any information relating to an identified or identifiable living individual (subject to subsection (14)(c)).
+“Personal data” means any information relating to an identified or identifiable living individual (subject to subsection (14)(c)).

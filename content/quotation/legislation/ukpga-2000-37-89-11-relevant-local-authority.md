@@ -10,7 +10,7 @@ start-date: 2000-11-30
 entry-date: 2026-11-12
 ---
 
-In this section “[relevant local authority][term:relevant-local-authority]” means—
+In this section “relevant local authority” means—
 
 - (a) in the case of an [area of outstanding natural beauty][term:area-of-outstanding-natural-beauty] which is wholly comprised in one principal area, the local authority for that area, and
 

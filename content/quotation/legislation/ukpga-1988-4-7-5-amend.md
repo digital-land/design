@@ -10,4 +10,4 @@ start-date: 1988-03-15
 entry-date: 2026-11-12
 ---
 
-“[amend][term:amend]” includes repeal;
+“amend” includes repeal;

@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[damage][term:damage]”, in relation to individuals, includes death and any personal injury, including any disease or impairment of physical or mental condition;
+“damage”, in relation to individuals, includes death and any personal injury, including any disease or impairment of physical or mental condition;

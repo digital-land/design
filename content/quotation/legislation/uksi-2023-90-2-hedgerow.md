@@ -10,4 +10,4 @@ start-date: 2023-01-30
 entry-date: 2026-11-12
 ---
 
-“[hedgerow][term:hedgerow]” means a boundary line of woody plants more than 20 metres long with mean width of less than 4 metres at the base and (except as regards hedgerow trees) less than 3 metres in height;
+“hedgerow” means a boundary line of woody plants more than 20 metres long with mean width of less than 4 metres at the base and (except as regards hedgerow trees) less than 3 metres in height;

@@ -10,7 +10,7 @@ start-date: 1979-07-16
 entry-date: 2026-11-12
 ---
 
-“[local authority][term:local-authority]” means—
+“local authority” means—
 
 - in England ..., the council of a county or district, ... the council of a [London borough][term:london-borough], and the Common Council of the City of London;
 - ...

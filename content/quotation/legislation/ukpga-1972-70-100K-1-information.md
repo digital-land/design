@@ -10,4 +10,4 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-“[information][term:information]” includes an expression of opinion, any recommendations and any decision taken;
+“information” includes an expression of opinion, any recommendations and any decision taken;

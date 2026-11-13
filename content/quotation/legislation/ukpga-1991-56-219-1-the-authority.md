@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[the Authority][term:the-authority]” means the Water Services Regulation Authority;
+“the Authority” means the Water Services Regulation Authority;

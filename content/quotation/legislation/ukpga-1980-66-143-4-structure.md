@@ -10,4 +10,4 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-In this section “[structure][term:structure]” includes any machine, pump, post or other object of such a nature as to be capable of causing obstruction, and a structure may be treated for the purposes of this section as having been erected or set up notwithstanding that it is on wheels.
+In this section “structure” includes any machine, pump, post or other object of such a nature as to be capable of causing obstruction, and a structure may be treated for the purposes of this section as having been erected or set up notwithstanding that it is on wheels.

@@ -16,4 +16,4 @@ An enforcement officer to whom any document or record has been produced in accor
 
 - (b) take copies of or extracts from that document or record.
 
-In this subsection “[document][term:document]” includes anything falling within paragraph (a) or (b) of section 251(3).
+In this subsection “document” includes anything falling within paragraph (a) or (b) of section 251(3).

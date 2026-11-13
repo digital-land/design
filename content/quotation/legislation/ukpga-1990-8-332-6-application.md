@@ -10,4 +10,4 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-In this section “[application][term:application]” includes a submission.
+In this section “application” includes a submission.

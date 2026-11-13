@@ -10,7 +10,7 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[drainage][term:drainage]” includes—
+“drainage” includes—
 
 - defence against water (including sea water);
 - irrigation, other than spray irrigation;

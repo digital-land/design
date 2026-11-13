@@ -10,4 +10,4 @@ start-date: 2016-05-12
 entry-date: 2026-11-12
 ---
 
-“[social housing][term:social-housing]” has the same meaning as in Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17] (see sections 68 and 72 of that Act);
+“social housing” has the same meaning as in Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17] (see sections 68 and 72 of that Act);

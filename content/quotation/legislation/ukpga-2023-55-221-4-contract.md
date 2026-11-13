@@ -10,4 +10,4 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[contract][term:contract]” includes a deed (whether or not made for consideration);
+“contract” includes a deed (whether or not made for consideration);

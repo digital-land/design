@@ -10,4 +10,4 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[modifications][term:modifications]” includes additions, alterations and omissions, and cognate expressions shall be construed accordingly;
+“modifications” includes additions, alterations and omissions, and cognate expressions shall be construed accordingly;

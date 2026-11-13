@@ -10,7 +10,7 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-There shall be a body corporate to be known as the Coal Authority (in this Act referred to as “[the Authority][term:the-authority]”) for the purpose of—
+There shall be a body corporate to be known as the Coal Authority (in this Act referred to as “the Authority”) for the purpose of—
 
 - (a) holding, managing and disposing of interests and rights in or in relation to the unworked coal and other property which is transferred to or otherwise acquired by it by or under this Act;
 

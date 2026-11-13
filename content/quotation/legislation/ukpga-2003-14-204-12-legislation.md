@@ -10,4 +10,4 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-“[legislation][term:legislation]” means any enactment, EU or subordinate legislation;
+“legislation” means any enactment, EU or subordinate legislation;

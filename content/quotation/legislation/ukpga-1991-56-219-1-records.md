@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[records][term:records]” includes computer records and any other records kept otherwise than in a document;
+“records” includes computer records and any other records kept otherwise than in a document;

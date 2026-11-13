@@ -10,4 +10,4 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[modifications][term:modifications]” includes additions, alterations and omissions;
+“modifications” includes additions, alterations and omissions;

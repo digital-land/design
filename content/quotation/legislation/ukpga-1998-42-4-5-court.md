@@ -10,7 +10,7 @@ start-date: 1998-11-09
 entry-date: 2026-11-12
 ---
 
-In this section “[court][term:court]” means—
+In this section “court” means—
 
 - (a) the Supreme Court;
 

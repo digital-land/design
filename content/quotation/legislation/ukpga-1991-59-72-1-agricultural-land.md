@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[agricultural land][term:agricultural-land]” has the meaning provided by paragraphs 2 and 4 to 8 of that Schedule;
+“agricultural land” has the meaning provided by paragraphs 2 and 4 to 8 of that Schedule;

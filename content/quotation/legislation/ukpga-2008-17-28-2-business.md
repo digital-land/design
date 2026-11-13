@@ -10,4 +10,4 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-In subsection (1) “[business][term:business]” includes undertaking.
+In subsection (1) “business” includes undertaking.

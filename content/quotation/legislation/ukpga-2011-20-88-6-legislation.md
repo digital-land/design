@@ -10,7 +10,7 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-“[legislation][term:legislation]” means—
+“legislation” means—
 
 - an Act, or
 - a Measure or Act of the National Assembly for Wales;

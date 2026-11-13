@@ -10,4 +10,4 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[action][term:action]” includes acts and omissions;
+“action” includes acts and omissions;

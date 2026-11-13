@@ -10,4 +10,4 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-“[network][term:network]” has the meaning given by section 83(1) of the Railways Act 1993 (c. 43);
+“network” has the meaning given by section 83(1) of the Railways Act 1993 (c. 43);

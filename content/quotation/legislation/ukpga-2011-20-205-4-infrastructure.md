@@ -10,7 +10,7 @@ start-date: 2011-11-15
 entry-date: 2026-11-12
 ---
 
-In this section “[infrastructure][term:infrastructure]” means—
+In this section “infrastructure” means—
 
 - (a) water, electricity, gas, telecommunications, sewerage or other services including heat networks within the meaning of section 216 of the Energy Act 2023,
 

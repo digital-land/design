@@ -10,4 +10,4 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-In this section “[records][term:records]” includes registers, maps, plans and accounts, as well as computer records and other records kept otherwise than in documentary form.
+In this section “records” includes registers, maps, plans and accounts, as well as computer records and other records kept otherwise than in documentary form.

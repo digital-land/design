@@ -10,7 +10,7 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-In this Part, “[planning authority][term:planning-authority]” means—
+In this Part, “planning authority” means—
 
 - (a) a [local planning authority][term:local-planning-authority];
 

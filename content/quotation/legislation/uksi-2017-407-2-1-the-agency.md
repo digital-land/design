@@ -10,4 +10,4 @@ start-date: 2017-04-10
 entry-date: 2026-11-12
 ---
 
-“[the Agency][term:the-agency]” means the Environment Agency;
+“the Agency” means the Environment Agency;

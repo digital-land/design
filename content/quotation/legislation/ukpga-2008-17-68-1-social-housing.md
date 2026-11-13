@@ -10,7 +10,7 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-In this Part “[social housing][term:social-housing]” means—
+In this Part “social housing” means—
 
 - (a) low cost rental accommodation (defined by section 69), and
 

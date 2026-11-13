@@ -10,4 +10,4 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-“[authorisation][term:authorisation]” means any licence, consent or other approval;
+“authorisation” means any licence, consent or other approval;

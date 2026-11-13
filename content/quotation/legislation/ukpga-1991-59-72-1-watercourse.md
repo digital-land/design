@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[watercourse][term:watercourse]” includes all rivers and streams and all ditches, drains, cuts, culverts, dikes, sluices, sewers (other than public sewers within the meaning of the [Water Industry Act 1991][legislation:ukpga/1991/56]) and passages, through which water flows.
+“watercourse” includes all rivers and streams and all ditches, drains, cuts, culverts, dikes, sluices, sewers (other than public sewers within the meaning of the [Water Industry Act 1991][legislation:ukpga/1991/56]) and passages, through which water flows.

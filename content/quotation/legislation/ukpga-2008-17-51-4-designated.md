@@ -10,4 +10,4 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[designated][term:designated]” in relation to a scheme, means specified in, or determined in accordance with, the scheme,
+“designated” in relation to a scheme, means specified in, or determined in accordance with, the scheme,

@@ -10,7 +10,7 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-For the purposes of this section, “[services][term:services]” includes, in particular, anything done under—
+For the purposes of this section, “services” includes, in particular, anything done under—
 
 - (a) section 2(11) (provision of copy of guidance);
 

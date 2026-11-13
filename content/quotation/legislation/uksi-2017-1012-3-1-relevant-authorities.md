@@ -10,4 +10,4 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-“[relevant authorities][term:relevant-authorities]”, in relation to marine areas and European marine sites, is to be construed in accordance with regulation 6 (relevant authorities in relation to marine areas and European marine sites);
+“relevant authorities”, in relation to marine areas and European marine sites, is to be construed in accordance with regulation 6 (relevant authorities in relation to marine areas and European marine sites);

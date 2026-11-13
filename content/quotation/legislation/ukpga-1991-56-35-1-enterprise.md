@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[enterprise][term:enterprise]” has the same meaning as in Part 3 of the 2002 Act; and
+“enterprise” has the same meaning as in Part 3 of the 2002 Act; and

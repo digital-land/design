@@ -16,4 +16,4 @@ In this section, “officer”, in relation to a body corporate, means—
 
 - (b) any person who was purporting to act in any such capacity,
 
-and, in relation to a body corporate whose affairs are managed by its members, “[director][term:director]” means a member of the body corporate.
+and, in relation to a body corporate whose affairs are managed by its members, “director” means a member of the body corporate.

@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[factory][term:factory]” has the same meaning as in the Factories Act 1961; and
+“factory” has the same meaning as in the Factories Act 1961; and

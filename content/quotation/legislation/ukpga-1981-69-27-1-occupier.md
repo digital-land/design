@@ -10,4 +10,4 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[occupier][term:occupier]”, in relation to any land other than the foreshore, includes any person having any right of hunting, shooting, fishing or taking game or fish;
+“occupier”, in relation to any land other than the foreshore, includes any person having any right of hunting, shooting, fishing or taking game or fish;

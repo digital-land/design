@@ -10,4 +10,4 @@ start-date: 2000-11-30
 entry-date: 2026-11-12
 ---
 
-In this section “[relevant local authority][term:relevant-local-authority]” has the same meaning as in section 89.
+In this section “relevant local authority” has the same meaning as in section 89.

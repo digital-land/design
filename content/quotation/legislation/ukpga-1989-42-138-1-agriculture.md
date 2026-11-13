@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - persons whose employment or latest employment is or was employment inagriculture or in an industry mainly dependent on agriculture, and
 - the dependents of those persons;
 
-and for this purpose “[agriculture][term:agriculture]” includes dairy-farming and poultry-farming andthe use of land as grazing, meadow or pasture land, or orchard or osier landor woodland, or for market gardens or nursery grounds;
+and for this purpose “agriculture” includes dairy-farming and poultry-farming andthe use of land as grazing, meadow or pasture land, or orchard or osier landor woodland, or for market gardens or nursery grounds;

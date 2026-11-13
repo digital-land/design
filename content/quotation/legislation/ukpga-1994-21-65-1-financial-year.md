@@ -10,4 +10,4 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[financial year][term:financial-year]” means the twelve months ending with 31st March;
+“financial year” means the twelve months ending with 31st March;

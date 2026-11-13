@@ -10,4 +10,4 @@ start-date: 2021-06-10
 entry-date: 2026-11-12
 ---
 
-For this purpose “[arrangements][term:arrangements]” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+For this purpose “arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).

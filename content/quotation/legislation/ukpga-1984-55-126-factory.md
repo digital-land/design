@@ -10,4 +10,4 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[factory][term:factory]” has the meaning given by section 175 of the Factories Act 1961;
+“factory” has the meaning given by section 175 of the Factories Act 1961;

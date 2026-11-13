@@ -10,7 +10,7 @@ start-date: 2009-11-12
 entry-date: 2026-11-12
 ---
 
-In this Chapter “[justice][term:justice]” means—
+In this Chapter “justice” means—
 
 - (a) in relation to England and Wales, a justice of the peace;
 

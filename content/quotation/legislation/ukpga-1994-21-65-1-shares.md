@@ -10,4 +10,4 @@ start-date: 1994-07-05
 entry-date: 2026-11-12
 ---
 
-“[shares][term:shares]” includes stock;
+“shares” includes stock;

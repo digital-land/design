@@ -10,4 +10,4 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-In this subsection the word “[signature][term:signature]” includes a facsimile of a signature by whatever process reproduced.
+In this subsection the word “signature” includes a facsimile of a signature by whatever process reproduced.

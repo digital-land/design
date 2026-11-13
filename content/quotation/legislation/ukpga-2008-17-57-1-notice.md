@@ -10,4 +10,4 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[notice][term:notice]” means notice in writing,
+“notice” means notice in writing,

@@ -10,4 +10,4 @@ start-date: 2011-03-28
 entry-date: 2026-11-12
 ---
 
-a carrier which only transports waste produced by the carrier itself, except where it is construction or demolition waste (and “[construction][term:construction]” includes improvement, repair and alteration);
+a carrier which only transports waste produced by the carrier itself, except where it is construction or demolition waste (and “construction” includes improvement, repair and alteration);

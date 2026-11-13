@@ -10,4 +10,4 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[modify][term:modify]” includes amend, add to and remove (and, in particular, includes making a person a party to an agreement and discharging a party from its obligations under an agreement).
+“modify” includes amend, add to and remove (and, in particular, includes making a person a party to an agreement and discharging a party from its obligations under an agreement).

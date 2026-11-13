@@ -10,4 +10,4 @@ start-date: 2006-03-30
 entry-date: 2026-11-12
 ---
 
-In sections 81 to 85 “[agreement][term:agreement]” means an agreement under section 78 or 79.
+In sections 81 to 85 “agreement” means an agreement under section 78 or 79.

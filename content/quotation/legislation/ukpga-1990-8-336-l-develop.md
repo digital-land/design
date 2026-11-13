@@ -10,4 +10,4 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“development” has the meaning given in section 55, and “[develop][term:develop]” shall be construed accordingly;
+“development” has the meaning given in section 55, and “develop” shall be construed accordingly;

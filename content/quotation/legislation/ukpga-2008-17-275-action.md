@@ -10,4 +10,4 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[action][term:action]” includes inaction, proposed action and decision,
+“action” includes inaction, proposed action and decision,

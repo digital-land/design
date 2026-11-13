@@ -10,4 +10,4 @@ start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
 
-“[publish][term:publish]” means make available to the public or a section of the public (and related expressions are to be read accordingly);
+“publish” means make available to the public or a section of the public (and related expressions are to be read accordingly);

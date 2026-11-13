@@ -10,4 +10,4 @@ start-date: 2006-03-30
 entry-date: 2026-11-12
 ---
 
-“[Agriculture][term:agriculture]” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, and the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds.
+“Agriculture” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, and the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds.

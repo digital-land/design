@@ -10,7 +10,7 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[independent][term:independent]” means appearing to the Secretary of State to be independent of—
+“independent” means appearing to the Secretary of State to be independent of—
 
 - the Secretary of State,
 - other Ministers of [the Crown][term:the-crown],

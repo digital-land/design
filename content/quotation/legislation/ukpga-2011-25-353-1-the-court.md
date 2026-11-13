@@ -10,7 +10,7 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-“[the court][term:the-court]” means—
+“the court” means—
 
 - the High Court, and
 - within the limits of its jurisdiction, any other court in England and Wales having a jurisdiction in respect of charities concurrent (within any limit of area or amount) with that of the High Court,

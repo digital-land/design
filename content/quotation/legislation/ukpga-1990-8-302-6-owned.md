@@ -10,4 +10,4 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“owner” has the same meaning as in the [Housing Act 1985][legislation:ukpga/1985/68] and “[owned][term:owned]” shall be construed accordingly;
+“owner” has the same meaning as in the [Housing Act 1985][legislation:ukpga/1985/68] and “owned” shall be construed accordingly;

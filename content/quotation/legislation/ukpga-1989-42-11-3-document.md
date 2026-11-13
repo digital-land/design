@@ -10,4 +10,4 @@ start-date: 1989-11-16
 entry-date: 2026-11-12
 ---
 
-“[document][term:document]” includes accounts, books, deeds, contracts, bills, vouchers and receipts; and
+“document” includes accounts, books, deeds, contracts, bills, vouchers and receipts; and

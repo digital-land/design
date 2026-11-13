@@ -10,7 +10,7 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-In [subsection (2)](http://www.legislation.gov.uk/ukpga/2023/55/section/166/2)[(c)](http://www.legislation.gov.uk/ukpga/2023/55/section/166/2/c) “[legislation][term:legislation]” means any provision made by or under—
+In [subsection (2)](http://www.legislation.gov.uk/ukpga/2023/55/section/166/2)[(c)](http://www.legislation.gov.uk/ukpga/2023/55/section/166/2/c) “legislation” means any provision made by or under—
 
 - (a) an Act,
 

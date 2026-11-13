@@ -10,4 +10,4 @@ start-date: 2023-10-26
 entry-date: 2026-11-12
 ---
 
-“[person][term:person]” includes any entity that has legal personality under the law by which it is governed;
+“person” includes any entity that has legal personality under the law by which it is governed;

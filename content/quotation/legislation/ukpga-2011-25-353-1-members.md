@@ -10,4 +10,4 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-“[members][term:members]”, in relation to a charity with a body of members distinct from the charity trustees, means any of those members;
+“members”, in relation to a charity with a body of members distinct from the charity trustees, means any of those members;

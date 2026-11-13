@@ -10,7 +10,7 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-For the definition of “[drainage][term:drainage]” in section 72(1) of the [Land Drainage Act 1991][legislation:ukpga/1991/59] there shall be substituted—
+For the definition of “drainage” in section 72(1) of the [Land Drainage Act 1991][legislation:ukpga/1991/59] there shall be substituted—
 
 > - “**drainage**” includes—
 >

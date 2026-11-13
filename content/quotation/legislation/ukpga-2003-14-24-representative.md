@@ -10,7 +10,7 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-“[representative][term:representative]”, in relation to any person, means—
+“representative”, in relation to any person, means—
 
 - his personal representative,
 - his trustee in bankruptcy or interim or permanent trustee,

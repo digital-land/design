@@ -10,7 +10,7 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-In subsection (1) “[director][term:director]”, in relation to any body corporate—
+In subsection (1) “director”, in relation to any body corporate—
 
 - (a) which was established by or under an enactment for the purpose of carrying on under national ownership an industry or part of an industry or undertaking, and
 

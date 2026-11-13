@@ -10,4 +10,4 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-“[authorisation][term:authorisation]” includes any consent or licence;
+“authorisation” includes any consent or licence;

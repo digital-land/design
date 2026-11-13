@@ -10,4 +10,4 @@ start-date: 1972-10-26
 entry-date: 2026-11-12
 ---
 
-In subsection (2D) above, “[the authority][term:the-authority]” has the meaning given in paragraph 22(2) of Schedule 12A to this Act.
+In subsection (2D) above, “the authority” has the meaning given in paragraph 22(2) of Schedule 12A to this Act.

@@ -10,4 +10,4 @@ start-date: 1979-07-16
 entry-date: 2026-11-12
 ---
 
-In this Act, in relation to any land in Scotland, “[occupier][term:occupier]” means an occupier with an interest in that land which is heritable and, if there is no such occupier, the owner thereof shall be deemed to be the occupier.
+In this Act, in relation to any land in Scotland, “occupier” means an occupier with an interest in that land which is heritable and, if there is no such occupier, the owner thereof shall be deemed to be the occupier.

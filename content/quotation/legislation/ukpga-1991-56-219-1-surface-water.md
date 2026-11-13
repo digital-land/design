@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[surface water][term:surface-water]” includes water from roofs;
+“surface water” includes water from roofs;

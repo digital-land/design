@@ -10,4 +10,4 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[child][term:child]” means a person under the age of 18;
+“child” means a person under the age of 18;

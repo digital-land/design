@@ -10,4 +10,4 @@ start-date: 2017-05-16
 entry-date: 2026-11-12
 ---
 
-“[further information][term:further-information]” has the meaning given in regulation 25;
+“further information” has the meaning given in regulation 25;

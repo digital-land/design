@@ -10,4 +10,4 @@ start-date: 1991-07-25
 entry-date: 2026-11-12
 ---
 
-“[consumer][term:consumer]”, in relation to a supply of water provided by a water undertaker to any premises, means (except in Chapter IV) a person who is for the time being the person on whom liability to pay charges to the undertaker in respect of that supply of water would fall;
+“consumer”, in relation to a supply of water provided by a water undertaker to any premises, means (except in Chapter IV) a person who is for the time being the person on whom liability to pay charges to the undertaker in respect of that supply of water would fall;

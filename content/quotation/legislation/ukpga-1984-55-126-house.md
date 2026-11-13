@@ -10,4 +10,4 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[house][term:house]” means a dwelling-house, whether a private dwelling-house or not;
+“house” means a dwelling-house, whether a private dwelling-house or not;

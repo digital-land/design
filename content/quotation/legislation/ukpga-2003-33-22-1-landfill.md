@@ -10,7 +10,7 @@ start-date: 2003-11-13
 entry-date: 2026-11-12
 ---
 
-In this Chapter “[landfill][term:landfill]” means a site for the deposit of waste onto or into land where the site is—
+In this Chapter “landfill” means a site for the deposit of waste onto or into land where the site is—
 
 - (a) a waste disposal site, or
 

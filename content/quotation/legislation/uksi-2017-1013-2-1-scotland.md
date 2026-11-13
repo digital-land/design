@@ -10,4 +10,4 @@ start-date: 2017-11-30
 entry-date: 2026-11-12
 ---
 
-“[Scotland][term:scotland]” has the same meaning as in the Scotland Act 1998 ;
+“Scotland” has the same meaning as in the Scotland Act 1998 ;

@@ -10,7 +10,7 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[relevant local authority][term:relevant-local-authority]” means—
+“relevant local authority” means—
 
 - a local housing authority, or
 - a county council in England which is not a local housing authority;

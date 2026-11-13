@@ -10,4 +10,4 @@ start-date: 1995-07-19
 entry-date: 2026-11-12
 ---
 
-“[regulations][term:regulations]” means regulations made by the Secretary of State;
+“regulations” means regulations made by the Secretary of State;

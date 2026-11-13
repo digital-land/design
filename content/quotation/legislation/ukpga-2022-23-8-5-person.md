@@ -10,4 +10,4 @@ start-date: 2022-04-28
 entry-date: 2026-11-12
 ---
 
-“[person][term:person]” includes a body corporate, a partnership and an unincorporated association;
+“person” includes a body corporate, a partnership and an unincorporated association;

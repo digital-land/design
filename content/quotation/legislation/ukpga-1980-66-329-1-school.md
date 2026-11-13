@@ -10,4 +10,4 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-“[school][term:school]” has the same meaning as in the Education Act 1996;
+“school” has the same meaning as in the Education Act 1996;

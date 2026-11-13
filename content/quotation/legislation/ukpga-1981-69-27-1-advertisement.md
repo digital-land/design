@@ -10,4 +10,4 @@ start-date: 1981-11-30
 entry-date: 2026-11-12
 ---
 
-“[advertisement][term:advertisement]” includes a catalogue, a circular and a price list;
+“advertisement” includes a catalogue, a circular and a price list;

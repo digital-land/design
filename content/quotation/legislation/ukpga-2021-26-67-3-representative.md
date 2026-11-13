@@ -10,7 +10,7 @@ start-date: 2021-06-10
 entry-date: 2026-11-12
 ---
 
-In this section, “[representative][term:representative]”, in relation to P, means—
+In this section, “representative”, in relation to P, means—
 
 - (a) any of P's personal representatives;
 

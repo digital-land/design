@@ -94,11 +94,7 @@ def check(path, errors, warnings):
     for t in listed:
         if not (CONTENT / "term" / f"{t}.md").exists():
             warnings.append(f"{where}: unknown term {t}")
-    defined = set(re.findall(r"^\[([a-z-]+:[^\]\s]+)\]: \S+", body, re.M))
     for label in sorted(set(re.findall(r"\]\[([a-z-]+:[^\]\s]+)\]", body))):
-        if label not in defined:
-            errors.append(f"{where}: no definition for [{label}]")
-            continue
         prefix, _, key = label.partition(":")
         key = key.split("#")[0]
         if prefix in ("legislation", "govuk"):
@@ -109,7 +105,7 @@ def check(path, errors, warnings):
         else:
             ok = exists(prefix, key)
         if not ok:
-            warnings.append(f"{where}: broken link {label}")
+            errors.append(f"{where}: broken link {label}")
     for kind_, target in LINK.findall(body):
         if kind_ in LINKED and not exists(kind_, target):
             warnings.append(f"{where}: broken link {kind_}/{target}")

@@ -10,4 +10,4 @@ start-date: 2025-10-27
 entry-date: 2026-11-12
 ---
 
-“[occupier][term:occupier]”, in relation to premises, means any person an officer of a local housing authority reasonably suspects to be an occupier of the premises;
+“occupier”, in relation to premises, means any person an officer of a local housing authority reasonably suspects to be an occupier of the premises;

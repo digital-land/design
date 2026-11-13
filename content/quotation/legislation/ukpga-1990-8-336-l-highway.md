@@ -10,4 +10,4 @@ start-date: 1990-08-24
 entry-date: 2026-11-12
 ---
 
-“[highway][term:highway]” has the same meaning as in the [Highways Act 1980][legislation:ukpga/1980/66] ;
+“highway” has the same meaning as in the [Highways Act 1980][legislation:ukpga/1980/66] ;

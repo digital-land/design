@@ -10,4 +10,4 @@ start-date: 2027-04-06
 entry-date: 2026-11-12
 ---
 
-“[proprietor][term:proprietor]” includes someone entitled to be registered as the proprietor;
+“proprietor” includes someone entitled to be registered as the proprietor;

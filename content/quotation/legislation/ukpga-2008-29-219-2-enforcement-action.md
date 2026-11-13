@@ -10,7 +10,7 @@ start-date: 2008-11-26
 entry-date: 2026-11-12
 ---
 
-In this section, “[enforcement action][term:enforcement-action]” means action taken under regulations under section 218, including—
+In this section, “enforcement action” means action taken under regulations under section 218, including—
 
 - (a) the suspension or cancellation of a decision relating to [planning permission][term:planning-permission], and
 

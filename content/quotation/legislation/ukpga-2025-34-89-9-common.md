@@ -10,4 +10,4 @@ start-date: 2025-12-18
 entry-date: 2026-11-12
 ---
 
-“[common][term:common]” has the same meaning as in section 19 of the Acquisition of Land Act 1981;
+“common” has the same meaning as in section 19 of the Acquisition of Land Act 1981;

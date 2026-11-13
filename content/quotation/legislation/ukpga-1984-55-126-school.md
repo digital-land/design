@@ -10,4 +10,4 @@ start-date: 1984-10-31
 entry-date: 2026-11-12
 ---
 
-“[school][term:school]” includes a Sunday school or a Sabbath school;
+“school” includes a Sunday school or a Sabbath school;

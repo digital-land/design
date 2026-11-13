@@ -10,4 +10,4 @@ start-date: 1980-11-13
 entry-date: 2026-11-12
 ---
 
-In this subsection “[signature][term:signature]” includes a facsimile of a signature by whatever process reproduced.
+In this subsection “signature” includes a facsimile of a signature by whatever process reproduced.

@@ -10,4 +10,4 @@ start-date: 2008-07-22
 entry-date: 2026-11-12
 ---
 
-“[improve][term:improve]”, in relation to housing and other land, includes refurbish, equip and fit out,
+“improve”, in relation to housing and other land, includes refurbish, equip and fit out,

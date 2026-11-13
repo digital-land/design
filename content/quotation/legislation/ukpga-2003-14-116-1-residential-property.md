@@ -10,7 +10,7 @@ start-date: 2003-07-10
 entry-date: 2026-11-12
 ---
 
-In this Part “[residential property][term:residential-property]” means—
+In this Part “residential property” means—
 
 - (a) a building that is used or suitable for use as a dwelling, or is in the process of being constructed or adapted for such use, and
 

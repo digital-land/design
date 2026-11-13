@@ -10,7 +10,7 @@ start-date: 2011-12-14
 entry-date: 2026-11-12
 ---
 
-In sections 294 and 295 and this section “[council][term:council]” means—
+In sections 294 and 295 and this section “council” means—
 
 - (a) a district council,
 

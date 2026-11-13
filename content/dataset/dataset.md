@@ -12,13 +12,14 @@ fields:
 - field: attribution
 - field: collection
 - field: consideration
+  replacement-field: topic
 - field: dataset
-- description: short description of the dataset without the definite article, sentence captialisation or a punctuation mark.
+- field: description
+  description: short description of the dataset as a collection of entities without a definite article or punctuation
   examples:
   - value: land that has been previously been developed
   - value: local plans prepared by a Local Planning Authority
   - value: Local Planning Authorities and their boundaries
-  field: description
   guidance: "Enter a description of the dataset which could be used in a sentence such as \"A dataset containing *description* in England.\" \n\nThe description is intended to be used in tables and content, so shouldn't start with the definite article (\"The\", \"A\", etc)\nor end with a full-stop or other punctuation mark. \nThe description shouldn't start with a capital letter, unless the first word is a proper-noun, such as \"Local Planning Authority\".\nThis allows a user to capitalise the first letter or add a full-stop when using the description in a sentence.\n"
 - field: end-date
 - field: entry-date

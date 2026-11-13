@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 The list maintained under subsection (1) by a local authority is to be known as its list of [assets of community value][term:asset-of-community-value].
 
-[term:asset-of-community-value]: /term/asset-of-community-value
+[term:asset-of-community-value]: term/asset-of-community-value.md

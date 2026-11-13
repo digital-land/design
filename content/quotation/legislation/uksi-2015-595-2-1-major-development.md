@@ -21,5 +21,5 @@ entry-date: 2026-11-12
 - the provision of a building or buildings where the [floor space][term:floor-space] to be created by the development is 1,000 square metres or more; or
 - development carried out on a site having an area of 1 hectare or more;
 
-[term:floor-space]: /term/floor-space
-[term:major-development]: /term/major-development
+[term:floor-space]: term/floor-space.md
+[term:major-development]: term/major-development.md

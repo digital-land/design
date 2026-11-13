@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[surface water][term:surface-water]” has the same meaning as in the Water Framework Directive;
 
-[term:surface-water]: /term/surface-water
+[term:surface-water]: term/surface-water.md

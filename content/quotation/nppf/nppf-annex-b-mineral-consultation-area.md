@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 A geographical area based on a [Mineral Safeguarding Area][term:mineral-safeguarding-area], where the district or borough council should consult the mineral planning authority for any proposals for non-minerals development.
 
-[term:mineral-safeguarding-area]: /term/mineral-safeguarding-area
+[term:mineral-safeguarding-area]: term/mineral-safeguarding-area.md

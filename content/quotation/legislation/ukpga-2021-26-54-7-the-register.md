@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[the register][term:the-register]” means [the register][term:the-register] under subsection (1) and references to registration are to registration in it.
 
-[term:the-register]: /term/the-register
+[term:the-register]: term/the-register.md

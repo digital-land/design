@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this Chapter “[representation][term:representation]” includes evidence, and references to the making of a representation include the giving of evidence.
 
-[term:representation]: /term/representation
+[term:representation]: term/representation.md

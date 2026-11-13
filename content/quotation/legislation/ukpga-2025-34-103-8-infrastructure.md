@@ -26,4 +26,4 @@ In this section “**infrastructure**” means—
 
 - (g) [community facilities][term:community-facilities] not falling within paragraphs (a) to (f).
 
-[term:community-facilities]: /term/community-facilities
+[term:community-facilities]: term/community-facilities.md

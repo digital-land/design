@@ -18,4 +18,4 @@ entry-date: 2026-11-12
 - the governing body, within the meaning given by section 90 of the Further and Higher Education Act 1992, of an institution within the further education sector within the meaning given by section 91 of that Act;
 - the Board of Governors of a grant-aided school within the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](http://www.legislation.gov.uk/id/nisi/1986/594));
 
-[term:school]: /term/school
+[term:school]: term/school.md

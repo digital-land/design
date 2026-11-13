@@ -20,4 +20,4 @@ The “[natural environment][term:natural-environment]” means—
 
 and the natural systems, cycles and processes through which they interact.
 
-[term:natural-environment]: /term/natural-environment
+[term:natural-environment]: term/natural-environment.md

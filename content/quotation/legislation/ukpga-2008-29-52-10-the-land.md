@@ -16,4 +16,4 @@ In subsections (2) to (3) “[the land][term:the-land]” means—
 
 - (b) any part of that land.
 
-[term:the-land]: /term/the-land
+[term:the-land]: term/the-land.md

@@ -18,4 +18,4 @@ An enforcement officer to whom any document or record has been produced in accor
 
 In this subsection “[document][term:document]” includes anything falling within paragraph (a) or (b) of section 251(3).
 
-[term:document]: /term/document
+[term:document]: term/document.md

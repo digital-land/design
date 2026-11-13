@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[improvement][term:improvement]” includes alteration and enlargement;
 
-[term:improvement]: /term/improvement
+[term:improvement]: term/improvement.md

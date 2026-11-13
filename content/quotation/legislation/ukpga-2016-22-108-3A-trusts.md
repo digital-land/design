@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In the case of a registered provider that is a charity registered under the [Charities Act 2011][legislation:ukpga/2011/25] which is not a body corporate, the reference to the property of the registered provider is to the property held on the trusts of the charity (and for this purpose “**trusts**” has the same meaning as in the [Charities Act 2011][legislation:ukpga/2011/25], see section 353 of that Act).
 
-[legislation:ukpga/2011/25]: /legislation/ukpga/2011/25
+[legislation:ukpga/2011/25]: legislation/ukpga/2011/25.md

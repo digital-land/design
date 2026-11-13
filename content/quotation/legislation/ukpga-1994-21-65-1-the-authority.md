@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[the Authority][term:the-authority]” means the Coal Authority;
 
-[term:the-authority]: /term/the-authority
+[term:the-authority]: term/the-authority.md

@@ -20,4 +20,4 @@ For the purposes of this section, “[services][term:services]” includes, in p
 
 - (d) section 26 (information).
 
-[term:services]: /term/services
+[term:services]: term/services.md

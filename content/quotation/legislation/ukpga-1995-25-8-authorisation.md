@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[authorisation][term:authorisation]” includes any consent or licence;
 
-[term:authorisation]: /term/authorisation
+[term:authorisation]: term/authorisation.md

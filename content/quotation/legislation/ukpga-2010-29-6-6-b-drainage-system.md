@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[drainage system][term:drainage-system]” has the meaning given by paragraph 1 of Schedule 3.
 
-[term:drainage-system]: /term/drainage-system
+[term:drainage-system]: term/drainage-system.md

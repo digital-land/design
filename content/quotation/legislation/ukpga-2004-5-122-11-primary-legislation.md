@@ -16,4 +16,4 @@ In subsection (6B), “**[primary legislation][term:primary-legislation]**” me
 
 - (b) an Act or Measure of the National Assembly for Wales.
 
-[term:primary-legislation]: /term/primary-legislation
+[term:primary-legislation]: term/primary-legislation.md

@@ -16,5 +16,5 @@ In this section “**[affordable housing][term:affordable-housing]**” means ne
 
 - (b) are starter homes within the meaning of Chapter 1 of Part 1 of the [Housing and Planning Act 2016][legislation:ukpga/2016/22] (see section 2 of that Act).
 
-[legislation:ukpga/2016/22]: /legislation/ukpga/2016/22
-[term:affordable-housing]: /term/affordable-housing
+[legislation:ukpga/2016/22]: legislation/ukpga/2016/22.md
+[term:affordable-housing]: term/affordable-housing.md

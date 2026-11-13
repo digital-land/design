@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[conservation area][term:conservation-area]” means an area for the time being designated under section 69;
 
-[term:conservation-area]: /term/conservation-area
+[term:conservation-area]: term/conservation-area.md

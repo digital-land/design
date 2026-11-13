@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[premises][term:premises]” includes any land, vehicle, vessel or mobile plant;
 
-[term:premises]: /term/premises
+[term:premises]: term/premises.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[dwelling][term:dwelling]” means any building or part of a building occupied, or erected or adapted for occupation, as a dwelling or as a hostel (including any land belonging to it or usually enjoyed with it);
 
-[term:dwelling]: /term/dwelling
+[term:dwelling]: term/dwelling.md

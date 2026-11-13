@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - an Act or Measure of Senedd Cymru, or
 - Northern Ireland legislation;
 
-[term:primary-legislation]: /term/primary-legislation
+[term:primary-legislation]: term/primary-legislation.md

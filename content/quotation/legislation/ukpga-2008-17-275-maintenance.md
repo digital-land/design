@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[maintenance][term:maintenance]” includes repair,
 
-[term:maintenance]: /term/maintenance
+[term:maintenance]: term/maintenance.md

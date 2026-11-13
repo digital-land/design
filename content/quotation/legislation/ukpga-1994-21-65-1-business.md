@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[business][term:business]” includes any trade or profession;
 
-[term:business]: /term/business
+[term:business]: term/business.md

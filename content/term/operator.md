@@ -20,4 +20,4 @@ entry-date: 2026-11-12
 - where there is more than one person carrying out the operations, works or using the land in a way described in sub-paragraph (a), the person in overall control of the mining site, landfill site or, where a site is both a mining site and a landfill site, the mining site and the landfill site, as the case may be; or
 - where there is no person who falls within the description in sub-paragraph (a) or (b), the owner of the site; and
 
-[term:the-land]: /term/the-land
+[term:the-land]: term/the-land.md

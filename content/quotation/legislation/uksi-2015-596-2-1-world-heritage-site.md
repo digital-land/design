@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[World Heritage Site][term:world-heritage-site]” means a property appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World Cultural and Natural Heritage adopted at Paris on 16th November 1972 .
 
-[term:world-heritage-site]: /term/world-heritage-site
+[term:world-heritage-site]: term/world-heritage-site.md

@@ -22,4 +22,4 @@ In this section, “[representative][term:representative]”, in relation to P, 
 
 - (e) any other person acting in a representative capacity in relation to P (including under section 69).
 
-[term:representative]: /term/representative
+[term:representative]: term/representative.md

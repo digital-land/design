@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[Recipient][term:recipient]”, in relation to any personal data, means any person to whom the data is disclosed, whether a third party or not, but it does not include a [public authority][term:public-authority] to whom disclosure is or may be made in the framework of a particular inquiry in accordance with the law.
 
-[term:public-authority]: /term/public-authority
-[term:recipient]: /term/recipient
+[term:public-authority]: term/public-authority.md
+[term:recipient]: term/recipient.md

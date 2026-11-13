@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[monument][term:monument]” has the meaning given by subsection (7) below;
 
-[term:monument]: /term/monument
+[term:monument]: term/monument.md

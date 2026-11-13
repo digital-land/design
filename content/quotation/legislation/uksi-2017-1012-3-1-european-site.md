@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[European site][term:european-site]” has the meaning given by regulation 8;
 
-[term:european-site]: /term/european-site
+[term:european-site]: term/european-site.md

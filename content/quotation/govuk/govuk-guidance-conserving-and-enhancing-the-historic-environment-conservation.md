@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 Conservation is an active process of maintenance and managing change. It requires a flexible and thoughtful approach to get the best out of assets as diverse as listed buildings in every day use and as yet undiscovered, undesignated buried remains of [archaeological interest][term:archaeological-interest].
 
-[term:archaeological-interest]: /term/archaeological-interest
+[term:archaeological-interest]: term/archaeological-interest.md

@@ -16,4 +16,4 @@ In this Act, “[enterprise][term:enterprise]” means (subject to subsections [
 
 - (b) a group of persons under common ownership or common control which is engaged in an economic activity that entails offering goods or services on a market, to the extent that the group is engaged in such an activity.
 
-[term:enterprise]: /term/enterprise
+[term:enterprise]: term/enterprise.md

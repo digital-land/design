@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[house][term:house]” includes a dwelling that forms part of a building;
 
-[term:house]: /term/house
+[term:house]: term/house.md

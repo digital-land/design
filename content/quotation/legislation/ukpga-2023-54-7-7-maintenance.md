@@ -18,4 +18,4 @@ entry-date: 2026-11-12
 - installing equipment, including after its transport to a new location;
 - testing equipment;
 
-[term:maintenance]: /term/maintenance
+[term:maintenance]: term/maintenance.md

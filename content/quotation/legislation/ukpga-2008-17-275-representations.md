@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[representations][term:representations]” means written representations,
 
-[term:representations]: /term/representations
+[term:representations]: term/representations.md

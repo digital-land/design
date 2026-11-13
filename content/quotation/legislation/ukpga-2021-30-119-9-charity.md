@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[charity][term:charity]” means a charity registered under the [Charities Act 2011][legislation:ukpga/2011/25] or an exempt charity (within the meaning of that Act);
 
-[legislation:ukpga/2011/25]: /legislation/ukpga/2011/25
-[term:charity]: /term/charity
+[legislation:ukpga/2011/25]: legislation/ukpga/2011/25.md
+[term:charity]: term/charity.md

@@ -12,7 +12,7 @@ entry-date: 2026-11-12
 
 In this section and section 91 “[outline planning permission][term:outline-planning-permission]” means [planning permission][term:planning-permission] granted, in accordance with the provisions of a development order, with the reservation for subsequent approval by the [local planning authority][term:local-planning-authority], the Welsh Ministers or the Secretary of State of matters not particularised in the application (“[reserved matters][term:reserved-matters]”).
 
-[term:local-planning-authority]: /term/local-planning-authority
-[term:outline-planning-permission]: /term/outline-planning-permission
-[term:planning-permission]: /term/planning-permission
-[term:reserved-matters]: /term/reserved-matters
+[term:local-planning-authority]: term/local-planning-authority.md
+[term:outline-planning-permission]: term/outline-planning-permission.md
+[term:planning-permission]: term/planning-permission.md
+[term:reserved-matters]: term/reserved-matters.md

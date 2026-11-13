@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - a Saturday or Sunday, or
 - a day which is a bank holiday in any part of the United Kingdom under the Banking and Financial Dealings Act 1971.
 
-[term:working-day]: /term/working-day
+[term:working-day]: term/working-day.md

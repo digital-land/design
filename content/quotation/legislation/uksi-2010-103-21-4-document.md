@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this rule “[document][term:document]” means any notice, report or other document required or authorised to be sent or prepared under these Rules or under the 2008 Act
 
-[term:document]: /term/document
+[term:document]: term/document.md

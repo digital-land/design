@@ -24,5 +24,5 @@ In this section “[hearing][term:hearing]” means—
 
 - (f) a site visit.
 
-[term:examining-authority]: /term/examining-authority
-[term:hearing]: /term/hearing
+[term:examining-authority]: term/examining-authority.md
+[term:hearing]: term/hearing.md

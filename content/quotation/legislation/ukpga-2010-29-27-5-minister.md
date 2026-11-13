@@ -16,4 +16,4 @@ In this section “[Minister][term:minister]” means—
 
 - (b) the Welsh Ministers, in relation to Welsh authorities.
 
-[term:minister]: /term/minister
+[term:minister]: term/minister.md

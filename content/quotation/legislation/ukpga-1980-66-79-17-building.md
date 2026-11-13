@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[building][term:building]” includes any erection however, and with whatever material, it is constructed, and any part of a building;
 
-[term:building]: /term/building
+[term:building]: term/building.md

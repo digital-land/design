@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[function][term:function]” means a function of any nature, whether conferred or otherwise arising before, on or after the passing of this Act.
 
-[term:function]: /term/function
+[term:function]: term/function.md

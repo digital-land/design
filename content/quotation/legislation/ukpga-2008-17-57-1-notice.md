@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[notice][term:notice]” means notice in writing,
 
-[term:notice]: /term/notice
+[term:notice]: term/notice.md

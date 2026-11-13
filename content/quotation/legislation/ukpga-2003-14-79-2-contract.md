@@ -28,4 +28,4 @@ This section applies to every notifiable land transaction other than a transacti
 
 In this subsection “[contract][term:contract]” includes any agreement and “conveyance” includes any instrument.
 
-[term:contract]: /term/contract
+[term:contract]: term/contract.md

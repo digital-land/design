@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[planning obligation][term:planning-obligation]” means a [planning obligation][term:planning-obligation] under section 106 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8];
 
-[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
-[term:planning-obligation]: /term/planning-obligation
+[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[term:planning-obligation]: term/planning-obligation.md

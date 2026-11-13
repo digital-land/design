@@ -16,4 +16,4 @@ In this section “[primary legislation][term:primary-legislation]” means—
 
 - (b) a Measure or Act of the National Assembly for Wales.
 
-[term:primary-legislation]: /term/primary-legislation
+[term:primary-legislation]: term/primary-legislation.md

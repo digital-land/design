@@ -24,4 +24,4 @@ For the purposes of this section “[the Crown][term:the-crown]” includes—
 
 - (f) the Corporate Officer of the House of Commons.
 
-[term:the-crown]: /term/the-crown
+[term:the-crown]: term/the-crown.md

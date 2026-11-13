@@ -16,5 +16,5 @@ entry-date: 2026-11-12
 - ...
 - in Scotland, the planning authority within the meaning of Part IX of the Local Government (Scotland) Act 1973;
 
-[term:local-authority]: /term/local-authority
-[term:london-borough]: /term/london-borough
+[term:local-authority]: term/local-authority.md
+[term:london-borough]: term/london-borough.md

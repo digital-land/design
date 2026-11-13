@@ -10,5 +10,5 @@ entry-date: 2026-11-12
 
 Housing built by an individual, a group of individuals, or persons working with or for them, to be occupied by that individual. Such housing can be either market or [affordable housing][term:affordable-housing]. A legal definition, for the purpose of applying the [Self-build and Custom Housebuilding Act 2015][legislation:ukpga/2015/17] (as amended), is contained in section 1(A1) and (A2) of that Act.
 
-[legislation:ukpga/2015/17]: /legislation/ukpga/2015/17
-[term:affordable-housing]: /term/affordable-housing
+[legislation:ukpga/2015/17]: legislation/ukpga/2015/17.md
+[term:affordable-housing]: term/affordable-housing.md

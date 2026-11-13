@@ -22,4 +22,4 @@ In subsection (7D), “**[working day][term:working-day]**” means a day other 
 
  - (ii) (if different) the part of the United Kingdom where the authority is that has given the notification referred to in subsection (7A)(a).
 
-[term:working-day]: /term/working-day
+[term:working-day]: term/working-day.md

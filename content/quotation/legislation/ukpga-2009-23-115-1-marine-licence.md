@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[marine licence][term:marine-licence]” means a licence granted under this Part;
 
-[term:marine-licence]: /term/marine-licence
+[term:marine-licence]: term/marine-licence.md

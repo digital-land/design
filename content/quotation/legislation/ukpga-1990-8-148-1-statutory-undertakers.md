@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[statutory undertakers][term:statutory-undertakers]” includes electronic communications code operators and former PTOs.
 
-[term:statutory-undertakers]: /term/statutory-undertakers
+[term:statutory-undertakers]: term/statutory-undertakers.md

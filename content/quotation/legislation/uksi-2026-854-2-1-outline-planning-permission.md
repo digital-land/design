@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[outline planning permission][term:outline-planning-permission]” has the same meaning as in [DMPO][legislation:uksi/2015/595] as it has effect when these Regulations come into force;
 
-[legislation:uksi/2015/595]: /legislation/uksi/2015/595
-[term:outline-planning-permission]: /term/outline-planning-permission
+[legislation:uksi/2015/595]: legislation/uksi/2015/595.md
+[term:outline-planning-permission]: term/outline-planning-permission.md

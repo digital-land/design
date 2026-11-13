@@ -18,4 +18,4 @@ In subsection (1) “[director][term:director]”, in relation to any body corpo
 
 means a member of that body corporate.
 
-[term:director]: /term/director
+[term:director]: term/director.md

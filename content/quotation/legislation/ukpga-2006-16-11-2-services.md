@@ -18,4 +18,4 @@ entry-date: 2026-11-12
 
 - (c) section 10 (consultancy services).
 
-[term:services]: /term/services
+[term:services]: term/services.md

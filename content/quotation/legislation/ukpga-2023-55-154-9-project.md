@@ -22,5 +22,5 @@ entry-date: 2026-11-12
 
 - (e) any other activity capable of affecting the [natural environment][term:natural-environment], cultural heritage or landscape.
 
-[term:natural-environment]: /term/natural-environment
-[term:project]: /term/project
+[term:natural-environment]: term/natural-environment.md
+[term:project]: term/project.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[the Agency][term:the-agency]” means the Environment Agency;
 
-[term:the-agency]: /term/the-agency
+[term:the-agency]: term/the-agency.md

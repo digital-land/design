@@ -20,4 +20,4 @@ entry-date: 2026-11-12
 - cremation or burial facilities, and
 - [community facilities][term:community-facilities] not falling within paragraphs (a) to (f),
 
-[term:community-facilities]: /term/community-facilities
+[term:community-facilities]: term/community-facilities.md

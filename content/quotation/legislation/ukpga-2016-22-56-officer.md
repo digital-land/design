@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - any director, secretary or other similar officer of the body corporate, or
 - any person who was purporting to act in any such capacity;
 
-[term:officer]: /term/officer
+[term:officer]: term/officer.md

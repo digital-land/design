@@ -26,5 +26,5 @@ Subject to paragraph (2), in these Regulations a “[European site][term:europea
 
  - (ii) the appropriate authority gives the appropriate nature conservation body notice of its intention not to designate the site, setting out the reasons for its decision, in accordance with regulation 141A(3).
 
-[term:european-site]: /term/european-site
-[term:special-protection-areas]: /term/special-protection-areas
+[term:european-site]: term/european-site.md
+[term:special-protection-areas]: term/special-protection-areas.md

@@ -16,4 +16,4 @@ For the purposes of this section and the operation for those purposes of section
 
 - (b) a charity which is not an undertaking as so defined.
 
-[term:undertaking]: /term/undertaking
+[term:undertaking]: term/undertaking.md

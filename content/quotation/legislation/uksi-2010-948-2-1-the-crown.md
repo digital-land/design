@@ -19,4 +19,4 @@ entry-date: 2026-11-12
 - the Corporate Officer of the House of Lords, and
 - the Corporate Officer of the House of Commons; and
 
-[term:the-crown]: /term/the-crown
+[term:the-crown]: term/the-crown.md

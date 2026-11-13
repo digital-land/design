@@ -18,4 +18,4 @@ Any bond given under this section is to be—
 
 “[The court][term:the-court]” means a magistrates' court in England and Wales.
 
-[term:the-court]: /term/the-court
+[term:the-court]: term/the-court.md

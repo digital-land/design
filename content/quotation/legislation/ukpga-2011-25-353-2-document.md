@@ -16,4 +16,4 @@ In this Act, except in so far as the context otherwise requires, “[document][t
 
 - (b) any reference to the provision of a copy of, or extract from, it is accordingly to be read as a reference to the provision of a copy of, or extract from, it in legible form.
 
-[term:document]: /term/document
+[term:document]: term/document.md

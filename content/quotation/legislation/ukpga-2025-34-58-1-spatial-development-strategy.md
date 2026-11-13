@@ -18,4 +18,4 @@ In this Part “**[spatial development strategy][term:spatial-development-strate
 
 - (c) a strategy in preparation by a strategic planning authority in accordance with this Part.
 
-[term:spatial-development-strategy]: /term/spatial-development-strategy
+[term:spatial-development-strategy]: term/spatial-development-strategy.md

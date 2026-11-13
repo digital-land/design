@@ -17,5 +17,5 @@ entry-date: 2026-11-12
 - the council of a [London borough][term:london-borough];
 - the council of a county borough in Wales.
 
-[term:london-borough]: /term/london-borough
-[term:unitary-authority]: /term/unitary-authority
+[term:london-borough]: term/london-borough.md
+[term:unitary-authority]: term/unitary-authority.md

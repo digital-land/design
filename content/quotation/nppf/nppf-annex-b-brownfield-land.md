@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 See [Previously developed land][term:previously-developed-land].
 
-[term:previously-developed-land]: /term/previously-developed-land
+[term:previously-developed-land]: term/previously-developed-land.md

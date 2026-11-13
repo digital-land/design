@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[interest][term:interest]” includes a personal, professional or financial interest and may be direct or indirect;
 
-[term:interest]: /term/interest
+[term:interest]: term/interest.md

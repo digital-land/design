@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[records][term:records]” includes computer records and any other records kept otherwise than in a document;
 
-[term:records]: /term/records
+[term:records]: term/records.md

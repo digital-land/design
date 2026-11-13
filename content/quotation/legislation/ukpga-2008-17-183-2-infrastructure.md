@@ -20,4 +20,4 @@ The HCA gives “assistance” to a person if it—
 
 and for this purpose “[infrastructure][term:infrastructure]” has the same meaning as in Part 1.
 
-[term:infrastructure]: /term/infrastructure
+[term:infrastructure]: term/infrastructure.md

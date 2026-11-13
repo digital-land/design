@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 [Build to rent][term:build-to-rent] is a distinct asset class within the private rented sector, and has been defined in the [National Planning Policy Framework glossary](https://www.gov.uk/government/publications/national-planning-policy-framework--2), in order to simplify its treatment within the planning system.
 
-[term:build-to-rent]: /term/build-to-rent
+[term:build-to-rent]: term/build-to-rent.md

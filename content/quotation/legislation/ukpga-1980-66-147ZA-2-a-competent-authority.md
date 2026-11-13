@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[competent authority][term:competent-authority]” has the same meaning as in section 147 above,
 
-[term:competent-authority]: /term/competent-authority
+[term:competent-authority]: term/competent-authority.md

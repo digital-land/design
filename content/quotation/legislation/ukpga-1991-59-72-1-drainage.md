@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - warping; and
 - the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse;
 
-[term:drainage]: /term/drainage
+[term:drainage]: term/drainage.md

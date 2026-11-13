@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “**[development consent][term:development-consent]**” has the meaning given in section 31 of the [Planning Act 2008][legislation:ukpga/2008/29];
 
-[legislation:ukpga/2008/29]: /legislation/ukpga/2008/29
-[term:development-consent]: /term/development-consent
+[legislation:ukpga/2008/29]: legislation/ukpga/2008/29.md
+[term:development-consent]: term/development-consent.md

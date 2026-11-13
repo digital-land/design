@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - a person whose interests may be affected by the giving of the subsidy or the making of the subsidy scheme in respect of which the application under subsection (1) is made, or
 - the Secretary of State;
 
-[term:interested-party]: /term/interested-party
+[term:interested-party]: term/interested-party.md

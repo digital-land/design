@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[Development consent][term:development-consent] order” means an order granting [development consent][term:development-consent].
 
-[term:development-consent]: /term/development-consent
+[term:development-consent]: term/development-consent.md

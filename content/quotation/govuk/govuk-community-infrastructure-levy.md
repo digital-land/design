@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 The [Community Infrastructure Levy][term:community-infrastructure-levy] (the ‘levy’) is a charge which can be levied by local authorities on new development in their area.
 
-[term:community-infrastructure-levy]: /term/community-infrastructure-levy
+[term:community-infrastructure-levy]: term/community-infrastructure-levy.md

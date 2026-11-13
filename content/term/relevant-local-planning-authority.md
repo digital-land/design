@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - a joint planning board, or
 - a National Park authority.
 
-[term:local-planning-authority]: /term/local-planning-authority
+[term:local-planning-authority]: term/local-planning-authority.md

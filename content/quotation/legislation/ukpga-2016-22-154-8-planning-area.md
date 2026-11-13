@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[planning area][term:planning-area]” means the area of a [local planning authority][term:local-planning-authority], or an area comprising two or more adjoining areas of local planning authorities;
 
-[term:local-planning-authority]: /term/local-planning-authority
-[term:planning-area]: /term/planning-area
+[term:local-planning-authority]: term/local-planning-authority.md
+[term:planning-area]: term/planning-area.md

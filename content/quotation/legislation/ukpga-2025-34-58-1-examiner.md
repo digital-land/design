@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**examination**” means an examination in public of a draft [spatial development strategy][term:spatial-development-strategy] as set out in section 12I, and “**examiner**” is to be construed accordingly;
 
-[term:spatial-development-strategy]: /term/spatial-development-strategy
+[term:spatial-development-strategy]: term/spatial-development-strategy.md

@@ -18,4 +18,4 @@ entry-date: 2026-11-12
 
 or any other person acting in a representative capacity in relation to that person.
 
-[term:representative]: /term/representative
+[term:representative]: term/representative.md

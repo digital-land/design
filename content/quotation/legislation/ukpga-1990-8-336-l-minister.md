@@ -12,6 +12,6 @@ entry-date: 2026-11-12
 
 “[Minister][term:minister]” means any Minister of [the Crown][term:the-crown] or other [government department][term:government-department];
 
-[term:government-department]: /term/government-department
-[term:minister]: /term/minister
-[term:the-crown]: /term/the-crown
+[term:government-department]: term/government-department.md
+[term:minister]: term/minister.md
+[term:the-crown]: term/the-crown.md

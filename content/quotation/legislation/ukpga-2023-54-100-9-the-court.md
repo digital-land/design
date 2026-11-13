@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 - in Northern Ireland, the High Court, and
 - in Scotland, the Court of Session.
 
-[term:the-court]: /term/the-court
+[term:the-court]: term/the-court.md

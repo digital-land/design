@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 
 and cognate expressions shall be construed accordingly;
 
-[term:disposal]: /term/disposal
+[term:disposal]: term/disposal.md

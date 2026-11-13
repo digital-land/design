@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 For this purpose “[arrangements][term:arrangements]” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
-[term:arrangements]: /term/arrangements
+[term:arrangements]: term/arrangements.md

@@ -20,5 +20,5 @@ entry-date: 2026-11-12
 
 - (d) monitoring, assessing, considering, advising or reporting on anything in paragraphs (a) to (c).
 
-[term:environmental-protection]: /term/environmental-protection
-[term:natural-environment]: /term/natural-environment
+[term:environmental-protection]: term/environmental-protection.md
+[term:natural-environment]: term/natural-environment.md

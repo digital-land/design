@@ -28,6 +28,6 @@ In this section (except subsection (3)) and sections 216A(2) and 216B(2) “[inf
 
 - (g) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[abbreviation:cil]: /abbreviation/cil
-[term:affordable-housing]: /term/affordable-housing
-[term:infrastructure]: /term/infrastructure
+[abbreviation:cil]: abbreviation/cil.md
+[term:affordable-housing]: term/affordable-housing.md
+[term:infrastructure]: term/infrastructure.md

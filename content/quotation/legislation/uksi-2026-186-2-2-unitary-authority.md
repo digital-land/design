@@ -18,5 +18,5 @@ entry-date: 2026-11-12
 - the Common Council of the City of London;
 - the Council of the Isles of Scilly.
 
-[term:london-borough]: /term/london-borough
-[term:unitary-authority]: /term/unitary-authority
+[term:london-borough]: term/london-borough.md
+[term:unitary-authority]: term/unitary-authority.md

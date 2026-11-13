@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[develop][term:develop]” includes redevelop (and “development” includes redevelopment);
 
-[term:develop]: /term/develop
+[term:develop]: term/develop.md

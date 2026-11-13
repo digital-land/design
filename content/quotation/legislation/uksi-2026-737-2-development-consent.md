@@ -12,6 +12,6 @@ entry-date: 2026-11-12
 
 “[development consent][term:development-consent]” means consent required for development to the extent that it is or forms part of a [nationally significant infrastructure project][term:nationally-significant-infrastructure-project] in accordance with section 31 of [the Act][term:the-act];
 
-[term:development-consent]: /term/development-consent
-[term:nationally-significant-infrastructure-project]: /term/nationally-significant-infrastructure-project
-[term:the-act]: /term/the-act
+[term:development-consent]: term/development-consent.md
+[term:nationally-significant-infrastructure-project]: term/nationally-significant-infrastructure-project.md
+[term:the-act]: term/the-act.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[Groundwater][term:groundwater]” means all water which is below the surface of the ground and in direct contact with the ground or subsoil.
 
-[term:groundwater]: /term/groundwater
+[term:groundwater]: term/groundwater.md

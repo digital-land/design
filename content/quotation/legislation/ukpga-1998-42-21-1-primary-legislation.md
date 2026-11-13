@@ -24,4 +24,4 @@ entry-date: 2026-11-12
 
 and includes an order or other instrument made under [primary legislation][term:primary-legislation] (otherwise than by the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government, a member of the Scottish Executive, a Northern Ireland Minister or a Northern Ireland department) to the extent to which it operates to bring one or more provisions of that legislation into force or amends any [primary legislation][term:primary-legislation];
 
-[term:primary-legislation]: /term/primary-legislation
+[term:primary-legislation]: term/primary-legislation.md

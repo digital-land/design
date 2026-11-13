@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[reserved matters][term:reserved-matters]” has the same meaning as in the Scotland Act 1998.
 
-[term:reserved-matters]: /term/reserved-matters
+[term:reserved-matters]: term/reserved-matters.md

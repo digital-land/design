@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[Public authority][term:public-authority]” means a person having functions of a public nature (whether or not in the United Kingdom).
 
-[term:public-authority]: /term/public-authority
+[term:public-authority]: term/public-authority.md

@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 - their habitats;
 - its geological features.
 
-[term:natural-environment]: /term/natural-environment
+[term:natural-environment]: term/natural-environment.md

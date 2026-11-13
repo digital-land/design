@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[hedgerow][term:hedgerow]” includes any stretch of hedgerow;
 
-[term:hedgerow]: /term/hedgerow
+[term:hedgerow]: term/hedgerow.md

@@ -11,5 +11,5 @@ entry-date: 2026-11-12
 
 Cultural and/or natural significance which is so exceptional as to transcend national boundaries and to be of common importance for present and future generations. An individual Statement of [Outstanding Universal Value][term:outstanding-universal-value] is agreed and adopted by the UNESCO World Heritage Committee for each [World Heritage Site][term:world-heritage-site].
 
-[term:outstanding-universal-value]: /term/outstanding-universal-value
-[term:world-heritage-site]: /term/world-heritage-site
+[term:outstanding-universal-value]: term/outstanding-universal-value.md
+[term:world-heritage-site]: term/world-heritage-site.md

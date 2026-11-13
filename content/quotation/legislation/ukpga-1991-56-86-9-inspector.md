@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[inspector][term:inspector]” means the Chief Inspector of Drinking Water or any other person appointed under subsection (1) above.
 
-[term:inspector]: /term/inspector
+[term:inspector]: term/inspector.md

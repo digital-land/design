@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[successor][term:successor]” means a person to whom property, rights or liabilities may be transferred by a scheme under section 190(1) or 191(2).
 
-[term:successor]: /term/successor
+[term:successor]: term/successor.md

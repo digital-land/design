@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[developer][term:developer]” means a person who is wholly or partly responsible for carrying out a development.
 
-[term:developer]: /term/developer
+[term:developer]: term/developer.md

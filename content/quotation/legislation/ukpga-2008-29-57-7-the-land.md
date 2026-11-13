@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[the land][term:the-land]” means [the land][term:the-land] to which the application relates or any part of that land.
 
-[term:the-land]: /term/the-land
+[term:the-land]: term/the-land.md

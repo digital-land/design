@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In subsection (1) above the expression “[director][term:director]”, in relation to any body corporate established by or under an enactment for the purpose of carrying on under national ownership an industry or part of an industry or undertaking, being a body corporate whose affairs are managed by the members thereof, means a member of that body corporate.
 
-[term:director]: /term/director
+[term:director]: term/director.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[officer][term:officer]” includes servant;
 
-[term:officer]: /term/officer
+[term:officer]: term/officer.md

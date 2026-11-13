@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[spatial development strategy][term:spatial-development-strategy]” shall be construed in accordance with Part VIII of the Greater London Authority Act 1999 (planning);
 
-[term:spatial-development-strategy]: /term/spatial-development-strategy
+[term:spatial-development-strategy]: term/spatial-development-strategy.md

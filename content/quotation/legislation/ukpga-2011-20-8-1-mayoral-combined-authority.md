@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**mayoral [combined authority][term:combined-authority]**” has the same meaning as in Part 6 of the Local Democracy, Economic Development and Construction Act 2009 — see section 120 of that Act;
 
-[term:combined-authority]: /term/combined-authority
+[term:combined-authority]: term/combined-authority.md

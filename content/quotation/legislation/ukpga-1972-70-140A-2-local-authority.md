@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[local authority][term:local-authority]” includes—
 
-[term:local-authority]: /term/local-authority
+[term:local-authority]: term/local-authority.md

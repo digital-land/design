@@ -13,12 +13,12 @@ Other distinct forms of [ancient woodland][term:ancient-woodland] are:
 * [histoic parkland][term:historic-parkland], which is protected as a [heritage asset][term:heritage-asset] in the [NPPF](abbreviaton/NPPF)
 * Many of these do not appear on the [ancient woodland inventory][term:ancient-woodland-inventory] ([AWI][abbreviation:awi]) because their low tree density does not register as woodland on historic maps.
 
-[abbreviation:awi]: /abbreviation/awi
-[abbreviation:nppf]: /abbreviation/nppf
-[term:ancient-semi-natural-woodland]: /term/ancient-semi-natural-woodland
-[term:ancient-woodland]: /term/ancient-woodland
-[term:ancient-woodland-inventory]: /term/ancient-woodland-inventory
-[term:heritage-asset]: /term/heritage-asset
-[term:historic-parkland]: /term/historic-parkland
-[term:national-planning-policy-framework]: /term/national-planning-policy-framework
-[term:plantation]: /term/plantation
+[abbreviation:awi]: abbreviation/awi.md
+[abbreviation:nppf]: abbreviation/nppf.md
+[term:ancient-semi-natural-woodland]: term/ancient-semi-natural-woodland.md
+[term:ancient-woodland]: term/ancient-woodland.md
+[term:ancient-woodland-inventory]: term/ancient-woodland-inventory.md
+[term:heritage-asset]: term/heritage-asset.md
+[term:historic-parkland]: term/historic-parkland.md
+[term:national-planning-policy-framework]: term/national-planning-policy-framework.md
+[term:plantation]: term/plantation.md

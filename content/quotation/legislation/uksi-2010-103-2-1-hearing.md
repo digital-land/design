@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[hearing][term:hearing]” means an open-floor hearing, issue-specific hearing or compulsory acquisition hearing;
 
-[term:hearing]: /term/hearing
+[term:hearing]: term/hearing.md

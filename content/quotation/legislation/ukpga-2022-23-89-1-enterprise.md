@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[enterprise][term:enterprise]” has the meaning given by section 7;
 
-[term:enterprise]: /term/enterprise
+[term:enterprise]: term/enterprise.md

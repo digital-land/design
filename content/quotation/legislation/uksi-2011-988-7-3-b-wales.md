@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[Wales][term:wales]” includes the sea adjacent to Wales out as far as the seaward boundary of the territorial sea;
 
-[term:wales]: /term/wales
+[term:wales]: term/wales.md

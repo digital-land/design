@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[development consent][term:development-consent]” has the meaning given by section 31;
 
-[term:development-consent]: /term/development-consent
+[term:development-consent]: term/development-consent.md

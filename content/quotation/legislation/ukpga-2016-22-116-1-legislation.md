@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - Northern Ireland legislation, or
 - a Measure or Act of the National Assembly for Wales;
 
-[term:legislation]: /term/legislation
+[term:legislation]: term/legislation.md

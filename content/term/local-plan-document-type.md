@@ -8,4 +8,4 @@ entry-date: '2026-11-12'
 
 The types of documents published for a [local plan][term:local-plan]
 
-[term:local-plan]: /term/local-plan
+[term:local-plan]: term/local-plan.md

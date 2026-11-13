@@ -16,5 +16,5 @@ In subsection [(2)(b)](http://www.legislation.gov.uk/ukpga/2021/30/section/122/2
 
 - (b) an estate in land derived (whether immediately or otherwise) from the qualifying estate after the creation of the covenant.
 
-[term:successor]: /term/successor
-[term:the-land]: /term/the-land
+[term:successor]: term/successor.md
+[term:the-land]: term/the-land.md

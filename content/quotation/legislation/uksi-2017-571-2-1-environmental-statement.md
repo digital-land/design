@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[environmental statement][term:environmental-statement]” has the meaning given by regulation 18;
 
-[term:environmental-statement]: /term/environmental-statement
+[term:environmental-statement]: term/environmental-statement.md

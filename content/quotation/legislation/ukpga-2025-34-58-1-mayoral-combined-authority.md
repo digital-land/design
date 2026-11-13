@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**mayoral [combined authority][term:combined-authority]**” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
 
-[term:combined-authority]: /term/combined-authority
+[term:combined-authority]: term/combined-authority.md

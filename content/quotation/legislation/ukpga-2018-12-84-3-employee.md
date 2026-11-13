@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[Employee][term:employee]”, in relation to any person, includes an individual who holds a position (whether paid or unpaid) under the direction and control of that person.
 
-[term:employee]: /term/employee
+[term:employee]: term/employee.md

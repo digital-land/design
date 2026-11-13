@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[outline planning permission][term:outline-planning-permission]**” has the same meaning as in section 92;
 
-[term:outline-planning-permission]: /term/outline-planning-permission
+[term:outline-planning-permission]: term/outline-planning-permission.md

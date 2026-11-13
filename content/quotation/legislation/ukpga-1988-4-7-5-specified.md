@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[specified][term:specified]” means specified in the proposal in question.
 
-[term:specified]: /term/specified
+[term:specified]: term/specified.md

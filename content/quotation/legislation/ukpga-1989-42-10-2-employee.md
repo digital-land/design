@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[employee][term:employee]” has the same meaning as in the the Employment Rights Act 1996;
 
-[term:employee]: /term/employee
+[term:employee]: term/employee.md

@@ -16,4 +16,4 @@ In section 208 “[development][term:development]” means—
 
 - (b) anything done to or in respect of an existing building.
 
-[term:development]: /term/development
+[term:development]: term/development.md

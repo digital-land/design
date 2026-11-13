@@ -18,4 +18,4 @@ For the purposes of the references to a parent undertaking—
 
 “[undertaking][term:undertaking]” includes a charity which is not an undertaking as defined by section 1161(1) of that Act.
 
-[term:undertaking]: /term/undertaking
+[term:undertaking]: term/undertaking.md

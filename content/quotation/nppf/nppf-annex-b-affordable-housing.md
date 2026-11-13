@@ -21,7 +21,7 @@ Housing for sale or rent, for those whose needs are not met by the market (inclu
 
  e. **Military affordable housing: meets all of the following conditions:** (a) the rent is sub-market military rent as determined by the Ministry of Defence; and (b) it includes provisions to remain as affordable housing for future eligible households, service personnel and veteran households (including widowed partners and spouses of service personnel), or for the subsidy to be recycled for alternative affordable housing provision.
 
-[term:affordable-housing]: /term/affordable-housing
-[term:build-to-rent]: /term/build-to-rent
-[term:essential-local-workers]: /term/essential-local-workers
-[term:relevant-authority]: /term/relevant-authority
+[term:affordable-housing]: term/affordable-housing.md
+[term:build-to-rent]: term/build-to-rent.md
+[term:essential-local-workers]: term/essential-local-workers.md
+[term:relevant-authority]: term/relevant-authority.md

@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[statutory undertaker][term:statutory-undertaker]” means a person who is or is deemed to be a statutory undertaker for the purposes of any provision of Part 11 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8].
 
-[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
-[term:statutory-undertaker]: /term/statutory-undertaker
+[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[term:statutory-undertaker]: term/statutory-undertaker.md

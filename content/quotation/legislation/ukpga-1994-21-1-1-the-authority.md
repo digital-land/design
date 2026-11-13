@@ -22,4 +22,4 @@ There shall be a body corporate to be known as the Coal Authority (in this Act r
 
 - (e) carrying out the other functions conferred on it by virtue of this Act.
 
-[term:the-authority]: /term/the-authority
+[term:the-authority]: term/the-authority.md

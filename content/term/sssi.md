@@ -11,6 +11,6 @@ entry-date: 2026-11-12
 
 “[SSSI][abbreviation:sssi]” means a [site of special scientific interest][term:site-of-special-scientific-interest] within the meaning of [Part 2](https://www.legislation.gov.uk/ukpga/1981/69/part/2) of the [Wildlife and Countryside Act 1981][legislation:ukpga/1981/69];
 
-[abbreviation:sssi]: /abbreviation/sssi
-[legislation:ukpga/1981/69]: /legislation/ukpga/1981/69
-[term:site-of-special-scientific-interest]: /term/site-of-special-scientific-interest
+[abbreviation:sssi]: abbreviation/sssi.md
+[legislation:ukpga/1981/69]: legislation/ukpga/1981/69.md
+[term:site-of-special-scientific-interest]: term/site-of-special-scientific-interest.md

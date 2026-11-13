@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In subsection (2A) above, “[the authority][term:the-authority]” has the meaning given in paragraph 11(2) of Schedule 12A to this Act.
 
-[term:the-authority]: /term/the-authority
+[term:the-authority]: term/the-authority.md

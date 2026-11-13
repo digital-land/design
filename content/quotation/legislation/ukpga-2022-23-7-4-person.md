@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section, “[person][term:person]” includes a body corporate, a partnership and an unincorporated association.
 
-[term:person]: /term/person
+[term:person]: term/person.md

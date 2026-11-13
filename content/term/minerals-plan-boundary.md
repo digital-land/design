@@ -8,4 +8,4 @@ entry-date: '2026-11-12'
 
 The boundary covered by a [minerals plan][term:minerals-plan].
 
-[term:minerals-plan]: /term/minerals-plan
+[term:minerals-plan]: term/minerals-plan.md

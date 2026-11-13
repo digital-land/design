@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “**[relevant authority][term:relevant-authority]**” means a local authority within the meaning of section 101 of the [Local Government Act 1972][legislation:ukpga/1972/70];
 
-[legislation:ukpga/1972/70]: /legislation/ukpga/1972/70
-[term:relevant-authority]: /term/relevant-authority
+[legislation:ukpga/1972/70]: legislation/ukpga/1972/70.md
+[term:relevant-authority]: term/relevant-authority.md

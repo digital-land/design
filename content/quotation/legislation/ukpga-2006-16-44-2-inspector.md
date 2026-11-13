@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 
 - (b) a person authorised in writing by the National Assembly for Wales to exercise the powers under this section in relation to Wales.
 
-[term:inspector]: /term/inspector
+[term:inspector]: term/inspector.md

@@ -16,5 +16,5 @@ entry-date: 2026-11-12
 - any accompanying documents and further representations made by the applicant; and
 - any amendments made to the application;
 
-[term:application]: /term/application
-[term:development-consent]: /term/development-consent
+[term:application]: term/application.md
+[term:development-consent]: term/development-consent.md

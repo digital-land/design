@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[designated area][term:designated-area]” has the meaning given by section 83(1) above;
 
-[term:designated-area]: /term/designated-area
+[term:designated-area]: term/designated-area.md

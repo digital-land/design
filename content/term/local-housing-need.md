@@ -10,4 +10,4 @@ entry-date: 2026-11-12
 
 The number of homes identified as being needed through the application of the standard method set out in [Annex D][govuk:guidance/national-planning-policy-framework-annex-d-housing-calculations-and-supply].
 
-[govuk:guidance/national-planning-policy-framework-annex-d-housing-calculations-and-supply]: /govuk/guidance/national-planning-policy-framework-annex-d-housing-calculations-and-supply
+[govuk:guidance/national-planning-policy-framework-annex-d-housing-calculations-and-supply]: govuk/guidance/national-planning-policy-framework-annex-d-housing-calculations-and-supply.md

@@ -17,5 +17,5 @@ entry-date: 2026-11-12
 - government departments, and
 - persons who provide, manage or maintain service family accommodation;
 
-[term:independent]: /term/independent
-[term:the-crown]: /term/the-crown
+[term:independent]: term/independent.md
+[term:the-crown]: term/the-crown.md

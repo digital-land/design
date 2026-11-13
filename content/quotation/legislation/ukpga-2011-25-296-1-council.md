@@ -22,5 +22,5 @@ In sections 294 and 295 and this section “[council][term:council]” means—
 
 - (e) the Common Council of the City of London.
 
-[term:council]: /term/council
-[term:london-borough]: /term/london-borough
+[term:council]: term/council.md
+[term:london-borough]: term/london-borough.md

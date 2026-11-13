@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “**[outline planning permission][term:outline-planning-permission]**” has the meaning given by section 92(1).
 
-[term:outline-planning-permission]: /term/outline-planning-permission
+[term:outline-planning-permission]: term/outline-planning-permission.md

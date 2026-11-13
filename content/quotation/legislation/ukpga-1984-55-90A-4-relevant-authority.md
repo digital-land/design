@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[relevant authority][term:relevant-authority]**” means the regulator or a local authority for an area in England;
 
-[term:relevant-authority]: /term/relevant-authority
+[term:relevant-authority]: term/relevant-authority.md

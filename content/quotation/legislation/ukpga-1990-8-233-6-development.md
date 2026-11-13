@@ -20,4 +20,4 @@ A person is a relevant occupier for the purposes of subsection (5) if—
 
 and in this subsection “[development][term:development]” includes redevelopment.
 
-[term:development]: /term/development
+[term:development]: term/development.md

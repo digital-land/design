@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 [Critical and growth minerals][term:critical-and-growth-minerals] (as defined in this glossary) and other minerals which are necessary to meet society’s needs, including aggregates, brickclay (especially Etruria Marl and fireclay), silica sand (including high grade silica sands), coal derived fly ash in single use deposits, cement raw materials, gypsum, salt, fluorspar, oil and gas (including conventional and unconventional hydrocarbons), kaolin, ball clay, potash, polyhalite and local minerals of importance to heritage assets and local distinctiveness.
 
-[term:critical-and-growth-minerals]: /term/critical-and-growth-minerals
+[term:critical-and-growth-minerals]: term/critical-and-growth-minerals.md

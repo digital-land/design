@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[neighbourhood forum][term:neighbourhood-forum]**” means an organisation or body designated as such under section 61F;
 
-[term:neighbourhood-forum]: /term/neighbourhood-forum
+[term:neighbourhood-forum]: term/neighbourhood-forum.md

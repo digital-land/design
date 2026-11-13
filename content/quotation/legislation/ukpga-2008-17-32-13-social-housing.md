@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[social housing][term:social-housing]” has the same meaning as in Part 2,
 
-[term:social-housing]: /term/social-housing
+[term:social-housing]: term/social-housing.md

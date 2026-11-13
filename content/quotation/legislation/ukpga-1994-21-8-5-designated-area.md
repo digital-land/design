@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[designated area][term:designated-area]” means any area which is for the time being both outside the territorial sea adjacent to the United Kingdom and comprised in an area designated (whether before or after the beginning of the restructuring date) under section 1(7) of the Continental Shelf Act 1964.
 
-[term:designated-area]: /term/designated-area
+[term:designated-area]: term/designated-area.md

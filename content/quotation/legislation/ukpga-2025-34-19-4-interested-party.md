@@ -20,4 +20,4 @@ In this paragraph, “**[interested party][term:interested-party]**” means—
 
 - (d) any person who has made representations in accordance with any other enactment.
 
-[term:interested-party]: /term/interested-party
+[term:interested-party]: term/interested-party.md

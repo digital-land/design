@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “**[listed building consent][term:listed-building-consent]**” means consent under section 8 of the Listed Buildings Act ([listed building][term:listed-building] consent in England);
 
-[term:listed-building]: /term/listed-building
-[term:listed-building-consent]: /term/listed-building-consent
+[term:listed-building]: term/listed-building.md
+[term:listed-building-consent]: term/listed-building-consent.md

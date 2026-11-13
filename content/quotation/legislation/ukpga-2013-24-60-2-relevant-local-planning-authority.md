@@ -12,6 +12,6 @@ entry-date: 2026-11-12
 
 “**[relevant local planning authority][term:relevant-local-planning-authority]**”, in relation to a [listed building][term:listed-building], means a [local planning authority][term:local-planning-authority] in whose area the building or any part of the building is situated.
 
-[term:listed-building]: /term/listed-building
-[term:local-planning-authority]: /term/local-planning-authority
-[term:relevant-local-planning-authority]: /term/relevant-local-planning-authority
+[term:listed-building]: term/listed-building.md
+[term:local-planning-authority]: term/local-planning-authority.md
+[term:relevant-local-planning-authority]: term/relevant-local-planning-authority.md

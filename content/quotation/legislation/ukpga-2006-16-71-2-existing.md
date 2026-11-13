@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In each of sections 66 and 67 “commencement” means the commencement of that section; and in section 67 “[existing][term:existing]” means in existence immediately before commencement.
 
-[term:existing]: /term/existing
+[term:existing]: term/existing.md

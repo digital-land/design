@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 In this subsection “[Government department][term:government-department]” includes any Minister of [the Crown][term:the-crown] and “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
-[term:government-department]: /term/government-department
-[term:the-crown]: /term/the-crown
+[term:government-department]: term/government-department.md
+[term:the-crown]: term/the-crown.md

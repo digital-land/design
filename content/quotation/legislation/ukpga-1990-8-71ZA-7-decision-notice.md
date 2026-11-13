@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 In this section “**[decision notice][term:decision-notice]**” means a notice of a decision to grant [planning permission][term:planning-permission] in respect of a development in Wales.
 
-[term:decision-notice]: /term/decision-notice
-[term:planning-permission]: /term/planning-permission
+[term:decision-notice]: term/decision-notice.md
+[term:planning-permission]: term/planning-permission.md

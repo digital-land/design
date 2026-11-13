@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[building][term:building]” includes any structure or erection, and any part of a building, as so defined, but does not include plant or machinery comprised in a building;
 
-[term:building]: /term/building
+[term:building]: term/building.md

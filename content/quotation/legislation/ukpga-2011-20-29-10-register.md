@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 In this Chapter “[register][term:register]”, in relation to a [relevant authority][term:relevant-authority], means its register under subsection (1).
 
-[term:register]: /term/register
-[term:relevant-authority]: /term/relevant-authority
+[term:register]: term/register.md
+[term:relevant-authority]: term/relevant-authority.md

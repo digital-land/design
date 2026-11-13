@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[shares][term:shares]” includes stock and the reference to shares in a company includes a reference to securities issued by a company.
 
-[term:shares]: /term/shares
+[term:shares]: term/shares.md

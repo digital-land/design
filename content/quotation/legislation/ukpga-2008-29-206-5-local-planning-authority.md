@@ -16,5 +16,5 @@ In this section, “[local planning authority][term:local-planning-authority]”
 
 - (b) section 78 of PCPA 2004 in relation to Wales.
 
-[term:development-corporation]: /term/development-corporation
-[term:local-planning-authority]: /term/local-planning-authority
+[term:development-corporation]: term/development-corporation.md
+[term:local-planning-authority]: term/local-planning-authority.md

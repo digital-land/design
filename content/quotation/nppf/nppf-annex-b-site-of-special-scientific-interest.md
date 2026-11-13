@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 Sites notified for their flora, fauna or geological, physiographical or geomorphological features (in England, these sites are notified under s. 28 of the [Wildlife and Countryside Act 1981][legislation:ukpga/1981/69]).
 
-[legislation:ukpga/1981/69]: /legislation/ukpga/1981/69
+[legislation:ukpga/1981/69]: legislation/ukpga/1981/69.md

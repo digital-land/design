@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[members][term:members]”, in relation to a charity with a body of members distinct from the charity trustees, means any of those members;
 
-[term:members]: /term/members
+[term:members]: term/members.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[network][term:network]” has the meaning given by section 83(1) of the Railways Act 1993;
 
-[term:network]: /term/network
+[term:network]: term/network.md

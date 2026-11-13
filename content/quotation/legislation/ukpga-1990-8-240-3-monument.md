@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[monument][term:monument]” includes a tombstone or other memorial, and
 
-[term:monument]: /term/monument
+[term:monument]: term/monument.md

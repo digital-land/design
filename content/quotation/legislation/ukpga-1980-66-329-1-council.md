@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[council][term:council]” means a county council . . . or a local authority;
 
-[term:council]: /term/council
+[term:council]: term/council.md

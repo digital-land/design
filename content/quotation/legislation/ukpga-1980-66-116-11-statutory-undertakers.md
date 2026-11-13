@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[statutory undertakers][term:statutory-undertakers]” includes operators of driver information systems.
 
-[term:statutory-undertakers]: /term/statutory-undertakers
+[term:statutory-undertakers]: term/statutory-undertakers.md

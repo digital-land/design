@@ -21,5 +21,5 @@ In these Regulations, “competent authority” means—
 
 - (e) any person exercising any function of a person or body referred to in sub-paragraphs (a) to (d).
 
-[term:government-department]: /term/government-department
-[term:the-crown]: /term/the-crown
+[term:government-department]: term/government-department.md
+[term:the-crown]: term/the-crown.md

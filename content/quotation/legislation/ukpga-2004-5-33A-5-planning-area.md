@@ -24,5 +24,5 @@ entry-date: 2026-11-12
 - the English inshore region, or
 - the English offshore region, and
 
-[term:london-borough]: /term/london-borough
-[term:planning-area]: /term/planning-area
+[term:london-borough]: term/london-borough.md
+[term:planning-area]: term/planning-area.md

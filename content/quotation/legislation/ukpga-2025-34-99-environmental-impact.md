@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[environmental impact][term:environmental-impact]” has the meaning given in [section 61](http://www.legislation.gov.uk/ukpga/2025/34/section/61)[(1)](http://www.legislation.gov.uk/ukpga/2025/34/section/61/1);
 
-[term:environmental-impact]: /term/environmental-impact
+[term:environmental-impact]: term/environmental-impact.md

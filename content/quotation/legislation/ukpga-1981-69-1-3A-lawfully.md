@@ -20,4 +20,4 @@ In subsection (3) “[lawfully][term:lawfully]” means without any contraventio
 
 - (d) the provisions of the law of any member State (other than the United Kingdom) implementing the Wild Birds Directive.
 
-[term:lawfully]: /term/lawfully
+[term:lawfully]: term/lawfully.md

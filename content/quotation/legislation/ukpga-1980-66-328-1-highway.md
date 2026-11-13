@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this Act, except where the context otherwise requires, “[highway][term:highway]” means the whole or a part of a highway other than a ferry or waterway.
 
-[term:highway]: /term/highway
+[term:highway]: term/highway.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In subsection [(4)(b)](http://www.legislation.gov.uk/ukpga/2021/30/section/74/4/b) “[environmental impact][term:environmental-impact]”, in relation to a relevant product, includes any impact on the environment caused by noise, heat or vibrations or any other kind of release of energy or emissions resulting from the use of the product.
 
-[term:environmental-impact]: /term/environmental-impact
+[term:environmental-impact]: term/environmental-impact.md

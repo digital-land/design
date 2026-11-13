@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[interest][term:interest]” (where the reference is to an interest in land) means the fee simple or a tenancy of [the land][term:the-land] and does not include any other interest in it, and
 
-[term:interest]: /term/interest
-[term:the-land]: /term/the-land
+[term:interest]: term/interest.md
+[term:the-land]: term/the-land.md

@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[inspector][term:inspector]” means a person appointed by the Secretary of State pursuant to paragraph 1 of Schedule 6 to [the Act][term:the-act] to determine an appeal or a person appointed by the Secretary of State pursuant to section 293I of [the Act][term:the-act] to determine an application;
 
-[term:inspector]: /term/inspector
-[term:the-act]: /term/the-act
+[term:inspector]: term/inspector.md
+[term:the-act]: term/the-act.md

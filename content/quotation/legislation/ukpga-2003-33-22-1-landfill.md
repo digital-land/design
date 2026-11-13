@@ -16,4 +16,4 @@ In this Chapter “[landfill][term:landfill]” means a site for the deposit of 
 
 - (b) used for the storage of waste.
 
-[term:landfill]: /term/landfill
+[term:landfill]: term/landfill.md

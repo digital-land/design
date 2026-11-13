@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[address][term:address]” includes any number or address used for the purposes of electronic transmission;
 
-[term:address]: /term/address
+[term:address]: term/address.md

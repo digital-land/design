@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 
 where such persons sleep on the premises;
 
-[term:institution]: /term/institution
+[term:institution]: term/institution.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 For the purposes of this section and sections 28A to 28D, “[local planning authority][term:local-planning-authority]”, in relation to land within the Broads, includes the Broads Authority.
 
-[term:local-planning-authority]: /term/local-planning-authority
+[term:local-planning-authority]: term/local-planning-authority.md

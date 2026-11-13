@@ -11,6 +11,6 @@ entry-date: 2026-11-12
 
 An Order made by the [local planning authority][term:local-planning-authority] (under the [Town and Country Planning Act 1990][legislation:ukpga/1990/8]) that grants [planning permission][term:planning-permission] for a site-specific development proposal or classes of development.
 
-[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
-[term:local-planning-authority]: /term/local-planning-authority
-[term:planning-permission]: /term/planning-permission
+[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[term:local-planning-authority]: term/local-planning-authority.md
+[term:planning-permission]: term/planning-permission.md

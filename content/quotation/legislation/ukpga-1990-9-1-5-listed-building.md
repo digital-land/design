@@ -18,5 +18,5 @@ In this Act “[listed building][term:listed-building]” means a building which
 
 shall , subject to subsection (5A)(a), be treated as part of the building.
 
-[term:listed-building]: /term/listed-building
-[term:the-land]: /term/the-land
+[term:listed-building]: term/listed-building.md
+[term:the-land]: term/the-land.md

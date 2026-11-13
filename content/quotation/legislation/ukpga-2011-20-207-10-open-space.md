@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 - used for the purposes of public recreation, or
 - a disused burial ground.
 
-[term:open-space]: /term/open-space
+[term:open-space]: term/open-space.md

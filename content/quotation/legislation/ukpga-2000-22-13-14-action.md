@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 - the doing of anything incidental or conducive to the discharge of the function, or
 - the doing of anything expedient in connection with the discharge of the function or any action falling within paragraph (a) or (b),
 
-[term:action]: /term/action
+[term:action]: term/action.md

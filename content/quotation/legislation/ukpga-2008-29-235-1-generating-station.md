@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[generating station][term:generating-station]” has the same meaning as in Part 1 of the Electricity Act 1989 (see section 64(1) of that Act);
 
-[term:generating-station]: /term/generating-station
+[term:generating-station]: term/generating-station.md

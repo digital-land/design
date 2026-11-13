@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this Act (except in Part 11) “[development][term:development]” has the same meaning as it has in TCPA 1990.
 
-[term:development]: /term/development
+[term:development]: term/development.md

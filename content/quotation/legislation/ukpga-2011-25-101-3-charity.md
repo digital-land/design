@@ -24,4 +24,4 @@ In this section “appropriate body” means—
 
 and, in the application of the relevant provisions in relation to a scheme which contains provisions authorised by subsection (2), “[charity][term:charity]” includes an appropriate body.
 
-[term:charity]: /term/charity
+[term:charity]: term/charity.md

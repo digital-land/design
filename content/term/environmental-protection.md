@@ -19,4 +19,4 @@ entry-date: 2026-11-12
 
 - (d) monitoring, assessing, considering, advising or reporting on anything in paragraphs (a) to (c).
 
-[term:natural-environment]: /term/natural-environment
+[term:natural-environment]: term/natural-environment.md

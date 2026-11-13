@@ -18,4 +18,4 @@ In this Part “[residential property][term:residential-property]” means—
 
 - (c) an interest in or right over land that subsists for the benefit of a building within paragraph (a) or of land within paragraph (b);
 
-[term:residential-property]: /term/residential-property
+[term:residential-property]: term/residential-property.md

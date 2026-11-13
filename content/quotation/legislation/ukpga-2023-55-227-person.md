@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[person][term:person]” includes any entity that has legal personality under the law by which it is governed;
 
-[term:person]: /term/person
+[term:person]: term/person.md

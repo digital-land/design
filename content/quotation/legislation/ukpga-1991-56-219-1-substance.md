@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[substance][term:substance]” includes micro-organisms and any natural or artificial substance or other matter, whether it is in solid or liquid form or in the form of a gas or vapour;
 
-[term:substance]: /term/substance
+[term:substance]: term/substance.md

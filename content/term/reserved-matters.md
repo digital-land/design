@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - layout; and
 - scale;
 
-[term:outline-planning-permission]: /term/outline-planning-permission
+[term:outline-planning-permission]: term/outline-planning-permission.md

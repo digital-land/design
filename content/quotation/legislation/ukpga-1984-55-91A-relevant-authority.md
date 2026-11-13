@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[relevant authority][term:relevant-authority]**” means a local authority or the regulator.
 
-[term:relevant-authority]: /term/relevant-authority
+[term:relevant-authority]: term/relevant-authority.md

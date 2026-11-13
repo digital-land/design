@@ -18,4 +18,4 @@ In this section, “officer”, in relation to a body corporate, means—
 
 and, in relation to a body corporate whose affairs are managed by its members, “[director][term:director]” means a member of the body corporate.
 
-[term:director]: /term/director
+[term:director]: term/director.md

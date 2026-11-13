@@ -20,6 +20,6 @@ A “[protected site][term:protected-site]” means—
 
 to the extent the site or zone is within England.
 
-[term:european-site]: /term/european-site
-[term:protected-site]: /term/protected-site
-[term:site-of-special-scientific-interest]: /term/site-of-special-scientific-interest
+[term:european-site]: term/european-site.md
+[term:protected-site]: term/protected-site.md
+[term:site-of-special-scientific-interest]: term/site-of-special-scientific-interest.md

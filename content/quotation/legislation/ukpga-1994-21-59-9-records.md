@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[records][term:records]” has the same meaning as in section 57 above.
 
-[term:records]: /term/records
+[term:records]: term/records.md

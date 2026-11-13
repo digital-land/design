@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[England][term:england]” includes the English inshore region;
 
-[term:england]: /term/england
+[term:england]: term/england.md

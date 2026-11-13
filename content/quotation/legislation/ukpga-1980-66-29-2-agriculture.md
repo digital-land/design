@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section, “[agriculture][term:agriculture]” includes the breeding or keeping of horses.
 
-[term:agriculture]: /term/agriculture
+[term:agriculture]: term/agriculture.md

@@ -16,5 +16,5 @@ entry-date: 2026-11-12
 - a public body;
 - a public office holder;
 
-[term:public-authority]: /term/public-authority
-[term:the-crown]: /term/the-crown
+[term:public-authority]: term/public-authority.md
+[term:the-crown]: term/the-crown.md

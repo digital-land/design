@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**highway**” has the same meaning as in the [Highways Act 1980][legislation:ukpga/1980/66];
 
-[legislation:ukpga/1980/66]: /legislation/ukpga/1980/66
+[legislation:ukpga/1980/66]: legislation/ukpga/1980/66.md

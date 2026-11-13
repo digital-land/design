@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 “local planning authority” means the local planning authority whose function it would be to determine an application for [planning permission][term:planning-permission] for the development to which the direction relates or is proposed to relate; and
 
-[term:planning-permission]: /term/planning-permission
+[term:planning-permission]: term/planning-permission.md

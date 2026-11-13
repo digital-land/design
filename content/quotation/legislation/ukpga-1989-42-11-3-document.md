@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[document][term:document]” includes accounts, books, deeds, contracts, bills, vouchers and receipts; and
 
-[term:document]: /term/document
+[term:document]: term/document.md

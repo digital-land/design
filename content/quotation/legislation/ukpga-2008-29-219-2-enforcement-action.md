@@ -16,6 +16,6 @@ In this section, “[enforcement action][term:enforcement-action]” means actio
 
 - (b) the prohibition of development pending assumption of liability for [CIL][abbreviation:cil] or pending payment of [CIL][abbreviation:cil].
 
-[abbreviation:cil]: /abbreviation/cil
-[term:enforcement-action]: /term/enforcement-action
-[term:planning-permission]: /term/planning-permission
+[abbreviation:cil]: abbreviation/cil.md
+[term:enforcement-action]: term/enforcement-action.md
+[term:planning-permission]: term/planning-permission.md

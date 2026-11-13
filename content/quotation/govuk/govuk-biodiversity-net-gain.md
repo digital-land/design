@@ -11,4 +11,4 @@ entry-date: 2026-11-12
 
 [Biodiversity net gain][term:biodiversity-net-gain] is a way of creating and improving biodiversity by requiring development to have a positive impact (‘net gain’) on biodiversity.
 
-[term:biodiversity-net-gain]: /term/biodiversity-net-gain
+[term:biodiversity-net-gain]: term/biodiversity-net-gain.md

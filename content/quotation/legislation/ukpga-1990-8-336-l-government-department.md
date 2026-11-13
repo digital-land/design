@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[government department][term:government-department]” includes any Minister of [the Crown][term:the-crown];
 
-[term:government-department]: /term/government-department
-[term:the-crown]: /term/the-crown
+[term:government-department]: term/government-department.md
+[term:the-crown]: term/the-crown.md

@@ -16,5 +16,5 @@ In subsection (5) “**[affordable housing][term:affordable-housing]**” means�
 
 - (b) any other description of housing that may be prescribed.
 
-[legislation:ukpga/2008/17]: /legislation/ukpga/2008/17
-[term:affordable-housing]: /term/affordable-housing
+[legislation:ukpga/2008/17]: legislation/ukpga/2008/17.md
+[term:affordable-housing]: term/affordable-housing.md

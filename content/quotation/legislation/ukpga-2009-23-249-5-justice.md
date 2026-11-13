@@ -18,4 +18,4 @@ In this Chapter “[justice][term:justice]” means—
 
 - (c) in relation to Scotland, a sheriff, stipendiary magistrate or justice of the peace.
 
-[term:justice]: /term/justice
+[term:justice]: term/justice.md

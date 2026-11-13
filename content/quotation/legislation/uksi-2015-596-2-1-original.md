@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - in relation to a building which is Crown land on 7th June 2006, as existing on that date; and
 - in relation to a building built on or after 7th June 2006 which is Crown land on the date of its completion, as so built;
 
-[term:original]: /term/original
+[term:original]: term/original.md

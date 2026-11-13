@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[common][term:common]” includes any land subject to be enclosed under the Inclosure Acts 1845 to 1882, and any town or village green;
 
-[term:common]: /term/common
+[term:common]: term/common.md

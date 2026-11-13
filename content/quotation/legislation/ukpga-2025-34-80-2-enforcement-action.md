@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section, “[enforcement action][term:enforcement-action]” means action taken under regulations under section [79](http://www.legislation.gov.uk/ukpga/2025/34/section/79).
 
-[term:enforcement-action]: /term/enforcement-action
+[term:enforcement-action]: term/enforcement-action.md

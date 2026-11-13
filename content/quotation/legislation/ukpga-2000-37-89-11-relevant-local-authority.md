@@ -16,5 +16,5 @@ In this section “[relevant local authority][term:relevant-local-authority]” 
 
 - (b) in any other case, the local authorities for all the principal areas wholly or partly comprised in the [area of outstanding natural beauty][term:area-of-outstanding-natural-beauty], acting jointly.
 
-[term:area-of-outstanding-natural-beauty]: /term/area-of-outstanding-natural-beauty
-[term:relevant-local-authority]: /term/relevant-local-authority
+[term:area-of-outstanding-natural-beauty]: term/area-of-outstanding-natural-beauty.md
+[term:relevant-local-authority]: term/relevant-local-authority.md

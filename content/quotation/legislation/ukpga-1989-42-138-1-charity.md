@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[charity][term:charity]” does not include a registered social landlordbut, subject to that, has the same meaning as in the the Charities Act 1993;
 
-[term:charity]: /term/charity
+[term:charity]: term/charity.md

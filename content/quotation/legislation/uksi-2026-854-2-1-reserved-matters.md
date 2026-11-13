@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[reserved matters][term:reserved-matters]” has the same meaning as in [DMPO][legislation:uksi/2015/595] as it has effect when these Regulations come into force;
 
-[legislation:uksi/2015/595]: /legislation/uksi/2015/595
-[term:reserved-matters]: /term/reserved-matters
+[legislation:uksi/2015/595]: legislation/uksi/2015/595.md
+[term:reserved-matters]: term/reserved-matters.md

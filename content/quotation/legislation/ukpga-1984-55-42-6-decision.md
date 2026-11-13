@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section, “[decision][term:decision]” includes a direction, and references to the giving of a decision shall be construed accordingly.
 
-[term:decision]: /term/decision
+[term:decision]: term/decision.md

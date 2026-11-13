@@ -15,6 +15,6 @@ entry-date: 2026-11-12
 - so far as the order relates to permitted purposes under Part 2 or 3 of the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5] (c. 5), the [local planning authority][term:local-planning-authority] within the meaning of that Part of that Act, and
 - in any other case, the [local planning authority][term:local-planning-authority] within the meaning of Part 1 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] (c. 8),
 
-[legislation:ukpga/1990/8]: /legislation/ukpga/1990/8
-[legislation:ukpga/2004/5]: /legislation/ukpga/2004/5
-[term:local-planning-authority]: /term/local-planning-authority
+[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[legislation:ukpga/2004/5]: legislation/ukpga/2004/5.md
+[term:local-planning-authority]: term/local-planning-authority.md

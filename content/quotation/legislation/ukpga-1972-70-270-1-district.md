@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[district][term:district]”, without more, means, in relation to England, a metropolitan district or a non-metropolitan district;
 
-[term:district]: /term/district
+[term:district]: term/district.md

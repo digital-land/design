@@ -18,4 +18,4 @@ Where—
 
 it shall be taken to have been received on the next [working day][term:working-day], and in this subsection, “ [working day][term:working-day] ” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
 
-[term:working-day]: /term/working-day
+[term:working-day]: term/working-day.md

@@ -16,4 +16,4 @@ entry-date: 2026-11-12
 
 - (b) any other person or body which has any non-devolved functions.
 
-[term:public-authority]: /term/public-authority
+[term:public-authority]: term/public-authority.md

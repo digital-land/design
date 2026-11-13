@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[amend][term:amend]” includes repeal;
 
-[term:amend]: /term/amend
+[term:amend]: term/amend.md

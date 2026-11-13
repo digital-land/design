@@ -16,4 +16,4 @@ For the purposes of this Part, in relation to land in England and Wales which is
 
 - (b) “commoner” means a person with rights of common as defined in that section.
 
-[term:occupier]: /term/occupier
+[term:occupier]: term/occupier.md

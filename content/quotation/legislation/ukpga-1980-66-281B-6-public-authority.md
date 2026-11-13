@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[public authority][term:public-authority]**” means any person certain of whose functions are of a public nature.
 
-[term:public-authority]: /term/public-authority
+[term:public-authority]: term/public-authority.md

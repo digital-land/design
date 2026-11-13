@@ -20,5 +20,5 @@ In the following provisions (and as provided in regulation 69(3)(a)), “[compet
 
 - (b) Chapters 4 and 5 of Part 6.
 
-[term:competent-authority]: /term/competent-authority
-[term:planning-permission]: /term/planning-permission
+[term:competent-authority]: term/competent-authority.md
+[term:planning-permission]: term/planning-permission.md

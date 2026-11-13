@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[direction][term:direction]” means a direction given by the Secretary of State under section 95A(2);
 
-[term:direction]: /term/direction
+[term:direction]: term/direction.md

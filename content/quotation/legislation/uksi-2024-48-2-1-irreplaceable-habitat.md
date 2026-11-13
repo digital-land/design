@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 For the purposes of Part 2 of Schedule 7A, “[irreplaceable habitat][term:irreplaceable-habitat]” means any habitat of a description specified in the first column of the tables in the Schedule.
 
-[term:irreplaceable-habitat]: /term/irreplaceable-habitat
+[term:irreplaceable-habitat]: term/irreplaceable-habitat.md

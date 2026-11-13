@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 - a Measure of the National Assembly for Wales;
 - Northern Ireland legislation;
 
-[term:primary-legislation]: /term/primary-legislation
+[term:primary-legislation]: term/primary-legislation.md

@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**[reserved matters][term:reserved-matters]**” has the same meaning as in section 92(1) of TCPA 1990;
 
-[term:reserved-matters]: /term/reserved-matters
+[term:reserved-matters]: term/reserved-matters.md

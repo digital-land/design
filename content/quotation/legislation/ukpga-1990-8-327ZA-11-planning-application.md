@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 
 but does not include an application made in legal proceedings;
 
-[term:planning-application]: /term/planning-application
+[term:planning-application]: term/planning-application.md

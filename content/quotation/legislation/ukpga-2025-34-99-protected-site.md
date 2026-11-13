@@ -19,7 +19,7 @@ entry-date: 2026-11-12
 
 and “protected feature”, in relation to a [protected site][term:protected-site], means any habitat or species, or assemblage of habitats or species, or any feature of geological, geomorphological or physiographical interest by reason of which the site is a [protected site][term:protected-site];
 
-[abbreviation:sssi]: /abbreviation/sssi
-[term:european-site]: /term/european-site
-[term:protected-site]: /term/protected-site
-[term:ramsar-site]: /term/ramsar-site
+[abbreviation:sssi]: abbreviation/sssi.md
+[term:european-site]: term/european-site.md
+[term:protected-site]: term/protected-site.md
+[term:ramsar-site]: term/ramsar-site.md

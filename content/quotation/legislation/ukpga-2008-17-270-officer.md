@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 The Table gives the meaning of “[officer][term:officer]” in relation to registered providers.
 
-[term:officer]: /term/officer
+[term:officer]: term/officer.md

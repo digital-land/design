@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In subsection (3) “[coronavirus][term:coronavirus]” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
-[term:coronavirus]: /term/coronavirus
+[term:coronavirus]: term/coronavirus.md

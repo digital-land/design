@@ -16,5 +16,5 @@ entry-date: 2026-11-12
 - a [spatial development strategy][term:spatial-development-strategy] adopted by a [combined authority][term:combined-authority] established under section 103 of the Local Democracy, Economic Development and Construction Act 2009, or
 - a joint spatial development strategy;
 
-[term:combined-authority]: /term/combined-authority
-[term:spatial-development-strategy]: /term/spatial-development-strategy
+[term:combined-authority]: term/combined-authority.md
+[term:spatial-development-strategy]: term/spatial-development-strategy.md

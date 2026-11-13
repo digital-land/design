@@ -17,4 +17,4 @@ entry-date: 2026-11-12
 
 and includes any judge or officer of the court exercising the jurisdiction of the court;
 
-[term:the-court]: /term/the-court
+[term:the-court]: term/the-court.md

@@ -22,4 +22,4 @@ entry-date: 2026-11-12
 
 - (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[term:the-data-protection-legislation]: /term/the-data-protection-legislation
+[term:the-data-protection-legislation]: term/the-data-protection-legislation.md

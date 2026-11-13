@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[the Broads][term:the-broads]” has the meaning given by section 2(3);
 
-[term:the-broads]: /term/the-broads
+[term:the-broads]: term/the-broads.md

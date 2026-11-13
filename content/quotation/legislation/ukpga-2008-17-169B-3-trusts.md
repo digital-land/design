@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “**trusts**”, in relation to a charity, has the same meaning as in the [Charities Act 2011][legislation:ukpga/2011/25] (see section 353 of that Act).
 
-[legislation:ukpga/2011/25]: /legislation/ukpga/2011/25
+[legislation:ukpga/2011/25]: legislation/ukpga/2011/25.md

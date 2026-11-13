@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 “[functions][term:functions]” includes powers and duties;
 
-[term:functions]: /term/functions
+[term:functions]: term/functions.md

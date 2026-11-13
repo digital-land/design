@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - the electronic communications code operator providing that network, or
 - the Secretary of State, so far as the Secretary of State is providing or proposing to provide that network,
 
-[term:operator]: /term/operator
+[term:operator]: term/operator.md

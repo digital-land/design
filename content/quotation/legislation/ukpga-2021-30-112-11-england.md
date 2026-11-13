@@ -15,4 +15,4 @@ entry-date: 2026-11-12
 - any part of the territorial sea adjacent to Wales for the general or residual purposes of the Government of Wales Act 2006 (see section 158 of that Act), or
 - any part of the territorial sea adjacent to Scotland for the general or residual purposes of the Scotland Act 1998 (see section 126 of that Act);
 
-[term:england]: /term/england
+[term:england]: term/england.md

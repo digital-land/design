@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In this section “[provide][term:provide]” includes provide by way of acquisition, construction, conversion, improvement or repair (and “provision” is to be read in the same way).
 
-[term:provide]: /term/provide
+[term:provide]: term/provide.md

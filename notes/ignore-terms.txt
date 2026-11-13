@@ -1,5 +1,6 @@
 # Terms defined in legislation, but with a meaning specific to the Act or too general for the glossary.
-# bin/build-terms.py does not create terms for these, and removes them if it generated them.
+# bin/legislation-terms.py --all does not write quotations for these,
+# and bin/build-terms.py does not create terms for them, and removes them if it generated them.
 act
 address
 amend

@@ -25,6 +25,15 @@ def yaml(s):
     return '"' + s.replace('"', '\\"') + '"' if re.search(r"[:#\"'\[\]{}]", s) else s
 
 
+def ignored(path=Path("notes/ignore-terms.txt")):
+    """Terms which are not wanted in the glossary, one per line, # for comments."""
+    return {
+        l.strip()
+        for l in path.read_text(encoding="utf-8").splitlines()
+        if l.strip() and not l.startswith("#")
+    }
+
+
 def instrument(path, legislation):
     """Reference, title and start-date for the instrument cached as <path>."""
     ref = path.stem.replace("-", "/", 2)
@@ -173,13 +182,17 @@ def main():
     found = collect(args.cache, args.legislation, wanted)
     if args.all:
         keep = nppf_terms() if args.with_nppf else set()
+        skip = ignored()
         found = {
             t: recs
             for t, recs in found.items()
-            if t in keep
-            or (
-                len({r["instrument"] for r in recs}) >= args.min_instruments
-                and snapshot_files(t) >= args.min_snapshots
+            if t not in skip
+            and (
+                t in keep
+                or (
+                    len({r["instrument"] for r in recs}) >= args.min_instruments
+                    and snapshot_files(t) >= args.min_snapshots
+                )
             )
         }
     for t, recs in found.items():  # keep the most general definitions

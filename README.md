@@ -8,7 +8,6 @@ The content is presented at https://design.planning.data.gov.uk
 
 The content is maintained as individual markdown files in the [content](content/) directory
 which are designed to be edited using markdown or text editor.
-Collectively the content directory is an [Obsidian](https://obsidian.md/) vault.
 
 Each markdown file contains dataset fields as front-matter, with the markdown block being the "text" field.
 

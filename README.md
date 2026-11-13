@@ -33,6 +33,16 @@ a [CURIE](https://en.wikipedia.org/wiki/CURIE) as the link label, with the targe
 
 Run `make doctate` to add these links to plain text and to convert other links to entities.
 
+## Principles
+
+- The markdown in [content](content/) is the source of truth; the CSV files in `dataset/` are generated from it.
+- Scope is England only.
+- Terms from the specification, such as "typology" and "entity", are part of the same controlled vocabulary as planning terms.
+- Quotations are kept in full, as they help to check the definitions.
+- Only the latest text of a definition is kept.
+  Changes should be backwards compatible, otherwise the term is given a different name,
+  or disambiguated with a qualifier in parentheses.
+
 ## Related applications
 
 The [planning-data-design](https://github.com/digital-land/planning-data-design) 

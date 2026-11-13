@@ -46,6 +46,8 @@ list `draft` terms for review.
 
 Each quotation has a `role`: `definition` (the source defines the term) or `use` (it mentions it).
 Definitions and uses are both links from term to quotation, so the term page can list both.
+New terms take the best content available, on the assumption that it will be reviewed and edited.
+Conflicting definitions are noted in `notes/dataset-review.md` for review.
 A term may have several definitions that differ (e.g. "development" in the 1990 Act and the NPPF);
 show them side by side and record which one we adopt in the term's `description`.
 
@@ -139,11 +141,12 @@ Considerations have a `stage`. Skip those marked `Archived` and drop the stage f
    | `frequency_of_updates` | skipped for now; we'll revisit quality dimensions against user and needs |
    | `useful_links` | a `## Links` section in the body, to move to the quotation and source datasets |
 
-4. Body: the discovery answers (Backlog, Screen, Research) are long and mostly unanswered. Keep them verbatim under the topic at first so nothing is lost, then split them into `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
+4. Body: remove the unanswered discovery questions (answered "N/A", "Unknown" or left blank) from each topic and keep the answers, as a stopgap until they are replaced with structured `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
 5. Link each topic to a `term` where one matches. The topic's definition comes from the term, not the other way round, so a topic with no term gets a `draft` term.
 6. Replace `consideration` with `topic` in `content/dataset` and `content/field`. A dataset whose consideration is archived gets no topic; list those for review.
 7. Extend `bin/check.py`: topic references are unique and singular, and `topic` links resolve.
 8. Update the README to remove the word "consideration" once migrated.
+9. Write a redirect for each of the 122 archived considerations, in the format used by the [redirects](https://github.com/digital-land/planning-data-design/tree/main/redirects) directory of planning-data-design, so old `/consideration/<slug>` URLs still resolve.
 
 ### 8. Serve at design.planning.data.gov.uk
 
@@ -169,11 +172,21 @@ and look at the result on a term page before scaling up. Then 4 and 5, then 6 an
 
 ## Open questions
 
-- Which term wins when sources disagree? The precedence is legislation, then guidance, then draft; who decides between two legislative definitions? Answer: for new terms, take the best content, assume it will be reviewed and edited. Add notes to the generated review.md file about conflicting definitions
-- How are definitions versioned? Legislation changes over time; do we keep superseded text? We only have latest text, changes should be backwards compatible (see design principles) or will be given a different name, or disambiguated (in parentheses) 
-- Do we store full quotations or only a link and offset? (Copying is allowed under OGL, but long quotes bloat the repo.) Answer: keep them for now as they help to check the definitions.
-- Terms from the specification (e.g. "typology", "entity") belong in the same glossary as planning terms? Answer: yes, these are part of our controlled vocabulary
-- Scope: England only, or also Wales, Scotland and Northern Ireland terms where they differ? Answer: England only
-- The markdown in `content/` is the source of truth and the CSVs are build output; confirm. content/ is our source of truth, CSV is to be generated from the content
-- Should the unanswered discovery questions in each topic be kept, or only the answered ones? Answer: remove unanswered questions. Idea is to replace this text with structured data.
-- Archived considerations are dropped, not migrated. Keep a list of their slugs so old URLs can redirect? Answer, yes, create a list of redirects for the https://github.com/digital-land/planning-data-design/tree/main/redirects directory 
+- **Draft terms for topics:** 232 terms were generated from topic descriptions, many of which describe the data rather than define the term.
+  Who reviews them, and should they be listed in `make review` alongside the other `draft` terms?
+- **Topics and themes:** `tags` (`local plan`, `local land charge`, `building-control` and so on) are not all themes.
+  Which tags map to a `theme`, and should the rest be dropped?
+- **Datasets without a topic:** 9 datasets (`site`, `waste-plan`, `supplementary-plan` and others) belonged to archived considerations.
+  Should they get a new topic, share an existing one, or stay without?
+- **Missing datasets:** topics named `central-activites-zone` (a typo), `development-plan-event` and `using-coal-mining-information`, which aren't in `content/dataset`.
+  Are these the datasets `central-activities-zone` and `development-plan-event`, or should they be dropped?
+- **Case-duplicate fields:** `brownfield-land` uses `Deliverable`, `Hectares` and `Notes`, which duplicate lower-case fields.
+  Should they be renamed in that dataset?
+- **Warnings on quotations:** 584 `make check` warnings come from quotations with a `terms` list naming terms which were deliberately not created (`committee`, `proprietor`, `a`, `b`).
+  Should those entries be removed from `terms`, or the warning silenced?
+- **Legislation:** XML could not be downloaded for 6 of 153 instruments.
+  Which should be fetched by hand, and are all 153 in scope?
+- **Singular names:** `make check` does not yet enforce singular references.
+  What should the exception file hold, for names such as "Archaeological remains" and "Energy and renewable statistics"?
+- **Topic coverage:** a topic such as "Development plan and timetable" has several datasets, and a dataset can sit in only one topic.
+  Should a dataset be able to have more than one topic?

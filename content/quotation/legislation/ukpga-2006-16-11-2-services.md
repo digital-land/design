@@ -17,5 +17,3 @@ entry-date: 2026-11-12
 - (b) section 9 (information services etc.);
 
 - (c) section 10 (consultancy services).
-
-[term:services]: term/services.md

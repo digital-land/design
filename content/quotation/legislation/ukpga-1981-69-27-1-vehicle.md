@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[vehicle][term:vehicle]” includes aircraft, hovercraft and boat;
-
-[term:vehicle]: term/vehicle.md

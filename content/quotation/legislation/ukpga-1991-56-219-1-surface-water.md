@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[surface water][term:surface-water]” includes water from roofs;
-
-[term:surface-water]: term/surface-water.md

@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - a person’s involvement in the manufacture of a relevant product, or
 - a person’s relationship with a person involved in the manufacture of a relevant product;
-
-[term:manufacturer]: term/manufacturer.md

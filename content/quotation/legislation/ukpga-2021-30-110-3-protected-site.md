@@ -19,7 +19,3 @@ A “[protected site][term:protected-site]” means—
 - (c) a marine conservation zone,
 
 to the extent the site or zone is within England.
-
-[term:european-site]: term/european-site.md
-[term:protected-site]: term/protected-site.md
-[term:site-of-special-scientific-interest]: term/site-of-special-scientific-interest.md

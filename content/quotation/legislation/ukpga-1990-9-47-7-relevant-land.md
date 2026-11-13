@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[relevant land][term:relevant-land]”, in relation to any building, means [the land][term:the-land] comprising or contiguous or adjacent to it which appears to the Secretary of State to be required for preserving the building or its amenities, or for affording access to it, or for its proper control or management.
-
-[term:relevant-land]: term/relevant-land.md
-[term:the-land]: term/the-land.md

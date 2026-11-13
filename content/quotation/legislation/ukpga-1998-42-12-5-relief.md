@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[relief][term:relief]” includes any remedy or order (other than in criminal proceedings).
-
-[term:relief]: term/relief.md

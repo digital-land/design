@@ -17,6 +17,3 @@ entry-date: 2026-11-12
 - the Homes and Communities Agency,
 
 and references to the area of a [local planning authority][term:local-planning-authority] are to the area for which the authority is the [local planning authority][term:local-planning-authority] in accordance with Part 2 of PCPA 2004.
-
-[term:development-corporation]: term/development-corporation.md
-[term:local-planning-authority]: term/local-planning-authority.md

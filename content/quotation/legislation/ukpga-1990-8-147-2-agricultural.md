@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[agricultural][term:agricultural]” and “agricultural land” have the meaning given in section 109 of the Agriculture Act 1947 and references to the farming of land include references to the carrying on in relation to [the land][term:the-land] of any agricultural activities;
-
-[term:agricultural]: term/agricultural.md
-[term:the-land]: term/the-land.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[footpath][term:footpath]” means a highway over which the public have a right of way on foot only, not being a footway;
-
-[term:footpath]: term/footpath.md

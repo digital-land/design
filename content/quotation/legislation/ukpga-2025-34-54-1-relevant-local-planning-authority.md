@@ -15,6 +15,3 @@ In sections 319ZZC to section 319ZZE, “**[relevant local planning authority][t
 - (a) a National Park authority, or
 
 - (b) the Broads Authority.
-
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:relevant-local-planning-authority]: term/relevant-local-planning-authority.md

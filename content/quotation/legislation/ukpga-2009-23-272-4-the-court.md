@@ -17,5 +17,3 @@ Any bond given under this section is to be—
 - (b) in the event of a failure to agree an amount, for such amount as may be determined by the court.
 
 “[The court][term:the-court]” means a magistrates' court in England and Wales.
-
-[term:the-court]: term/the-court.md

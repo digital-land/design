@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[shares][term:shares]” includes stock;
-
-[term:shares]: term/shares.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[designated area][term:designated-area]” means—
-
-[term:designated-area]: term/designated-area.md

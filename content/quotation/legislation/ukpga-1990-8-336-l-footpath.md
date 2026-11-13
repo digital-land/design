@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[footpath][term:footpath]” has the same meaning as in the [Highways Act 1980][legislation:ukpga/1980/66];
-
-[legislation:ukpga/1980/66]: legislation/ukpga-1980-66.md
-[term:footpath]: term/footpath.md

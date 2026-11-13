@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[register][term:register]” means a register kept pursuant to article 40 of the Order (register of applications) and references to a “Part” of [the register][term:the-register] are to be taken as references to the Parts of [the register][term:the-register] as described in article 40 of the Order;
-
-[term:register]: term/register.md
-[term:the-register]: term/the-register.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[natural environment][term:natural-environment]” has the meaning given by [section 152](http://www.legislation.gov.uk/ukpga/2023/55/section/152)[(3)](http://www.legislation.gov.uk/ukpga/2023/55/section/152/3);
-
-[term:natural-environment]: term/natural-environment.md

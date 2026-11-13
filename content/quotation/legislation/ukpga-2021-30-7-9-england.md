@@ -17,6 +17,3 @@ In this section “[England][term:england]” includes—
 - (b) the English offshore region,
 
 within the meaning of the [Marine and Coastal Access Act 2009][legislation:ukpga/2009/23] (see section 322 of that Act).
-
-[legislation:ukpga/2009/23]: legislation/ukpga-2009-23.md
-[term:england]: term/england.md

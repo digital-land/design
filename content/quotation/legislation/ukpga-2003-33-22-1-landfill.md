@@ -15,5 +15,3 @@ In this Chapter “[landfill][term:landfill]” means a site for the deposit of 
 - (a) a waste disposal site, or
 
 - (b) used for the storage of waste.
-
-[term:landfill]: term/landfill.md

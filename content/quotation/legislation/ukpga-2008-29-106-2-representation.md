@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section “[representation][term:representation]” includes evidence.
-
-[term:representation]: term/representation.md

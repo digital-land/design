@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**owner**”, in relation to land, means the person who holds an estate in fee simple absolute in possession in [the land][term:the-land];
-
-[term:the-land]: term/the-land.md

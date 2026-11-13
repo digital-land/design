@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[examining authority][term:examining-authority]**” has the meaning given by section 40(7) of the Infrastructure (Wales) Act 2024;
-
-[term:examining-authority]: term/examining-authority.md

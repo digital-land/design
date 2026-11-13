@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[open space][term:open-space]” means any land laid out as a public garden, or used for the purposes of public recreation, or land which is a disused burial ground;
-
-[term:open-space]: term/open-space.md

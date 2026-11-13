@@ -19,5 +19,3 @@ In subsection (3) “[lawfully][term:lawfully]” means without any contraventio
 - (c) any other legislation which implements the Wild Birds Directive and extends to any part of the United Kingdom, to any area designated in accordance with section 1(7) of the Continental Shelf Act 1964 , or to any area to which British fishery limits extend in accordance with section 1 of the Fishery Limits Act 1976 , and
 
 - (d) the provisions of the law of any member State (other than the United Kingdom) implementing the Wild Birds Directive.
-
-[term:lawfully]: term/lawfully.md

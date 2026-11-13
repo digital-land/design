@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[regulations][term:regulations]” means regulations made by the Secretary of State by statutory instrument;
-
-[term:regulations]: term/regulations.md

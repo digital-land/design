@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In [this section](http://www.legislation.gov.uk/ukpga/2025/26/section/113) “[relevant local authority][term:relevant-local-authority]” has the same meaning as in [section 112](http://www.legislation.gov.uk/ukpga/2025/26/section/112).
-
-[term:relevant-local-authority]: term/relevant-local-authority.md

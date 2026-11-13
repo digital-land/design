@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - a county council for an area that does not include the areas of district councils, or
 - a district council for an area that does not form part of the area of a county council;
-
-[term:unitary-authority]: term/unitary-authority.md

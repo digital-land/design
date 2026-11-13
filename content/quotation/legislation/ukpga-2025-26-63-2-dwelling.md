@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[dwelling][term:dwelling]” means a building or part of a building which is occupied or intended to be occupied as a separate dwelling;
-
-[term:dwelling]: term/dwelling.md

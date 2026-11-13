@@ -17,5 +17,3 @@ entry-date: 2026-11-12
 - any receiver or liquidator appointed in relation to that person or any of his property,
 
 or any other person acting in a representative capacity in relation to that person.
-
-[term:representative]: term/representative.md

@@ -11,8 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[further information][term:further-information]” means additional information which, in the view of the [Examining authority][term:examining-authority], the Secretary of State or the [relevant authority][term:relevant-authority], is directly relevant to reaching a reasoned conclusion on the significant effects of the development on the environment and which it is necessary to include in an [environmental statement][term:environmental-statement] or updated [environmental statement][term:environmental-statement] in order for it to satisfy the requirements of regulation 14(2);
-
-[term:environmental-statement]: term/environmental-statement.md
-[term:examining-authority]: term/examining-authority.md
-[term:further-information]: term/further-information.md
-[term:relevant-authority]: term/relevant-authority.md

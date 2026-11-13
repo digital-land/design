@@ -7,5 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 The type of the [planning condition][term:planning-condition], for example the removal of permitted development rights
-
-[term:planning-condition]: term/planning-condition.md

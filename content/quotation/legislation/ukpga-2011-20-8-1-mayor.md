@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**mayor**”, in relation to a mayoral [combined authority][term:combined-authority] or mayoral CCA, means the mayor for the area of that authority;
-
-[term:combined-authority]: term/combined-authority.md

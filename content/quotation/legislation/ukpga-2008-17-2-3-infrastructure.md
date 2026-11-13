@@ -19,5 +19,3 @@ entry-date: 2026-11-12
 - social, religious or recreational facilities,
 - cremation or burial facilities, and
 - [community facilities][term:community-facilities] not falling within paragraphs (a) to (f),
-
-[term:community-facilities]: term/community-facilities.md

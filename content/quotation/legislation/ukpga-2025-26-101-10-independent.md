@@ -16,6 +16,3 @@ entry-date: 2026-11-12
 - other Ministers of [the Crown][term:the-crown],
 - government departments, and
 - persons who provide, manage or maintain service family accommodation;
-
-[term:independent]: term/independent.md
-[term:the-crown]: term/the-crown.md

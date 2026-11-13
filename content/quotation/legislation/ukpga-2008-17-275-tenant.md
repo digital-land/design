@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[tenant][term:tenant]” in relation to social housing includes other occupiers, and
-
-[term:tenant]: term/tenant.md

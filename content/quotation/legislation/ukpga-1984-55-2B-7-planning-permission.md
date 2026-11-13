@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[planning permission][term:planning-permission]**” has the same meaning as in that Act (see section 336(1)).
-
-[term:planning-permission]: term/planning-permission.md

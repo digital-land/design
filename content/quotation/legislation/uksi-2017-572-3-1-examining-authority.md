@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Examining authority][term:examining-authority]” means the Panel or single appointed person appointed under section 65 (appointment of members, and lead member, of Panel) or section 79 (appointment of single appointed person) to examine an application under section 37, and may include one or more members of the Panel allocated a function of the Panel in accordance with section 76 (allocation within Panel of Panel's functions) ;
-
-[term:examining-authority]: term/examining-authority.md

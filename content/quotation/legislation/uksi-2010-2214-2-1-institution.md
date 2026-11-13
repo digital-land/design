@@ -16,5 +16,3 @@ entry-date: 2026-11-12
 - under the age of five years under the age of 18,
 
 where such persons sleep on the premises;
-
-[term:institution]: term/institution.md

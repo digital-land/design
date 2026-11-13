@@ -15,5 +15,3 @@ For the purposes of the law of England and Wales, “[charity][term:charity]” 
 - (a) is established for charitable purposes only, and
 
 - (b) falls to be subject to the control of the High Court in the exercise of its jurisdiction with respect to charities.
-
-[term:charity]: term/charity.md

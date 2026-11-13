@@ -11,7 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[local plan][term:local-plan]” means any document of the description referred to in regulation 5(1)(a)(i), (ii) or (iv) or 5(2)(a) or (b), and for the purposes of section 17(7)(a) of [the Act][term:the-act] these documents are prescribed as [development plan documents][term:development-plan-document];
-
-[term:development-plan-document]: term/development-plan-document.md
-[term:local-plan]: term/local-plan.md
-[term:the-act]: term/the-act.md

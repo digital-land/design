@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - manufactures a pyrotechnic article, or has such an article designed or manufactured; and
 - markets that pyrotechnic article under that person's name or trade mark;
-
-[term:manufacturer]: term/manufacturer.md

@@ -18,5 +18,3 @@ entry-date: 2026-11-12
 - (c) maintenance, restoration or enhancement of the [natural environment][term:natural-environment], cultural heritage or the landscape;
 
 - (d) monitoring, assessing, considering, advising or reporting on anything in paragraphs (a) to (c).
-
-[term:natural-environment]: term/natural-environment.md

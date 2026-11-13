@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[committee][term:committee]”, in relation to a registered society, means the committee of management or other directing body of the society (including any person co-opted to serve on the committee, whether a member of the society or not),
-
-[term:committee]: term/committee.md

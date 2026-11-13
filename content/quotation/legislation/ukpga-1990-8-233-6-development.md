@@ -19,5 +19,3 @@ A person is a relevant occupier for the purposes of subsection (5) if—
 - (c) he is willing to comply with any requirements of the authority as to the development and use of such land;
 
 and in this subsection “[development][term:development]” includes redevelopment.
-
-[term:development]: term/development.md

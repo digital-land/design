@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[information][term:information]” includes anything contained in any records, accounts, estimates or returns;
-
-[term:information]: term/information.md

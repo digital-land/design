@@ -23,6 +23,3 @@ In this section “[hearing][term:hearing]” means—
 - (e) any other meeting or hearing that the [Examining authority][term:examining-authority] causes to be held for the purposes of the [Examining authority][term:examining-authority]'s examination of the application, or
 
 - (f) a site visit.
-
-[term:examining-authority]: term/examining-authority.md
-[term:hearing]: term/hearing.md

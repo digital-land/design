@@ -7,6 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 Housing numbers for a [Local Planning Authority][term:local-planning-authority] in a [local plan][term:local-plan]
-
-[term:local-plan]: term/local-plan.md
-[term:local-planning-authority]: term/local-planning-authority.md

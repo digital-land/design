@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this Act “[national policy statement][term:national-policy-statement]” means a statement designated under subsection (1) as a [national policy statement][term:national-policy-statement] for the purposes of this Act.
-
-[term:national-policy-statement]: term/national-policy-statement.md

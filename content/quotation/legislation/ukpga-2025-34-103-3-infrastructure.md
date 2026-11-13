@@ -25,5 +25,3 @@ In this section “**infrastructure**” means—
 - (f) cremation or burial facilities, and
 
 - (g) [community facilities][term:community-facilities] not falling within paragraphs (a) to (f).
-
-[term:community-facilities]: term/community-facilities.md

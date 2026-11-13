@@ -25,6 +25,3 @@ Subject to paragraph (2), in these Regulations a “[European site][term:europea
  - (i) the site is designated as a special area of conservation under regulation 12 or under a corresponding provision in the other retained transposing regulations; or
 
  - (ii) the appropriate authority gives the appropriate nature conservation body notice of its intention not to designate the site, setting out the reasons for its decision, in accordance with regulation 141A(3).
-
-[term:european-site]: term/european-site.md
-[term:special-protection-areas]: term/special-protection-areas.md

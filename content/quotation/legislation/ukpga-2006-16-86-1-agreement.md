@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In sections 81 to 85 “[agreement][term:agreement]” means an agreement under section 78 or 79.
-
-[term:agreement]: term/agreement.md

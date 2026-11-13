@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[premises][term:premises]” includes land (including buildings), movable structures, vehicles, vessels, aircraft and other means of transport;
-
-[term:premises]: term/premises.md

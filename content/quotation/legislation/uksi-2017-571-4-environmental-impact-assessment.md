@@ -17,7 +17,3 @@ The environmental impact assessment (“[EIA][abbreviation:eia]”) is a process
 - (b) any consultation, publication and notification required by, or by virtue of, these Regulations or any other enactment in respect of [EIA development][term:eia-development]; and
 
 - (c) the steps required under regulation 26.
-
-[abbreviation:eia]: abbreviation/eia.md
-[term:eia-development]: term/eia-development.md
-[term:environmental-statement]: term/environmental-statement.md

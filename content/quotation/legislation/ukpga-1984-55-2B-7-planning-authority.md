@@ -14,6 +14,3 @@ entry-date: 2026-11-12
 
 - a [local planning authority][term:local-planning-authority] within the meaning of that Act (see section 336(1));
 - the Secretary of State (in the exercise of functions of granting [planning permission][term:planning-permission]);
-
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:planning-permission]: term/planning-permission.md

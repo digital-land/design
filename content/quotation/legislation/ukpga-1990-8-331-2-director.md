@@ -17,5 +17,3 @@ In subsection (1) “[director][term:director]”, in relation to any body corpo
 - (b) whose affairs are managed by its members,
 
 means a member of that body corporate.
-
-[term:director]: term/director.md

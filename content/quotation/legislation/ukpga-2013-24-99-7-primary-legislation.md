@@ -16,5 +16,3 @@ entry-date: 2026-11-12
 - an Act of the Scottish Parliament,
 - a Measure or Act of the National Assembly for Wales, and
 - Northern Ireland legislation.
-
-[term:primary-legislation]: term/primary-legislation.md

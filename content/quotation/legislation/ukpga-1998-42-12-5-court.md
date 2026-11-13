@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[court][term:court]” includes a tribunal; and
-
-[term:court]: term/court.md

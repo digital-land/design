@@ -10,5 +10,3 @@ entry-date: 2026-11-12
 ---
 
 [Brownfield land][term:brownfield-land] is an important part of sustainable local planning and development. Data on [brownfield land][term:brownfield-land] has a wide range of uses, including:
-
-[term:brownfield-land]: term/brownfield-land.md

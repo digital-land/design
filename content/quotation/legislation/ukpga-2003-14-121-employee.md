@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[employee][term:employee]” includes an office-holder and related expressions have a corresponding meaning;
-
-[term:employee]: term/employee.md

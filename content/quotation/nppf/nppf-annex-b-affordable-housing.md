@@ -20,8 +20,3 @@ Housing for sale or rent, for those whose needs are not met by the market (inclu
  d. **Other affordable routes to home ownership:** is housing provided for sale that provides a route to ownership for those who could not achieve home ownership through the market. It includes shared ownership, relevant equity loans, other low cost homes for sale (at a price equivalent to at least 20% below local market value) and rent to buy (which includes a period of intermediate rent). Where public grant funding is provided, there should be provisions for the homes to remain at an affordable price for future eligible households, or for any receipts to be recycled for alternative affordable housing provision, or refunded to government or the [relevant authority][term:relevant-authority] specified in the funding agreement.
 
  e. **Military affordable housing: meets all of the following conditions:** (a) the rent is sub-market military rent as determined by the Ministry of Defence; and (b) it includes provisions to remain as affordable housing for future eligible households, service personnel and veteran households (including widowed partners and spouses of service personnel), or for the subsidy to be recycled for alternative affordable housing provision.
-
-[term:affordable-housing]: term/affordable-housing.md
-[term:build-to-rent]: term/build-to-rent.md
-[term:essential-local-workers]: term/essential-local-workers.md
-[term:relevant-authority]: term/relevant-authority.md

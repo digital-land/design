@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[allotment][term:allotment]” means any allotment set out as a fuel allotment, or a field garden allotment, under an Inclosure Act;
-
-[term:allotment]: term/allotment.md

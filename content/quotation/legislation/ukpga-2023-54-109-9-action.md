@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[action][term:action]” includes acts and omissions;
-
-[term:action]: term/action.md

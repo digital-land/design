@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[company][term:company]” includes the Bank of England and any company or person keeping books in which any securities are registered or inscribed;
-
-[term:company]: term/company.md

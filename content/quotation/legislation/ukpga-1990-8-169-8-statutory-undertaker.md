@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In subsections (6) and (7) , (7), (7A) and (7B) “[statutory undertaker][term:statutory-undertaker]” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of Part 11.
-
-[term:statutory-undertaker]: term/statutory-undertaker.md

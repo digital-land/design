@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[enterprise][term:enterprise]” has the same meaning as in Part 3 of the 2002 Act; and
-
-[term:enterprise]: term/enterprise.md

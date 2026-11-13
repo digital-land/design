@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[local authority][term:local-authority]” means a local authority within the meaning of the 1933 Act, the London Government Act 1939 or this Act or a joint board on which, or a joint committee on which, a local authority or parish meeting are represented, a burial board, a joint burial board or the parish trustees of a parish;
-
-[term:local-authority]: term/local-authority.md

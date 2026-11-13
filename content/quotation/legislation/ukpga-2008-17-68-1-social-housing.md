@@ -15,5 +15,3 @@ In this Part “[social housing][term:social-housing]” means—
 - (a) low cost rental accommodation (defined by section 69), and
 
 - (b) low cost home ownership accommodation (defined by section 70).
-
-[term:social-housing]: term/social-housing.md

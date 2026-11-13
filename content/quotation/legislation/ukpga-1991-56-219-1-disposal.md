@@ -16,5 +16,3 @@ entry-date: 2026-11-12
 - in relation to sewage, includes treatment;
 
 and cognate expressions shall be construed accordingly;
-
-[term:disposal]: term/disposal.md

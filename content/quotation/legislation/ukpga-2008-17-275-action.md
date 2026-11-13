@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[action][term:action]” includes inaction, proposed action and decision,
-
-[term:action]: term/action.md

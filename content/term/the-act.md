@@ -10,5 +10,3 @@ entry-date: 2026-11-12
 ---
 
 “the Act” means the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5];
-
-[legislation:ukpga/2004/5]: legislation/ukpga-2004-5.md

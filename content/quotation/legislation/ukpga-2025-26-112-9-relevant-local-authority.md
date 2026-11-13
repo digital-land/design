@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - a local housing authority, or
 - a county council in England which is not a local housing authority;
-
-[term:relevant-local-authority]: term/relevant-local-authority.md

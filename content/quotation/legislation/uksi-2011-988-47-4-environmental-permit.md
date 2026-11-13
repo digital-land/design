@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[environmental permit][term:environmental-permit]” has the meaning given in regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
-
-[term:environmental-permit]: term/environmental-permit.md

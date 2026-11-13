@@ -18,5 +18,3 @@ The following Table gives the meaning of “**officer**” in relation to servic
 | Registered society | “Officer” within the meaning given by section 149 of the Co-operative and Community Benefit Societies Act 2014 (including a person co-opted to serve on the society’s committee) |
 | Registered company | “Officer” within the meaning given by section 1173 of the Companies Act 2006 |
 | Limited liability partnership | A member of the limited liability partnership. |
-
-[term:officer]: term/officer.md

@@ -10,6 +10,3 @@ entry-date: 2026-11-12
 ---
 
 The purpose of the [IAPI][abbreviation:iapi] is to assist the [Examining Authority][term:examining-authority] in identifying the matters most likely to require detailed examination.
-
-[abbreviation:iapi]: abbreviation/iapi.md
-[term:examining-authority]: term/examining-authority.md

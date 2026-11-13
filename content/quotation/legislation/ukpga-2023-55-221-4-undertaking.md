@@ -15,5 +15,3 @@ entry-date: 2026-11-12
 - a business,
 - a charity or similar endeavour, and
 - the exercise of functions of a public nature.
-
-[term:undertaking]: term/undertaking.md

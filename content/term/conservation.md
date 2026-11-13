@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 - the [natural environment][term:natural-environment] or natural resources of land,
 - places of archaeological, architectural, artistic, cultural or historic interest, or
 - the setting of land with a [natural environment][term:natural-environment] or natural resources or which is a place of archaeological, architectural, artistic, cultural or historic interest;
-
-[term:natural-environment]: term/natural-environment.md

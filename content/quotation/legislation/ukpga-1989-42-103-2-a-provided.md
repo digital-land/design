@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[provided][term:provided]” means provided by construction or conversion; and
-
-[term:provided]: term/provided.md

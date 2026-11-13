@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[development][term:development]” has the meaning given by section 32;
-
-[term:development]: term/development.md

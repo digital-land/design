@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[conditions][term:conditions]” includes limitations; and
-
-[term:conditions]: term/conditions.md

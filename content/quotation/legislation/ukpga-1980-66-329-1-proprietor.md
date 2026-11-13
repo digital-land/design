@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[proprietor][term:proprietor]”, in relation to a school, has the same meaning as in the Education Act 1996;
-
-[term:proprietor]: term/proprietor.md

@@ -21,5 +21,3 @@ In [subsection (2)](http://www.legislation.gov.uk/ukpga/2023/55/section/166/2)[(
 - (d) Northern Ireland legislation, or
 
 - (e) assimilated direct legislation.
-
-[term:legislation]: term/legislation.md

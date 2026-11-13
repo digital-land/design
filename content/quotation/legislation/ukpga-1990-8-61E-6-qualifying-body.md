@@ -11,8 +11,3 @@ entry-date: 2026-11-12
 ---
 
 A “**[qualifying body][term:qualifying-body]**” means a parish council, or an organisation or body designated as a [neighbourhood forum][term:neighbourhood-forum], authorised for the purposes of a [neighbourhood development order][term:neighbourhood-development-order] to act in relation to a [neighbourhood area][term:neighbourhood-area] as a result of section 61F.
-
-[term:neighbourhood-area]: term/neighbourhood-area.md
-[term:neighbourhood-development-order]: term/neighbourhood-development-order.md
-[term:neighbourhood-forum]: term/neighbourhood-forum.md
-[term:qualifying-body]: term/qualifying-body.md

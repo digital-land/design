@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[London borough][term:london-borough]” includes the City of London.
-
-[term:london-borough]: term/london-borough.md

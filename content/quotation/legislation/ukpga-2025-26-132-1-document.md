@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[document][term:document]” includes information recorded in any form;
-
-[term:document]: term/document.md

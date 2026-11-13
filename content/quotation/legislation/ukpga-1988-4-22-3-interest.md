@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[interest][term:interest]” means any estate, interest or right in or over land.
-
-[term:interest]: term/interest.md

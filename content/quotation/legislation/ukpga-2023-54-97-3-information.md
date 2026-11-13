@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section, “[information][term:information]” means information shared under, or for a purpose relating to, this Act.
-
-[term:information]: term/information.md

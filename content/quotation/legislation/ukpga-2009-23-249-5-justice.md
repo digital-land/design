@@ -17,5 +17,3 @@ In this Chapter “[justice][term:justice]” means—
 - (b) in relation to Northern Ireland, a lay magistrate;
 
 - (c) in relation to Scotland, a sheriff, stipendiary magistrate or justice of the peace.
-
-[term:justice]: term/justice.md

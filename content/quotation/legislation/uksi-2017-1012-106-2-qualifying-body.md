@@ -11,7 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this regulation, “[qualifying body][term:qualifying-body]” means a parish council, or an organisation or body designated as a [neighbourhood forum][term:neighbourhood-forum], authorised for the purposes of a neighbourhood development plan to act in relation to a [neighbourhood area][term:neighbourhood-area] as a result of section 61F of the TCPA 1990 (authorisation to act in relation to neighbourhood areas) , as applied by section 38C of the 2004 Planning Act (supplementary provisions) .
-
-[term:neighbourhood-area]: term/neighbourhood-area.md
-[term:neighbourhood-forum]: term/neighbourhood-forum.md
-[term:qualifying-body]: term/qualifying-body.md

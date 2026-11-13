@@ -7,5 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 A type of [planning application][term:planning-application]
-
-[term:planning-application]: term/planning-application.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[company][term:company]” means a company registered under the Companies Act 2006 in England and Wales or Scotland;
-
-[term:company]: term/company.md

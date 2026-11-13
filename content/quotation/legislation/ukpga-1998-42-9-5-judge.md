@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[judge][term:judge]” includes a member of a tribunal, a justice of the peace (or, in Northern Ireland, a lay magistrate) and a clerk or other officer entitled to exercise the jurisdiction of a court;
-
-[term:judge]: term/judge.md

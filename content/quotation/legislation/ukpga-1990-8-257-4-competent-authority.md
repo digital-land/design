@@ -17,8 +17,3 @@ In this section “[competent authority][term:competent-authority]” means—
 - (b) in the case of development carried out by a [government department][term:government-department], the [local planning authority][term:local-planning-authority] who would have had power to grant [planning permission][term:planning-permission] on an application in respect of the development in question if such an application had fallen to be made.
 
 - (c) in the case of development in respect of which an application for [planning permission][term:planning-permission] has been made under Part 3, the [local planning authority][term:local-planning-authority] to whom the application has been made or, in the case of an application made to the Secretary of State under section 62A or to the Welsh Ministers under section ... 62M or 62O, the local planning authority to whom the application would otherwise have been made.
-
-[term:competent-authority]: term/competent-authority.md
-[term:government-department]: term/government-department.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:planning-permission]: term/planning-permission.md

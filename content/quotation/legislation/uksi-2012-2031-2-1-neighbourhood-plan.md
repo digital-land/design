@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[neighbourhood plan][term:neighbourhood-plan]” means a neighbourhood development plan as defined in section 38A of the 2004 Act;
-
-[term:neighbourhood-plan]: term/neighbourhood-plan.md

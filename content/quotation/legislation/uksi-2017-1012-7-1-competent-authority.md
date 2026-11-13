@@ -19,8 +19,3 @@ For the purposes of these Regulations, “[competent authority][term:competent-a
 - (c) any person exercising any function of a person mentioned in sub-paragraph (a) or (b) ; and
 
 - (d) an [examining authority][term:examining-authority] appointed under section 40 of the Infrastructure (Wales) Act 2024.
-
-[term:competent-authority]: term/competent-authority.md
-[term:examining-authority]: term/examining-authority.md
-[term:government-department]: term/government-department.md
-[term:the-crown]: term/the-crown.md

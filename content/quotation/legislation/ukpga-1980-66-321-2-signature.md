@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this subsection “[signature][term:signature]” includes a facsimile of a signature by whatever process reproduced.
-
-[term:signature]: term/signature.md

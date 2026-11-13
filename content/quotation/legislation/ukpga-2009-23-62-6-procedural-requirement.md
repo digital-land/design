@@ -16,6 +16,3 @@ entry-date: 2026-11-12
 - in directions under section 55 or 57,
 
 which relates to the preparation, adoption or publication of a [relevant document][term:relevant-document];
-
-[term:procedural-requirement]: term/procedural-requirement.md
-[term:relevant-document]: term/relevant-document.md

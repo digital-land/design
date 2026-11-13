@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[the Act][term:the-act]” means the [Planning (Hazardous Substances) Act 1990][legislation:ukpga/1990/10];
-
-[legislation:ukpga/1990/10]: legislation/ukpga-1990-10.md
-[term:the-act]: term/the-act.md

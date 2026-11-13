@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Flood][term:flood]” includes any case where land not normally covered by water becomes covered by water.
-
-[term:flood]: term/flood.md

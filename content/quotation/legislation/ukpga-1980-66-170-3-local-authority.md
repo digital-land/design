@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[local authority][term:local-authority]” means any of the following, namely, the council of a county, district or [London borough][term:london-borough], . . . the Common Council and the Council of the Isles of Scilly; and
-
-[term:local-authority]: term/local-authority.md
-[term:london-borough]: term/london-borough.md

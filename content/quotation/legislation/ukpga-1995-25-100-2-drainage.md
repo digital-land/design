@@ -20,6 +20,3 @@ For the definition of “[drainage][term:drainage]” in section 72(1) of the [L
 > - the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse;
 
 .
-
-[legislation:ukpga/1991/59]: legislation/ukpga-1991-59.md
-[term:drainage]: term/drainage.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[constitution][term:constitution]” includes rules;
-
-[term:constitution]: term/constitution.md

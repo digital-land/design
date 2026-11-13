@@ -17,5 +17,3 @@ entry-date: 2026-11-12
 
  - an order granting [development consent][term:development-consent], or
  - an order to change or revoke such an order granting [development consent][term:development-consent].
-
-[term:development-consent]: term/development-consent.md

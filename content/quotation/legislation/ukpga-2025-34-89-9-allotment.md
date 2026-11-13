@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[allotment][term:allotment]” means a fuel or field garden allotment;
-
-[term:allotment]: term/allotment.md

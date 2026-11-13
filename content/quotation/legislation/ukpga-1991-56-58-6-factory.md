@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[factory][term:factory]” has the same meaning as in the Factories Act 1961; and
-
-[term:factory]: term/factory.md

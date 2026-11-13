@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[statutory undertaker][term:statutory-undertaker]” means—
-
-[term:statutory-undertaker]: term/statutory-undertaker.md

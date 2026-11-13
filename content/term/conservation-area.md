@@ -10,6 +10,3 @@ entry-date: 2026-11-12
 ---
 
 “conservation area” means an area designated under section 69 of the [Planning (Listed Buildings and Conservation Areas) Act 1990][legislation:ukpga/1990/9] or section 158 of the [Historic Environment][term:historic-environment] (Wales) Act 2023;
-
-[legislation:ukpga/1990/9]: legislation/ukpga-1990-9.md
-[term:historic-environment]: term/historic-environment.md

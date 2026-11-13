@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section, “[damage][term:damage]” includes financial loss and damage not involving financial loss, such as distress.
-
-[term:damage]: term/damage.md

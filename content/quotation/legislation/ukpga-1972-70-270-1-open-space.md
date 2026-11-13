@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[open space][term:open-space]” has the meaning assigned to it by section 336(1) of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8];
-
-[legislation:ukpga/1990/8]: legislation/ukpga-1990-8.md
-[term:open-space]: term/open-space.md

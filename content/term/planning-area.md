@@ -22,5 +22,3 @@ entry-date: 2026-11-12
 - the Broads,
 - the English inshore region, or
 - the English offshore region, and
-
-[term:london-borough]: term/london-borough.md

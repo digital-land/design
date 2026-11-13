@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section “[records][term:records]” includes registers, maps, plans and accounts, as well as computer records and other records kept otherwise than in documentary form.
-
-[term:records]: term/records.md

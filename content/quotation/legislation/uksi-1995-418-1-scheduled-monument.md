@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[scheduled monument][term:scheduled-monument]**” has the meaning given by section 3(7) of the [Historic Environment][term:historic-environment] (Wales) Act 2023;
-
-[term:historic-environment]: term/historic-environment.md
-[term:scheduled-monument]: term/scheduled-monument.md

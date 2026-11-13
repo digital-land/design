@@ -19,5 +19,3 @@ In this paragraph, “**[interested party][term:interested-party]**” means—
 - (c) any person who has made an objection in accordance with regulations under paragraph 3, or
 
 - (d) any person who has made representations in accordance with any other enactment.
-
-[term:interested-party]: term/interested-party.md

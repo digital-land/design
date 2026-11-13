@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[street][term:street]” has the same meaning as in Part III of the New Roads and Street Works Act 1991;
-
-[term:street]: term/street.md

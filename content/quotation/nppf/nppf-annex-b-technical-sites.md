@@ -10,5 +10,3 @@ entry-date: 2026-11-12
 ---
 
 Any area within which is sited or is proposed to be sited equipment for the provision of air traffic services, as specified in the Town and Country Planning (Safeguarded Aerodromes, [Technical Sites][term:technical-sites] and Military Explosives Storage Areas) Direction 2002.
-
-[term:technical-sites]: term/technical-sites.md

@@ -15,6 +15,3 @@ entry-date: 2026-11-12
 - a Minister of [the Crown][term:the-crown];
 - a member of the Welsh Government;
 - the First Minister, deputy First Minister or a Northern Ireland Minister;
-
-[term:minister]: term/minister.md
-[term:the-crown]: term/the-crown.md

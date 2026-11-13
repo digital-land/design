@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[enforcement notice][term:enforcement-notice]” means a notice under section 172;
-
-[term:enforcement-notice]: term/enforcement-notice.md

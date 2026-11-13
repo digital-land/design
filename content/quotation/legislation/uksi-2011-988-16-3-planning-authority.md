@@ -21,7 +21,3 @@ In this Part, “[planning authority][term:planning-authority]” means—
 - (d) a [government department][term:government-department] in respect of its functions under the planning Acts; or
 
 - (e) an appropriate authority in respect of its functions under the planning Acts.
-
-[term:government-department]: term/government-department.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:planning-authority]: term/planning-authority.md

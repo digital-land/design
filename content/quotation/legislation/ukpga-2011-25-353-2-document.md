@@ -15,5 +15,3 @@ In this Act, except in so far as the context otherwise requires, “[document][t
 - (a) any reference to its production is to be read as a reference to the provision of a copy of it in legible form, and
 
 - (b) any reference to the provision of a copy of, or extract from, it is accordingly to be read as a reference to the provision of a copy of, or extract from, it in legible form.
-
-[term:document]: term/document.md

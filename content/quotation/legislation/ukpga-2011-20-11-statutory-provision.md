@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[statutory provision][term:statutory-provision]**” means a provision of an Act or of an instrument made under an Act.
-
-[term:statutory-provision]: term/statutory-provision.md

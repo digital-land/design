@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[the Act][term:the-act]” means the [Planning Act 2008][legislation:ukpga/2008/29] ;
-
-[legislation:ukpga/2008/29]: legislation/ukpga-2008-29.md
-[term:the-act]: term/the-act.md

@@ -17,5 +17,3 @@ In this Part “[residential property][term:residential-property]” means—
 - (b) land that is or forms part of the garden or grounds of a building within paragraph (a) (including any building or structure on such land), or
 
 - (c) an interest in or right over land that subsists for the benefit of a building within paragraph (a) or of land within paragraph (b);
-
-[term:residential-property]: term/residential-property.md

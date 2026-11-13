@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[neighbourhood development order][term:neighbourhood-development-order]” means a [neighbourhood development order][term:neighbourhood-development-order] made pursuant to section 61E (Neighbourhood development orders) of [the Act][term:the-act];
-
-[term:neighbourhood-development-order]: term/neighbourhood-development-order.md
-[term:the-act]: term/the-act.md

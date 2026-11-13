@@ -11,7 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[habitats site][term:habitats-site]**” means a [European site][term:european-site] within the meaning of the [Conservation of Habitats and Species Regulations 2017][legislation:uksi/2017/1012] ([S.I. 2017/1012][legislation:uksi/2017/1012]) (see regulation 8);
-
-[legislation:uksi/2017/1012]: legislation/uksi-2017-1012.md
-[term:european-site]: term/european-site.md
-[term:habitats-site]: term/habitats-site.md

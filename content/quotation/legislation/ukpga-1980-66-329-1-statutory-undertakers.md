@@ -18,5 +18,3 @@ entry-date: 2026-11-12
 and “statutory undertaking” is to be construed accordingly;
 
 “**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015;
-
-[term:statutory-undertakers]: term/statutory-undertakers.md

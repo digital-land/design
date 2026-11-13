@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In sections 17 to 21 “[agreement][term:agreement]” means an agreement under section 14 or 15.
-
-[term:agreement]: term/agreement.md

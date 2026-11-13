@@ -7,5 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 [Development corporation][term:development-corporation] administrative boundaries
-
-[term:development-corporation]: term/development-corporation.md

@@ -16,5 +16,3 @@ entry-date: 2026-11-12
 - an application under section 191 or 192,
 
 but does not include an application made in legal proceedings;
-
-[term:planning-application]: term/planning-application.md

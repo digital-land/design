@@ -7,5 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 Documents associated with a [local plan][term:local-plan]
-
-[term:local-plan]: term/local-plan.md

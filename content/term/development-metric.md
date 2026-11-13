@@ -7,5 +7,3 @@ entry-date: '2026-11-12'
 ---
 
 The types of measurement used as a [development policy metric][term:development-policy-metric]
-
-[term:development-policy-metric]: term/development-policy-metric.md

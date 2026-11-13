@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this Act “Wales” means the combined area of the preserved counties and “[England][term:england]” does not include any area which is included in any of the preserved counties.
-
-[term:england]: term/england.md

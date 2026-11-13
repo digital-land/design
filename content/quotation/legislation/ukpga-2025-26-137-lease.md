@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[lease][term:lease]” includes any tenancy;
-
-[term:lease]: term/lease.md

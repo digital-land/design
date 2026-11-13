@@ -21,7 +21,3 @@ In these Regulations, “[competent authority][term:competent-authority]” mean
 - (d) any Northern Ireland department; and
 
 - (e) any person exercising any function of a person or body referred to in sub-paragraphs (a) to (d).
-
-[term:competent-authority]: term/competent-authority.md
-[term:government-department]: term/government-department.md
-[term:the-crown]: term/the-crown.md

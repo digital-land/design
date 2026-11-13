@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[planning permission][term:planning-permission]” means [planning permission][term:planning-permission] under Part 3 of that Act;
-
-[term:planning-permission]: term/planning-permission.md

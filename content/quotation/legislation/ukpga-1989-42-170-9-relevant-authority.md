@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[relevant authority][term:relevant-authority]” means a council constituted under section 2 of the Local Government .etc. (Scotland) Act 1994
-
-[term:relevant-authority]: term/relevant-authority.md

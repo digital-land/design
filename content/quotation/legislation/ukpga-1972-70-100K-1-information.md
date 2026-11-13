@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[information][term:information]” includes an expression of opinion, any recommendations and any decision taken;
-
-[term:information]: term/information.md

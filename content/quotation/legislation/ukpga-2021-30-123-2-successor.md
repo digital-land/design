@@ -15,6 +15,3 @@ In this section “[successor][term:successor]” (in relation to the landowner 
 - (a) the qualifying estate, or
 
 - (b) an estate in land derived (whether immediately or otherwise) from the qualifying estate after the creation of the covenant.
-
-[term:successor]: term/successor.md
-[term:the-land]: term/the-land.md

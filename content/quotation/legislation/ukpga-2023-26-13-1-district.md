@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[district][term:district]” has the same meaning as in the [Housing Act 1985][legislation:ukpga/1985/68] (see section 2 of that Act);
-
-[legislation:ukpga/1985/68]: legislation/ukpga-1985-68.md
-[term:district]: term/district.md

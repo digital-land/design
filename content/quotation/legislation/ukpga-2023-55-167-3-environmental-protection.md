@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[environmental protection][term:environmental-protection]” has the meaning given by [section 152](http://www.legislation.gov.uk/ukpga/2023/55/section/152)[(2)](http://www.legislation.gov.uk/ukpga/2023/55/section/152/2);
-
-[term:environmental-protection]: term/environmental-protection.md

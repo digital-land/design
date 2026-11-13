@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[premises][term:premises]” includes land and buildings;
-
-[term:premises]: term/premises.md

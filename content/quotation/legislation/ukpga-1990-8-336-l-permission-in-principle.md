@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[permission in principle][term:permission-in-principle]**” means permission of the kind referred to in section 58A;
-
-[term:permission-in-principle]: term/permission-in-principle.md

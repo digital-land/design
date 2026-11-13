@@ -15,5 +15,3 @@ entry-date: 2026-11-12
 - (a) a local authority to which subsection (3) applies; or
 
 - (b) any other person or body which has any non-devolved functions.
-
-[term:public-authority]: term/public-authority.md

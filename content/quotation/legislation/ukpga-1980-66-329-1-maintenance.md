@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[maintenance][term:maintenance]” includes repair, and “maintain” and “maintainable” are to be construed accordingly;
-
-[term:maintenance]: term/maintenance.md

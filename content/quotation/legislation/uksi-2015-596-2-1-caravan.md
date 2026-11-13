@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[caravan][term:caravan]” has the same meaning as for the purposes of Part 1 of the 1960 Act (caravan sites) ;
-
-[term:caravan]: term/caravan.md

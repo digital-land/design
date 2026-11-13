@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “development” has the meaning given in section 55, and “[develop][term:develop]” shall be construed accordingly;
-
-[term:develop]: term/develop.md

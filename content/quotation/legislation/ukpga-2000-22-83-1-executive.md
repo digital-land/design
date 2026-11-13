@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[executive][term:executive]” is to be construed in accordance with section 11,
-
-[term:executive]: term/executive.md

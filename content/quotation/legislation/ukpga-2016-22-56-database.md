@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[database][term:database]” means the database of rogue landlords and letting agents established under section 28;
-
-[term:database]: term/database.md

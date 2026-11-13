@@ -17,5 +17,3 @@ In this Part “**[spatial development strategy][term:spatial-development-strate
 - (b) a strategy approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b), or
 
 - (c) a strategy in preparation by a strategic planning authority in accordance with this Part.
-
-[term:spatial-development-strategy]: term/spatial-development-strategy.md

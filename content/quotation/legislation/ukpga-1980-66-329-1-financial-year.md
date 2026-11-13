@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[financial year][term:financial-year]” means a year ending on 31st March;
-
-[term:financial-year]: term/financial-year.md

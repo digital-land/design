@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - research allowing for the development of equipment, and
 - development of industrial processes allowing for the production of equipment;
-
-[term:development]: term/development.md

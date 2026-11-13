@@ -19,5 +19,3 @@ For the purposes of this section, “[services][term:services]” includes, in p
 - (c) section 25(2), (3)(a) , (3A), (4) or (5) (advice, assistance and training facilities);
 
 - (d) section 26 (information).
-
-[term:services]: term/services.md

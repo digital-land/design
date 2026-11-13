@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[common][term:common]” has the meaning given by section 19(4) of the Acquisition of Land Act 1981 (c. 67),
-
-[term:common]: term/common.md

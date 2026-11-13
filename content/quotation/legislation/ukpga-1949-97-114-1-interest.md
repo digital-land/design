@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[interest][term:interest]”, in relation to land, includes any estate in land and any right over land, whether the right is exercisable by virtue of the ownership of an interest in land or by virtue of a licence or agreement, and in particular includes sporting rights;
-
-[term:interest]: term/interest.md

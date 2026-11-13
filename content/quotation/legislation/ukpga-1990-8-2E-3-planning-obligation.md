@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section “[planning obligation][term:planning-obligation]” means a [planning obligation][term:planning-obligation] under section 106.
-
-[term:planning-obligation]: term/planning-obligation.md

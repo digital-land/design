@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[floor space][term:floor-space]” means the total [floor space][term:floor-space] in a building or buildings;
-
-[term:floor-space]: term/floor-space.md

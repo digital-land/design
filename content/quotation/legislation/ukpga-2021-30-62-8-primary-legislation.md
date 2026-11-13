@@ -16,5 +16,3 @@ entry-date: 2026-11-12
 - a Measure or Act of Senedd Cymru,
 - an Act of the Scottish Parliament, or
 - Northern Ireland legislation;
-
-[term:primary-legislation]: term/primary-legislation.md

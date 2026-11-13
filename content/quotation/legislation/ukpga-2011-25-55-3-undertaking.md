@@ -17,5 +17,3 @@ For the purposes of the references to a parent undertaking—
 - (b) in section 1162 of, and Schedule 7 to, the Companies Act 2006 as they apply for the purposes of subsection (2),
 
 “[undertaking][term:undertaking]” includes a charity which is not an undertaking as defined by section 1161(1) of that Act.
-
-[term:undertaking]: term/undertaking.md

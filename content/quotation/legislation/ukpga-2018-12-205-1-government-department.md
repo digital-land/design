@@ -16,6 +16,3 @@ entry-date: 2026-11-12
 - a Northern Ireland department;
 - the Welsh Government;
 - a body or authority exercising statutory functions on behalf of [the Crown][term:the-crown];
-
-[term:government-department]: term/government-department.md
-[term:the-crown]: term/the-crown.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[tenant][term:tenant]” includes prospective tenant.
-
-[term:tenant]: term/tenant.md

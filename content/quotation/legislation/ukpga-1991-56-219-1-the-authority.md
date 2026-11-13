@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[the Authority][term:the-authority]” means the Water Services Regulation Authority;
-
-[term:the-authority]: term/the-authority.md

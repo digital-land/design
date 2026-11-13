@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[dwelling][term:dwelling]” includes a dwelling-house and a flat;
-
-[term:dwelling]: term/dwelling.md

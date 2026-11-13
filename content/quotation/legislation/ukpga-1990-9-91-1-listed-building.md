@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[listed building][term:listed-building]” has the meaning given in section 1(5);
-
-[term:listed-building]: term/listed-building.md

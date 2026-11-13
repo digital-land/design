@@ -10,8 +10,3 @@ entry-date: 2026-11-12
 ---
 
 The [public authority][term:public-authority] whose duty it is to carry out specific planning functions for a particular area. All references to [local planning authority][term:local-planning-authority] include the district council, [London borough][term:london-borough] council, county council, Broads Authority, National Park Authority, the Mayor of London and a [development corporation][term:development-corporation], to the extent appropriate to their responsibilities.
-
-[term:development-corporation]: term/development-corporation.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:london-borough]: term/london-borough.md
-[term:public-authority]: term/public-authority.md

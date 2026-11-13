@@ -15,5 +15,3 @@ In this Part, “[competent authority][term:competent-authority]” means—
 - (a) a person specified or described in Schedule 7, and
 
 - (b) any other person if and to the extent that the person has statutory functions for any of the law enforcement purposes.
-
-[term:competent-authority]: term/competent-authority.md

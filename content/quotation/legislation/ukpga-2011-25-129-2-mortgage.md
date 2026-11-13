@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In sections 124 to 126 “[mortgage][term:mortgage]” includes a charge.
-
-[term:mortgage]: term/mortgage.md

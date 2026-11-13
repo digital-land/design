@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[committee][term:committee]”, in relation to a [relevant local planning authority][term:relevant-local-planning-authority], means a committee or sub-committee of that authority;
-
-[term:committee]: term/committee.md
-[term:relevant-local-planning-authority]: term/relevant-local-planning-authority.md

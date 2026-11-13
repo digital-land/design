@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[premises][term:premises]” includes buildings, land, easements and hereditaments of any tenure;
-
-[term:premises]: term/premises.md

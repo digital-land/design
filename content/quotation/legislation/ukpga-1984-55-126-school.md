@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[school][term:school]” includes a Sunday school or a Sabbath school;
-
-[term:school]: term/school.md

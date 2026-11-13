@@ -19,5 +19,3 @@ In this Part the “[natural environment][term:natural-environment]” means—
 - (c) land (except buildings or other structures), air and water,
 
 and the natural systems, cycles and processes through which they interact.
-
-[term:natural-environment]: term/natural-environment.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[improve][term:improve]”, in relation to housing and other land, includes refurbish, equip and fit out,
-
-[term:improve]: term/improve.md

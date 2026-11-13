@@ -15,5 +15,3 @@ In this section “[Minister][term:minister]” means—
 - (a) the Secretary of State, in relation to English authorities, and
 
 - (b) the Welsh Ministers, in relation to Welsh authorities.
-
-[term:minister]: term/minister.md

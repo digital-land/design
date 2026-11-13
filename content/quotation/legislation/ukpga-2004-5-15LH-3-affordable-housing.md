@@ -14,6 +14,3 @@ entry-date: 2026-11-12
 
 - social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008][legislation:ukpga/2008/17], and
 - any other description of housing that may be prescribed;
-
-[legislation:ukpga/2008/17]: legislation/ukpga-2008-17.md
-[term:affordable-housing]: term/affordable-housing.md

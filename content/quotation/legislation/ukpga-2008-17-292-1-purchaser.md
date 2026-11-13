@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - made an offer to purchase it, or
 - purchased it,
-
-[term:purchaser]: term/purchaser.md

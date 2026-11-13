@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[property][term:property]” includes property, rights and powers of every description.
-
-[term:property]: term/property.md

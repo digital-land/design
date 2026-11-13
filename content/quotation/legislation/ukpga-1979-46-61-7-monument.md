@@ -21,6 +21,3 @@ entry-date: 2026-11-12
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and any machinery attached to a monument shall be regarded as part of the monument if it could not be detached without being dismantled.
-
-[term:monument]: term/monument.md
-[term:the-land]: term/the-land.md

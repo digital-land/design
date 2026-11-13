@@ -47,5 +47,3 @@ In this Act “[nationally significant infrastructure project][term:nationally-s
 - (p) the construction or alteration of a hazardous waste facility ;
 
 - (q) development relating to a radioactive waste geological disposal facility.
-
-[term:nationally-significant-infrastructure-project]: term/nationally-significant-infrastructure-project.md

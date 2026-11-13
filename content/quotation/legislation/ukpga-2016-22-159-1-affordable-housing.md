@@ -15,6 +15,3 @@ In this section “**[affordable housing][term:affordable-housing]**” means ne
 - (a) are to be made available for people whose needs are not adequately served by the commercial housing market, or
 
 - (b) are starter homes within the meaning of Chapter 1 of Part 1 of the [Housing and Planning Act 2016][legislation:ukpga/2016/22] (see section 2 of that Act).
-
-[legislation:ukpga/2016/22]: legislation/ukpga-2016-22.md
-[term:affordable-housing]: term/affordable-housing.md

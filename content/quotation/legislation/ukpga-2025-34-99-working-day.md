@@ -15,5 +15,3 @@ entry-date: 2026-11-12
 - Saturday or Sunday,
 - Christmas Day or Good Friday, or
 - a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.
-
-[term:working-day]: term/working-day.md

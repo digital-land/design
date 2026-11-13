@@ -19,6 +19,3 @@ In this Part “[environmental protection][term:environmental-protection]” mea
 - (c) maintenance, restoration or enhancement of the [natural environment][term:natural-environment];
 
 - (d) monitoring, assessing, considering, advising or reporting on anything in paragraphs [(a)](http://www.legislation.gov.uk/ukpga/2021/30/section/45/a) to [(c)](http://www.legislation.gov.uk/ukpga/2021/30/section/45/c).
-
-[term:environmental-protection]: term/environmental-protection.md
-[term:natural-environment]: term/natural-environment.md

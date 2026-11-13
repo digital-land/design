@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this section, “**council**” means a county council, district council or [London borough][term:london-borough] council or the Common Council.
-
-[term:london-borough]: term/london-borough.md

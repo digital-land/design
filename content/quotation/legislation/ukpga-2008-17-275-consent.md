@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[consent][term:consent]” means written consent,
-
-[term:consent]: term/consent.md

@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Minister of the Crown][term:minister-of-the-crown]” has the same meaning as in the Ministers of [the Crown][term:the-crown] Act 1975 (c. 26);
-
-[term:minister-of-the-crown]: term/minister-of-the-crown.md
-[term:the-crown]: term/the-crown.md

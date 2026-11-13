@@ -9,5 +9,3 @@ entry-date: 2026-11-12
 ---
 
 There will be archaeological interest in a [heritage asset][term:heritage-asset] if it holds, or potentially holds, evidence of past human activity worthy of expert investigation at some point.
-
-[term:heritage-asset]: term/heritage-asset.md

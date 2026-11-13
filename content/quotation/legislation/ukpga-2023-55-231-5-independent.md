@@ -15,5 +15,3 @@ In [this section](http://www.legislation.gov.uk/ukpga/2023/55/section/231) “[i
 - (a) the Secretary of State, and
 
 - (b) the Royal Institution of Chartered Surveyors.
-
-[term:independent]: term/independent.md

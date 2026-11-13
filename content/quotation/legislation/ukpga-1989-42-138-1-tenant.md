@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[tenant][term:tenant]” includes a sub-tenant and any person deriving titleunder the original tenant or sub-tenant;
-
-[term:tenant]: term/tenant.md

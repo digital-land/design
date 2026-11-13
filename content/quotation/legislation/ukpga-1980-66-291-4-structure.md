@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[structure][term:structure]” includes a bridge, fence, barrier or post;
-
-[term:structure]: term/structure.md

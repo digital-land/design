@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[relevant document][term:relevant-document]” means a document or information for, or in respect of, which provision is made by EOR regulations or existing environmental assessment legislation;
-
-[term:relevant-document]: term/relevant-document.md

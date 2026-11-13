@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Consent][term:consent]” means any consent, approval, permission, authorisation, confirmation or decision (however described, given or made) that is required, or otherwise provided for, by or under any enactment in relation to a project.
-
-[term:consent]: term/consent.md

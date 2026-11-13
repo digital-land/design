@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[amend][term:amend]” includes repeal and apply (with or without modifications);
-
-[term:amend]: term/amend.md

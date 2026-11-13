@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[contract][term:contract]” includes any agreement and “conveyance” includes any instrument.
-
-[term:contract]: term/contract.md

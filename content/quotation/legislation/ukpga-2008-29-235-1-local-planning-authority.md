@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[local planning authority][term:local-planning-authority]” has the same meaning as in TCPA 1990 (see section 336(1) of that Act);
-
-[term:local-planning-authority]: term/local-planning-authority.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[scheduled monument][term:scheduled-monument]” has the meaning given by section 1(11) of this Act and references to “[scheduled monument][term:scheduled-monument] consent” shall be construed in accordance with section 2(3) ... and 3(5) of this Act;
-
-[term:scheduled-monument]: term/scheduled-monument.md

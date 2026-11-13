@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[existing][term:existing]”, in relation to any building or any plant or machinery or any use, means (except in the definition of “original”) existing immediately before the carrying out, in relation to that building, plant, machinery or use, of development described in this Order;
-
-[term:existing]: term/existing.md

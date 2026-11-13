@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[database][term:database]” means the database established under [section 75](http://www.legislation.gov.uk/ukpga/2025/26/section/75);
-
-[term:database]: term/database.md

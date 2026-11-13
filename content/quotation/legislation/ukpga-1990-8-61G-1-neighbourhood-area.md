@@ -15,6 +15,3 @@ A “**[neighbourhood area][term:neighbourhood-area]**” means an area within t
 - (a) a relevant body has applied to the authority for an area specified in the application to be designated by the authority as a [neighbourhood area][term:neighbourhood-area], and
 
 - (b) the authority are determining the application (but see subsection (5)).
-
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:neighbourhood-area]: term/neighbourhood-area.md

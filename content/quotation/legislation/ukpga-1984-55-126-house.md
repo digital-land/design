@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[house][term:house]” means a dwelling-house, whether a private dwelling-house or not;
-
-[term:house]: term/house.md

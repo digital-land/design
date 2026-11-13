@@ -17,6 +17,3 @@ entry-date: 2026-11-12
 - landscaping;
 - layout; and
 - scale;
-
-[term:outline-planning-permission]: term/outline-planning-permission.md
-[term:reserved-matters]: term/reserved-matters.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[the register][term:the-register]” means [the register][term:the-register] of European sites provided for by regulation 13 (register of European sites);
-
-[term:the-register]: term/the-register.md

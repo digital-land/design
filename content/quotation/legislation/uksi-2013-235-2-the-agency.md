@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[the Agency][term:the-agency]” means the National Treatment Agency established by article 2 of the National Treatment Agency (Establishment and Constitution) Order 2001 ; and
-
-[term:the-agency]: term/the-agency.md

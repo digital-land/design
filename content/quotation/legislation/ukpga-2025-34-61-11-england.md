@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - the waters adjacent to England up to the seaward limits of the territorial sea, and
 - the English offshore region;
-
-[term:england]: term/england.md

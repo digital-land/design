@@ -17,6 +17,3 @@ In this Act “[listed building][term:listed-building]” means a building which
 - (b) any object or structure within the curtilage of the building which, although not fixed to the building, forms part of [the land][term:the-land] and has done so since before lst July 1948,
 
 shall , subject to subsection (5A)(a), be treated as part of the building.
-
-[term:listed-building]: term/listed-building.md
-[term:the-land]: term/the-land.md

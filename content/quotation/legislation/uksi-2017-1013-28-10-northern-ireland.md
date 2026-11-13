@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Northern Ireland][term:northern-ireland]” has the same meaning as in the Northern Ireland Act 1998 .
-
-[term:northern-ireland]: term/northern-ireland.md

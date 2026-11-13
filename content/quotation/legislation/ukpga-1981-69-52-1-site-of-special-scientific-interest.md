@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[site of special scientific interest][term:site-of-special-scientific-interest]” means an area of land which has been notified under section 28(1)(b);
-
-[term:site-of-special-scientific-interest]: term/site-of-special-scientific-interest.md

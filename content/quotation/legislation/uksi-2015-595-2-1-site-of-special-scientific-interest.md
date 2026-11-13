@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[site of special scientific interest][term:site-of-special-scientific-interest]” has the same meaning as in Part 2 of the Countryside and Wildlife Act 1981 ;
-
-[term:site-of-special-scientific-interest]: term/site-of-special-scientific-interest.md

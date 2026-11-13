@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In this regulation and regulation 78, “[research][term:research]” includes inquiries and investigations.
-
-[term:research]: term/research.md

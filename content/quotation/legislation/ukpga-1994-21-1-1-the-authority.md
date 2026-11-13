@@ -21,5 +21,3 @@ There shall be a body corporate to be known as the Coal Authority (in this Act r
 - (d) facilitating the establishment and maintenance of arrangements for the information to which persons are to be entitled under this Act to be made available to them; and
 
 - (e) carrying out the other functions conferred on it by virtue of this Act.
-
-[term:the-authority]: term/the-authority.md

@@ -21,5 +21,3 @@ In this section, “[representative][term:representative]”, in relation to P, 
 - (d) a trustee (or interim trustee) in a sequestration of P's estate under the Bankruptcy (Scotland) Act 2016;
 
 - (e) any other person acting in a representative capacity in relation to P (including under section 69).
-
-[term:representative]: term/representative.md

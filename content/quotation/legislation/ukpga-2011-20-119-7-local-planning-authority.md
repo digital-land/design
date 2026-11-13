@@ -15,8 +15,3 @@ For the purposes of sections 117 and 118 and this section “[local planning aut
 - (a) a [neighbourhood development order][term:neighbourhood-development-order] under section 61E of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8], or
 
 - (b) a neighbourhood development plan under section 38A of the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5].
-
-[legislation:ukpga/1990/8]: legislation/ukpga-1990-8.md
-[legislation:ukpga/2004/5]: legislation/ukpga-2004-5.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:neighbourhood-development-order]: term/neighbourhood-development-order.md

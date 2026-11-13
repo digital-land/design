@@ -14,6 +14,3 @@ entry-date: 2026-11-12
 
 - a member of any committee or sub-committee of the authority, or
 - a person who is a member of, and represents the authority on, any joint committee or sub-committee,
-
-[term:member]: term/member.md
-[term:relevant-authority]: term/relevant-authority.md

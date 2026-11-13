@@ -15,7 +15,3 @@ In this section, “**[listed building][term:listed-building]**” means—
 - (a) a [listed building][term:listed-building] (within the meaning given by section 76 of the [Historic Environment][term:historic-environment] (Wales) Act 2023) situated in Wales, or
 
 - (b) a [listed building][term:listed-building] (within the meaning given by section 1 of the [Planning (Listed Buildings and Conservation Areas) Act 1990][legislation:ukpga/1990/9]) situated in England.
-
-[legislation:ukpga/1990/9]: legislation/ukpga-1990-9.md
-[term:historic-environment]: term/historic-environment.md
-[term:listed-building]: term/listed-building.md

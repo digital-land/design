@@ -16,8 +16,3 @@ Any person interested in land in the area of a [local planning authority][term:l
 - (b) requiring specified operations or activities to be carried out in, on, under or over [the land][term:the-land];
 - (c) requiring [the land][term:the-land] to be used in any specified way; or
 - (d) requiring a sum or sums to be paid to the authority (or, in a case where section 2E applies, to the Greater London Authority or, as the case may be, the mayoral [combined authority][term:combined-authority] or mayoral combined county authority) on a specified date or dates or periodically.
-
-[term:combined-authority]: term/combined-authority.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:planning-obligation]: term/planning-obligation.md
-[term:the-land]: term/the-land.md

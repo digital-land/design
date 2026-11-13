@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[legislation][term:legislation]” means any enactment, EU or subordinate legislation;
-
-[term:legislation]: term/legislation.md

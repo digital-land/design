@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[authorisation][term:authorisation]” means any licence, consent or other approval;
-
-[term:authorisation]: term/authorisation.md

@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[services][term:services]” includes facilities;
-
-[term:services]: term/services.md

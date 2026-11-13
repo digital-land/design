@@ -27,8 +27,3 @@ entry-date: 2026-11-12
  - (iii) the remuneration in respect of which is paid out of money provided by Parliament;
 
 - (e) a statutory undertaker.
-
-[term:government-department]: term/government-department.md
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:public-authority]: term/public-authority.md
-[term:the-crown]: term/the-crown.md

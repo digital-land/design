@@ -13,9 +13,3 @@ To be considered deliverable, sites for housing or other [pitches and plots][ter
  a. sites which do not involve major development and have [planning permission][term:planning-permission], and all sites with detailed [planning permission][term:planning-permission], should be considered deliverable until permission expires, unless there is clear evidence that homes will not be delivered within five years (for example because they are no longer viable, there is no longer a demand for the type of units or sites have long-term phasing plans).
 
  b. where a site has [outline planning permission][term:outline-planning-permission] for major development, has been allocated in a development plan, has a grant of [permission in principle][term:permission-in-principle], or is identified on a [brownfield land][term:brownfield-land] register, it should only be considered deliverable where there is clear evidence that homes will be delivered on-site within five years.
-
-[term:brownfield-land]: term/brownfield-land.md
-[term:outline-planning-permission]: term/outline-planning-permission.md
-[term:permission-in-principle]: term/permission-in-principle.md
-[term:pitches-and-plots]: term/pitches-and-plots.md
-[term:planning-permission]: term/planning-permission.md

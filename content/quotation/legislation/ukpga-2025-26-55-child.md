@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[child][term:child]” means a person under the age of 18;
-
-[term:child]: term/child.md

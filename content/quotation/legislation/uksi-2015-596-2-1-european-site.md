@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “**[European site][term:european-site]**” has the meaning given by [regulation 8](https://www.legislation.gov.uk/uksi/2017/1012/regulation/8) of the [Conservation of Habitats and Species Regulations 2017][legislation:uksi/2017/1012]
-
-[legislation:uksi/2017/1012]: legislation/uksi-2017-1012.md
-[term:european-site]: term/european-site.md

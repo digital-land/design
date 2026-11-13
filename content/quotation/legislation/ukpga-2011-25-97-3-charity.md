@@ -23,5 +23,3 @@ In this section “appropriate body” means—
  - (ii) is a charity as defined by paragraph 1 of Schedule 6 to the Finance Act 2010.
 
 and, in the application of the relevant provisions in relation to a scheme which contains provisions authorised by subsection (2), “[charity][term:charity]” includes an appropriate body.
-
-[term:charity]: term/charity.md

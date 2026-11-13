@@ -10,5 +10,3 @@ entry-date: 2026-11-12
 ---
 
 “site of special scientific interest” means an area notified under section 28(1) of the [Wildlife and Countryside Act 1981][legislation:ukpga/1981/69].
-
-[legislation:ukpga/1981/69]: legislation/ukpga-1981-69.md

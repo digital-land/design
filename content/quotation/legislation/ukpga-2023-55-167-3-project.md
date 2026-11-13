@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[project][term:project]” has the meaning given by [section 154](http://www.legislation.gov.uk/ukpga/2023/55/section/154)[(9)](http://www.legislation.gov.uk/ukpga/2023/55/section/154/9);
-
-[term:project]: term/project.md

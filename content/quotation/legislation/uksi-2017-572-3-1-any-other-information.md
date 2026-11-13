@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[any other information][term:any-other-information]” means any other substantive information provided by the applicant in relation to the [environmental statement][term:environmental-statement] or updated [environmental statement][term:environmental-statement];
-
-[term:any-other-information]: term/any-other-information.md
-[term:environmental-statement]: term/environmental-statement.md

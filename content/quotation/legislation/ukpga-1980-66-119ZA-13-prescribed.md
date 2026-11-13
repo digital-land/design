@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[prescribed][term:prescribed]” means prescribed by regulations;
-
-[term:prescribed]: term/prescribed.md

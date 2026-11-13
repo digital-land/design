@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 References in this Part to the “[purchaser][term:purchaser]” and “vendor”, in relation to a land transaction, are to the person acquiring and the person disposing of the subject-matter of the transaction.
-
-[term:purchaser]: term/purchaser.md

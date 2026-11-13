@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - in the case of a local fisheries committee that is a committee of a county, county borough or metropolitan district council, that council;
 - in the case of a local fisheries committee that is a joint committee of two or more such councils, any of those councils;
-
-[term:relevant-local-authority]: term/relevant-local-authority.md

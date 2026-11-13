@@ -11,6 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[data protection legislation][term:data-protection-legislation]” has the meaning given by section 3(9) of the [Data Protection Act 2018][legislation:ukpga/2018/12];
-
-[legislation:ukpga/2018/12]: legislation/ukpga-2018-12.md
-[term:data-protection-legislation]: term/data-protection-legislation.md

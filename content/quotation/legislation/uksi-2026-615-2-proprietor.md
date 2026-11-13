@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[proprietor][term:proprietor]” includes someone entitled to be registered as the proprietor;
-
-[term:proprietor]: term/proprietor.md

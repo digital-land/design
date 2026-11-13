@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[provided][term:provided]” includes submitted, issued, served, notified and published (and related expressions are to be construed accordingly);
-
-[term:provided]: term/provided.md

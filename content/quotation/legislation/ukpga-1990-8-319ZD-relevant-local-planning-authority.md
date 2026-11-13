@@ -15,6 +15,3 @@ entry-date: 2026-11-12
 - a county council or county borough council,
 - a joint planning board, or
 - a National Park authority.
-
-[term:local-planning-authority]: term/local-planning-authority.md
-[term:relevant-local-planning-authority]: term/relevant-local-planning-authority.md

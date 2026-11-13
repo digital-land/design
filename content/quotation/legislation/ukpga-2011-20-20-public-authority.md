@@ -11,7 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[public authority][term:public-authority]” includes a Minister of [the Crown][term:the-crown] or a [government department][term:government-department];
-
-[term:government-department]: term/government-department.md
-[term:public-authority]: term/public-authority.md
-[term:the-crown]: term/the-crown.md

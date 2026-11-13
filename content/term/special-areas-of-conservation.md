@@ -9,5 +9,3 @@ entry-date: 2026-11-12
 ---
 
 Designated areas which have been given special protection as important conservation sites (in England, these sites are designated under the [Conservation of Habitats and Species Regulations 2017][legislation:uksi/2017/1012]).
-
-[legislation:uksi/2017/1012]: legislation/uksi-2017-1012.md

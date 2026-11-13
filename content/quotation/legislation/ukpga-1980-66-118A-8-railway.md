@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[railway][term:railway]” includes tramway but does not include any part of a system where rails are laid along a carriageway.
-
-[term:railway]: term/railway.md

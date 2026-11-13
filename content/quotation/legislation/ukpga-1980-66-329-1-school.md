@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[school][term:school]” has the same meaning as in the Education Act 1996;
-
-[term:school]: term/school.md

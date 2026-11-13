@@ -17,5 +17,3 @@ entry-date: 2026-11-12
 - modifications to equipment;
 - installing equipment, including after its transport to a new location;
 - testing equipment;
-
-[term:maintenance]: term/maintenance.md

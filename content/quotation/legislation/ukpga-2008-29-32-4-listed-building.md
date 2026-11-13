@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[listed building][term:listed-building]” has the meaning given by section 1(5) of the Listed Buildings Act;
-
-[term:listed-building]: term/listed-building.md

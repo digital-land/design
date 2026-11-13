@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[works][term:works]” includes any building, structure, excavation or other work on land.
-
-[term:works]: term/works.md

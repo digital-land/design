@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 In subsection (1) “[business][term:business]” includes undertaking.
-
-[term:business]: term/business.md

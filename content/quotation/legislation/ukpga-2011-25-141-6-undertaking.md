@@ -15,5 +15,3 @@ For the purposes of this section and the operation for those purposes of section
 - (a) an undertaking as defined by section 1161(1) of the 2006 Act, or
 
 - (b) a charity which is not an undertaking as so defined.
-
-[term:undertaking]: term/undertaking.md

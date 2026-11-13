@@ -13,5 +13,3 @@ entry-date: 2026-11-12
 
 - Schedule 1 development; or
 - Schedule 2 development likely to have significant effects on the environment by virtue of factors such as its nature, size or location;
-
-[abbreviation:eia]: abbreviation/eia.md

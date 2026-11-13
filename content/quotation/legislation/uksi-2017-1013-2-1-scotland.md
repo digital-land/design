@@ -11,5 +11,3 @@ entry-date: 2026-11-12
 ---
 
 “[Scotland][term:scotland]” has the same meaning as in the Scotland Act 1998 ;
-
-[term:scotland]: term/scotland.md

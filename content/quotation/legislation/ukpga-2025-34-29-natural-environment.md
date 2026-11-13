@@ -15,5 +15,3 @@ entry-date: 2026-11-12
 - its plants, animals and other living organisms,
 - their habitats, and
 - its geological features;
-
-[term:natural-environment]: term/natural-environment.md

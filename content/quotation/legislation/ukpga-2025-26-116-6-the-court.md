@@ -14,5 +14,3 @@ entry-date: 2026-11-12
 
 - the High Court, or
 - the county court;
-
-[term:the-court]: term/the-court.md

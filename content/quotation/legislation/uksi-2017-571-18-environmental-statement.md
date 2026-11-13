@@ -23,5 +23,3 @@ An [environmental statement][term:environmental-statement] is a statement which 
 - (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
 
 - (f) any additional information specified in Schedule 4 relevant to the specific characteristics of the particular development or type of development and to the environmental features likely to be significantly affected.
-
-[term:environmental-statement]: term/environmental-statement.md

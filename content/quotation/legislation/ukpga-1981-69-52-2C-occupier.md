@@ -15,5 +15,3 @@ For the purposes of this Part, in relation to land in England and Wales which is
 - (a) “common land” means common land as defined in section 22 of the Commons Registration Act 1965; and
 
 - (b) “commoner” means a person with rights of common as defined in that section.
-
-[term:occupier]: term/occupier.md

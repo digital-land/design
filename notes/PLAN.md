@@ -6,12 +6,18 @@ Migrate the content in this repository into the model outlined in the [README](.
 This is content intended to be served at https://design.planning.data.gov.uk by https://github.com/digital-land/planning-data-design
 
 Every term, topic, dataset and field is named in the singular, with the plural recorded in its `plural` field.
-`make check` should fail on any `reference` that is not singular, unless listed in an exception file.
+`make check` should fail on any `reference` that is not singular, unless it is listed in `notes/singular-exceptions.txt`,
+which holds legitimate exceptions such as "archaeological remains" and "energy and renewable statistics".
 
 ## Building
 
 * `make check` checks the integrity of the content
-* `make review` creates `notes/dataset-review.md`, highlighting datasets in the dataset realm with names which don't substantially match a definition from legislation or guidance.
+* `make review` creates `notes/dataset-review.md`, which highlights:
+  * datasets in the dataset realm with names which don't substantially match a definition from legislation or guidance
+  * datasets which don't appear to be used: in the dataset realm, without a `collection` or `environment` value
+  * `draft` terms, including those generated for topics, for the Service Owner and legal to review
+  * terms with conflicting definitions
+  * datasets which could also relate to another topic (a dataset belongs to a single topic)
 
 ### content/term
 
@@ -79,6 +85,7 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 ### 2. Extract definitions from legislation
 
 1. Download `data.xml` for each instrument in `content/legislation` into `var/cache/legislation/`.
+   Retry the 6 which failed, and write a report of any which still need to be downloaded by hand.
 2. Extend `legislation2md.py` (or a new `bin/legislation-terms.py`) to emit one record per `<Term>` definition:
    term text, section reference, the defining paragraph as the quotation, the instrument, the in-force date.
 3. Also capture "means" / "includes" interpretation clauses that lack `<Term>` markup (e.g. section 336 of the 1990 Act).
@@ -110,12 +117,14 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 3. Add terms found by steps 2 to 4 that appear in at least two sources or in the specification.
 4. Merge synonyms and plurals; assign `abbreviation` records (NPPF, AWI, CIL, etc).
 5. Link terms to each other (`broader`, `narrower`, `see-also`), keeping the hierarchy small.
+6. Remove from a quotation's `terms` any term which was deliberately not created (`committee`, `proprietor`, `a`), and don't warn about them.
+7. `brownfield-land` is a special case (its capitalised `Deliverable`, `Hectares` and `Notes` fields); leave it until it is addressed separately.
 
 ### 6. Use terms to improve descriptions
 
 1. For each dataset and field in the specification, add a `term` reference and replace the free-text description
    with the adopted definition, quoted and cited.
-2. List `draft` terms and fields that have no sourced term; resolve or mark "no official definition, plain English chosen" per the design principles.
+2. List `draft` terms and fields that have no sourced term, for review by the Service Owner and legal; resolve or mark "no official definition, plain English chosen" per the design principles.
 3. Record conflicts between sources for review by policy colleagues.
 
 ### 7. Migrate considerations to topics
@@ -135,7 +144,7 @@ Considerations have a `stage`. Skip those marked `Archived` and drop the stage f
    | `datasets` | skipped; the topic is added to each listed `content/dataset` instead |
    | `legislation`, `specification` | `legislation` where the URL resolves to a record in `content/legislation`, otherwise a link in the body |
    | `synonyms` | `synonyms`; where a synonym is also a topic, link it rather than duplicate it |
-   | `tags` | `tags`, to map to `theme` later (`local plan`, `local land charge` and so on are not all themes) |
+   | `tags` | `tags`, left as informal tags for now (`local plan`, `local land charge` and so on are not all themes) |
    | `github_discussion_number` | `github-discussion` |
    | `created`, `updated` | `start-date`, `entry-date` |
    | `frequency_of_updates` | skipped for now; we'll revisit quality dimensions against user and needs |
@@ -143,7 +152,7 @@ Considerations have a `stage`. Skip those marked `Archived` and drop the stage f
 
 4. Body: remove the unanswered discovery questions (answered "N/A", "Unknown" or left blank) from each topic and keep the answers, as a stopgap until they are replaced with structured `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
 5. Link each topic to a `term` where one matches. The topic's definition comes from the term, not the other way round, so a topic with no term gets a `draft` term.
-6. Replace `consideration` with `topic` in `content/dataset` and `content/field`. A dataset whose consideration is archived gets no topic; list those for review.
+6. A dataset belongs to a single topic; `make review` flags where it could relate to others. Replace `consideration` with `topic` in `content/dataset` and `content/field`. A dataset whose consideration is archived gets no topic; list those for review.
 7. Extend `bin/check.py`: topic references are unique and singular, and `topic` links resolve.
 8. Update the README to remove the word "consideration" once migrated.
 9. Write a redirect for each of the 122 archived considerations, in the format used by the [redirects](https://github.com/digital-land/planning-data-design/tree/main/redirects) directory of planning-data-design, so old `/consideration/<slug>` URLs still resolve.
@@ -172,21 +181,5 @@ and look at the result on a term page before scaling up. Then 4 and 5, then 6 an
 
 ## Open questions
 
-- **Draft terms for topics:** 232 terms were generated from topic descriptions, many of which describe the data rather than define the term.
-  Who reviews them, and should they be listed in `make review` alongside the other `draft` terms?
-- **Topics and themes:** `tags` (`local plan`, `local land charge`, `building-control` and so on) are not all themes.
-  Which tags map to a `theme`, and should the rest be dropped?
 - **Datasets without a topic:** 9 datasets (`site`, `waste-plan`, `supplementary-plan` and others) belonged to archived considerations.
   Should they get a new topic, share an existing one, or stay without?
-- **Missing datasets:** topics named `central-activites-zone` (a typo), `development-plan-event` and `using-coal-mining-information`, which aren't in `content/dataset`.
-  Are these the datasets `central-activities-zone` and `development-plan-event`, or should they be dropped?
-- **Case-duplicate fields:** `brownfield-land` uses `Deliverable`, `Hectares` and `Notes`, which duplicate lower-case fields.
-  Should they be renamed in that dataset?
-- **Warnings on quotations:** 584 `make check` warnings come from quotations with a `terms` list naming terms which were deliberately not created (`committee`, `proprietor`, `a`, `b`).
-  Should those entries be removed from `terms`, or the warning silenced?
-- **Legislation:** XML could not be downloaded for 6 of 153 instruments.
-  Which should be fetched by hand, and are all 153 in scope?
-- **Singular names:** `make check` does not yet enforce singular references.
-  What should the exception file hold, for names such as "Archaeological remains" and "Energy and renewable statistics"?
-- **Topic coverage:** a topic such as "Development plan and timetable" has several datasets, and a dataset can sit in only one topic.
-  Should a dataset be able to have more than one topic?

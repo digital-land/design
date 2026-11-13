@@ -3,7 +3,6 @@ reference: flood-risk-zones-3b
 name: Flood risk zones 3b
 plural: Flood risk zones 3b
 description: Flood risk zone 3b, or the 'functional floodplain' is land where water has to flow or be stored in times of flooding, often to protect downstream communities from flooding.
-topic-stage: screen
 tags:
 - local plan
 github-discussion: 46

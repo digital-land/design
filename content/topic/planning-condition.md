@@ -4,17 +4,10 @@ name: Planning condition
 plural: Planning conditions
 term: planning-condition
 description: Conditions attached to the granting of planning permission to ensure that the development can take place where otherwise it would have been necessary to refuse planning permission
-topic-stage: co-design
-datasets:
-- planning-condition-purpose
-- planning-condition-target
-- planning-condition-type
-- planning-condition
 synonyms:
 - Conditional planning consent
 tags:
 - local land charge
-frequency-of-updates: Daily
 github-discussion: 40
 start-date: '2024-03-25'
 entry-date: '2024-10-25'

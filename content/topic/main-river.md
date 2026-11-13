@@ -3,13 +3,9 @@ reference: main-river
 name: Main river
 plural: Main rivers
 description: Designated larger rivers and streams
-topic-stage: co-design
-datasets:
-- main-river
 synonyms:
 - Watercourses
 - rivers
-frequency-of-updates: Every 6 months
 github-discussion: 70
 start-date: '2024-03-25'
 entry-date: '2024-09-05'

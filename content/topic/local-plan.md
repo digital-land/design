@@ -3,12 +3,6 @@ reference: local-plan
 name: Local plan
 plural: Local plans
 term: local-plan
-topic-stage: test-and-iterate
-datasets:
-- local-plan
-- local-plan-document
-- local-plan-boundary
-- local-plan-timetable
 synonyms:
 - Development plans
 - Local plans and timetables

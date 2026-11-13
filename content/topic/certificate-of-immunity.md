@@ -3,12 +3,8 @@ reference: certificate-of-immunity
 name: Certificate of immunity
 plural: Certificate of immunity
 description: A guarantee that a building or buildings will not be newly listed or given a building preservation notice for the next 5 years
-topic-stage: research
-datasets:
-- certificate-of-immunity
 legislation:
 - ukpga/1990/9
-frequency-of-updates: Fortnightly
 github-discussion: 93
 start-date: '2024-03-25'
 entry-date: '2025-01-29'

@@ -3,14 +3,10 @@ reference: local-nature-reserve
 name: Local nature reserve
 plural: Local nature reserves
 description: A protected area of land designated by a local authority because of its special natural interest or educational value
-topic-stage: on-the-platform
-datasets:
-- local-nature-reserve
 synonyms:
 - Protected sites
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 48
 start-date: '2024-03-25'
 entry-date: '2024-09-04'

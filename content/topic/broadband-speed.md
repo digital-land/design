@@ -3,7 +3,6 @@ reference: broadband-speed
 name: Broadband speed
 plural: Broadband speed
 description: Coverage of broadband availability
-topic-stage: backlog
 github-discussion: 123
 start-date: '2024-03-25'
 entry-date: '2025-01-28'

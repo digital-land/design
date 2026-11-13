@@ -4,15 +4,10 @@ name: Brownfield land
 plural: Brownfield land
 term: brownfield-land
 description: Previously developed land that's no longer being used
-topic-stage: on-the-platform
-datasets:
-- brownfield-land
-- brownfield-site
 legislation:
 - uksi/2017/403
 tags:
 - local plan
-frequency-of-updates: Annually
 github-discussion: 28
 start-date: '2024-03-25'
 entry-date: '2024-09-04'

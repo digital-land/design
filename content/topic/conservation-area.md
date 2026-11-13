@@ -4,18 +4,12 @@ name: Conservation area
 plural: Conservation areas
 term: conservation-area
 description: An area of special architectural or historic interest with a character or appearance that must be preserved or enhanced
-topic-stage: on-the-platform
-datasets:
-- conservation-area
-- conservation-area-document
-- conservation-area-document-type
 legislation:
 - ukpga/1990/9
 tags:
 - local land charge
 - local plan
 - odp
-frequency-of-updates: Ad hoc
 github-discussion: 33
 start-date: '2024-03-25'
 entry-date: '2024-09-04'

@@ -3,7 +3,6 @@ reference: local-geological-site
 name: Local geological site
 plural: Local geological site
 description: Non-statutory geological sites which are given protection through the planning process, designated by local authorities.
-topic-stage: backlog
 tags:
 - local plan
 start-date: '2024-03-25'

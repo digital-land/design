@@ -3,10 +3,8 @@ reference: tennis-court
 name: Tennis court
 plural: Tennis courts
 description: Courts or areas with a net across the middle used for playing tennis
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

@@ -3,12 +3,8 @@ reference: local-area-requirements
 name: Local area requirements
 plural: Local area requirements
 description: Requirements (sometimes known as validation checklists) that set out supporting information which applicants need to include with a planning application
-topic-stage: test-and-iterate
-datasets:
-- local-area-requirements
 synonyms:
 - Local validation checklist
-frequency-of-updates: Annually
 github-discussion: 52
 start-date: '2024-03-25'
 entry-date: '2024-07-12'

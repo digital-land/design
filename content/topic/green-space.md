@@ -3,7 +3,6 @@ reference: green-space
 name: Green space
 plural: Green space
 description: Places that are intentionally not developed
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 64

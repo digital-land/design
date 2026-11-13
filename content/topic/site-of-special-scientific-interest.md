@@ -4,15 +4,11 @@ name: Site of special scientific interest
 plural: Sites of special scientific interest
 term: site-of-special-scientific-interest
 description: A protected area that’s of particular interest to science due to rare species of fauna or flora or important geological or physiological features
-topic-stage: research
-datasets:
-- site-of-special-scientific-interest
 synonyms:
 - Protected sites
 - SSSIs
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 96
 start-date: '2024-03-25'
 entry-date: '2025-01-27'

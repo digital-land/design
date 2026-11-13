@@ -4,13 +4,8 @@ name: Ancient woodland
 plural: Ancient woodlands
 term: ancient-woodland
 description: Areas that have been wooded continuously since at least 1600 AD
-topic-stage: on-the-platform
-datasets:
-- ancient-woodland
-- ancient-woodland-status
 tags:
 - local plan
-frequency-of-updates: Monthly
 github-discussion: 32
 start-date: '2024-03-25'
 entry-date: '2025-03-19'

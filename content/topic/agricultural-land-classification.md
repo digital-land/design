@@ -4,12 +4,8 @@ name: Agricultural land classification
 plural: Agricultural land classification
 term: agricultural-land-classification
 description: A system that grades the quality of land for agricultural use
-topic-stage: on-the-platform
-datasets:
-- agricultural-land-classification
 tags:
 - local plan
-frequency-of-updates: Unknown
 github-discussion: 67
 start-date: '2024-03-25'
 entry-date: '2024-12-02'

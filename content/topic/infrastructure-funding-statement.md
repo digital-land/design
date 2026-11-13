@@ -3,16 +3,12 @@ reference: infrastructure-funding-statement
 name: Infrastructure funding statement
 plural: Infrastructure funding statements
 description: A summary of financial contributions councils have secured through section 106 agreements from new developments
-topic-stage: on-the-platform
-datasets:
-- infrastructure-funding-statement
 legislation:
 - uksi/2010/948
 synonyms:
 - IFS
 tags:
 - local plan
-frequency-of-updates: Annually
 github-discussion: 53
 start-date: '2024-03-25'
 entry-date: '2025-03-21'

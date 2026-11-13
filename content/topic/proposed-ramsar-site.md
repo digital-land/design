@@ -3,9 +3,6 @@ reference: proposed-ramsar-site
 name: Proposed ramsar site
 plural: Proposed ramsar sites
 description: Proposed boundaries of wetlands of international importance
-topic-stage: backlog
-datasets:
-- proposed-ramsar-site
 synonyms:
 - Protected sites
 tags:

@@ -4,9 +4,6 @@ name: Asset of community value
 plural: Assets of community value
 term: asset-of-community-value
 description: Buildings or pieces of land that are used for the social wellbeing and interests of the local community
-topic-stage: co-design
-datasets:
-- asset-of-community-value
 legislation:
 - uksi/2012/2421
 synonyms:

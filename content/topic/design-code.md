@@ -4,22 +4,12 @@ name: Design code
 plural: Design codes
 term: design-code
 description: A Design Code is a set of design requirements providing specific parameters for the physical development of a site or area. They set expectations of design quality for any upcoming development.
-topic-stage: test-and-iterate
-datasets:
-- design-code-area-type
-- design-code-area
-- design-code-characteristic
-- design-code-rule-category
-- design-code-rule
-- design-code-status
-- design-code
 legislation:
 - ukpga/2023/55
 synonyms:
 - Design Guides
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 27
 start-date: '2024-03-25'
 entry-date: '2024-08-30'

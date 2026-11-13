@@ -2,7 +2,6 @@
 reference: critical-drainage-area
 name: Critical drainage area
 plural: Critical drainage areas
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 143

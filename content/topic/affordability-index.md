@@ -2,7 +2,6 @@
 reference: affordability-index
 name: Affordability index
 plural: Affordability index
-topic-stage: backlog
 tags:
 - building-control
 start-date: '2025-02-25'

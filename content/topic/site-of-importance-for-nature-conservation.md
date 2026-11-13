@@ -3,7 +3,6 @@ reference: site-of-importance-for-nature-conservation
 name: Site of importance for nature conservation
 plural: Sites of importance for nature conservation
 description: Defined areas identified and selected for their nature conservation value
-topic-stage: backlog
 synonyms:
 - SINCs
 tags:

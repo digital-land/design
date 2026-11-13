@@ -3,8 +3,6 @@ reference: coal-authority-managed-tip
 name: Coal authority managed tip
 plural: Coal authority managed tips
 description: Disused colliery tip sites owned and managed by the Coal Authority
-topic-stage: research
-frequency-of-updates: Unknown
 github-discussion: 87
 start-date: '2024-03-25'
 entry-date: '2024-11-11'

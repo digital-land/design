@@ -3,7 +3,6 @@ reference: priority-habitat
 name: Priority habitat
 plural: Priority habitats
 description: The UK Biodiversity Action Plan (UK BAP) refers to a number of priority habitats, including terrestrial, freshwater and marine habitats. Each priority habitat has a corresponding Habitat Action Plan (HAP)
-topic-stage: backlog
 tags:
 - local plan
 start-date: '2024-03-25'

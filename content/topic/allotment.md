@@ -4,10 +4,8 @@ name: Allotment
 plural: Allotments
 term: allotment
 description: Land used by communities for growing vegetables, fruit, herbs or flowers which is not for profit
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

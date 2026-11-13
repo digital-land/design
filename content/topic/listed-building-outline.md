@@ -4,17 +4,11 @@ name: Listed building outline
 plural: Listed building outlines
 term: listed-building-outline
 description: The boundary of the area relating to a listed building which is protected because it has special architectural or historic interest
-topic-stage: on-the-platform
-datasets:
-- listed-building-grade
-- listed-building-outline
-- listed-building
 legislation:
 - ukpga/1990/9
 tags:
 - local land charge
 - local plan
-frequency-of-updates: Fortnightly
 github-discussion: 44
 start-date: '2024-03-25'
 entry-date: '2025-03-24'

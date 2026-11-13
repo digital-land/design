@@ -73,7 +73,6 @@ The following datasets are managed in this repository:
 * [content/govuk](content/govuk) — GOV.UK page relevant to planning data, snapshotted as markdown, referenced by `govuk:<path>` CURIEs
 * [content/source](content/source) — a source of information
 * [content/topic](content/topic) — topic of data (previously called a "consideration") which can be collective nouns (plural) covering a number of related classes / datasets
-* [content/topic-stage](content/topic-stage) — how far a topic has progressed in discovery, from `backlog` to `on-the-platform`
 * [content/theme](content/theme) — topic category (a "domain")
 * [content/user](content/user) — category of user of planning data "as a `user`"
 * [content/need](content/need) — "I need to consider `topic` when I `action`" 

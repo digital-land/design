@@ -4,10 +4,8 @@ name: Housing delivery test
 plural: Housing delivery test
 term: housing-delivery-test
 description: Data centrally compiled by MHCLG to assess whether LPAs are meeting their housing targets and needs
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Annually
 github-discussion: 91
 start-date: '2024-08-14'
 entry-date: '2024-08-30'

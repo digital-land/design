@@ -4,7 +4,6 @@ name: Unitary authority
 plural: Unitary authority
 term: unitary-authority
 description: Where county and district councils in ‘two-tier’ areas are replaced with a single tier of ‘unitary’ authorities responsible for all functions of county and district councils
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 269

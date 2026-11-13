@@ -4,8 +4,6 @@ name: Uprn
 plural: Uprn
 term: uprn
 description: Unique Property Reference Number (UPRN) is the unique identifier for every addressable location in the UK
-topic-stage: co-design
-frequency-of-updates: Every 6 weeks
 github-discussion: 72
 start-date: '2024-03-25'
 entry-date: '2024-09-05'

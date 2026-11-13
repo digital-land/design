@@ -6,7 +6,6 @@ description: A topic of data, previously called a consideration, which may cover
 attribution: crown-copyright
 entry-date: '2026-11-13'
 fields:
-- field: datasets
 - field: description
 - field: end-date
 - field: entry-date
@@ -15,11 +14,9 @@ fields:
 - field: start-date
 - field: theme
 - field: term
-- field: topic-stage
 - field: synonyms
 - field: legislation
 - field: github-discussion
-- field: frequency-of-updates
 - field: tags
 - field: topic
 key-field: topic

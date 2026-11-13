@@ -4,12 +4,8 @@ name: Flood storage area
 plural: Flood storage areas
 term: flood-storage-area
 description: Areas that act as a balancing reservoir, storage basin or balancing pond for flood control
-topic-stage: test-and-iterate
-datasets:
-- flood-storage-area
 synonyms:
 - flood storage area
-frequency-of-updates: Quarterly
 github-discussion: 68
 start-date: '2024-03-25'
 entry-date: '2024-08-21'

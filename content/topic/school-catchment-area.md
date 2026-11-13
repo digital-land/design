@@ -3,7 +3,6 @@ reference: school-catchment-area
 name: School catchment area
 plural: School catchment areas
 description: Geographical area surrounding a school from which it will usually take most of its pupils
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 248

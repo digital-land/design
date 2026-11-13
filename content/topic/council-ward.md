@@ -3,15 +3,11 @@ reference: council-ward
 name: Council ward
 plural: Council wards
 description: Local areas that have been divided for voting purposes
-topic-stage: test-and-iterate
-datasets:
-- ward
 synonyms:
 - Wards
 - Electoral wards
 tags:
 - local plan
-frequency-of-updates: Quarterly
 github-discussion: 74
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

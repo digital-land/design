@@ -4,16 +4,10 @@ name: Article 4 direction
 plural: Article 4 Directions
 term: article-4-direction
 description: An Article 4 direction is made by the local planning authority to remove all or some of the permitted development rights on a site in order to protect it
-topic-stage: on-the-platform
-datasets:
-- article-4-direction-area
-- article-4-direction-rule
-- article-4-direction
 legislation:
 - uksi/2015/596
 tags:
 - odp
-frequency-of-updates: Ad hoc
 github-discussion: 30
 start-date: '2024-03-25'
 entry-date: '2024-07-30'

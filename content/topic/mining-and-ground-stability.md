@@ -3,7 +3,6 @@ reference: mining-and-ground-stability
 name: Mining and ground stability
 plural: Mining and ground stability
 description: Potential ground stability hazards from mining activities
-topic-stage: screen
 start-date: '2024-03-25'
 entry-date: '2024-07-10'
 ---

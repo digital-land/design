@@ -4,7 +4,6 @@ name: Biodiversity net gain
 plural: Biodiversity net gain
 term: biodiversity-net-gain
 description: Biodiversity net gain (BNG) is a strategy to develop land and contribute to the recovery of nature. It's a way of making sure the habitat for wildlife is in a better state than it was before development
-topic-stage: backlog
 legislation:
 - ukpga/2021/30
 tags:

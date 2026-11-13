@@ -4,7 +4,6 @@ name: Local development order
 plural: Local development order
 term: local-development-order
 description: Local development orders (LDOs) provide permitted development rights for specified types of development in defined locations.
-topic-stage: research
 legislation:
 - ukpga/2004/5
 tags:

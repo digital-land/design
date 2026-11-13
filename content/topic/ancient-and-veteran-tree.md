@@ -3,7 +3,6 @@ reference: ancient-and-veteran-tree
 name: Ancient and veteran tree
 plural: Ancient and veteran trees
 description: A tree that is of interest biologically, culturally or aesthetically because of its age, size or condition
-topic-stage: backlog
 synonyms:
 - Veteran trees
 tags:

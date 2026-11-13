@@ -3,7 +3,6 @@ reference: secondary-healthcare
 name: Secondary healthcare
 plural: Secondary healthcare
 description: Secondary healthcare includes facilities where patients have been referred, such as hospitals, mental health services, community health facilities and sexual health services
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 250

@@ -3,7 +3,6 @@ reference: gas-pipeline
 name: Gas pipeline
 plural: Gas pipeline
 description: Gas pipelines are wide-diameter, long-distance pipelines that transport natural gas from the producing and processing areas to storage facilities and distribution centres
-topic-stage: backlog
 tags:
 - local land charge
 github-discussion: 166

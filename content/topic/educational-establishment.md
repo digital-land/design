@@ -3,15 +3,11 @@ reference: educational-establishment
 name: Educational establishment
 plural: Educational establishment
 description: Educational establishments in the UK including nurseries, primary and secondary schools
-topic-stage: test-and-iterate
-datasets:
-- educational-establishment
 synonyms:
 - Primary schools
 - Secondary schools
 tags:
 - local plan
-frequency-of-updates: Weekly
 github-discussion: 78
 start-date: '2024-07-02'
 entry-date: '2024-09-26'

@@ -3,10 +3,8 @@ reference: central-activities-zone
 name: Central activities zone
 plural: Central activities zone
 description: Central areas of London with implications for planning designated by the Greater London Authority (GLA)
-topic-stage: on-the-platform
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 start-date: '2024-03-25'
 entry-date: '2025-03-19'
 ---

@@ -3,7 +3,6 @@ reference: completion-notice
 name: Completion notice
 plural: Completion notices
 description: Documents that set a date when work on a new building or conversion should be complete
-topic-stage: backlog
 github-discussion: 135
 start-date: '2024-03-25'
 entry-date: '2025-01-28'

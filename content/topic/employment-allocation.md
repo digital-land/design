@@ -3,9 +3,6 @@ reference: employment-allocation
 name: Employment allocation
 plural: Employment allocations
 description: Sites that have been identified for employment use
-topic-stage: backlog
-datasets:
-- employment-allocation
 tags:
 - local plan
 github-discussion: 153

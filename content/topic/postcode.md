@@ -4,7 +4,6 @@ name: Postcode
 plural: Postcodes
 term: postcode
 description: A series of letters and numbers designated to an address for sorting mail
-topic-stage: co-design
 github-discussion: 71
 start-date: '2024-03-25'
 entry-date: '2024-11-28'

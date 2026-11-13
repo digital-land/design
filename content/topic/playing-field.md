@@ -4,10 +4,8 @@ name: Playing field
 plural: Playing fields
 term: playing-field
 description: Land in the open air provided for physical education or recreation
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

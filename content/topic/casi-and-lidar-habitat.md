@@ -3,12 +3,10 @@ reference: casi-and-lidar-habitat
 name: Casi and lidar habitat
 plural: Casi and lidar habitat
 description: A habitat map derived from airborne data, specifically CASI and LIDAR data. The habitat map is a polygon shapefile showing site relevant habitat classes, for sites where data is available.
-topic-stage: co-design
 synonyms:
 - LiDAR habitat
 tags:
 - defra - national
-frequency-of-updates: Annually
 github-discussion: 76
 start-date: '2024-03-25'
 entry-date: '2024-09-03'

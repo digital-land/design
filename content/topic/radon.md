@@ -3,7 +3,6 @@ reference: radon
 name: Radon
 plural: Radon
 description: A naturally occurring radioactive gas which may be found in high concentrations in indoor environments
-topic-stage: co-design
 tags:
 - local plan
 github-discussion: 75

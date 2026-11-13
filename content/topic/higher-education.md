@@ -3,7 +3,6 @@ reference: higher-education
 name: Higher education
 plural: Higher education
 description: Both undergraduate and postgraduate courses, typically attended in higher education institutions, such as Universities.
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 180

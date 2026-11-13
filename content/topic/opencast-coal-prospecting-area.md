@@ -3,7 +3,6 @@ reference: opencast-coal-prospecting-area
 name: Opencast coal prospecting area
 plural: Opencast coal prospecting areas
 description: Areas of opencast coal prospecting sites.
-topic-stage: backlog
 tags:
 - local land charge
 github-discussion: 223

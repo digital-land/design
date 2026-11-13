@@ -3,7 +3,6 @@ reference: green-corridor
 name: Green corridor
 plural: Green corridors
 description: Areas that create habitat connections and active travel routes through encouraging exercise and healthy living while linking fragmented sites of biodiversity
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 171

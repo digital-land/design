@@ -4,14 +4,8 @@ name: Flood risk zone
 plural: Flood risk zones
 term: flood-risk-zone
 description: Areas at risk from flooding from rivers or the sea
-topic-stage: on-the-platform
-datasets:
-- flood-risk-level
-- flood-risk-type
-- flood-risk-zone
 tags:
 - local plan
-frequency-of-updates: Quarterly
 github-discussion: 46
 start-date: '2024-03-25'
 entry-date: '2024-09-04'

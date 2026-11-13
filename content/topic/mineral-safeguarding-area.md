@@ -4,9 +4,6 @@ name: Mineral safeguarding area
 plural: Mineral safeguarding areas
 term: mineral-safeguarding-area
 description: Areas where known deposits of minerals are safeguarded
-topic-stage: backlog
-datasets:
-- mineral-safeguarding-area
 tags:
 - local plan
 github-discussion: 211

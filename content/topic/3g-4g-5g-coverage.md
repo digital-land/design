@@ -3,7 +3,6 @@ reference: 3g-4g-5g-coverage
 name: 3g/ 4g/ 5g coverage
 plural: 3g/ 4g/ 5g coverage
 description: Coverage of mobile phone networks
-topic-stage: backlog
 tags:
 - nist
 github-discussion: 104

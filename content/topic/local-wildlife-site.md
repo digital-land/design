@@ -3,7 +3,6 @@ reference: local-wildlife-site
 name: Local wildlife site
 plural: Local wildlife sites
 description: Areas of land that are especially important for their local wildlife
-topic-stage: backlog
 synonyms:
 - Protected sites
 tags:

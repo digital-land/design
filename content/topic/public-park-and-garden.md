@@ -3,10 +3,8 @@ reference: public-park-and-garden
 name: Public park and garden
 plural: Public parks and gardens
 description: Accessible, high quality opportunities for informal recreation and community events, including urban parks, country parks, regional parks, forest parks, and formal gardens
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-06-18'
 entry-date: '2024-09-26'

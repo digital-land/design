@@ -3,10 +3,6 @@ reference: nature-improvement-area
 name: Nature improvement area
 plural: Nature improvement areas
 description: Areas of the country where partnerships have been set up to enhance the natural environment
-topic-stage: co-design
-datasets:
-- nature-improvement-area
-frequency-of-updates: Ad hoc
 github-discussion: 85
 start-date: '2024-03-25'
 entry-date: '2024-09-03'

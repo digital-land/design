@@ -4,9 +4,6 @@ name: Air quality management area
 plural: Air quality management areas
 term: air-quality-management-area
 description: Areas where air pollution levels have exceeded the national air quality objectives
-topic-stage: test-and-iterate
-datasets:
-- air-quality-management-area
 legislation:
 - ukpga/1995/25
 synonyms:
@@ -14,7 +11,6 @@ synonyms:
 - AQMA
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 55
 start-date: '2024-03-25'
 entry-date: '2025-02-05'

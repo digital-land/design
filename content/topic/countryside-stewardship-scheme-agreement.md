@@ -3,7 +3,6 @@ reference: countryside-stewardship-scheme-agreement
 name: Countryside stewardship scheme agreement
 plural: Countryside stewardship scheme agreements
 description: Previous agreements that provided financial incentives for farmers, foresters and land managers to look after and improve their environments
-topic-stage: backlog
 github-discussion: 141
 start-date: '2024-03-25'
 entry-date: '2025-01-28'

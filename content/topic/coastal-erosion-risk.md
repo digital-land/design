@@ -2,7 +2,6 @@
 reference: coastal-erosion-risk
 name: Coastal erosion risk
 plural: Coastal erosion risk
-topic-stage: backlog
 tags:
 - environment
 - existing-data

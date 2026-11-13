@@ -3,7 +3,6 @@ reference: area-of-archaeological-importance
 name: Area of archaeological importance
 plural: Area of archaeological importance
 description: Areas designated to protect archaeological remains from being damaged or destroyed
-topic-stage: backlog
 legislation:
 - ukpga/1979/46
 tags:

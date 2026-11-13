@@ -4,9 +4,6 @@ name: Best and most versatile agricultural land
 plural: Best and most versatile agricultural land
 term: best-and-most-versatile-agricultural-land
 description: Land considered the most capable of growing crops for food and non-food uses
-topic-stage: backlog
-datasets:
-- best-and-most-versatile-agricultural-land
 legislation:
 - uksi/2015/595
 tags:

@@ -2,7 +2,6 @@
 reference: local-flood-data
 name: Local flood data
 plural: Local flood data
-topic-stage: screen
 tags:
 - local plan
 github-discussion: 58

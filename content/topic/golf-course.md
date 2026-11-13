@@ -3,10 +3,8 @@ reference: golf-course
 name: Golf course
 plural: Golf courses
 description: Large areas of grass specially designed for people to play golf on
-topic-stage: co-design
 tags:
 - local plan
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

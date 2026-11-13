@@ -3,7 +3,7 @@
 
 usage: consideration2topic.py <path to planning-data-design/content/consideration>
 
-Archived considerations are skipped. Writes content/topic, content/topic-stage,
+Archived considerations are skipped. Writes content/topic,
 notes/topic-review.md, and replaces `consideration` with `topic` in content/dataset.
 """
 
@@ -17,7 +17,18 @@ import yaml
 CONTENT = Path("content")
 PREPOSITIONS = {"of", "in", "for", "to", "with", "on", "from", "by", "at"}
 # words which look plural but aren't, or whose singular is irregular
-KEEP = {"bgs", "gas", "news", "species", "status", "business", "access", "waterways", "lidar", "remains"}
+KEEP = {
+    "bgs",
+    "gas",
+    "news",
+    "species",
+    "status",
+    "business",
+    "access",
+    "waterways",
+    "lidar",
+    "remains",
+}
 IRREGULAR = {"people": "person", "children": "child", "men": "man", "women": "woman"}
 # source slug -> singular name, where the rules get it wrong
 OVERRIDES = {
@@ -53,7 +64,9 @@ def write(path, fm, body=""):
     fm = {k: v for k, v in fm.items() if v not in ("", None, [])}
     text = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True, width=1000)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(f"---\n{text}---\n\n{body}\n" if body else f"---\n{text}---\n", encoding="utf-8")
+    path.write_text(
+        f"---\n{text}---\n\n{body}\n" if body else f"---\n{text}---\n", encoding="utf-8"
+    )
 
 
 def slug(s):
@@ -90,11 +103,18 @@ def singular(title):
 
 
 def legislation_reference(url):
-    m = re.match(r"https?://www\.legislation\.gov\.uk/(ukpga|uksi|asp|anaw|wsi|ukla|ukcm|nia|uksi)/(\d{4})/(\d+)", url or "")
+    m = re.match(
+        r"https?://www\.legislation\.gov\.uk/(ukpga|uksi|asp|anaw|wsi|ukla|ukcm|nia|uksi)/(\d{4})/(\d+)",
+        url or "",
+    )
     if not m:
         return None
     ref = "/".join(m.groups())
-    return ref if (CONTENT / "legislation" / ref.replace("/", "-")).with_suffix(".md").exists() else None
+    return (
+        ref
+        if (CONTENT / "legislation" / ref.replace("/", "-")).with_suffix(".md").exists()
+        else None
+    )
 
 
 def main(source):
@@ -106,7 +126,6 @@ def main(source):
             by_consideration.setdefault(fm["consideration"], []).append(ref)
     terms = {p.stem for p in (CONTENT / "term").glob("*.md")}
 
-    stages = {}
     topics = {}  # reference -> (path, source slug)
     skipped, review = [], []
     for p in sorted(Path(source).glob("*.md")):
@@ -119,30 +138,40 @@ def main(source):
         title = fm["title"].strip()
         name = OVERRIDES.get(p.stem) or singular(title)
         owned = by_consideration.get(p.stem, [])
-        if len(owned) == 1 and str(datasets[owned[0]].get("plural", "")).lower() == title.lower():
-            name = datasets[owned[0]]["name"]  # the dataset already has the singular name
+        if (
+            len(owned) == 1
+            and str(datasets[owned[0]].get("plural", "")).lower() == title.lower()
+        ):
+            name = datasets[owned[0]][
+                "name"
+            ]  # the dataset already has the singular name
         ref = slug(name)
         if ref in topics:
-            review.append(f"- `{p.stem}`: reference {ref} already used by `{topics[ref][1]}`")
+            review.append(
+                f"- `{p.stem}`: reference {ref} already used by `{topics[ref][1]}`"
+            )
             ref = slug(title)
         topics[ref] = (p, p.stem)
 
-        stage = fm.get("stage")
-        if stage:
-            stages[slug(stage)] = stage
         links = []
         refs = []
         for key in ("legislation", "specification"):
             item = fm.get(key)
             if not item:
                 continue
-            leg = legislation_reference(item.get("url")) if key == "legislation" else None
+            leg = (
+                legislation_reference(item.get("url")) if key == "legislation" else None
+            )
             if leg:
                 refs.append(leg)
             else:
-                links.append(f"- {key.capitalize()}: [{item.get('text') or item.get('url')}]({item.get('url')})")
+                links.append(
+                    f"- {key.capitalize()}: [{item.get('text') or item.get('url')}]({item.get('url')})"
+                )
         for item in fm.get("useful_links") or []:
-            links.append(f"- [{item.get('text') or item.get('url')}]({item.get('url')})")
+            links.append(
+                f"- [{item.get('text') or item.get('url')}]({item.get('url')})"
+            )
 
         desc = (fm.get("description") or "").strip()
         if desc.startswith("Planning consideration:"):
@@ -153,19 +182,18 @@ def main(source):
             "plural": title,
             "term": ref if ref in terms else "",
             "description": desc,
-            "topic-stage": slug(stage) if stage else "",
-            "datasets": [d for d in fm.get("datasets") or [] if d in datasets],
             "legislation": refs,
             "synonyms": fm.get("synonyms") or [],
             "tags": fm.get("tags") or [],
-            "frequency-of-updates": fm.get("frequency_of_updates") or "",
             "github-discussion": fm.get("github_discussion_number") or "",
             "start-date": str(fm.get("created") or ""),
             "entry-date": str(fm.get("updated") or fm.get("created") or today),
         }
         missing = [d for d in fm.get("datasets") or [] if d not in datasets]
         if missing:
-            review.append(f"- `{ref}`: datasets not in content/dataset: {', '.join(missing)}")
+            review.append(
+                f"- `{ref}`: datasets not in content/dataset: {', '.join(missing)}"
+            )
         text = body
         if links:
             text = (text + "\n\n" if text else "") + "## Links\n\n" + "\n".join(links)
@@ -173,30 +201,29 @@ def main(source):
         if name.lower() != title.lower():
             review.append(f"- `{ref}`: {title} → {name}")
 
-    for slug_, stage in stages.items():
-        write(
-            CONTENT / "topic-stage" / f"{slug_}.md",
-            {"reference": slug_, "name": stage, "plural": stage, "entry-date": today},
-        )
-
-    # datasets: consideration -> topic
+    # datasets: consideration -> topic, or the topic which lists the dataset
+    listed = {}
+    for ref, (path, _) in topics.items():
+        for d in read(path)[0].get("datasets") or []:
+            listed.setdefault(d, ref)
     source_to_topic = {s: r for r, (_, s) in topics.items()}
     orphans = []
     for ref, fm in datasets.items():
         c = fm.get("consideration")
-        if not c:
+        topic = source_to_topic.get(c) or listed.get(ref)
+        if not c and not topic:
             continue
         path = CONTENT / "dataset" / f"{ref}.md"
         fm, body = read(path)
-        fm.pop("consideration")
-        if c in source_to_topic:
-            new = {}
+        fm.pop("consideration", None)
+        if topic:
+            out = {}
             for k, v in fm.items():
-                new[k] = v
+                out[k] = v
                 if k == "term":
-                    new["topic"] = source_to_topic[c]
-            new.setdefault("topic", source_to_topic[c])
-            fm = new
+                    out["topic"] = topic
+            out.setdefault("topic", topic)
+            fm = out
         else:
             orphans.append(f"- `{ref}`: consideration `{c}` is archived or missing")
         write(path, fm, body)
@@ -216,7 +243,10 @@ def main(source):
         "",
     ]
     Path("notes/topic-review.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"{len(topics)} topics, {len(skipped)} skipped, {len(orphans)} orphan datasets", file=sys.stderr)
+    print(
+        f"{len(topics)} topics, {len(skipped)} skipped, {len(orphans)} orphan datasets",
+        file=sys.stderr,
+    )
 
 
 if __name__ == "__main__":

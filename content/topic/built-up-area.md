@@ -4,10 +4,6 @@ name: Built up area
 plural: Built up areas
 term: built-up-area
 description: Land which is characteristic of a village, town or city
-topic-stage: co-design
-datasets:
-- built-up-area
-frequency-of-updates: Every 2 years
 github-discussion: 63
 start-date: '2024-03-25'
 entry-date: '2024-09-05'

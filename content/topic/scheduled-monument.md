@@ -4,15 +4,11 @@ name: Scheduled monument
 plural: Scheduled monuments
 term: scheduled-monument
 description: A site that's legally protected because of its historical importance
-topic-stage: on-the-platform
-datasets:
-- scheduled-monument
 synonyms:
 - Ancient monuments
 tags:
 - local land charge
 - local plan
-frequency-of-updates: Fortnightly
 start-date: '2024-03-25'
 entry-date: '2024-09-06'
 ---

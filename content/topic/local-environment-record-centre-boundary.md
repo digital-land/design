@@ -3,7 +3,6 @@ reference: local-environment-record-centre-boundary
 name: Local Environment Record Centre boundary
 plural: Local Environment Record Centre boundaries
 description: Local Environmental Records Centre (LERC) areas
-topic-stage: backlog
 synonyms:
 - LERC
 tags:

@@ -3,12 +3,8 @@ reference: greater-london-archaeological-priority-area
 name: Greater London archaeological priority area
 plural: Greater london archaeological priority areas
 description: Areas of Greater London where there is significant known archaeological interest or potential for new discoveries
-topic-stage: co-design
-datasets:
-- archaeological-priority-area
 tags:
 - local plan
-frequency-of-updates: Quarterly
 github-discussion: 89
 start-date: '2024-03-25'
 entry-date: '2025-02-11'

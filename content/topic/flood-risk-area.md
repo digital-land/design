@@ -3,7 +3,6 @@ reference: flood-risk-area
 name: Flood risk area
 plural: Flood risk area
 description: Areas where there is a risk of flooding from rivers or the sea
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 164

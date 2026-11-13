@@ -3,7 +3,6 @@ reference: enforcement-notice
 name: Enforcement notice
 plural: Enforcement notices
 term: enforcement-notice
-topic-stage: backlog
 tags:
 - local land charge
 github-discussion: 156

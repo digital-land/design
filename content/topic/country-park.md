@@ -3,7 +3,6 @@ reference: country-park
 name: Country park
 plural: Country parks
 description: Areas of countryside set aside for public recreation
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 140

@@ -3,7 +3,6 @@ reference: minerals-and-waste-plan
 name: Minerals and waste plan
 plural: Minerals and waste plan
 description: Locations for future minerals extraction (such as sand and gravel pits or crushed rock quarries) and for the development of waste management facilities (such as recycling centres)
-topic-stage: research
 tags:
 - development-plan:part-of
 - local plan

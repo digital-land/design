@@ -3,7 +3,6 @@ reference: local-air-quality-action-plan
 name: Local air quality action plan
 plural: Local air quality action plan
 description: Plan that outlines local action to improve air quality
-topic-stage: backlog
 legislation:
 - ukpga/1995/25
 tags:

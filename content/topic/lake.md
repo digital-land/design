@@ -3,7 +3,6 @@ reference: lake
 name: Lake
 plural: Lakes
 description: Large areas of fresh water surrounded by land
-topic-stage: backlog
 synonyms:
 - Watercourses
 github-discussion: 191

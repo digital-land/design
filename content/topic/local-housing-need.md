@@ -3,7 +3,6 @@ reference: local-housing-need
 name: Local housing need
 plural: Local housing need
 term: local-housing-need
-topic-stage: backlog
 tags:
 - building-control
 start-date: '2025-02-25'

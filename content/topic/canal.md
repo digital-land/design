@@ -3,7 +3,6 @@ reference: canal
 name: Canal
 plural: Canals
 description: Human-made waterways that allow boats and ships to pass from one body of water to another
-topic-stage: backlog
 synonyms:
 - Watercourses
 github-discussion: 125

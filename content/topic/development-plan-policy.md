@@ -2,12 +2,6 @@
 reference: development-plan-policy
 name: Development plan policy
 plural: Development plan policies
-topic-stage: backlog
-datasets:
-- development-policy-area
-- development-policy-category
-- development-policy-metric
-- development-policy
 synonyms:
 - Local plan policies
 tags:

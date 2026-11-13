@@ -3,10 +3,6 @@ reference: battlefield
 name: Battlefield
 plural: Battlefields
 description: Areas registered with Historic England as a battlefield of historical significance
-topic-stage: on-the-platform
-datasets:
-- battlefield
-frequency-of-updates: Fortnightly
 start-date: '2024-03-25'
 entry-date: '2024-09-24'
 ---

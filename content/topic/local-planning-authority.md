@@ -4,9 +4,6 @@ name: Local planning authority
 plural: Local planning authority
 term: local-planning-authority
 description: The planning department of the district or borough council
-topic-stage: on-the-platform
-datasets:
-- local-planning-authority
 tags:
 - local plan
 github-discussion: 36

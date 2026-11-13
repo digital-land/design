@@ -3,7 +3,6 @@ reference: national-cycle-network
 name: National cycle network
 plural: National cycle network
 description: The UK-wide network of signed paths and routes for walking, wheeling, and cycling outdoors
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 215

@@ -3,8 +3,6 @@ reference: bowling-green
 name: Bowling green
 plural: Bowling greens
 description: Areas of very smooth, short grass on which the game of bowls or lawn bowling is played
-topic-stage: co-design
-frequency-of-updates: Every 6 months
 github-discussion: 64
 start-date: '2024-03-25'
 entry-date: '2024-09-05'

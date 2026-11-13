@@ -26,6 +26,7 @@ themes:
 - environment
 - heritage
 typology: category
+topic: historic-park-and-garden
 ---
 
 The grade assigned to each [historic park and garden][dataset:park-and-garden] by [Historic England](https://historicengland.org.uk/).

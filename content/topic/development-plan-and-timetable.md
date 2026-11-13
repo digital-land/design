@@ -3,23 +3,12 @@ reference: development-plan-and-timetable
 name: Development plan and timetable
 plural: Development plans and timetables
 description: The status of emerging and current local plans and other development plans for local planning authorities
-topic-stage: test-and-iterate
-datasets:
-- development-plan-document-type
-- development-plan-document
-- development-plan-geography-type
-- development-plan-geography
-- development-plan-status
-- development-plan-timetable
-- development-plan-type
-- development-plan
 synonyms:
 - Local plans
 - Development plan documents
 - Local development scheme
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 26
 start-date: '2024-03-25'
 entry-date: '2024-08-29'

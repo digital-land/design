@@ -3,7 +3,6 @@ reference: enterprise-zone
 name: Enterprise zone
 plural: Enterprise zone
 description: Areas where commercial and industrial businesses can get incentives to set up or expand
-topic-stage: research
 tags:
 - local plan
 github-discussion: 157

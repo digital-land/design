@@ -10,7 +10,6 @@ description: 'Certificates that contain:
   - recommendations about how to reduce energy use and save money
 
   - an energy efficiency rating from A (most efficient) to G (least efficient), valid for 10 years'
-topic-stage: backlog
 synonyms:
 - EPC
 github-discussion: 155

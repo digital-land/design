@@ -5,7 +5,6 @@ plural: Land maintenance notice
 description: 'A notice served when the condition of land is having an
 
   adverse effect on a neighbourhood'
-topic-stage: backlog
 legislation:
 - ukpga/1990/8
 github-discussion: 192

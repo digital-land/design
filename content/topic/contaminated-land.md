@@ -10,9 +10,6 @@ description: 'Land where substances are causing or could cause:
   - significant pollution of surface waters (for example lakes and rivers) or groundwater
 
   - harm to people as a result of radioactivity'
-topic-stage: backlog
-datasets:
-- contaminated-land
 synonyms:
 - Special Sites
 tags:

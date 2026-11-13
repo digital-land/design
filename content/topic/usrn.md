@@ -3,8 +3,6 @@ reference: usrn
 name: Usrn
 plural: Usrn
 description: Unique Street Reference Number (USRN) is an 8 digit unique identifier for every street across Great Britain
-topic-stage: co-design
-frequency-of-updates: Every 6 weeks
 github-discussion: 73
 start-date: '2024-03-25'
 entry-date: '2025-01-28'

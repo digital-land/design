@@ -3,8 +3,6 @@ reference: open-road
 name: Open road
 plural: Open roads
 description: High-level view of the road network, from motorways to country lanes
-topic-stage: co-design
-frequency-of-updates: Every 6 months
 github-discussion: 83
 start-date: '2024-03-25'
 entry-date: '2024-09-05'

@@ -3,7 +3,6 @@ reference: planning-application-submission
 name: Planning application submission
 plural: Planning application submissions
 description: Working towards a set of data specifications that define what needs to be included when submitting a planning application
-topic-stage: co-design
 synonyms:
 - Planning application data specifications
 github-discussion: 98

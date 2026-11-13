@@ -3,9 +3,6 @@ reference: control-of-major-accident-and-hazard-sites
 name: Control of major accident and hazard sites
 plural: Control of major accident and hazard sites
 description: Sites storing or handling large quantities of chemicals or hazardous substances that are covered by the Control of Major Accident Hazards (COMAH) Regulations
-topic-stage: backlog
-datasets:
-- control-of-major-accident-hazards-site
 synonyms:
 - COMAH
 github-discussion: 139

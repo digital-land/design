@@ -2,7 +2,6 @@
 reference: strategic-housing-market-assessments-shmas
 name: Strategic housing market assessments (shmas)
 plural: Strategic housing market assessments (shmas)
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 261

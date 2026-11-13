@@ -3,7 +3,6 @@ reference: reservoir
 name: Reservoir
 plural: Reservoirs
 description: Artificial lakes where water is collected and stored
-topic-stage: backlog
 synonyms:
 - Watercourses
 github-discussion: 244

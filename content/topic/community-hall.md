@@ -3,7 +3,6 @@ reference: community-hall
 name: Community hall
 plural: Community halls
 description: Community halls are available to the public for community-related recreational activities.
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 134

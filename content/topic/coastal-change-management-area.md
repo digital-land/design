@@ -4,9 +4,6 @@ name: Coastal change management area
 plural: Coastal change management areas
 term: coastal-change-management-area
 description: Areas identified as likely to be affected by physical change to the shoreline through erosion
-topic-stage: backlog
-datasets:
-- coastal-change-management-area
 github-discussion: 130
 start-date: '2024-03-25'
 entry-date: '2025-01-28'

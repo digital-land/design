@@ -3,8 +3,6 @@ reference: existing-housing-stock
 name: Existing housing stock
 plural: Existing housing stock
 description: To determine the minimum number of homes needed, strategic policies should be informed by a local housing need assessment, conducted using the standard method in national planning practice guidance. The standard method is a calculation informed by existing housing stock and affordability.
-topic-stage: co-design
-frequency-of-updates: Annually
 start-date: '2025-02-25'
 entry-date: '2025-03-20'
 ---

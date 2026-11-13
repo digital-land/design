@@ -3,7 +3,6 @@ reference: police-station
 name: Police station
 plural: Police stations
 description: The local headquarters of the police
-topic-stage: backlog
 tags:
 - local plan
 github-discussion: 227

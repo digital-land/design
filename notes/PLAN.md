@@ -57,7 +57,7 @@ show them side by side and record which one we adopt in the term's `description`
 - Step 4: done for known terms — `bin/govuk-candidates.py` found 13 candidate quotations (`role: candidate`), 6 promoted to `definition` and 6 marked `use`; 3 new defined terms listed in `notes/govuk-candidates.md`, 1 added; usage counts by `bin/term-usage.py`. Draft terms are promoted when a definition is found
 - Step 5: done — `bin/seed-specification.py` seeded 283 datasets and 537 fields (case-duplicates skipped) and 110 draft terms from dataset descriptions; each dataset links to its term
 - Step 6: started — `make review` writes `notes/dataset-review.md` comparing dataset descriptions with sourced definitions; descriptions not yet replaced
-- Step 7 (topics): not started — see below
+- Step 7 (topics): done by `bin/consideration2topic.py` — 275 topics, 122 archived skipped, no stages, each dataset carries its `topic`; 9 datasets left without a topic (their considerations were archived); names to check are in `notes/topic-review.md`; topics have no draft terms yet, only those matching an existing term are linked
 - Steps 8 and 9: not started
 
 Legislation picks: terms are only taken from planning legislation (`planning()` in `bin/build-terms.py`),
@@ -120,30 +120,30 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 
 Source: `content/consideration/` in [planning-data-design](https://github.com/digital-land/planning-data-design), 398 files.
 
-Considerations have `stage`: Skip those marked as being archived, otherwise remove the stage as topics don't have stages.
+Considerations have a `stage`. Skip those marked `Archived` and drop the stage from the rest: topics are categories, not something which moves through stages.
 
 1. Add `bin/consideration2topic.py`; it reads the source repo (path as an argument), drops `stage: Archived`, and writes `content/topic/<reference>.md`. Re-runnable, so it can be repeated as the source changes until that repo is retired.
-2. Naming: considerations which are plural ("Article 4 Directions"). Set `name` to the singular, `plural` to the original title, and `reference` to the singular slug. Singularise by rule, write the result to a review list, and fix by hand; the dataset field `consideration: ancient-woodlands` shows the old slugs in use.
+2. Naming: considerations are plural ("Article 4 Directions"). Set `name` to the singular, `plural` to the original title, and `reference` to the singular slug. Singularise by rule, write the result to a review list, and fix by hand; the dataset field `consideration: ancient-woodlands` shows the old slugs in use.
 3. Field mapping:
 
    | Source | Topic |
    | --- | --- |
    | `title` | `name` (singular) and `plural` |
    | `description` | `description`; skip the placeholder "Planning consideration: X" |
-   | `datasets` | skip, instead add the topic to each `content/dataset` |
-   | `legislation`, `specification` | `legislation` and `definition` as CURIEs where the URL resolves to a known legislation or GOV.UK page, otherwise keep the link |
+   | `datasets` | skipped; the topic is added to each listed `content/dataset` instead |
+   | `legislation`, `specification` | `legislation` where the URL resolves to a record in `content/legislation`, otherwise a link in the body |
    | `synonyms` | `synonyms`; where a synonym is also a topic, link it rather than duplicate it |
-   | `tags` | `theme`, once the tag values are mapped (`local plan`, `local land charge` and so on are not all themes) |
+   | `tags` | `tags`, to map to `theme` later (`local plan`, `local land charge` and so on are not all themes) |
    | `github_discussion_number` | `github-discussion` |
    | `created`, `updated` | `start-date`, `entry-date` |
-   | `frequency_of_updates` | skip for now, we'll revisit quality dimensions against user and needs |
-   | `useful-links` | keep as fields, or move to the quotation and source datasets |
+   | `frequency_of_updates` | skipped for now; we'll revisit quality dimensions against user and needs |
+   | `useful_links` | a `## Links` section in the body, to move to the quotation and source datasets |
 
 4. Body: the discovery answers (Backlog, Screen, Research) are long and mostly unanswered. Keep them verbatim under the topic at first so nothing is lost, then split them into `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
 5. Link each topic to a `term` where one matches. The topic's definition comes from the term, not the other way round, so a topic with no term gets a `draft` term.
 6. Replace `consideration` with `topic` in `content/dataset` and `content/field`. A dataset whose consideration is archived gets no topic; list those for review.
-7. Extend `bin/check.py`: topic references are unique and singular, `datasets` and `topic` links resolve, `topic-stage` is valid and never `Archived`.
-8. Update the README: `topic` is already listed; add `topic-stage` and remove the word "consideration" once migrated.
+7. Extend `bin/check.py`: topic references are unique and singular, and `topic` links resolve.
+8. Update the README to remove the word "consideration" once migrated.
 
 ### 8. Serve at design.planning.data.gov.uk
 

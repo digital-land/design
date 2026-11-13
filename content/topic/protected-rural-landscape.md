@@ -2,7 +2,6 @@
 reference: protected-rural-landscape
 name: Protected rural landscape
 plural: Protected rural landscapes
-topic-stage: backlog
 synonyms:
 - Historic rural landscapes
 github-discussion: 236

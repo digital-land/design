@@ -3,7 +3,6 @@ reference: community-infrastructure-levy-cil
 name: Community infrastructure levy (cil)
 plural: Community infrastructure levy (cil)
 description: The Community Infrastructure Levy (CIL) is a charge which can be levied by local authorities on new development. It only applies in areas where a local authority has consulted on and approved a charging schedule which sets out those charges
-topic-stage: co-design
 legislation:
 - uksi/2010/948
 synonyms:

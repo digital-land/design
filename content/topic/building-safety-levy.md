@@ -11,7 +11,6 @@ description: 'Developers will pay a Levy on new residential buildings which
   where a developer cannot be held responsible or identified, and is a key
 
   element of ensuring industry pays.'
-topic-stage: backlog
 tags:
 - building-control
 - levy

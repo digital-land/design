@@ -3,7 +3,6 @@ reference: compulsory-purchase-order
 name: Compulsory purchase order
 plural: Compulsory purchase orders
 description: Orders that allow a public authority to acquire land without the consent of the owner
-topic-stage: backlog
 tags:
 - local land charge
 github-discussion: 136

@@ -4,9 +4,6 @@ name: Area of outstanding natural beauty
 plural: Areas of outstanding natural beauty
 term: area-of-outstanding-natural-beauty
 description: Land protected by law to conserve and enhance its natural beauty
-topic-stage: on-the-platform
-datasets:
-- area-of-outstanding-natural-beauty
 legislation:
 - ukpga/2000/37
 synonyms:
@@ -15,7 +12,6 @@ synonyms:
 - National Landscape
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 31
 start-date: '2024-03-25'
 entry-date: '2025-03-19'

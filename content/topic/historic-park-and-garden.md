@@ -3,13 +3,8 @@ reference: historic-park-and-garden
 name: Historic park and garden
 plural: Historic parks and gardens
 description: Designed landscapes of special historical interest because of their layout, features and architectural decoration
-topic-stage: on-the-platform
-datasets:
-- park-and-garden-grade
-- park-and-garden
 tags:
 - local plan
-frequency-of-updates: Fortnightly
 github-discussion: 50
 start-date: '2024-03-25'
 entry-date: '2024-09-06'

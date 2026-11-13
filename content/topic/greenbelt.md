@@ -3,15 +3,10 @@ reference: greenbelt
 name: Greenbelt
 plural: Greenbelt
 description: An area of open land around a city that cannot be built on
-topic-stage: on-the-platform
-datasets:
-- green-belt-core
-- green-belt
 synonyms:
 - Green belt
 tags:
 - local plan
-frequency-of-updates: Ad hoc
 github-discussion: 45
 start-date: '2024-03-25'
 entry-date: '2024-09-26'

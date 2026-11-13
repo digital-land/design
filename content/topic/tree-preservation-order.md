@@ -3,15 +3,8 @@ reference: tree-preservation-order
 name: Tree preservation order
 plural: Tree preservation orders
 description: The order document that protects a tree or group of trees
-topic-stage: co-design
-datasets:
-- tree-preservation-order
-- tree-preservation-zone-type
-- tree-preservation-zone
-- tree
 tags:
 - local land charge
-frequency-of-updates: Ad hoc
 github-discussion: 43
 start-date: '2024-03-25'
 entry-date: '2024-10-14'

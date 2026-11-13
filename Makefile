@@ -1,10 +1,12 @@
 .PHONY: init check govuk legislation terms dataset review doctate
 
-init::
-	pip install -r requirements.txt
+all::  check review
 
 check::
 	python3 bin/check.py
+
+init::
+	pip install -r requirements.txt
 
 govuk::
 	python3 bin/govuk-planning.py

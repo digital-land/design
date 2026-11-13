@@ -2,7 +2,6 @@
 # bin/legislation-terms.py --all does not write quotations for these,
 # and bin/build-terms.py does not create terms for them, and removes them if it generated them.
 act
-address
 amend
 any-other-information
 application
@@ -25,11 +24,9 @@ existing
 functions
 further-information
 home
-housing
 improve
 independent
 legislation
-local-authority
 members
 modify
 officer

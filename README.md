@@ -66,7 +66,7 @@ typology. The key typologies are "organisation", "geography", "category", "docum
 The following datasets are managed in this repository:
 
 * [content/term](content/term) — a term used in data and on the platform, with synomyms, abbreviations, and acronyms
-* [content/extract](content/extract) — a quotation from legislation, policy or other source which defines or references one or more term
+* [content/quotation](content/quotation) — a quotation from legislation, policy or other source which defines or references one or more term
 * [content/legislation](content/legislation) — act or statutory instrument on legislation.gov.uk
 * [content/abbreviation](content/abbreviation) — an abbreviation or acronym, with `terms` a semi-colon separated list of the terms it can stand for, to disambiguate
 * [content/term-status](content/term-status) — where the text of a term comes from: `legislation`, `guidance` or `draft`

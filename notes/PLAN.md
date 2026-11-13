@@ -119,24 +119,25 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 ### 7. Migrate considerations to topics
 
 Source: `content/consideration/` in [planning-data-design](https://github.com/digital-land/planning-data-design), 398 files.
-By `stage`: Archived 122 (**skip**), Backlog 186, On the platform 33, Co-design 30, Research 9, Test and iterate 9, Screen 8, none 1. That leaves 276 to migrate; the file with no `stage` needs a decision.
+
+Considerations have `stage`: Skip those marked as being archived, otherwise remove the stage as topics don't have stages.
 
 1. Add `bin/consideration2topic.py`; it reads the source repo (path as an argument), drops `stage: Archived`, and writes `content/topic/<reference>.md`. Re-runnable, so it can be repeated as the source changes until that repo is retired.
-2. Naming: considerations are plural ("Article 4 Directions"). Set `name` to the singular, `plural` to the original title, and `reference` to the singular slug. Singularise by rule, write the result to a review list, and fix by hand; the dataset field `consideration: ancient-woodlands` shows the old slugs in use.
+2. Naming: considerations which are plural ("Article 4 Directions"). Set `name` to the singular, `plural` to the original title, and `reference` to the singular slug. Singularise by rule, write the result to a review list, and fix by hand; the dataset field `consideration: ancient-woodlands` shows the old slugs in use.
 3. Field mapping:
 
    | Source | Topic |
    | --- | --- |
    | `title` | `name` (singular) and `plural` |
    | `description` | `description`; skip the placeholder "Planning consideration: X" |
-   | `stage` | `topic-stage`, with a new `content/topic-stage` dataset (do not clash with the development `stage` dataset) |
-   | `datasets` | `datasets`, validated against `content/dataset` |
+   | `datasets` | skip, instead add the topic to each `content/dataset` |
    | `legislation`, `specification` | `legislation` and `definition` as CURIEs where the URL resolves to a known legislation or GOV.UK page, otherwise keep the link |
    | `synonyms` | `synonyms`; where a synonym is also a topic, link it rather than duplicate it |
    | `tags` | `theme`, once the tag values are mapped (`local plan`, `local land charge` and so on are not all themes) |
    | `github_discussion_number` | `github-discussion` |
    | `created`, `updated` | `start-date`, `entry-date` |
-   | `frequency_of_updates`, `useful_links` | keep as fields, or move to the quotation and source datasets |
+   | `frequency_of_updates` | skip for now, we'll revisit quality dimensions against user and needs |
+   | `useful-links` | keep as fields, or move to the quotation and source datasets |
 
 4. Body: the discovery answers (Backlog, Screen, Research) are long and mostly unanswered. Keep them verbatim under the topic at first so nothing is lost, then split them into `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
 5. Link each topic to a `term` where one matches. The topic's definition comes from the term, not the other way round, so a topic with no term gets a `draft` term.
@@ -168,11 +169,11 @@ and look at the result on a term page before scaling up. Then 4 and 5, then 6 an
 
 ## Open questions
 
-- Which term wins when sources disagree? The precedence is legislation, then guidance, then draft; who decides between two legislative definitions?
-- How are definitions versioned? Legislation changes over time; do we keep superseded text?
-- Do we store full quotations or only a link and offset? (Copying is allowed under OGL, but long quotes bloat the repo.)
-- Do terms from the specification (e.g. "typology", "entity") belong in the same glossary as planning terms?
-- Scope: England only, or also Wales, Scotland and Northern Ireland terms where they differ?
-- The markdown in `content/` is the source of truth and the CSVs are build output; confirm.
-- Should the unanswered discovery questions in each topic be kept, or only the answered ones?
-- Archived considerations are dropped, not migrated. Keep a list of their slugs so old URLs can redirect?
+- Which term wins when sources disagree? The precedence is legislation, then guidance, then draft; who decides between two legislative definitions? Answer: for new terms, take the best content, assume it will be reviewed and edited. Add notes to the generated review.md file about conflicting definitions
+- How are definitions versioned? Legislation changes over time; do we keep superseded text? We only have latest text, changes should be backwards compatible (see design principles) or will be given a different name, or disambiguated (in parentheses) 
+- Do we store full quotations or only a link and offset? (Copying is allowed under OGL, but long quotes bloat the repo.) Answer: keep them for now as they help to check the definitions.
+- Terms from the specification (e.g. "typology", "entity") belong in the same glossary as planning terms? Answer: yes, these are part of our controlled vocabulary
+- Scope: England only, or also Wales, Scotland and Northern Ireland terms where they differ? Answer: England only
+- The markdown in `content/` is the source of truth and the CSVs are build output; confirm. content/ is our source of truth, CSV is to be generated from the content
+- Should the unanswered discovery questions in each topic be kept, or only the answered ones? Answer: remove unanswered questions. Idea is to replace this text with structured data.
+- Archived considerations are dropped, not migrated. Keep a list of their slugs so old URLs can redirect? Answer, yes, create a list of redirects for the https://github.com/digital-land/planning-data-design/tree/main/redirects directory 

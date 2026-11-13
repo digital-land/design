@@ -2,6 +2,7 @@
 reference: local-authority-district
 name: Local authority district
 plural: Local authority district
+term: local-authority-district
 description: The geographic area that a local government body is responsible for
 tags:
 - local plan

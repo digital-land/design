@@ -2,6 +2,7 @@
 reference: non-designated-heritage-asset
 name: Non designated heritage asset
 plural: Non designated heritage asset
+term: non-designated-heritage-asset
 description: Buildings, monuments, sites, places, areas or landscapes identified by planmaking bodies as having a degree of heritage significance needing consideration in planning decisions, but which do not meet the criteria for designated heritage assets
 tags:
 - local plan

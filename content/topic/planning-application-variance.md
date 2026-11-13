@@ -2,6 +2,7 @@
 reference: planning-application-variance
 name: Planning application variance
 plural: Planning application variance
+term: planning-application-variance
 description: Options for amending proposals that have planning permission
 synonyms:
 - Section73

@@ -2,6 +2,7 @@
 reference: historic-stone-quarry
 name: Historic stone quarry
 plural: Historic stone quarry
+term: historic-stone-quarry
 description: Area where quarrying of stone was previously carried out
 github-discussion: 183
 start-date: '2024-03-25'

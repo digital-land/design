@@ -2,6 +2,7 @@
 reference: water-stressed-area
 name: Water stressed area
 plural: Water stressed areas
+term: water-stressed-area
 description: Areas where the demand for water exceeds the available amount
 tags:
 - defra - complied

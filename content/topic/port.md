@@ -2,6 +2,7 @@
 reference: port
 name: Port
 plural: Ports
+term: port
 description: A maritime facility comprising one or more wharves or loading areas, where ships load and discharge cargo and passengers.
 synonyms:
 - Ferry exchanges

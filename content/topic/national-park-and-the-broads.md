@@ -2,6 +2,7 @@
 reference: national-park-and-the-broads
 name: National park and the Broads
 plural: National parks and the broads
+term: national-park-and-the-broads
 description: A large area of land protected by law for the benefit of the nation
 synonyms:
 - Protected sites

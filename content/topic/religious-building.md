@@ -2,6 +2,7 @@
 reference: religious-building
 name: Religious building
 plural: Religious buildings
+term: religious-building
 description: Structures created for worship
 tags:
 - local plan

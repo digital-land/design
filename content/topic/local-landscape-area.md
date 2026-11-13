@@ -2,6 +2,7 @@
 reference: local-landscape-area
 name: Local landscape area
 plural: Local landscape area
+term: local-landscape-area
 description: Areas in Scotland which are given a local designation to sure that the landscape is not damaged by inappropriate development, and to encourage positive landscape management
 synonyms:
 - Historic (non-designated) rural landscape/local landscape area

@@ -2,6 +2,7 @@
 reference: county-council
 name: County council
 plural: County council
+term: county-council
 description: Local government tier, often having the role of minerals and waste planning authority, highways authority and statutory consultee.
 github-discussion: 142
 start-date: '2024-03-25'

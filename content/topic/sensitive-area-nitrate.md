@@ -2,6 +2,7 @@
 reference: sensitive-area-nitrate
 name: Sensitive area - nitrate
 plural: Sensitive areas - nitrates
+term: sensitive-area-nitrate
 description: Areas designated as being at risk from agricultural nitrate pollution
 tags:
 - local plan

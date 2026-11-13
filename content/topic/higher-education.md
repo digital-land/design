@@ -2,6 +2,7 @@
 reference: higher-education
 name: Higher education
 plural: Higher education
+term: higher-education
 description: Both undergraduate and postgraduate courses, typically attended in higher education institutions, such as Universities.
 tags:
 - local plan

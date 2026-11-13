@@ -2,6 +2,7 @@
 reference: essex-wildlife-trust-reserve
 name: Essex wildlife trust reserve
 plural: Essex wildlife trust reserves
+term: essex-wildlife-trust-reserve
 description: Nature reserves and discovery centres managed and protected by Essex Wildlife Trust
 github-discussion: 159
 start-date: '2024-03-25'

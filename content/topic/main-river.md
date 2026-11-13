@@ -2,6 +2,7 @@
 reference: main-river
 name: Main river
 plural: Main rivers
+term: main-river
 description: Designated larger rivers and streams
 synonyms:
 - Watercourses

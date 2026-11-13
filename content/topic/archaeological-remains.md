@@ -2,6 +2,7 @@
 reference: archaeological-remains
 name: Archaeological remains
 plural: Archaeological remains
+term: archaeological-remains
 description: Sites where archaeological remains are discovered, and require conservation
 legislation:
 - ukpga/1979/46

@@ -2,6 +2,7 @@
 reference: local-plan-consultation-and-representation
 name: Local plan consultation and representation
 plural: Local plan consultations and representations
+term: local-plan-consultation-and-representation
 legislation:
 - uksi/2012/767
 tags:

@@ -2,6 +2,7 @@
 reference: cultural-infrastructure
 name: Cultural infrastructure
 plural: Cultural infrastructure
+term: cultural-infrastructure
 description: Places, spaces, and buildings where cultural activities take place.
 tags:
 - culture

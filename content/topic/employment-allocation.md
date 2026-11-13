@@ -2,6 +2,7 @@
 reference: employment-allocation
 name: Employment allocation
 plural: Employment allocations
+term: employment-allocation
 description: Sites that have been identified for employment use
 tags:
 - local plan

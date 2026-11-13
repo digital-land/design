@@ -2,6 +2,7 @@
 reference: local-green-space
 name: Local green space
 plural: Local green space
+term: local-green-space
 description: Protected green areas demonstrably special to the local community, whether in a village or in a neighbourhood in a town or city
 tags:
 - local plan

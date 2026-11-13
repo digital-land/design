@@ -2,6 +2,7 @@
 reference: great-crested-newt-edna-pond-survey
 name: Great crested newt eDNA pond survey
 plural: Great crested newts edna pond surveys
+term: great-crested-newt-edna-pond-survey
 description: Surveys of ponds to detect newt environmental DNA
 github-discussion: 170
 start-date: '2024-03-25'

@@ -2,6 +2,7 @@
 reference: golf-course
 name: Golf course
 plural: Golf courses
+term: golf-course
 description: Large areas of grass specially designed for people to play golf on
 tags:
 - local plan

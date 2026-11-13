@@ -2,6 +2,7 @@
 reference: building-safety-levy
 name: Building safety levy
 plural: Building safety levy
+term: building-safety-levy
 description: 'Developers will pay a Levy on new residential buildings which
 
   require building control approval, unless exempt to ensure

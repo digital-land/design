@@ -2,6 +2,7 @@
 reference: green-space
 name: Green space
 plural: Green space
+term: green-space
 description: Places that are intentionally not developed
 tags:
 - local plan

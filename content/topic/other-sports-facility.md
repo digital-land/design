@@ -2,6 +2,7 @@
 reference: other-sports-facility
 name: Other sports facility
 plural: Other sports facilities
+term: other-sports-facility
 description: Courts and greens comprising natural or artificial surfaces, including tennis courts, bowling greens, athletics tracks and other outdoor sports areas
 tags:
 - local plan

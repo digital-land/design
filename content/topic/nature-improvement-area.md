@@ -2,6 +2,7 @@
 reference: nature-improvement-area
 name: Nature improvement area
 plural: Nature improvement areas
+term: nature-improvement-area
 description: Areas of the country where partnerships have been set up to enhance the natural environment
 github-discussion: 85
 start-date: '2024-03-25'

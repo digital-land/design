@@ -2,6 +2,7 @@
 reference: national-public-transport-access-nodes-naptan
 name: National Public Transport Access Nodes (NaPTAN)
 plural: National Public Transport Access Nodes (NaPTAN)
+term: national-public-transport-access-nodes-naptan
 description: All public transport access points where you can get on or off public transport
 github-discussion: 69
 start-date: '2024-03-25'

@@ -2,6 +2,7 @@
 reference: contaminated-land
 name: Contaminated land
 plural: Contaminated land
+term: contaminated-land
 description: 'Land where substances are causing or could cause:
 
 

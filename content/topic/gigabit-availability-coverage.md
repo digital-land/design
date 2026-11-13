@@ -2,6 +2,7 @@
 reference: gigabit-availability-coverage
 name: Gigabit availability coverage
 plural: Gigabit availability coverage
+term: gigabit-availability-coverage
 description: The coverage of where wifi download speeds of 1,000mbps (megabits per second) are available.
 tags:
 - nist

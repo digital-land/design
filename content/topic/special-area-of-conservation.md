@@ -2,6 +2,7 @@
 reference: special-area-of-conservation
 name: Special area of conservation
 plural: Special areas of conservation
+term: special-area-of-conservation
 description: An area containing wildlife or marine life habitats and species that need conservation
 legislation:
 - uksi/2017/1012

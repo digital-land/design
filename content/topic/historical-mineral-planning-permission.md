@@ -2,6 +2,7 @@
 reference: historical-mineral-planning-permission
 name: Historical mineral planning permission
 plural: Historical mineral planning permissions
+term: historical-mineral-planning-permission
 description: Boundaries for permitted, withdrawn and refused mineral planning permissions for England and Wales
 github-discussion: 181
 start-date: '2024-03-25'

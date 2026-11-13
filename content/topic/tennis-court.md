@@ -2,6 +2,7 @@
 reference: tennis-court
 name: Tennis court
 plural: Tennis courts
+term: tennis-court
 description: Courts or areas with a net across the middle used for playing tennis
 tags:
 - local plan

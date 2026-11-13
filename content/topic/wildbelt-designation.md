@@ -2,6 +2,7 @@
 reference: wildbelt-designation
 name: Wildbelt designation
 plural: Wildbelt designations
+term: wildbelt-designation
 description: Land currently of low biodiversity value that is designated for nature's recovery
 tags:
 - local plan

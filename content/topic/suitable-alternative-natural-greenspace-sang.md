@@ -2,6 +2,7 @@
 reference: suitable-alternative-natural-greenspace-sang
 name: Suitable alternative natural greenspace (sang)
 plural: Suitable alternative natural greenspace (sang)
+term: suitable-alternative-natural-greenspace-sang
 description: SANG provides an alternative greenspace to attract residents of new developments away from the protected and vulnerable sites
 legislation:
 - uksi/2017/1012

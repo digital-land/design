@@ -2,6 +2,7 @@
 reference: planning-application-and-decision
 name: Planning application and decision
 plural: Planning applications & decisions
+term: planning-application-and-decision
 description: Records of applications for development and the associated decisions
 legislation:
 - uksi/2015/595

@@ -2,6 +2,7 @@
 reference: invasive-non-native-species
 name: Invasive non native species
 plural: Invasive non native species
+term: invasive-non-native-species
 description: Species which have been introduced into areas outside their natural range through human actions and are posing a threat to native wildlife
 github-discussion: 189
 start-date: '2024-03-25'

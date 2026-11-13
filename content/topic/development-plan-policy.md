@@ -2,6 +2,7 @@
 reference: development-plan-policy
 name: Development plan policy
 plural: Development plan policies
+term: development-plan-policy
 synonyms:
 - Local plan policies
 tags:

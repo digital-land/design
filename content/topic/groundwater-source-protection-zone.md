@@ -2,6 +2,7 @@
 reference: groundwater-source-protection-zone
 name: Groundwater source protection zone
 plural: Groundwater source protection zones
+term: groundwater-source-protection-zone
 description: Zones that provide additional protection to safeguard drinking water quality
 synonyms:
 - Source protection zones

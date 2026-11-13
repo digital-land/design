@@ -2,6 +2,7 @@
 reference: hedgerow
 name: Hedgerow
 plural: Hedgerows
+term: hedgerow
 description: Any boundary line of trees or shrubs over 20m long and less than 5m wide
 start-date: '2024-03-25'
 entry-date: '2024-09-24'

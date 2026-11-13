@@ -2,6 +2,7 @@
 reference: infrastructure-funding-statement
 name: Infrastructure funding statement
 plural: Infrastructure funding statements
+term: infrastructure-funding-statement
 description: A summary of financial contributions councils have secured through section 106 agreements from new developments
 legislation:
 - uksi/2010/948

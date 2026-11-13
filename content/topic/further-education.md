@@ -2,6 +2,7 @@
 reference: further-education
 name: Further education
 plural: Further education
+term: further-education
 description: Non-advanced courses taken after the period of compulsory education. Primarily taught to those aged 16 and over in further education colleges, work-based learning, and adult and community learning institutions
 tags:
 - local plan

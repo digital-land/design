@@ -2,6 +2,7 @@
 reference: canal
 name: Canal
 plural: Canals
+term: canal
 description: Human-made waterways that allow boats and ships to pass from one body of water to another
 synonyms:
 - Watercourses

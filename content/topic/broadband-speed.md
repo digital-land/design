@@ -2,6 +2,7 @@
 reference: broadband-speed
 name: Broadband speed
 plural: Broadband speed
+term: broadband-speed
 description: Coverage of broadband availability
 github-discussion: 123
 start-date: '2024-03-25'

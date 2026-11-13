@@ -2,6 +2,7 @@
 reference: strategic-flood-risk-assessment
 name: Strategic flood risk assessment
 plural: Strategic flood risk assessments
+term: strategic-flood-risk-assessment
 description: A Strategic Flood Risk Assessments are undertaken by local planning authorities and inform local flood risk
 tags:
 - local plan

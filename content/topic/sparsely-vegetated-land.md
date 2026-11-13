@@ -2,6 +2,7 @@
 reference: sparsely-vegetated-land
 name: Sparsely vegetated land
 plural: Sparsely vegetated land
+term: sparsely-vegetated-land
 description: Environments where plants are slow to establish and easily disturbed
 github-discussion: 256
 start-date: '2024-03-25'

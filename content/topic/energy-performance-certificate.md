@@ -2,6 +2,7 @@
 reference: energy-performance-certificate
 name: Energy performance certificate
 plural: Energy performance certificates
+term: energy-performance-certificate
 description: 'Certificates that contain:
 
 

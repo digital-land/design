@@ -2,6 +2,7 @@
 reference: certificate-of-immunity
 name: Certificate of immunity
 plural: Certificate of immunity
+term: certificate-of-immunity
 description: A guarantee that a building or buildings will not be newly listed or given a building preservation notice for the next 5 years
 legislation:
 - ukpga/1990/9

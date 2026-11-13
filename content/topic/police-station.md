@@ -2,6 +2,7 @@
 reference: police-station
 name: Police station
 plural: Police stations
+term: police-station
 description: The local headquarters of the police
 tags:
 - local plan

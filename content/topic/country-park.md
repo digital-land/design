@@ -2,6 +2,7 @@
 reference: country-park
 name: Country park
 plural: Country parks
+term: country-park
 description: Areas of countryside set aside for public recreation
 tags:
 - local plan

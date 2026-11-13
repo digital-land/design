@@ -2,6 +2,7 @@
 reference: topography
 name: Topography
 plural: Topography
+term: topography
 description: Data describing the relief of the land needed to remove steep or inaccessible sites otherwise unsuitable for development.
 github-discussion: 266
 start-date: '2024-11-26'

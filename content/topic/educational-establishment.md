@@ -2,6 +2,7 @@
 reference: educational-establishment
 name: Educational establishment
 plural: Educational establishment
+term: educational-establishment
 description: Educational establishments in the UK including nurseries, primary and secondary schools
 synonyms:
 - Primary schools

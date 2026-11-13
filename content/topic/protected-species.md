@@ -2,6 +2,7 @@
 reference: protected-species
 name: Protected species
 plural: Protected species
+term: protected-species
 description: Threatened, vulnerable or endangered species which are protected from extinction
 github-discussion: 237
 start-date: '2024-03-25'

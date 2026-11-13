@@ -2,6 +2,7 @@
 reference: ramsar
 name: Ramsar
 plural: Ramsar
+term: ramsar
 description: An area of wetlands that is of international importance
 synonyms:
 - Protected sites

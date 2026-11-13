@@ -2,6 +2,7 @@
 reference: hs2-safeguarded-area
 name: Hs2 safeguarded area
 plural: Hs2 safeguarded area
+term: hs2-safeguarded-area
 description: Protected land that might be needed to build the HS2 railway
 tags:
 - local plan

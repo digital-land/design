@@ -2,6 +2,7 @@
 reference: early-years-provision
 name: Early years provision
 plural: Early years provision
+term: early-years-provision
 description: Education and childcare provision for children under 5 through nurseries, private, voluntary and independent (PVI) providers, including childminders
 tags:
 - local plan

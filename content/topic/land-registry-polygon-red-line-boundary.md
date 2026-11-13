@@ -2,6 +2,7 @@
 reference: land-registry-polygon-red-line-boundary
 name: Land registry polygon / red line boundary
 plural: Land registry polygons / red line boundaries
+term: land-registry-polygon-red-line-boundary
 description: The indicative shapes and positions of each boundary of registered titles for land and property
 synonyms:
 - Land ownership boundary

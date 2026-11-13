@@ -2,6 +2,7 @@
 reference: abandoned-mine
 name: Abandoned mine
 plural: Abandoned mines
+term: abandoned-mine
 description: Areas where mining has previously taken place but is no longer in use
 github-discussion: 105
 start-date: '2024-03-25'

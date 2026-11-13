@@ -2,6 +2,7 @@
 reference: special-protection-area
 name: Special protection area
 plural: Special protection areas
+term: special-protection-area
 description: An area containing bird habitats and species that need conservation
 legislation:
 - uksi/2017/1012

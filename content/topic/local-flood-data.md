@@ -2,6 +2,7 @@
 reference: local-flood-data
 name: Local flood data
 plural: Local flood data
+term: local-flood-data
 tags:
 - local plan
 github-discussion: 58

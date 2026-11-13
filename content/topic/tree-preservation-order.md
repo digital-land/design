@@ -2,6 +2,7 @@
 reference: tree-preservation-order
 name: Tree preservation order
 plural: Tree preservation orders
+term: tree-preservation-order
 description: The order document that protects a tree or group of trees
 tags:
 - local land charge

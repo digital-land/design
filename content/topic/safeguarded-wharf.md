@@ -2,6 +2,7 @@
 reference: safeguarded-wharf
 name: Safeguarded wharf
 plural: Safeguarded wharves
+term: safeguarded-wharf
 description: Wharves in London which have been given special status to ensure they are retained as working wharves and are protected from redevelopment
 tags:
 - local plan

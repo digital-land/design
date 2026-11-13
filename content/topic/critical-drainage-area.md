@@ -2,6 +2,7 @@
 reference: critical-drainage-area
 name: Critical drainage area
 plural: Critical drainage areas
+term: critical-drainage-area
 tags:
 - local plan
 github-discussion: 143

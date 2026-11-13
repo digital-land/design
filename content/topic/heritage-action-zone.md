@@ -2,6 +2,7 @@
 reference: heritage-action-zone
 name: Heritage action zone
 plural: Heritage action zone
+term: heritage-action-zone
 description: Grant-funded projects restoring historic environments
 tags:
 - local plan

@@ -2,6 +2,7 @@
 reference: land-to-be-acquired-for-roadworks
 name: Land to be acquired for roadworks
 plural: Land to be acquired for roadworks
+term: land-to-be-acquired-for-roadworks
 description: Land reserved for roadworks
 legislation:
 - ukpga/1990/8

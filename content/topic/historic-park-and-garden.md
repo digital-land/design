@@ -2,6 +2,7 @@
 reference: historic-park-and-garden
 name: Historic park and garden
 plural: Historic parks and gardens
+term: historic-park-and-garden
 description: Designed landscapes of special historical interest because of their layout, features and architectural decoration
 tags:
 - local plan

@@ -2,6 +2,7 @@
 reference: cemetery
 name: Cemetery
 plural: Cemetery
+term: cemetery
 description: A cemetery provided and maintained by a burial authority
 tags:
 - local plan

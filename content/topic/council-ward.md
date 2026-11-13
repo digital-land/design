@@ -2,6 +2,7 @@
 reference: council-ward
 name: Council ward
 plural: Council wards
+term: council-ward
 description: Local areas that have been divided for voting purposes
 synonyms:
 - Wards

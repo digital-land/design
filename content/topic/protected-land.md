@@ -2,6 +2,7 @@
 reference: protected-land
 name: Protected land
 plural: Protected land
+term: protected-land
 description: Sites with special status as protected areas because of their natural and cultural importance
 synonyms:
 - Protected sites

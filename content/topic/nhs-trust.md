@@ -2,6 +2,7 @@
 reference: nhs-trust
 name: NHS trust
 plural: Nhs trusts
+term: nhs-trust
 description: An organisational unit within the NHS that serves either a geographical area or a specialised function (such as an ambulance service)
 github-discussion: 218
 start-date: '2024-03-25'

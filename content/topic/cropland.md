@@ -2,6 +2,7 @@
 reference: cropland
 name: Cropland
 plural: Cropland
+term: cropland
 description: Areas of land used for growing crops
 github-discussion: 144
 start-date: '2024-03-25'

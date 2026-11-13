@@ -2,6 +2,7 @@
 reference: land-maintenance-notice
 name: Land maintenance notice
 plural: Land maintenance notice
+term: land-maintenance-notice
 description: 'A notice served when the condition of land is having an
 
   adverse effect on a neighbourhood'

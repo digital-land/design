@@ -2,6 +2,7 @@
 reference: development-plan-and-timetable
 name: Development plan and timetable
 plural: Development plans and timetables
+term: development-plan-and-timetable
 description: The status of emerging and current local plans and other development plans for local planning authorities
 synonyms:
 - Local plans

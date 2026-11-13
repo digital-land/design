@@ -2,6 +2,7 @@
 reference: national-nature-reserve
 name: National nature reserve
 plural: National nature reserves
+term: national-nature-reserve
 description: Areas where wildlife, plants and animals are protected to allow them to thrive
 tags:
 - local plan

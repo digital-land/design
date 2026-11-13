@@ -2,6 +2,7 @@
 reference: reservoir
 name: Reservoir
 plural: Reservoirs
+term: reservoir
 description: Artificial lakes where water is collected and stored
 synonyms:
 - Watercourses

@@ -2,6 +2,7 @@
 reference: marine-conservation-zone
 name: Marine conservation zone
 plural: Marine conservation zones
+term: marine-conservation-zone
 description: Marine areas that protect a range of nationally important, rare or threatened habitats and species
 synonyms:
 - Protected sites

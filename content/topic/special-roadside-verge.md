@@ -2,6 +2,7 @@
 reference: special-roadside-verge
 name: Special roadside verge
 plural: Special roadside verges
+term: special-roadside-verge
 description: Uncultivated areas of grassland next to roads in an intensively farmed landscape
 github-discussion: 258
 start-date: '2024-03-25'

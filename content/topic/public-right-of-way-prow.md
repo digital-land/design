@@ -2,6 +2,7 @@
 reference: public-right-of-way-prow
 name: Public Right of Way (PRoW)
 plural: Public Rights of Way (PRoW)
+term: public-right-of-way-prow
 description: Specific routes the public have a legal right to use across land that may be owned by a private individual
 legislation:
 - ukpga/2000/37

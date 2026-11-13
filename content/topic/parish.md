@@ -2,6 +2,7 @@
 reference: parish
 name: Parish
 plural: Parish
+term: parish
 description: The smallest type of local government administrative area in England
 tags:
 - local plan

@@ -2,6 +2,7 @@
 reference: local-wildlife-site
 name: Local wildlife site
 plural: Local wildlife sites
+term: local-wildlife-site
 description: Areas of land that are especially important for their local wildlife
 synonyms:
 - Protected sites

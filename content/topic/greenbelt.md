@@ -2,6 +2,7 @@
 reference: greenbelt
 name: Greenbelt
 plural: Greenbelt
+term: greenbelt
 description: An area of open land around a city that cannot be built on
 synonyms:
 - Green belt

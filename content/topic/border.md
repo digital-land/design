@@ -2,6 +2,7 @@
 reference: border
 name: Border
 plural: Border
+term: border
 description: The boundary of England as provided by the ONS for the purposes of producing statistics.
 github-discussion: 65
 start-date: '2024-06-11'

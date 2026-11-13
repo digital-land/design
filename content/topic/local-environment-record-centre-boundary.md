@@ -2,6 +2,7 @@
 reference: local-environment-record-centre-boundary
 name: Local Environment Record Centre boundary
 plural: Local Environment Record Centre boundaries
+term: local-environment-record-centre-boundary
 description: Local Environmental Records Centre (LERC) areas
 synonyms:
 - LERC

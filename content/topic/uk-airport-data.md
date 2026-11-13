@@ -2,6 +2,7 @@
 reference: uk-airport-data
 name: Uk airport data
 plural: Uk airport data
+term: uk-airport-data
 description: The presence of passenger and cargo airports in the UK.
 github-discussion: 268
 start-date: '2024-03-25'

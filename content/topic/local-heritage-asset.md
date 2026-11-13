@@ -2,6 +2,7 @@
 reference: local-heritage-asset
 name: Local heritage asset
 plural: Local heritage assets
+term: local-heritage-asset
 description: Assets designated by local authorities which are of local significance and require protection
 synonyms:
 - Non designated and locally listed historic assets

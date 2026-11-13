@@ -2,6 +2,7 @@
 reference: metropolitan-open-land-london
 name: Metropolitan open land (london)
 plural: Metropolitan open land (london)
+term: metropolitan-open-land-london
 description: Open space that contributes to the structure of London
 tags:
 - local plan

@@ -2,6 +2,7 @@
 reference: biosphere-reserve
 name: Biosphere reserve
 plural: Biosphere reserves
+term: biosphere-reserve
 description: Areas where local people model how we can live with nature and use its resources sustainably. They are designated by UNESCO (United Nations Educational Scientific and Cultural Organisation)
 github-discussion: 120
 start-date: '2024-03-25'

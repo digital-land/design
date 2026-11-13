@@ -2,6 +2,7 @@
 reference: school-catchment-area
 name: School catchment area
 plural: School catchment areas
+term: school-catchment-area
 description: Geographical area surrounding a school from which it will usually take most of its pupils
 tags:
 - local plan

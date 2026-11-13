@@ -2,6 +2,7 @@
 reference: national-trust-land
 name: National trust land
 plural: National trust land
+term: national-trust-land
 description: Land that is enclosed as part of a National Trust estate and public access is limited
 github-discussion: 216
 start-date: '2024-03-25'

@@ -2,6 +2,7 @@
 reference: road-classification
 name: Road classification
 plural: Road classification
+term: road-classification
 description: The system of roads classification that all UK roads (excluding motorways) fall into - A roads, B roads, classified unnumbered, unclassified
 synonyms:
 - Classified roads

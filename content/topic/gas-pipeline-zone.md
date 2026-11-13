@@ -2,6 +2,7 @@
 reference: gas-pipeline-zone
 name: Gas pipeline zone
 plural: Gas pipeline zones
+term: gas-pipeline-zone
 description: Zones which require proper selection and installation of apparatus to be used safely in that environment,because of the properties of the flammable gas present - classified as inner, middle and outer zones
 github-discussion: 167
 start-date: '2024-03-25'

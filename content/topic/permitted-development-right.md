@@ -2,6 +2,7 @@
 reference: permitted-development-right
 name: Permitted development right
 plural: Permitted development rights
+term: permitted-development-right
 description: The right to carry out certain building works and changes of use without the need for a full planning application
 github-discussion: 39
 start-date: '2024-03-25'

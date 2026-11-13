@@ -2,6 +2,7 @@
 reference: affordability-index
 name: Affordability index
 plural: Affordability index
+term: affordability-index
 tags:
 - building-control
 start-date: '2025-02-25'

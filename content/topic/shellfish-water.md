@@ -2,6 +2,7 @@
 reference: shellfish-water
 name: Shellfish water
 plural: Shellfish waters
+term: shellfish-water
 description: Areas designated for the protection of shellfish growth and production
 github-discussion: 253
 start-date: '2024-03-25'

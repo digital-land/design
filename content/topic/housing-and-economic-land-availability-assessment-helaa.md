@@ -2,6 +2,7 @@
 reference: housing-and-economic-land-availability-assessment-helaa
 name: Housing and economic land availability assessment (helaa)
 plural: Housing and economic land availability assessment (helaa)
+term: housing-and-economic-land-availability-assessment-helaa
 synonyms:
 - SHELAA
 - SHLAA

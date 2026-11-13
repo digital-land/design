@@ -2,6 +2,7 @@
 reference: protected-view
 name: Protected view
 plural: Protected views
+term: protected-view
 description: Legal requirement to preserve the view of a specific place or historic building from another location
 legislation:
 - uksi/2020/755

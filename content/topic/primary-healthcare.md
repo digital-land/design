@@ -2,6 +2,7 @@
 reference: primary-healthcare
 name: Primary healthcare
 plural: Primary healthcare
+term: primary-healthcare
 description: Primary care services provide the first point of contact in the healthcare system, including GPs, pharmacies, dentists, and optometrists
 tags:
 - local plan

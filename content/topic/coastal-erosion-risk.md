@@ -2,6 +2,7 @@
 reference: coastal-erosion-risk
 name: Coastal erosion risk
 plural: Coastal erosion risk
+term: coastal-erosion-risk
 tags:
 - environment
 - existing-data

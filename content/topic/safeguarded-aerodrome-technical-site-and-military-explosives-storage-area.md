@@ -2,6 +2,7 @@
 reference: safeguarded-aerodrome-technical-site-and-military-explosives-storage-area
 name: Safeguarded aerodrome, technical site and military explosives storage area
 plural: Safeguarding aerodromes, technical sites and military explosives storage areas
+term: safeguarded-aerodrome-technical-site-and-military-explosives-storage-area
 description: Areas which are safeguarded specifically for aerodromes, technical sites and military explosives storage.
 synonyms:
 - Safeguarded aerodromes

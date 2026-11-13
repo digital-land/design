@@ -2,6 +2,7 @@
 reference: proposed-ramsar-site
 name: Proposed ramsar site
 plural: Proposed ramsar sites
+term: proposed-ramsar-site
 description: Proposed boundaries of wetlands of international importance
 synonyms:
 - Protected sites

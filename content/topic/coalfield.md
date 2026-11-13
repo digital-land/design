@@ -2,6 +2,7 @@
 reference: coalfield
 name: Coalfield
 plural: Coalfield
+term: coalfield
 description: A coal mining area that could contain unrecorded hazards
 github-discussion: 128
 start-date: '2024-03-25'

@@ -2,6 +2,7 @@
 reference: self-and-custom-build-area
 name: Self and custom build area
 plural: Self and custom build area
+term: self-and-custom-build-area
 description: Plots for custom and self-build homes
 tags:
 - local plan

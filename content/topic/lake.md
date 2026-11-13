@@ -2,6 +2,7 @@
 reference: lake
 name: Lake
 plural: Lakes
+term: lake
 description: Large areas of fresh water surrounded by land
 synonyms:
 - Watercourses

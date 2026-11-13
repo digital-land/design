@@ -2,6 +2,7 @@
 reference: strategic-industrial-location-sil
 name: Strategic Industrial Location (SIL)
 plural: Strategic Industrial Location (SIL)
+term: strategic-industrial-location-sil
 description: London’s largest concentrations of industrial, logistics and related capacity for uses that support the functioning of London’s economy
 tags:
 - local plan

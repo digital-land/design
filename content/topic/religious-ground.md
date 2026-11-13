@@ -2,6 +2,7 @@
 reference: religious-ground
 name: Religious ground
 plural: Religious grounds
+term: religious-ground
 description: Green space or greenspace is an area of undeveloped land in an urban context which is not usually available for development, such as playing fields, sports’ facilities, play areas and allotments.
 github-discussion: 64
 start-date: '2024-08-09'

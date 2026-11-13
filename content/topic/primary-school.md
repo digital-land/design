@@ -2,6 +2,7 @@
 reference: primary-school
 name: Primary school
 plural: Primary schools
+term: primary-school
 description: Primary education typically cover those aged between 4 and 11.
 tags:
 - local plan

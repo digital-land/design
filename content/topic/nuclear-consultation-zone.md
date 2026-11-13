@@ -2,6 +2,7 @@
 reference: nuclear-consultation-zone
 name: Nuclear consultation zone
 plural: Nuclear consultation zone
+term: nuclear-consultation-zone
 description: Consultation zones to limit the radiological consequences to members of the public in the event of a radiation emergency
 synonyms:
 - Nuclear safety zones

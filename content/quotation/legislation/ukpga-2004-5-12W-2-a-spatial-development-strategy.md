@@ -18,6 +18,6 @@ entry-date: 2026-11-12
 
 - (iii) a spatial development strategy adopted by a combined county authority in accordance with regulations under section 19 of the [Levelling-up and Regeneration Act 2023][legislation:ukpga/2023/55]; and
 
-[legislation:ukpga/2023/55]: legislation/ukpga/2023/55.md
+[legislation:ukpga/2023/55]: legislation/ukpga-2023-55.md
 [term:combined-authority]: term/combined-authority.md
 [term:spatial-development-strategy]: term/spatial-development-strategy.md

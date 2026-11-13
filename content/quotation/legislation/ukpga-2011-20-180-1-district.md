@@ -12,4 +12,4 @@ entry-date: 2026-11-12
 
 In sub-paragraph (3)(b) “**district**” in relation to a local housing authority has the same meaning as in the [Housing Act 1985][legislation:ukpga/1985/68].
 
-[legislation:ukpga/1985/68]: legislation/ukpga/1985/68.md
+[legislation:ukpga/1985/68]: legislation/ukpga-1985-68.md

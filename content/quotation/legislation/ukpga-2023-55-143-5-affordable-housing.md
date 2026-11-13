@@ -16,5 +16,5 @@ In [subsection (4)](http://www.legislation.gov.uk/ukpga/2023/55/section/143/4)[(
 
 - (b) any other description of housing that CLA regulations may specify.
 
-[legislation:ukpga/2008/17]: legislation/ukpga/2008/17.md
+[legislation:ukpga/2008/17]: legislation/ukpga-2008-17.md
 [term:affordable-housing]: term/affordable-housing.md

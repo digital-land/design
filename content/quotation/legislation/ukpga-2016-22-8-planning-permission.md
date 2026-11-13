@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[planning permission][term:planning-permission]” has the meaning given by section 336 of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8];
 
-[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[legislation:ukpga/1990/8]: legislation/ukpga-1990-8.md
 [term:planning-permission]: term/planning-permission.md

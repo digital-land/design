@@ -16,5 +16,5 @@ entry-date: 2026-11-12
 - any other description of housing that [CIL][abbreviation:cil] regulations may specify;
 
 [abbreviation:cil]: abbreviation/cil.md
-[legislation:ukpga/2008/17]: legislation/ukpga/2008/17.md
+[legislation:ukpga/2008/17]: legislation/ukpga-2008-17.md
 [term:affordable-housing]: term/affordable-housing.md

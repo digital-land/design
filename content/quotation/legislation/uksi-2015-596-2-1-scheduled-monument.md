@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[scheduled monument][term:scheduled-monument]” has the same meaning as in section 1(11) of the [Ancient Monuments and Archaeological Areas Act 1979][legislation:ukpga/1979/46] (schedule of monuments) ;
 
-[legislation:ukpga/1979/46]: legislation/ukpga/1979/46.md
+[legislation:ukpga/1979/46]: legislation/ukpga-1979-46.md
 [term:scheduled-monument]: term/scheduled-monument.md

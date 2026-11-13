@@ -18,5 +18,5 @@ In this Act “[statutory undertakers][term:statutory-undertakers]” means—
 
 - (c) any other authority, body or undertakers specified in an order made by the Secretary of State under this paragraph.
 
-[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[legislation:ukpga/1990/8]: legislation/ukpga-1990-8.md
 [term:statutory-undertakers]: term/statutory-undertakers.md

@@ -21,5 +21,5 @@ For the definition of “[drainage][term:drainage]” in section 72(1) of the [L
 
 .
 
-[legislation:ukpga/1991/59]: legislation/ukpga/1991/59.md
+[legislation:ukpga/1991/59]: legislation/ukpga-1991-59.md
 [term:drainage]: term/drainage.md

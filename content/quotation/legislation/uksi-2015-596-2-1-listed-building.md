@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[listed building][term:listed-building]” has the same meaning as in section 1 of the [Planning (Listed Buildings and Conservation Areas) Act 1990][legislation:ukpga/1990/9] (listing of buildings of special architectural or historic interest) ;
 
-[legislation:ukpga/1990/9]: legislation/ukpga/1990/9.md
+[legislation:ukpga/1990/9]: legislation/ukpga-1990-9.md
 [term:listed-building]: term/listed-building.md

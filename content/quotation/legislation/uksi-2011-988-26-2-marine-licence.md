@@ -15,5 +15,5 @@ entry-date: 2026-11-12
 - a licence under Part 2 of the Food and Environment Protection Act 1985; or
 - a [marine licence][term:marine-licence] under Part 4 of the [Marine and Coastal Access Act 2009][legislation:ukpga/2009/23];
 
-[legislation:ukpga/2009/23]: legislation/ukpga/2009/23.md
+[legislation:ukpga/2009/23]: legislation/ukpga-2009-23.md
 [term:marine-licence]: term/marine-licence.md

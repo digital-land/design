@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[improvement][term:improvement]”, in relation to a highway, has the meaning given by section 329(1) of the [Highways Act 1980][legislation:ukpga/1980/66];
 
-[legislation:ukpga/1980/66]: legislation/ukpga/1980/66.md
+[legislation:ukpga/1980/66]: legislation/ukpga-1980-66.md
 [term:improvement]: term/improvement.md

@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[works][term:works]” includes operations of any description and, in particular (but without prejudice to the generality of the preceding provision) flooding or tipping operations and any operations undertaken for purposes of agriculture (within the meaning of the [Town and Country Planning Act 1990][legislation:ukpga/1990/8] or, as regards Scotland, the Town and Country Planning (Scotland) Act 1997 or forestry (including afforestation).
 
-[legislation:ukpga/1990/8]: legislation/ukpga/1990/8.md
+[legislation:ukpga/1990/8]: legislation/ukpga-1990-8.md
 [term:works]: term/works.md

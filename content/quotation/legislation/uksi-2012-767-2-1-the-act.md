@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[the Act][term:the-act]” means the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5];
 
-[legislation:ukpga/2004/5]: legislation/ukpga/2004/5.md
+[legislation:ukpga/2004/5]: legislation/ukpga-2004-5.md
 [term:the-act]: term/the-act.md

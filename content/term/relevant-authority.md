@@ -25,6 +25,6 @@ entry-date: 2026-11-12
 - the Homes and Communities Agency; or
 - a joint committee established under section 15J of the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5].
 
-[legislation:ukpga/2004/5]: legislation/ukpga/2004/5.md
+[legislation:ukpga/2004/5]: legislation/ukpga-2004-5.md
 [term:development-corporation]: term/development-corporation.md
 [term:london-borough]: term/london-borough.md

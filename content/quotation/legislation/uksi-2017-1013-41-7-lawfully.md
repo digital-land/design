@@ -16,5 +16,5 @@ In paragraphs (5) and (6), “[lawfully][term:lawfully]” means—
 
 - (b) in the case of a bird, egg or other thing killed, taken or sold in Gibraltar or a member State ..., without contravention (as the case may be) of the law of Gibraltar or the law of that State implementing the Wild Birds Directive.
 
-[legislation:ukpga/1981/69]: legislation/ukpga/1981/69.md
+[legislation:ukpga/1981/69]: legislation/ukpga-1981-69.md
 [term:lawfully]: term/lawfully.md

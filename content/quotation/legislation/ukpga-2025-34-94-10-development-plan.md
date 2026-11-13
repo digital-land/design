@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[development plan][term:development-plan]” has the same meaning as in section 38 of the [Planning and Compulsory Purchase Act 2004][legislation:ukpga/2004/5];
 
-[legislation:ukpga/2004/5]: legislation/ukpga/2004/5.md
+[legislation:ukpga/2004/5]: legislation/ukpga-2004-5.md
 [term:development-plan]: term/development-plan.md

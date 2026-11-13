@@ -30,5 +30,5 @@ In subsection (1)(b) “[qualifying body][term:qualifying-body]” means—
 
 - (i) the Northern Ireland Housing Executive.
 
-[legislation:ukpga/1972/70]: legislation/ukpga/1972/70.md
+[legislation:ukpga/1972/70]: legislation/ukpga-1972-70.md
 [term:qualifying-body]: term/qualifying-body.md

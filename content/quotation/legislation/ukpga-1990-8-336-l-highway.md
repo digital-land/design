@@ -12,5 +12,5 @@ entry-date: 2026-11-12
 
 “[highway][term:highway]” has the same meaning as in the [Highways Act 1980][legislation:ukpga/1980/66] ;
 
-[legislation:ukpga/1980/66]: legislation/ukpga/1980/66.md
+[legislation:ukpga/1980/66]: legislation/ukpga-1980-66.md
 [term:highway]: term/highway.md

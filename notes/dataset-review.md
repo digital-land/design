@@ -39,89 +39,648 @@ Compare each dataset's `description` with the sourced definition and replace it 
 | [mineral-safeguarding-area](../content/dataset/mineral-safeguarding-area.md) |  | An area designated by minerals planning authorities which covers known deposits of minerals which are desired to be kept safeguarded from unnecessary sterilisa… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 | [planning-condition](../content/dataset/planning-condition.md) | A condition that is attached to planning permission | A condition imposed on a grant of [planning permission][term:planning-permission] (in accordance with the [Town and Country Planning Act 1990][legislation:ukpg… ([source](https://www.gov.uk/guidance/national-planning-policy-framework-annex-b-glossary)) |
 
-## Draft term from the dataset description (108)
 
-Find an authoritative definition, or keep the plain English description.
+## Draft terms (352)
 
-- [agricultural-land-classification](../content/dataset/agricultural-land-classification.md)
-- [air-quality-management-area](../content/dataset/air-quality-management-area.md)
-- [archaeological-priority-area](../content/dataset/archaeological-priority-area.md)
-- [area-of-outstanding-natural-beauty](../content/dataset/area-of-outstanding-natural-beauty.md)
-- [article-4-direction-area](../content/dataset/article-4-direction-area.md)
+Review for the Service Owner and legal. Find an authoritative definition, or keep the plain English text.
+
+| Term | From | Text |
+| --- | --- | --- |
+| [agricultural-land-classification](../content/term/agricultural-land-classification.md) | dataset | Land graded by its quality for agricultural use |
+| [air-quality-management-area](../content/term/air-quality-management-area.md) | dataset | Areas where air pollution levels have exceeded the national air quality objectives |
+| [archaeological-priority-area](../content/term/archaeological-priority-area.md) | dataset | Areas of Greater London where there is significant known [archaeological interest][term:archaeological-interest] or potential for new discoveries |
+| [area-of-outstanding-natural-beauty](../content/term/area-of-outstanding-natural-beauty.md) | dataset | Land protected by law to conserve and enhance its natural beauty |
+| [article-4-direction-area](../content/term/article-4-direction-area.md) | dataset | Orders made by the [local planning authority][term:local-planning-authority] to remove all or some of the permitted development rights on a site in order to pr… |
+| [article-4-direction-rule](../content/term/article-4-direction-rule.md) | dataset | The set of changes to permitted development rights affecting an [article 4 direction area][term:article-4-direction-area] |
+| [battlefield](../content/term/battlefield.md) | dataset | Areas registered with Historic England as a battlefield of historical significance |
+| [biodiversity-net-gain-assessment](../content/term/biodiversity-net-gain-assessment.md) | dataset | A biodiversity net gain assessment compares baseline conditions to post-development plans. Biodiversity net gain is achieved if the post-development plans prov… |
+| [border](../content/term/border.md) | dataset | The boundary of England as provided by the ONS for the purposes of producing statistics. |
+| [building-preservation-notice](../content/term/building-preservation-notice.md) | dataset | A notice to stop un-listed buildings of special architectural or historic interest from being demolished or altered in a way that affects the character of the … |
+| [building-safety-levy-rate](../content/term/building-safety-levy-rate.md) | dataset | Building Safety Levy rates per square metre for each local authority area in England |
+| [built-up-area](../content/term/built-up-area.md) | dataset | Built-up areas equal to or greater than 20 hectares |
+| [central-activities-zone](../content/term/central-activities-zone.md) | dataset | Central areas of London with implications for planning designated by the Greater London Authority (GLA) |
+| [certificate-of-immunity](../content/term/certificate-of-immunity.md) | dataset | A guarantee that a building or buildings will not be newly listed or given a building preservation notice for the next 5 years |
+| [checksum](../content/term/checksum.md) | dataset | Checksums of dataset files and other media |
+| [collection](../content/term/collection.md) | dataset | A collection of resources collected from various sources |
+| [column](../content/term/column.md) | dataset | Map resource column name to dataset field |
+| [column-field](../content/term/column-field.md) | dataset | Log of resource columns mapped to dataset fields |
+| [combine](../content/term/combine.md) | dataset | Combine a series of facts from multiple entries |
+| [common-land-and-village-green](../content/term/common-land-and-village-green.md) | dataset | Areas of open space that have been used for recreation by the inhabitants of the town, village or parish for generations |
+| [concat](../content/term/concat.md) | dataset | Concatenate fields during the harmonise phase |
+| [contaminated-land](../content/term/contaminated-land.md) | dataset | Land where substances are causing or could cause: - significant harm to people, property or protected species - significant pollution of surface waters (for ex… |
+| [convert](../content/term/convert.md) | dataset | Convert a resource |
+| [converted-resource](../content/term/converted-resource.md) | dataset | Result of resource conversion |
+| [datapackage](../content/term/datapackage.md) | dataset | Collections of datasets |
+| [datapackage-dataset](../content/term/datapackage-dataset.md) | dataset | Datasets included in a datapackage |
+| [dataset](../content/term/dataset.md) | dataset | Collection of entities of the same type |
+| [dataset-resource](../content/term/dataset-resource.md) | dataset | An index of resources in a dataset |
+| [default](../content/term/default.md) | dataset | Take a missing field default value from another field |
+| [default-value](../content/term/default-value.md) | dataset | Provide a default value for a missing or empty field |
+| [design-code-rule](../content/term/design-code-rule.md) | dataset | The set of [design code][term:design-code] rules affecting a [design code][term:design-code] area |
+| [development-corporation-boundary](../content/term/development-corporation-boundary.md) | dataset | [Development corporation][term:development-corporation] administrative boundaries |
+| [development-metric](../content/term/development-metric.md) | dataset | The types of measurement used as a [development policy metric][term:development-policy-metric] |
+| [development-plan-boundary](../content/term/development-plan-boundary.md) | dataset | A boundary that a development plan covers |
+| [development-plan-boundary-type](../content/term/development-plan-boundary-type.md) | dataset | A type of boundary covered by the development plan |
+| [development-plan-document](../content/term/development-plan-document.md) | dataset | Documents associated with a development plan |
+| [development-plan-document-type](../content/term/development-plan-document-type.md) | dataset | The types of documents published for a development plan |
+| [development-plan-geography](../content/term/development-plan-geography.md) | dataset | A geography that a development plan covers |
+| [development-plan-geography-type](../content/term/development-plan-geography-type.md) | dataset | A type of geography that a development plan covers |
+| [development-plan-status](../content/term/development-plan-status.md) | dataset | The different statuses a plan can have |
+| [development-plan-timetable](../content/term/development-plan-timetable.md) | dataset | Log of past and committed milestones and events when producing a development plan |
+| [development-policy-metric](../content/term/development-policy-metric.md) | dataset | Metrics associated with a development policy |
+| [educational-establishment](../content/term/educational-establishment.md) | dataset | Educational establishments in the UK including nurseries, primary and secondary schools |
+| [employment-allocation](../content/term/employment-allocation.md) | dataset | Sites that have been identified for employment use |
+| [entity](../content/term/entity.md) | dataset | A data item |
+| [entity-organisation](../content/term/entity-organisation.md) | dataset | The organisation responsible for managing a range of entities. |
+| [expect](../content/term/expect.md) | dataset | A set of rules which can be turned into an expectation of a dataset |
+| [expectation](../content/term/expectation.md) | dataset | The output of running expectations based on the rules defined in the expect dataset |
+| [expectation-issue](../content/term/expectation-issue.md) | dataset | Issues found checking expecatations |
+| [expectation-result](../content/term/expectation-result.md) | dataset | Results from checking expectations |
+| [fact](../content/term/fact.md) | dataset | A field and its value for an entity |
+| [fact-resource](../content/term/fact-resource.md) | dataset | The provenance of a fact |
+| [filter](../content/term/filter.md) | dataset | Filter entries |
+| [flood-risk-zone](../content/term/flood-risk-zone.md) | dataset | Area identified as being at risk of flooding from rivers or the sea |
+| [flood-storage-area](../content/term/flood-storage-area.md) | dataset | Areas that act as a balancing reservoir, storage basin or balancing pond for flood control |
+| [forest-inventory](../content/term/forest-inventory.md) | dataset | All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it |
+| [heritage-action-zone](../content/term/heritage-action-zone.md) | dataset | Grant-funded projects restoring historic environments |
+| [heritage-at-risk](../content/term/heritage-at-risk.md) | dataset | Hostoric sites that are most at risk of being lost as a result of neglect, decay or inappropriate development |
+| [historic-stone-quarry](../content/term/historic-stone-quarry.md) | dataset | Area where quarrying of stone was previously carried out |
+| [hs2-safeguarded-area](../content/term/hs2-safeguarded-area.md) | dataset | Protected land that might be needed to build the HS2 railway |
+| [include-exclude](../content/term/include-exclude.md) | dataset | Include or exclude items from a set |
+| [infrastructure-funding-statement](../content/term/infrastructure-funding-statement.md) | dataset | A summary of financial contributions councils have secured through section 106 agreements from new developments |
+| [infrastructure-project-decision](../content/term/infrastructure-project-decision.md) | dataset | The types of decision for infrastructure projects |
+| [infrastructure-project-document](../content/term/infrastructure-project-document.md) | dataset | The documents published and produced for a infrastructure project |
+| [infrastructure-project-document-type](../content/term/infrastructure-project-document-type.md) | dataset | The types of document produced and published for infrastructure projects |
+| [infrastructure-project-event](../content/term/infrastructure-project-event.md) | dataset | The events that happen during the infrastructure projects stages |
+| [infrastructure-project-log](../content/term/infrastructure-project-log.md) | dataset | A log of events that happen during the infrastructure projects |
+| [infrastructure-project-type](../content/term/infrastructure-project-type.md) | dataset | The types of infrastructure projects |
+| [internal-drainage-district](../content/term/internal-drainage-district.md) | dataset | Areas that derive benefit or avoid danger as a result of drainage operations |
+| [issue-type](../content/term/issue-type.md) | dataset | Types of issues with fields processing resources |
+| [listed-building-outline](../content/term/listed-building-outline.md) | dataset | Boundary of a [listed building][term:listed-building] |
+| [local-area-requirements](../content/term/local-area-requirements.md) | dataset | Requirements (sometimes known as validation checklists) that set out supporting information which applicants need to include with a planning application |
+| [local-authority-district](../content/term/local-authority-district.md) | dataset | The geographic area that a local government body is responsible for |
+| [local-green-space](../content/term/local-green-space.md) | dataset | Protected green areas demonstrably special to the local community, whether in a village or in a neighbourhood in a town or city |
+| [local-nature-recovery-strategy](../content/term/local-nature-recovery-strategy.md) | dataset | Locations to create or improve habitat most likely to provide the greatest benefit for nature and the wider environment |
+| [local-nature-reserve](../content/term/local-nature-reserve.md) | dataset | A protected area of land designated by a local authority because of its special natural interest or educational value |
+| [local-plan-boundary](../content/term/local-plan-boundary.md) | dataset | The boundary covered by a [local plan][term:local-plan]. |
+| [local-plan-document](../content/term/local-plan-document.md) | dataset | Documents associated with a [local plan][term:local-plan] |
+| [local-plan-document-type](../content/term/local-plan-document-type.md) | dataset | The types of documents published for a [local plan][term:local-plan] |
+| [local-plan-event](../content/term/local-plan-event.md) | dataset | The different event types in a [local plan timetable][term:local-plan-timetable] |
+| [local-plan-housing](../content/term/local-plan-housing.md) | dataset | Housing numbers for a [Local Planning Authority][term:local-planning-authority] in a [local plan][term:local-plan] |
+| [local-plan-process](../content/term/local-plan-process.md) | dataset | The examination process under which a [local plan][term:local-plan] is produced |
+| [local-plan-timetable](../content/term/local-plan-timetable.md) | dataset | Log of past and predicted milestones and events when producing a [local plan][term:local-plan] |
+| [local-planning-group](../content/term/local-planning-group.md) | dataset | Group of Local Authorities responsible for a joint [local plan][term:local-plan] |
+| [locally-listed-building](../content/term/locally-listed-building.md) | dataset | Locally listed heritage assets, including buildings |
+| [lookup](../content/term/lookup.md) | dataset | Lookup entities |
+| [main-river](../content/term/main-river.md) | dataset | Designated larger rivers and streams |
+| [minerals-and-waste-planning-authority](../content/term/minerals-and-waste-planning-authority.md) | dataset | Minerals and Waste Planning Authority boundaries |
+| [minerals-plan](../content/term/minerals-plan.md) | dataset | Minerals plans prepared by a Minerals and Waste Planning Authority |
+| [minerals-plan-boundary](../content/term/minerals-plan-boundary.md) | dataset | The boundary covered by a [minerals plan][term:minerals-plan]. |
+| [national-nature-reserve](../content/term/national-nature-reserve.md) | dataset | Areas where wildlife, plants and animals are protected to allow them to thrive |
+| [nature-improvement-area](../content/term/nature-improvement-area.md) | dataset | Areas of the country where partnerships have been set up to enhance the natural environment |
+| [old-entity](../content/term/old-entity.md) | dataset | Redirect an entity or mark it as gone |
+| [old-resource](../content/term/old-resource.md) | dataset | Redirect a resource to a fixed version, or mark it as gone |
+| [parish](../content/term/parish.md) | dataset | The smallest type of local government administrative area in England |
+| [patch](../content/term/patch.md) | dataset | Assert a field value during harmonise |
+| [permitted-development-right](../content/term/permitted-development-right.md) | dataset | The right to carry out certain building works and changes of use without the need for a full planning application |
+| [phase](../content/term/phase.md) | dataset | Phase of development |
+| [plan-event](../content/term/plan-event.md) | dataset | The different event types in a [plan timetable][term:plan-timetable] |
+| [plan-timetable](../content/term/plan-timetable.md) | dataset | Log of past and future milestones and events when producing a plan |
+| [planning-application-category](../content/term/planning-application-category.md) | dataset | A [planning application][term:planning-application] category is a high level categorisation of the type of [planning application][term:planning-application], s… |
+| [planning-application-condition](../content/term/planning-application-condition.md) | dataset | A record of which conditions apply to which planning applications |
+| [planning-application-log](../content/term/planning-application-log.md) | dataset | The stages a [planning application][term:planning-application] has gone through |
+| [planning-application-status](../content/term/planning-application-status.md) | dataset | A [planning application][term:planning-application] status |
+| [planning-application-type](../content/term/planning-application-type.md) | dataset | A type of [planning application][term:planning-application] |
+| [planning-condition-purpose](../content/term/planning-condition-purpose.md) | dataset | The primary purpose of the condition, for example to restrict something |
+| [planning-condition-target](../content/term/planning-condition-target.md) | dataset | The target of the condition, for example a property or site |
+| [planning-condition-type](../content/term/planning-condition-type.md) | dataset | The type of the [planning condition][term:planning-condition], for example the removal of permitted development rights |
+| [planning-decision](../content/term/planning-decision.md) | dataset | A planning decision |
+| [planning-decision-type](../content/term/planning-decision-type.md) | dataset | A type of [planning decision][term:planning-decision] |
+| [planning-development-category](../content/term/planning-development-category.md) | dataset | Planning development category |
+| [postcode](../content/term/postcode.md) | dataset | Postcodes in England |
+| [proposed-ramsar-site](../content/term/proposed-ramsar-site.md) | dataset | Proposed boundaries of wetlands of international importance |
+| [protected-land](../content/term/protected-land.md) | dataset | Sites with special status as protected areas because of their natural and cultural importance |
+| [protected-view](../content/term/protected-view.md) | dataset | Legal requirement to preserve the view of a specific place or historic building from another location |
+| [protected-wreck-site](../content/term/protected-wreck-site.md) | dataset | The restricted area around the wreck of a nationally important vessel to prevent any interference |
+| [provision](../content/term/provision.md) | dataset | Data expected to be provided by an organisation |
+| [provision-quality](../content/term/provision-quality.md) | dataset | Quality of data provided by an organisation on a date |
+| [provision-reason](../content/term/provision-reason.md) | dataset | The reason a dataset is provided by an organisation |
+| [provision-rule](../content/term/provision-rule.md) | dataset | Rules for the datasets an organisation is expected to priovide |
+| [public-safety-zone-around-airport](../content/term/public-safety-zone-around-airport.md) | dataset | End of runway areas where development is restricted for public safety |
+| [ramsar](../content/term/ramsar.md) | dataset | An area of wetlands that is of international importance |
+| [realm](../content/term/realm.md) | dataset | Dataset grouping |
+| [requirement-level](../content/term/requirement-level.md) | dataset | Key word used in specifications to indicate the level of a requirement |
+| [resource](../content/term/resource.md) | dataset | An index of collected resources |
+| [role-organisation-rule](../content/term/role-organisation-rule.md) | dataset | Rules for the organisations with a role |
+| [safeguarded-wharf](../content/term/safeguarded-wharf.md) | dataset | Wharves in London which have been given special status to ensure they are retained as working wharves and are protected from redevelopment |
+| [severity](../content/term/severity.md) | dataset | Severity of a log message or issue |
+| [skip](../content/term/skip.md) | dataset | Remove lines from a resource during normalise |
+| [special-area-of-conservation](../content/term/special-area-of-conservation.md) | dataset | An area containing wildlife or marine life habitats and species that need conservation |
+| [special-protection-area](../content/term/special-protection-area.md) | dataset | An area containing bird habitats and species that need conservation |
+| [specification-reason](../content/term/specification-reason.md) | dataset | Regulatory duties and reasons for organisations to provide data to a specification |
+| [specification-status](../content/term/specification-status.md) | dataset | Status of a specification |
+| [supplementary-plan](../content/term/supplementary-plan.md) | dataset | Supplementary local plans prepared by a [Local Planning Authority][term:local-planning-authority] |
+| [task](../content/term/task.md) | dataset | Tasks are an amalgamation of the various data quality checks that are run in the pipeline that need to be fixed (e.g. issues, expectations, collection logs). |
+| [transport-access-node](../content/term/transport-access-node.md) | dataset | All public transport access points where you can get on or off public transport |
+| [tree](../content/term/tree.md) | dataset | An individual tree |
+| [tree-preservation-order](../content/term/tree-preservation-order.md) | dataset | The order document that protects a tree or group of trees |
+| [tree-preservation-zone](../content/term/tree-preservation-zone.md) | dataset | An area covered by a tree preservation order |
+| [tree-preservation-zone-type](../content/term/tree-preservation-zone-type.md) | dataset | Types of zone covered by the tree preservation order |
+| [uprn](../content/term/uprn.md) | dataset | Unique property reference numbers |
+| [ward](../content/term/ward.md) | dataset | Local areas that have been divided for voting purposes |
+| [waste-plan](../content/term/waste-plan.md) | dataset | Waste plans prepared by a Minerals and Waste Planning Authority |
+| [waste-plan-boundary](../content/term/waste-plan-boundary.md) | dataset | The boundary covered by a [waste plan][term:waste-plan]. |
+| [affordable-housing-requirement](../content/term/affordable-housing-requirement.md) | other | The amount of [affordable housing][term:affordable-housing] a development is required to provide under planning policy. |
+| [ancient-semi-natural-woodland](../content/term/ancient-semi-natural-woodland.md) | other | [Ancient woodland][term:ancient-woodland] mainly made up of trees and shrubs native to the site, usually arising from natural regeneration. |
+| [ancient-woodland-inventory](../content/term/ancient-woodland-inventory.md) | other | Natural England's inventory of [ancient woodland][term:ancient-woodland] sites. |
+| [environmental-permit](../content/term/environmental-permit.md) | other | A permit from the Environment Agency, or the local authority, to carry out an activity which may harm the environment. |
+| [highway-authority](../content/term/highway-authority.md) | other | The authority responsible for maintaining a public highway. |
+| [historic-parkland](../content/term/historic-parkland.md) | other | A designed landscape of historic interest, protected as a [heritage asset][term:heritage-asset]. |
+| [mayoral-combined-authority](../content/term/mayoral-combined-authority.md) | other | A combined authority of local authorities led by a directly elected mayor. |
+| [planning-practice-guidance](../content/term/planning-practice-guidance.md) | other | Government guidance on GOV.UK explaining how to apply the [National Planning Policy Framework][term:national-planning-policy-framework]. |
+| [plantation](../content/term/plantation.md) | other | A wood planted with conifer or broadleaved trees. On an [ancient woodland][term:ancient-woodland] site it retains features such as undisturbed soil, ground flo… |
+| [secretary-of-state](../content/term/secretary-of-state.md) | other | The Minister of the Crown who heads the government department responsible for planning, and who decides planning appeals and called-in applications. |
+| [statutory-undertaker](../content/term/statutory-undertaker.md) | other | A body with statutory powers to provide a public service or utility, such as water, gas, electricity, rail or telecommunications. |
+| [viability-assessment](../content/term/viability-assessment.md) | other | An assessment of whether a development can meet the costs of policy requirements, such as affordable housing and infrastructure contributions, and still be del… |
+| [3g-4g-5g-coverage](../content/term/3g-4g-5g-coverage.md) | topic | Coverage of mobile phone networks |
+| [5-year-housing-land-supply-5yhls](../content/term/5-year-housing-land-supply-5yhls.md) | topic | Data about sites where they are expected to come forward to build-out within the next five years |
+| [abandoned-mine](../content/term/abandoned-mine.md) | topic | Areas where mining has previously taken place but is no longer in use |
+| [affordability-index](../content/term/affordability-index.md) | topic | A measure of how affordable housing is for local people, usually the ratio of house prices to earnings. |
+| [air-quality-index](../content/term/air-quality-index.md) | topic | Tool to show pollution levels in a particular site or region, through determining the concentration of Nitrogen Dioxide, Sulphur Dioxide, Ozone, Particles < 2.… |
+| [aircraft-noise](../content/term/aircraft-noise.md) | topic | Noise from aircraft, mapped as contours around airports, which is a consideration for noise-sensitive development. |
+| [ancient-and-veteran-tree](../content/term/ancient-and-veteran-tree.md) | topic | A tree that is of interest biologically, culturally or aesthetically because of its age, size or condition |
+| [annual-position-statement](../content/term/annual-position-statement.md) | topic | A statement published by a local planning authority each year setting out its housing land supply position. |
+| [archaeological-remains](../content/term/archaeological-remains.md) | topic | Sites where archaeological remains are discovered, and require conservation |
+| [area-habitat](../content/term/area-habitat.md) | topic | Habitats recorded in the biodiversity metric tool in area (hectares) used to calculate BNG. |
+| [area-of-archaeological-importance](../content/term/area-of-archaeological-importance.md) | topic | Areas designated to protect archaeological remains from being damaged or destroyed |
+| [area-of-deficiency-in-access-to-nature](../content/term/area-of-deficiency-in-access-to-nature.md) | topic | Areas over 1km walking distance from Sites of importance for Nature Conservation (SINCs) |
+| [area-of-deficiency-in-access-to-public-open-space](../content/term/area-of-deficiency-in-access-to-public-open-space.md) | topic | Areas over specific walking distance from each of the categories of public open space as set out within the London Plan |
+| [area-which-would-benefit-from-flood-defences](../content/term/area-which-would-benefit-from-flood-defences.md) | topic | Areas that would benefit from the presence of defences in a 1 percent fluvial / 0.5 percent tidal flood event. |
+| [authorised-landfill-site](../content/term/authorised-landfill-site.md) | topic | Areas of land that are used to dump rubbish, either directly on the ground or filling in an unwanted hole |
+| [authority-monitoring-reports-amrs](../content/term/authority-monitoring-reports-amrs.md) | topic | Local planning authorities must publish information at least annually, monitoring their progress on various planning activities, such as Local Plan preparation… |
+| [bgs-mining-hazards-not-including-coal](../content/term/bgs-mining-hazards-not-including-coal.md) | topic | The potential for hazards due to underground (non-coal) mining |
+| [bgs-soil-chemistry-for-environmental-assessments](../content/term/bgs-soil-chemistry-for-environmental-assessments.md) | topic | Identification of potentially harmful elements (PHEs) that under certain circumstances can be harmful to plants, animals or people |
+| [biosphere-reserve](../content/term/biosphere-reserve.md) | topic | Areas where local people model how we can live with nature and use its resources sustainably. They are designated by UNESCO (United Nations Educational Scienti… |
+| [bldgs-buildings](../content/term/bldgs-buildings.md) | topic | Tall buildings over 50m |
+| [bowling-green](../content/term/bowling-green.md) | topic | Areas of very smooth, short grass on which the game of bowls or lawn bowling is played |
+| [britpits-mine-quarry](../content/term/britpits-mine-quarry.md) | topic | BritPits (an abbreviation of British Pits), include both surface and underground mineral workings, such as mines, quarries, oil wells, gas wells, ash and desul… |
+| [broadband-speed](../content/term/broadband-speed.md) | topic | Coverage of broadband availability |
+| [building-safety-levy](../content/term/building-safety-levy.md) | topic | Developers will pay a Levy on new residential buildings which require building control approval, unless exempt to ensure fairness and mitigate supply impacts. … |
+| [business-improvement-district](../content/term/business-improvement-district.md) | topic | A defined area where local businesses vote to pay an additional levy to fund improvements to the area. |
+| [canal](../content/term/canal.md) | topic | Human-made waterways that allow boats and ships to pass from one body of water to another |
+| [casi-and-lidar-habitat](../content/term/casi-and-lidar-habitat.md) | topic | A habitat map derived from airborne data, specifically CASI and LIDAR data. The habitat map is a polygon shapefile showing site relevant habitat classes, for s… |
+| [cemetery](../content/term/cemetery.md) | topic | A cemetery provided and maintained by a burial authority |
+| [coal-authority-managed-tip](../content/term/coal-authority-managed-tip.md) | topic | Disused colliery tip sites owned and managed by the Coal Authority |
+| [coal-authority-mine-water-treatment-scheme](../content/term/coal-authority-mine-water-treatment-scheme.md) | topic | Locations where mine water is treated to improve water quality in polluted rivers |
+| [coal-authority-risk-area](../content/term/coal-authority-risk-area.md) | topic | Areas which contain recorded features which could cause risk from the legacy of coal mining operations |
+| [coalfield](../content/term/coalfield.md) | topic | A coal mining area that could contain unrecorded hazards |
+| [coalfield-consultation-area](../content/term/coalfield-consultation-area.md) | topic | Areas where the Coal Authority recommends a mining search report is required for property conveyancing or development |
+| [coastal-erosion-risk](../content/term/coastal-erosion-risk.md) | topic | The risk of land being lost to erosion of the coast, mapped to show the areas likely to be affected. |
+| [coastal-storm-surge-flood-risk-area](../content/term/coastal-storm-surge-flood-risk-area.md) | topic | A storm surge is a change in sea level that is caused by a storm. They can lead to extensive flooding and are dangerous for people living in many coastal areas. |
+| [coastal-topographic-survey](../content/term/coastal-topographic-survey.md) | topic | Surveys covering beaches, dunes, cliffs, saltmarshes and coastal defence structures |
+| [community-hall](../content/term/community-hall.md) | topic | Community halls are available to the public for community-related recreational activities. |
+| [community-infrastructure-levy-cil](../content/term/community-infrastructure-levy-cil.md) | topic | The Community Infrastructure Levy (CIL) is a charge which can be levied by local authorities on new development. It only applies in areas where a local authori… |
+| [completion-notice](../content/term/completion-notice.md) | topic | Documents that set a date when work on a new building or conversion should be complete |
+| [compulsory-purchase-order](../content/term/compulsory-purchase-order.md) | topic | Orders that allow a public authority to acquire land without the consent of the owner |
+| [conservation-convenant](../content/term/conservation-convenant.md) | topic | A conservation covenant agreement is a private, voluntary agreement to conserve the natural or heritage features of the land. This can include buildings on the… |
+| [control-of-major-accident-and-hazard-sites](../content/term/control-of-major-accident-and-hazard-sites.md) | topic | Sites storing or handling large quantities of chemicals or hazardous substances that are covered by the Control of Major Accident Hazards (COMAH) Regulations |
+| [council-ward](../content/term/council-ward.md) | topic | Local areas that have been divided for voting purposes |
+| [country-park](../content/term/country-park.md) | topic | Areas of countryside set aside for public recreation |
+| [countryside-stewardship-scheme-agreement](../content/term/countryside-stewardship-scheme-agreement.md) | topic | Previous agreements that provided financial incentives for farmers, foresters and land managers to look after and improve their environments |
+| [county-council](../content/term/county-council.md) | topic | Local government tier, often having the role of minerals and waste planning authority, highways authority and statutory consultee. |
+| [critical-drainage-area](../content/term/critical-drainage-area.md) | topic | An area within flood zone 1 which has critical drainage problems and which has been notified to the local planning authority by the Environment Agency. |
+| [cropland](../content/term/cropland.md) | topic | Areas of land used for growing crops |
+| [cultural-infrastructure](../content/term/cultural-infrastructure.md) | topic | Places, spaces, and buildings where cultural activities take place. |
+| [designated-neighbourhood-forum](../content/term/designated-neighbourhood-forum.md) | topic | Organisations or groups empowered to lead the neighbourhood planning process in a neighbourhood area where there is no town or parish council |
+| [designated-open-space](../content/term/designated-open-space.md) | topic | Land laid out as a public garden or used for the purposes of public recreation |
+| [development-plan-and-timetable](../content/term/development-plan-and-timetable.md) | topic | The status of emerging and current local plans and other development plans for local planning authorities |
+| [development-plan-policy](../content/term/development-plan-policy.md) | topic | A policy set out in a development plan, used to guide decisions on planning applications. |
+| [drainage-agreement-and-consent](../content/term/drainage-agreement-and-consent.md) | topic | Agreements in place to drain buildings in combination into an existing sewer through a private sewer, or consent for a building, or building extension to be bu… |
+| [drinking-water-safeguard-zone](../content/term/drinking-water-safeguard-zone.md) | topic | Drinking Water Groundwater Safeguard Zones (SgZs) are established around public water supplies where additional pollution control measures are needed. |
+| [early-years-provision](../content/term/early-years-provision.md) | topic | Education and childcare provision for children under 5 through nurseries, private, voluntary and independent (PVI) providers, including childminders |
+| [energy-and-renewable-statistics](../content/term/energy-and-renewable-statistics.md) | topic | Statistics on energy use and the generation of renewable energy for an area. |
+| [energy-performance-certificate](../content/term/energy-performance-certificate.md) | topic | Certificates that contain: - information about a property’s energy use and typical energy costs - recommendations about how to reduce energy use and save money… |
+| [enterprise-zone](../content/term/enterprise-zone.md) | topic | Areas where commercial and industrial businesses can get incentives to set up or expand |
+| [environmental-outcome-report](../content/term/environmental-outcome-report.md) | topic | A system of assessing environmental impacts from development, plans, projects and policies |
+| [essex-wildlife-trust-reserve](../content/term/essex-wildlife-trust-reserve.md) | topic | Nature reserves and discovery centres managed and protected by Essex Wildlife Trust |
+| [existing-housing-stock](../content/term/existing-housing-stock.md) | topic | To determine the minimum number of homes needed, strategic policies should be informed by a local housing need assessment, conducted using the standard method … |
+| [existing-railway-network](../content/term/existing-railway-network.md) | topic | The existing railway network. |
+| [fast-food-exclusion-zone](../content/term/fast-food-exclusion-zone.md) | topic | Zones where fast food outlets are banned because they'd be within 400m of schools and other places where children congregate |
+| [fibre-to-the-premises-fttp](../content/term/fibre-to-the-premises-fttp.md) | topic | Also known as ultrafast full fibre broadband, this involves laying fibre optic cables directly from the broadband exchange into homes, offering speeds of up to… |
+| [fire-and-rescue-station](../content/term/fire-and-rescue-station.md) | topic | Buildings which store firefighting equipment, such as fire engines and hoses, as well as providing working and living spaces for firefighters and support staff |
+| [flood-risk-area](../content/term/flood-risk-area.md) | topic | Areas where there is a risk of flooding from rivers or the sea |
+| [flood-risk-zones-3b](../content/term/flood-risk-zones-3b.md) | topic | Flood risk zone 3b, or the 'functional floodplain' is land where water has to flow or be stored in times of flooding, often to protect downstream communities f… |
+| [further-education](../content/term/further-education.md) | topic | Non-advanced courses taken after the period of compulsory education. Primarily taught to those aged 16 and over in further education colleges, work-based learn… |
+| [gas-pipeline](../content/term/gas-pipeline.md) | topic | Gas pipelines are wide-diameter, long-distance pipelines that transport natural gas from the producing and processing areas to storage facilities and distribut… |
+| [gas-pipeline-zone](../content/term/gas-pipeline-zone.md) | topic | Zones which require proper selection and installation of apparatus to be used safely in that environment,because of the properties of the flammable gas present… |
+| [gigabit-availability-coverage](../content/term/gigabit-availability-coverage.md) | topic | The coverage of where wifi download speeds of 1,000mbps (megabits per second) are available. |
+| [golf-course](../content/term/golf-course.md) | topic | Large areas of grass specially designed for people to play golf on |
+| [grassland](../content/term/grassland.md) | topic | Landscapes dominated by grasses |
+| [great-crested-newt-edna-pond-survey](../content/term/great-crested-newt-edna-pond-survey.md) | topic | Surveys of ponds to detect newt environmental DNA |
+| [great-crested-newt-risk-zone](../content/term/great-crested-newt-risk-zone.md) | topic | Areas where the distribution of great crested newts (GCN) has been categorised into zones |
+| [great-crested-newt-strategic-opportunity-area](../content/term/great-crested-newt-strategic-opportunity-area.md) | topic | Areas where new ponds would benefit great crested newt (GCN) populations |
+| [greater-london-archaeological-priority-area](../content/term/greater-london-archaeological-priority-area.md) | topic | Areas of Greater London where there is significant known archaeological interest or potential for new discoveries |
+| [green-corridor](../content/term/green-corridor.md) | topic | Areas that create habitat connections and active travel routes through encouraging exercise and healthy living while linking fragmented sites of biodiversity |
+| [green-space](../content/term/green-space.md) | topic | Places that are intentionally not developed |
+| [greenbelt](../content/term/greenbelt.md) | topic | An area of open land around a city that cannot be built on |
+| [groundwater-source-protection-zone](../content/term/groundwater-source-protection-zone.md) | topic | Zones that provide additional protection to safeguard drinking water quality |
+| [groundwater-vulnerability](../content/term/groundwater-vulnerability.md) | topic | Whether groundwater has a high, medium or low risk of pollution |
+| [habitat-network](../content/term/habitat-network.md) | topic | Sets of separate areas of habitat that are close enough together to connect in some way |
+| [hazardous-substance-contravention-notice](../content/term/hazardous-substance-contravention-notice.md) | topic | A hazardous substance contravention notice can be issued to a person who does not have the consent to store hazardous substances |
+| [health-and-safety-executive-consultation-zone](../content/term/health-and-safety-executive-consultation-zone.md) | topic | The Health and Safety Executive (HSE) sets the consultation zone around major hazard sites and major accident hazard pipelines, after assessing the risks and l… |
+| [heathland-and-shrub](../content/term/heathland-and-shrub.md) | topic | Land that has at least 25% cover of woody species such as gorse or heather |
+| [hedgerow](../content/term/hedgerow.md) | topic | Any boundary line of trees or shrubs over 20m long and less than 5m wide |
+| [heritage-asset-of-archaeological-interest](../content/term/heritage-asset-of-archaeological-interest.md) | topic | An area that holds, or potentially holds, evidence of past human activity worthy of expert investigation |
+| [higher-education](../content/term/higher-education.md) | topic | Both undergraduate and postgraduate courses, typically attended in higher education institutions, such as Universities. |
+| [historic-park-and-garden](../content/term/historic-park-and-garden.md) | topic | Designed landscapes of special historical interest because of their layout, features and architectural decoration |
+| [historical-mineral-planning-permission](../content/term/historical-mineral-planning-permission.md) | topic | Boundaries for permitted, withdrawn and refused mineral planning permissions for England and Wales |
+| [housing-and-economic-land-availability-assessment-helaa](../content/term/housing-and-economic-land-availability-assessment-helaa.md) | topic | An assessment of the land available for housing and economic development in an area, used to inform plan making. |
+| [indoor-sports-and-leisure-facility](../content/term/indoor-sports-and-leisure-facility.md) | topic | Multi-sports building where a range of sport and recreational activities can take place |
+| [integrated-care-board-icb](../content/term/integrated-care-board-icb.md) | topic | Partnerships between the NHS, councils and the voluntary sector to improve health and care services |
+| [invasive-non-native-species](../content/term/invasive-non-native-species.md) | topic | Species which have been introduced into areas outside their natural range through human actions and are posing a threat to native wildlife |
+| [lake](../content/term/lake.md) | topic | Large areas of fresh water surrounded by land |
+| [land-maintenance-notice](../content/term/land-maintenance-notice.md) | topic | A notice served when the condition of land is having an adverse effect on a neighbourhood |
+| [land-registry-polygon-red-line-boundary](../content/term/land-registry-polygon-red-line-boundary.md) | topic | The indicative shapes and positions of each boundary of registered titles for land and property |
+| [land-required-for-public-purpose](../content/term/land-required-for-public-purpose.md) | topic | Land reserved for a public purpose under a planning scheme |
+| [land-to-be-acquired-for-roadworks](../content/term/land-to-be-acquired-for-roadworks.md) | topic | Land reserved for roadworks |
+| [less-favoured-area](../content/term/less-favoured-area.md) | topic | Remote and constrained rural areas where funding is provided to farming businesses |
+| [library](../content/term/library.md) | topic | A building containing collections of books and other media for use and borrowing by the public. Libraries increasingly have broader offerings, including child … |
+| [local-air-quality-action-plan](../content/term/local-air-quality-action-plan.md) | topic | Plan that outlines local action to improve air quality |
+| [local-environment-record-centre-boundary](../content/term/local-environment-record-centre-boundary.md) | topic | Local Environmental Records Centre (LERC) areas |
+| [local-flood-data](../content/term/local-flood-data.md) | topic | Data about local sources of flooding, such as surface water, groundwater and ordinary watercourses. |
+| [local-geological-site](../content/term/local-geological-site.md) | topic | Non-statutory geological sites which are given protection through the planning process, designated by local authorities. |
+| [local-heritage-asset](../content/term/local-heritage-asset.md) | topic | Assets designated by local authorities which are of local significance and require protection |
+| [local-landscape-area](../content/term/local-landscape-area.md) | topic | Areas in Scotland which are given a local designation to sure that the landscape is not damaged by inappropriate development, and to encourage positive landsca… |
+| [local-listed-building-consent-order](../content/term/local-listed-building-consent-order.md) | topic | An order made by a local planning authority granting listed building consent for specified works to listed buildings in its area. |
+| [local-plan-consultation-and-representation](../content/term/local-plan-consultation-and-representation.md) | topic | A consultation on a local plan, and the representations made in response to it. |
+| [local-wildlife-site](../content/term/local-wildlife-site.md) | topic | Areas of land that are especially important for their local wildlife |
+| [locally-significant-industrial-sites-lsis](../content/term/locally-significant-industrial-sites-lsis.md) | topic | Sites that have particular local importance for industrial and related functions |
+| [marine-conservation-zone](../content/term/marine-conservation-zone.md) | topic | Marine areas that protect a range of nationally important, rare or threatened habitats and species |
+| [metropolitan-open-land-london](../content/term/metropolitan-open-land-london.md) | topic | Open space that contributes to the structure of London |
+| [minerals-and-waste-plan](../content/term/minerals-and-waste-plan.md) | topic | Locations for future minerals extraction (such as sand and gravel pits or crushed rock quarries) and for the development of waste management facilities (such a… |
+| [mining-and-ground-stability](../content/term/mining-and-ground-stability.md) | topic | Potential ground stability hazards from mining activities |
+| [national-character-area](../content/term/national-character-area.md) | topic | Geographically unique areas of the UK |
+| [national-chargepoint-register](../content/term/national-chargepoint-register.md) | topic | Database of public electric vehicle chargepoints in the UK |
+| [national-cycle-network](../content/term/national-cycle-network.md) | topic | The UK-wide network of signed paths and routes for walking, wheeling, and cycling outdoors |
+| [national-park-and-the-broads](../content/term/national-park-and-the-broads.md) | topic | A large area of land protected by law for the benefit of the nation |
+| [national-public-transport-access-nodes-naptan](../content/term/national-public-transport-access-nodes-naptan.md) | topic | All public transport access points where you can get on or off public transport |
+| [national-trust-land](../content/term/national-trust-land.md) | topic | Land that is enclosed as part of a National Trust estate and public access is limited |
+| [national-trust-land-always-open](../content/term/national-trust-land-always-open.md) | topic | National Trust land that the public has access to on foot only |
+| [nationally-significant-infrastructure-projects-nsip](../content/term/nationally-significant-infrastructure-projects-nsip.md) | topic | Major infrastructure projects such as new harbours, roads, power generating stations (including offshore wind farms) and electricity transmission lines, which … |
+| [nhs-trust](../content/term/nhs-trust.md) | topic | An organisational unit within the NHS that serves either a geographical area or a specialised function (such as an ambulance service) |
+| [noise-action-important-area](../content/term/noise-action-important-area.md) | topic | A framework to manage environmental noise and to protect quiet areas in large urban areas |
+| [non-designated-heritage-asset](../content/term/non-designated-heritage-asset.md) | topic | Buildings, monuments, sites, places, areas or landscapes identified by planmaking bodies as having a degree of heritage significance needing consideration in p… |
+| [nuclear-consultation-zone](../content/term/nuclear-consultation-zone.md) | topic | Consultation zones to limit the radiological consequences to members of the public in the event of a radiation emergency |
+| [nuclear-power-station](../content/term/nuclear-power-station.md) | topic | Power plants that use the process of nuclear fission to generate electricity |
+| [open-road](../content/term/open-road.md) | topic | High-level view of the road network, from motorways to country lanes |
+| [opencast-coal-prospecting-area](../content/term/opencast-coal-prospecting-area.md) | topic | Areas of opencast coal prospecting sites. |
+| [opportunity-area](../content/term/opportunity-area.md) | topic | London’s principal opportunities for accommodating large scale development to provide substantial numbers of new employment and housing, each typically more th… |
+| [other-sports-facility](../content/term/other-sports-facility.md) | topic | Courts and greens comprising natural or artificial surfaces, including tennis courts, bowling greens, athletics tracks and other outdoor sports areas |
+| [planning-application-and-decision](../content/term/planning-application-and-decision.md) | topic | Records of applications for development and the associated decisions |
+| [planning-application-consultation](../content/term/planning-application-consultation.md) | topic | The period of consultation where views on the proposed development can be communicated |
+| [planning-application-submission](../content/term/planning-application-submission.md) | topic | Working towards a set of data specifications that define what needs to be included when submitting a planning application |
+| [planning-application-variance](../content/term/planning-application-variance.md) | topic | Options for amending proposals that have planning permission |
+| [play-space](../content/term/play-space.md) | topic | Children's play provision, including local areas for play (LAP), locally equiped areas for play (LEAP), and neighbourhood equipped area of play (NEAP). |
+| [police-station](../content/term/police-station.md) | topic | The local headquarters of the police |
+| [pollinator-corridor](../content/term/pollinator-corridor.md) | topic | A corridor of native plants that connects different areas of habitat, providing nutrition and homes for pollinators |
+| [port](../content/term/port.md) | topic | A maritime facility comprising one or more wharves or loading areas, where ships load and discharge cargo and passengers. |
+| [previously-listed-building](../content/term/previously-listed-building.md) | topic | Listed buildings that have been de-listed |
+| [primary-healthcare](../content/term/primary-healthcare.md) | topic | Primary care services provide the first point of contact in the healthcare system, including GPs, pharmacies, dentists, and optometrists |
+| [primary-school](../content/term/primary-school.md) | topic | Primary education typically cover those aged between 4 and 11. |
+| [priority-habitat](../content/term/priority-habitat.md) | topic | The UK Biodiversity Action Plan (UK BAP) refers to a number of priority habitats, including terrestrial, freshwater and marine habitats. Each priority habitat … |
+| [priority-habitat-inventory](../content/term/priority-habitat-inventory.md) | topic | Geographic extent and location of habitats of principal importance |
+| [protected-rural-landscape](../content/term/protected-rural-landscape.md) | topic | A rural landscape protected by policy because of its character or quality. |
+| [protected-species](../content/term/protected-species.md) | topic | Threatened, vulnerable or endangered species which are protected from extinction |
+| [public-park-and-garden](../content/term/public-park-and-garden.md) | topic | Accessible, high quality opportunities for informal recreation and community events, including urban parks, country parks, regional parks, forest parks, and fo… |
+| [public-path-and-byway](../content/term/public-path-and-byway.md) | topic | Tracks and paths open to the public |
+| [public-right-of-way-prow](../content/term/public-right-of-way-prow.md) | topic | Specific routes the public have a legal right to use across land that may be owned by a private individual |
+| [public-transport-accessibility-levels-ptal](../content/term/public-transport-accessibility-levels-ptal.md) | topic | A detailed and accurate measure of the accessibility of a point to the public transport network, taking into account walk access time and service availability |
+| [radon](../content/term/radon.md) | topic | A naturally occurring radioactive gas which may be found in high concentrations in indoor environments |
+| [railway-track](../content/term/railway-track.md) | topic | The structures that trains run on |
+| [regionally-important-geological-site](../content/term/regionally-important-geological-site.md) | topic | Regionally important geological sites (RIGS) are the most important designated sites for geology and geomorphology, representing educational, historical and re… |
+| [religious-building](../content/term/religious-building.md) | topic | Structures created for worship |
+| [religious-ground](../content/term/religious-ground.md) | topic | Green space or greenspace is an area of undeveloped land in an urban context which is not usually available for development, such as playing fields, sports’ fa… |
+| [reservoir](../content/term/reservoir.md) | topic | Artificial lakes where water is collected and stored |
+| [river-basin-district](../content/term/river-basin-district.md) | topic | Areas of land and sea, made up of one or more neighbouring river basins together with their associated groundwaters and coastal waters |
+| [road-classification](../content/term/road-classification.md) | topic | The system of roads classification that all UK roads (excluding motorways) fall into - A roads, B roads, classified unnumbered, unclassified |
+| [safeguarded-aerodrome-technical-site-and-military-explosives-storage-area](../content/term/safeguarded-aerodrome-technical-site-and-military-explosives-storage-area.md) | topic | Areas which are safeguarded specifically for aerodromes, technical sites and military explosives storage. |
+| [safeguarded-land](../content/term/safeguarded-land.md) | topic | A planning mechanism to make sure land which has been identified for development in the future is protected from conflicting development |
+| [school-catchment-area](../content/term/school-catchment-area.md) | topic | Geographical area surrounding a school from which it will usually take most of its pupils |
+| [seabird-nesting-count](../content/term/seabird-nesting-count.md) | topic | Counts of breeding seabirds |
+| [secondary-healthcare](../content/term/secondary-healthcare.md) | topic | Secondary healthcare includes facilities where patients have been referred, such as hospitals, mental health services, community health facilities and sexual h… |
+| [self-and-custom-build-area](../content/term/self-and-custom-build-area.md) | topic | Plots for custom and self-build homes |
+| [sensitive-area-nitrate](../content/term/sensitive-area-nitrate.md) | topic | Areas designated as being at risk from agricultural nitrate pollution |
+| [shellfish-water](../content/term/shellfish-water.md) | topic | Areas designated for the protection of shellfish growth and production |
+| [site-of-importance-for-nature-conservation](../content/term/site-of-importance-for-nature-conservation.md) | topic | Defined areas identified and selected for their nature conservation value |
+| [social-housing](../content/term/social-housing.md) | topic | Social housing is more affordable than housing on the open market. It can be rented from housing associations or councils at reduced rents, or it can be part-s… |
+| [sparsely-vegetated-land](../content/term/sparsely-vegetated-land.md) | topic | Environments where plants are slow to establish and easily disturbed |
+| [special-educational-needs-and-disabilities-send](../content/term/special-educational-needs-and-disabilities-send.md) | topic | Special educational needs and disabilities (SEND) can affect a child or young person’s ability to learn. Mainstream schools must provide access to services and… |
+| [special-roadside-verge](../content/term/special-roadside-verge.md) | topic | Uncultivated areas of grassland next to roads in an intensively farmed landscape |
+| [statement-of-community-involvement-sci](../content/term/statement-of-community-involvement-sci.md) | topic | A "Statement of Community Involvement" (SCI) is a document issued by a local council that outlines how they will engage with the community when making planning… |
+| [strategic-area-for-regeneration](../content/term/strategic-area-for-regeneration.md) | topic | These areas are the Census Local Super Output Areas (LSOAs) in greatest socio-economic need. They fall within the 20 per cent most deprived LSOAs in England, u… |
+| [strategic-flood-risk-assessment](../content/term/strategic-flood-risk-assessment.md) | topic | A Strategic Flood Risk Assessments are undertaken by local planning authorities and inform local flood risk |
+| [strategic-housing-market-assessments-shmas](../content/term/strategic-housing-market-assessments-shmas.md) | topic | An assessment of the need for housing across a housing market area. |
+| [strategic-industrial-location-sil](../content/term/strategic-industrial-location-sil.md) | topic | London’s largest concentrations of industrial, logistics and related capacity for uses that support the functioning of London’s economy |
+| [strategic-road-network](../content/term/strategic-road-network.md) | topic | 4,500 miles of motorways and major A roads |
+| [suitable-alternative-natural-greenspace-sang](../content/term/suitable-alternative-natural-greenspace-sang.md) | topic | SANG provides an alternative greenspace to attract residents of new developments away from the protected and vulnerable sites |
+| [supplementary-planning-document-spd](../content/term/supplementary-planning-document-spd.md) | topic | Detailed advice or guidance on policies in an adopted local plan, and a material consideration in decision-making |
+| [supply-demand-balance-water](../content/term/supply-demand-balance-water.md) | topic | A "water supply-demand balance" refers to the equilibrium between the amount of available water supply and the amount of water demanded by users, essentially s… |
+| [tennis-court](../content/term/tennis-court.md) | topic | Courts or areas with a net across the middle used for playing tennis |
+| [topography](../content/term/topography.md) | topic | Data describing the relief of the land needed to remove steep or inaccessible sites otherwise unsuitable for development. |
+| [traditional-orchard](../content/term/traditional-orchard.md) | topic | Traditional orchards are priority habitats that are groups of fruit and nut trees planted on vigorous rootstocks at low densities in permanent grassland, and m… |
+| [uk-airport-data](../content/term/uk-airport-data.md) | topic | The presence of passenger and cargo airports in the UK. |
+| [use-class](../content/term/use-class.md) | topic | Legal framework which determines what a particular property may be used for by its lawful occupants |
+| [usrn](../content/term/usrn.md) | topic | Unique Street Reference Number (USRN) is an 8 digit unique identifier for every street across Great Britain |
+| [village-green-status](../content/term/village-green-status.md) | topic | Whether land is registered as a town or village green, giving local people the right to use it for recreation. |
+| [waste-and-recycling-facility](../content/term/waste-and-recycling-facility.md) | topic | Specialist locations where waste is taken to be sorted, separated, and recycled |
+| [waste-and-recycling-statistics](../content/term/waste-and-recycling-statistics.md) | topic | Information on waste generation and management |
+| [water-quality](../content/term/water-quality.md) | topic | The condition of water, including chemical, physical, and biological characteristics |
+| [water-resource-management-plan](../content/term/water-resource-management-plan.md) | topic | Water Resource Management Plans (WRMPs) set out how water companies intend to achieve a secure supply of water for their customers while protecting and enhanci… |
+| [water-stressed-area](../content/term/water-stressed-area.md) | topic | Areas where the demand for water exceeds the available amount |
+| [wildbelt-designation](../content/term/wildbelt-designation.md) | topic | Land currently of low biodiversity value that is designated for nature's recovery |
+
+## Terms with conflicting definitions (211)
+
+Record which definition we adopt in the term's `description`.
+
+| Term | Definitions | Quotations |
+| --- | --- | --- |
+| a | 3 | ukpga-2008-17-271-1-a, ukpga-2009-23-19-2-a, uksi-2026-854-2-3-a |
+| act | 3 | ukpga-1984-55-126-act, ukpga-2009-23-125-13-act, ukpga-2009-23-126-11-act, ukpga-2009-23-141-7-act, ukpga-2009-23-58-6-act, ukpga-2011-20-57-act, ukpga-2011-20-67-act, ukpga-2011-20-9-1-act |
+| action | 5 | ukpga-2000-22-13-14-action, ukpga-2000-22-9D-9-action, ukpga-2000-22-92-3-action, ukpga-2000-22-9J-5-action, ukpga-2008-17-275-action, ukpga-2023-54-109-9-action |
+| address | 5 | ukpga-1990-8-336-l-address, uksi-2012-637-3-address, uksi-2012-767-2-1-address, ukpga-1990-9-91-1-address, uksi-2010-103-2-1-address, uksi-2015-595-2-2-a-address, uksi-2026-186-2-2-address |
+| affordable-housing | 6 | ukpga-2004-5-12D-14-affordable-housing, ukpga-2025-34-58-1-affordable-housing, ukpga-2004-5-15LH-3-affordable-housing, ukpga-2008-29-216-8-affordable-housing, ukpga-2023-55-107-10-affordable-housing, ukpga-2016-22-159-1-affordable-housing, ukpga-2023-55-143-5-affordable-housing, nppf-annex-b-affordable-housing |
+| agreement | 2 | ukpga-2006-16-86-1-agreement, ukpga-2009-23-22-1-agreement |
+| agriculture | 4 | ukpga-1980-66-29-2-agriculture, ukpga-1980-66-329-1-agriculture, ukpga-1989-42-138-1-agriculture, ukpga-2006-16-88-4-agriculture |
+| allotment | 2 | ukpga-2008-17-9-7-allotment, ukpga-2025-34-89-9-allotment, ukpga-2011-20-187-3-allotment, ukpga-2011-20-207-10-allotment |
+| amend | 5 | ukpga-1988-4-7-5-amend, ukpga-1998-42-21-1-amend, ukpga-2013-24-52-7-amend, ukpga-2023-55-132-4-amend, ukpga-2023-55-251-4-amend |
+| ancient-woodland | 2 | ukpga-2023-55-136-2-ancient-woodland, nppf-annex-b-ancient-woodland |
+| any-other-information | 2 | uksi-2017-571-2-1-any-other-information, uksi-2017-572-3-1-any-other-information |
+| applicant | 2 | uksi-2010-106-2-1-applicant, uksi-2024-333-4-applicant, uksi-2017-572-3-1-applicant |
+| application | 4 | ukpga-1972-70-128H-1-application, ukpga-1990-8-332-6-application, uksi-2010-103-2-1-application, uksi-2010-106-2-1-application, uksi-2024-333-4-application |
+| arrangements | 3 | ukpga-2003-14-73AB-3-arrangements, ukpga-2021-26-14-5-arrangements, ukpga-2021-26-34-10-arrangements, uksi-2026-854-2-1-arrangements |
+| asset-of-community-value | 2 | ukpga-2011-20-87-2-asset-of-community-value, ukpga-2011-20-88-1-asset-of-community-value |
+| authorisation | 4 | ukpga-1995-25-35-6-authorisation, ukpga-1995-25-8-authorisation, ukpga-2009-23-126-11-authorisation, ukpga-2009-23-58-6-authorisation, ukpga-2021-30-126-5-authorisation, uksi-2017-1012-69-7-authorisation |
+| b | 3 | ukpga-2008-17-271-1-b, ukpga-2009-23-19-2-b, uksi-2026-854-2-3-b |
+| building | 7 | ukpga-1980-66-79-17-building, ukpga-1984-55-120I-5-building, ukpga-1990-8-336-l-building, ukpga-1991-59-61A-7-building, ukpga-1995-25-32-3-building, ukpga-1995-25-7-building, ukpga-2008-17-2-3-building, ukpga-2008-17-292-1-building |
+| business | 3 | ukpga-1994-21-65-1-business, ukpga-2008-17-28-2-business, ukpga-2011-20-212-5-business, uksi-2010-2214-2-1-business |
+| charity | 5 | ukpga-1989-42-170-9-charity, ukpga-2011-25-1-1-charity, ukpga-2011-25-101-3-charity, ukpga-2011-25-97-3-charity, ukpga-2011-25-181A-12-b-charity, ukpga-2021-30-119-9-charity |
+| chief-executive | 3 | ukpga-1989-42-21-3-chief-executive, ukpga-1991-56-205A-10-chief-executive, ukpga-1991-56-35B-13-chief-executive |
+| child | 3 | ukpga-2011-25-350-1-child, ukpga-2025-26-42-1-child, ukpga-2025-26-50-2-child, ukpga-2025-26-50-6-child, ukpga-2025-26-50-8-child, ukpga-2025-26-55-child, ukpga-2025-26-44-3-child |
+| coal | 2 | ukpga-1994-21-65-1-coal, uksi-2015-595-26-2-coal |
+| combined-authority | 3 | ukpga-1972-70-270-1-combined-authority, ukpga-1980-66-6-9-combined-authority, ukpga-2011-20-8-1-combined-authority, ukpga-1990-8-319ZZB-10-combined-authority, ukpga-2004-5-12X-1-combined-authority, ukpga-1990-8-336-l-combined-authority, ukpga-2008-17-57-1-combined-authority, ukpga-2011-20-196-combined-authority |
+| commencement | 2 | ukpga-1972-70-128H-1-commencement, ukpga-2006-16-71-2-commencement |
+| committee | 4 | ukpga-1972-70-100J-3YA-committee, ukpga-2011-20-231-5-committee, ukpga-2008-17-275-committee, ukpga-2009-23-20-4-a-committee, uksi-2026-854-2-1-committee |
+| company | 6 | ukpga-1972-70-146-2-company, ukpga-2003-14-53-company, ukpga-2011-20-190-3-company, ukpga-2011-20-191-5-company, ukpga-2011-20-216-4-company, ukpga-2011-20-200-9-company, ukpga-2011-20-224-2-company, ukpga-2011-25-353-1-company |
+| competent-authority | 6 | ukpga-1990-8-257-4-competent-authority, ukpga-2018-12-30-1-competent-authority, uksi-2015-627-26-5-competent-authority, uksi-2017-1012-7-1-competent-authority, uksi-2017-1012-7-2-competent-authority, uksi-2017-1013-5-1-competent-authority |
+| condition | 2 | ukpga-1990-8-74A-10-condition, ukpga-2020-16-16-2-condition |
+| consent | 5 | ukpga-2008-17-275-consent, ukpga-2008-29-33-6-consent, ukpga-2011-20-131-2-consent, ukpga-2018-12-84-2-consent, ukpga-2023-55-154-8-consent, ukpga-2025-34-3-6-consent |
+| conservation | 2 | govuk-guidance-conserving-and-enhancing-the-historic-environment-conservation, ukpga-2021-30-119-9-conservation |
+| conservation-area | 2 | ukpga-1990-8-336-l-conservation-area, ukpga-1990-9-91-1-conservation-area |
+| construction | 2 | ukpga-1980-66-232-9-construction, uksi-2011-988-24-5-construction |
+| consumer | 2 | ukpga-1991-56-216-4C-consumer, ukpga-2021-30-87-consumer, ukpga-1991-56-93-1-consumer |
+| contract | 5 | ukpga-2003-14-44-10-b-contract, ukpga-2003-14-44A-8-contract, ukpga-2003-14-45A-11-contract, ukpga-2003-14-79-2-contract, ukpga-2023-55-221-4-contract |
+| copy | 2 | ukpga-1972-70-100K-1-copy, uksi-1998-3132-31.4-copy |
+| coronavirus | 5 | ukpga-2020-16-11-15-coronavirus, ukpga-2020-16-16-8-coronavirus, ukpga-2020-16-17-8-coronavirus, ukpga-2020-16-18-8-coronavirus, ukpga-2020-16-19-4-coronavirus, ukpga-2020-16-21-4-coronavirus, uksi-2020-505-4-coronavirus, uksi-2020-505-8-coronavirus |
+| council | 5 | ukpga-1980-66-329-1-council, ukpga-2011-25-296-1-council, ukpga-2011-25-51-2-council, ukpga-2023-55-174-3-council, ukpga-2023-55-175-2-council |
+| court | 5 | ukpga-1998-42-12-5-court, ukpga-1998-42-13-2-court, ukpga-1998-42-4-5-court, ukpga-1998-42-8-6-court, ukpga-1998-42-9-5-court, uksi-1998-3132-54.25-2-d-court |
+| damage | 4 | ukpga-1984-55-38-4-damage, ukpga-1991-56-219-1-damage, ukpga-2009-23-126-11-damage, ukpga-2018-12-169-5-damage |
+| database | 2 | ukpga-2016-22-56-database, ukpga-2025-26-96-1-database |
+| decision-notice | 2 | ukpga-1990-8-71ZA-7-decision-notice, ukpga-2021-30-47-1-decision-notice |
+| design-code | 2 | govuk-guidance-design-design-code, nppf-annex-b-design-code |
+| designated | 2 | ukpga-2006-16-28-2-designated, ukpga-2008-17-51-4-designated, ukpga-2008-17-65-4-designated, ukpga-2009-23-39-5-designated |
+| designated-area | 3 | ukpga-1994-21-8-5-designated-area, ukpga-2008-17-13-5-designated-area, uksi-2015-595-9-5-designated-area |
+| development | 7 | ukpga-1990-8-233-6-development, ukpga-1990-8-55-1-development, ukpga-2008-29-209-1-development, ukpga-2011-20-206-6-b-development, ukpga-2023-54-7-7-development, ukpga-2023-55-188-1-c-development, uksi-2024-45-2-1-development |
+| development-consent | 2 | ukpga-1979-46-61-1-development-consent, ukpga-1990-10-39-1-development-consent, ukpga-1990-8-336-l-development-consent, uksi-2026-737-2-development-consent |
+| development-corporation | 2 | ukpga-1990-10-3-4A-development-corporation, ukpga-2004-5-15LF-6-development-corporation, ukpga-2004-5-15LG-5-development-corporation |
+| direction | 3 | ukpga-2008-29-35B-9-direction, ukpga-2025-34-4-4-direction, ukpga-2008-29-35C-1-direction, uksi-2010-103-2-1-direction |
+| director | 6 | ukpga-1979-46-58-2-director, ukpga-1984-55-112A-2-director, ukpga-1990-8-331-2-director, ukpga-2008-17-55-11-director, ukpga-2011-25-346-2-director, uksi-2011-988-44-2-director |
+| document | 7 | ukpga-1989-42-11-3-document, ukpga-1995-25-108-15-document, ukpga-2009-23-252-3-document, ukpga-2011-25-353-2-document, ukpga-2025-26-132-1-document, uksi-1998-3132-31.4-document, uksi-2010-103-21-4-document |
+| drainage | 2 | ukpga-1991-59-72-1-drainage, ukpga-1995-25-100-2-drainage |
+| dwelling | 8 | ukpga-1989-42-100-1-dwelling, ukpga-1989-42-138-1-dwelling, ukpga-1989-42-168-3-dwelling, ukpga-1989-42-172-8-dwelling, ukpga-2025-26-42-1-dwelling, ukpga-2025-26-63-2-dwelling, ukpga-2025-34-108-4-dwelling, uksi-2010-2214-2-1-dwelling |
+| employee | 4 | ukpga-2003-14-121-employee, ukpga-2003-14-63-employee, ukpga-2008-17-194B-10-employee, ukpga-2018-12-33-2-employee, ukpga-2018-12-84-3-employee |
+| enforcement-action | 3 | ukpga-1979-46-9L-2-enforcement-action, ukpga-2008-29-219-2-enforcement-action, ukpga-2025-34-80-2-enforcement-action |
+| england | 5 | ukpga-1972-70-269-england, ukpga-2009-23-147-1-england, ukpga-2009-23-188-6-england, ukpga-2009-23-294-8-england, ukpga-2021-30-109-10-england, ukpga-2021-30-112-11-england, ukpga-2021-30-7-9-england, ukpga-2025-34-61-11-england |
+| environmental-information | 2 | uksi-2017-571-2-1-environmental-information, uksi-2017-572-3-1-environmental-information |
+| environmental-protection | 2 | ukpga-2021-30-45-environmental-protection, ukpga-2023-55-152-2-environmental-protection |
+| environmental-statement | 2 | uksi-2017-571-18-environmental-statement, uksi-2017-571-32-6-f-environmental-statement |
+| erection | 2 | ukpga-1990-8-336-l-erection, uksi-2015-596-2-1-erection |
+| european-site | 3 | uksi-2017-1012-8-1-european-site, uksi-2017-1013-27-1-european-site, uksi-2017-571-2-1-european-site |
+| examiner | 2 | ukpga-2004-5-12X-1-examiner, ukpga-2025-34-58-1-examiner, ukpga-2008-29-213-5-examiner, ukpga-2011-20-114-7-examiner |
+| examining-authority | 2 | uksi-2010-103-2-1-examining-authority, uksi-2017-572-3-1-examining-authority |
+| executive | 2 | ukpga-1972-70-270-1-executive, ukpga-2008-17-194C-3-executive |
+| existing | 3 | ukpga-1972-70-270-1-existing, ukpga-2006-16-71-2-existing, uksi-2015-596-2-1-existing |
+| financial-year | 4 | ukpga-1972-70-270-1-financial-year, ukpga-1988-4-25-1-financial-year, ukpga-1980-66-329-1-financial-year, ukpga-1989-42-10-2-financial-year, ukpga-1991-56-219-1-financial-year, ukpga-1991-59-72-1-financial-year, ukpga-1994-21-65-1-financial-year, ukpga-1995-25-124-1-financial-year |
+| flat | 4 | ukpga-1989-42-138-1-flat, ukpga-1990-8-225C-16-flat, ukpga-1990-8-225F-12-flat, ukpga-2011-20-127-1-flat, ukpga-2011-20-127-2-flat, ukpga-2020-16-16-2-flat, uksi-2015-595-2-1-flat, uksi-2010-2214-2-1-flat |
+| footpath | 2 | ukpga-1980-66-329-1-footpath, ukpga-1981-69-66-1-footpath |
+| function | 2 | ukpga-2000-22-13-14-function, ukpga-2000-22-9D-9-function, ukpga-2000-22-9J-5-function |
+| goods | 2 | ukpga-1980-66-115-8-goods, ukpga-2003-14-18-1-goods |
+| government-department | 3 | ukpga-1979-46-50-4-government-department, ukpga-1990-8-336-l-government-department, ukpga-2018-12-205-1-government-department |
+| green-infrastructure | 2 | govuk-guidance-natural-environment-green-infrastructure, nppf-annex-b-green-infrastructure |
+| habitats-site | 2 | ukpga-1991-56-96L-2-habitats-site, ukpga-2023-55-168-1-habitats-site, nppf-annex-b-habitats-site |
+| hearing | 4 | ukpga-2008-29-95-2-hearing, uksi-1998-3132-23.1-hearing, uksi-1998-3132-39.1-1-a-hearing, uksi-2010-103-2-1-hearing |
+| hedgerow | 2 | ukpga-1995-25-97-8-hedgerow, uksi-2023-90-2-hedgerow |
+| house | 6 | ukpga-1984-55-126-house, ukpga-1989-42-128-7-a-house, ukpga-1989-42-129-2-house, ukpga-1989-42-129-4-house, ukpga-1991-56-219-1-house, ukpga-2015-17-5-1-house |
+| housing | 3 | ukpga-2008-17-2-3-housing, ukpga-2011-20-187-4-housing, ukpga-2016-22-56-housing, ukpga-2016-22-79-1-housing |
+| improve | 2 | ukpga-2008-17-57-1-improve, ukpga-2011-20-206-6-c-improve |
+| improvement | 5 | ukpga-1980-66-232-9-improvement, ukpga-1980-66-329-1-improvement, ukpga-1989-42-138-1-improvement, ukpga-1990-8-226-1B-improvement, ukpga-2023-55-180-improvement, ukpga-1991-56-185-9-improvement |
+| independent | 2 | ukpga-2023-55-231-5-independent, ukpga-2025-26-101-10-independent |
+| information | 4 | ukpga-1972-70-100K-1-information, ukpga-1984-55-56A-7-information, ukpga-1991-56-219-1-information, ukpga-2023-54-97-3-information |
+| infrastructure | 4 | ukpga-2008-17-2-3-infrastructure, ukpga-2008-29-216-2-infrastructure, ukpga-2011-20-205-4-infrastructure, ukpga-2025-34-103-3-infrastructure, ukpga-2025-34-103-8-infrastructure |
+| inspector | 5 | ukpga-1991-56-86-9-inspector, ukpga-2006-16-44-2-inspector, ukpga-2008-17-203-12-inspector, ukpga-2025-34-105-1-inspector, uksi-2017-571-2-1-inspector |
+| institution | 2 | ukpga-2011-25-9-3-institution, uksi-2010-2214-2-1-institution |
+| integrated-care-board | 2 | ukpga-1972-70-113-4-integrated-care-board, uksi-2009-2264-2-1-integrated-care-board, uksi-2015-462-2-integrated-care-board |
+| integrated-coastal-zone-management | 2 | govuk-guidance-flood-risk-and-coastal-change-integrated-coastal-zone-management, nppf-annex-b-integrated-coastal-zone-management |
+| interest | 6 | ukpga-1949-97-114-1-interest, ukpga-1988-4-22-3-interest, ukpga-1990-8-109-6-interest, ukpga-1995-25-57-interest, ukpga-2016-22-207-7-interest, ukpga-2016-22-208-12-interest, ukpga-2016-22-79-1-interest, ukpga-2023-54-81-4-interest |
+| interested-party | 4 | ukpga-2022-23-70-7-interested-party, ukpga-2025-34-19-4-interested-party, uksi-1998-3132-54.25-2-c-interested-party, uksi-2010-103-2-1-interested-party |
+| irreplaceable-habitat | 2 | uksi-2024-48-2-1-irreplaceable-habitat, nppf-annex-b-irreplaceable-habitat |
+| judge | 2 | ukpga-1998-42-9-5-judge, uksi-1998-3132-2.3-1-judge |
+| justice | 2 | ukpga-2009-23-249-5-justice, uksi-2017-1013-60-7-justice |
+| land | 8 | ukpga-1949-97-114-1-land, ukpga-1972-70-270-1-land, ukpga-1980-66-329-1-land, ukpga-1991-59-72-1-land, ukpga-2003-14-121-land, ukpga-2004-5-33A-10-land, ukpga-2008-17-2-3-land, ukpga-2008-29-159-2-land |
+| lawfully | 3 | ukpga-1981-69-1-3A-lawfully, uksi-2017-1013-41-7-lawfully, uksi-2017-1013-43-4-lawfully |
+| lease | 3 | ukpga-1980-66-329-1-lease, ukpga-1990-8-336-l-lease, ukpga-2025-26-137-lease |
+| legislation | 6 | ukpga-2003-14-204-12-legislation, ukpga-2008-17-126B-4-legislation, ukpga-2008-29-35B-9-legislation, ukpga-2025-34-4-4-legislation, ukpga-2011-20-235-15-legislation, ukpga-2011-20-88-6-legislation, ukpga-2016-22-116-1-legislation, ukpga-2023-55-166-3-legislation |
+| liability | 3 | ukpga-1994-21-65-1-liability, ukpga-1995-25-79-1-liability, ukpga-2000-37-92-1-liability |
+| listed-building | 2 | ukpga-1990-8-314A-4-listed-building, ukpga-1990-9-1-5-listed-building |
+| local-authority | 8 | ukpga-1972-70-140A-2-local-authority, ukpga-1972-70-146-2-local-authority, ukpga-1979-46-61-1-local-authority, ukpga-1980-66-144-6-local-authority, ukpga-1980-66-170-3-local-authority, ukpga-1984-55-126-local-authority, ukpga-1989-42-10-2-local-authority, ukpga-1989-42-12-2-local-authority |
+| local-development-order | 2 | uksi-2017-571-2-1-local-development-order, nppf-annex-b-local-development-order |
+| local-nature-recovery-strategies | 2 | govuk-guidance-natural-environment-local-nature-recovery-strategies, nppf-annex-b-local-nature-recovery-strategies |
+| local-plan | 2 | uksi-2012-767-2-1-local-plan, nppf-annex-b-local-plan |
+| local-planning-authority | 9 | ukpga-1981-69-28-10-local-planning-authority, ukpga-1990-8-5-1-local-planning-authority, ukpga-1990-9-6-4-local-planning-authority, ukpga-2008-17-13-5-local-planning-authority, ukpga-2011-20-119-7-local-planning-authority, ukpga-2016-22-8-local-planning-authority, ukpga-2021-30-109-10-local-planning-authority, ukpga-2023-55-151-local-planning-authority, uksi-2015-596-4-5-local-planning-authority, nppf-annex-b-local-planning-authority |
+| london-borough | 2 | ukpga-1980-66-45-12-london-borough, ukpga-1990-8-336-l-london-borough |
+| maintenance | 3 | ukpga-1980-66-329-1-maintenance, ukpga-2008-17-275-maintenance, ukpga-2023-54-7-7-maintenance |
+| major-development | 3 | ukpga-2013-27-1-1-major-development, uksi-2015-595-2-1-major-development, nppf-annex-b-major-development |
+| marine-licence | 3 | ukpga-2009-23-115-1-marine-licence, ukpga-2025-34-44-1-marine-licence, uksi-2011-988-26-2-marine-licence |
+| mayor | 3 | ukpga-2011-20-8-1-mayor, ukpga-2023-55-57-mayor, uksi-2008-580-2-1-mayor, uksi-2010-948-2-1-mayor |
+| member | 2 | ukpga-1989-42-12-2-member, ukpga-2000-22-101-5-member |
+| members | 2 | ukpga-2011-25-353-1-members, ukpga-2023-55-30-1B-members |
+| minister | 3 | ukpga-1990-8-336-l-minister, ukpga-2010-29-27-5-minister, ukpga-2023-54-81-4-minister |
+| modification | 2 | ukpga-1949-97-55H-4-modification, ukpga-2009-23-302-1-modification, ukpga-2003-14-61-2-a-modification |
+| modifications | 2 | ukpga-1989-42-21-3-modifications, ukpga-2008-17-292-1-modifications, ukpga-2008-17-57-1-modifications |
+| modify | 5 | ukpga-1949-97-55H-4-modify, ukpga-2009-23-302-1-modify, ukpga-2000-37-3A-10-modify, ukpga-2009-23-303-5-modify, ukpga-2023-54-123-1-modify, ukpga-2025-34-15-1-modify, ukpga-2025-34-17-13-modify |
+| monument | 2 | ukpga-1979-46-61-7-monument, ukpga-1990-8-240-3-monument |
+| mortgage | 2 | ukpga-1990-8-336-l-mortgage, ukpga-2011-25-129-2-mortgage |
+| national-planning-policy-framework | 2 | govuk-national-planning-policy-framework, uksi-2015-596-2-1-national-planning-policy-framework |
+| national-policy-statement | 2 | ukpga-2008-29-5-2-national-policy-statement, uksi-2010-103-2-1-national-policy-statement |
+| natural-environment | 4 | ukpga-2021-30-117-4-natural-environment, ukpga-2021-30-44-natural-environment, ukpga-2023-55-152-3-natural-environment, ukpga-2025-34-29-natural-environment |
+| neighbourhood-area | 2 | ukpga-1990-8-61G-1-neighbourhood-area, ukpga-2017-20-2-3-neighbourhood-area, ukpga-2017-20-2-8-a-neighbourhood-area |
+| neighbourhood-development-order | 2 | uksi-2017-571-2-1-neighbourhood-development-order, nppf-annex-b-neighbourhood-development-order |
+| neighbourhood-forum | 2 | ukpga-2016-22-142-neighbourhood-forum, uksi-2026-186-2-2-neighbourhood-forum |
+| neighbourhood-plan | 2 | uksi-2012-2031-2-1-neighbourhood-plan, nppf-annex-b-neighbourhood-plan |
+| notice | 2 | ukpga-1991-56-219-1-notice, ukpga-1995-25-104-1-notice, ukpga-1995-25-124-1-notice, ukpga-1995-25-57-notice, ukpga-2003-14-24-notice, ukpga-2008-17-57-1-notice, ukpga-2009-23-322-1-notice, ukpga-2008-17-275-notice |
+| occupier | 4 | ukpga-1979-46-62-4-occupier, ukpga-1981-69-27-1-occupier, ukpga-1981-69-52-2C-occupier, ukpga-2025-26-132-1-occupier |
+| officer | 8 | ukpga-1984-55-126-officer, ukpga-2008-17-194B-11-officer, ukpga-2008-17-270-officer, ukpga-2011-25-184A-2-officer, ukpga-2011-25-346-2-officer, ukpga-2016-22-155-officer, ukpga-2016-22-56-officer, ukpga-2018-12-141A-8-officer |
+| open-space | 3 | ukpga-1990-8-336-l-open-space, ukpga-2008-17-9-7-open-space, ukpga-2011-20-187-3-open-space, ukpga-2011-20-207-10-open-space, ukpga-2025-34-89-9-open-space, nppf-annex-b-open-space |
+| operator | 3 | ukpga-1980-66-118A-8-operator, ukpga-1980-66-119A-12-operator, ukpga-2008-17-57-1-operator, uksi-2012-2920-15-6-operator |
+| original | 2 | uksi-1995-418-1-original, uksi-2015-596-2-1-original |
+| outline-planning-permission | 2 | ukpga-1990-8-92-1-outline-planning-permission, uksi-2015-595-2-1-outline-planning-permission |
+| owner | 8 | ukpga-1949-97-16-5-d-owner, ukpga-1949-97-55J-1-owner, ukpga-1979-46-61-1-owner, ukpga-1980-66-100-9-owner, ukpga-1980-66-125-4-owner, ukpga-1980-66-21-5-owner, ukpga-1980-66-31-7-owner, ukpga-1984-55-126-owner |
+| partner | 2 | uksi-2011-988-44-4-partner, uksi-2017-1012-130-5-partner, uksi-2017-1013-72-4-b-partner |
+| permission-in-principle | 2 | ukpga-1990-8-336-l-permission-in-principle, nppf-annex-b-permission-in-principle |
+| person | 3 | ukpga-2022-23-7-4-person, ukpga-2022-23-8-5-person, ukpga-2023-55-227-person |
+| planning-application | 3 | ukpga-1990-8-327ZA-11-planning-application, ukpga-2023-55-124-1-planning-application, ukpga-2025-34-30-14-planning-application |
+| planning-area | 2 | ukpga-2004-5-33A-5-planning-area, ukpga-2011-20-110-1-planning-area, ukpga-2016-22-154-8-planning-area |
+| planning-authority | 6 | ukpga-1984-55-2B-7-planning-authority, ukpga-1994-21-39-5-planning-authority, ukpga-1994-21-41-6-planning-authority, ukpga-1994-21-53-4-planning-authority, ukpga-1995-25-92-1-planning-authority, uksi-2011-988-16-3-planning-authority |
+| planning-obligation | 9 | ukpga-1990-8-106-1-planning-obligation, ukpga-1990-8-2E-3-planning-obligation, ukpga-2003-14-61-2-a-planning-obligation, ukpga-2003-14-61-2-c-planning-obligation, ukpga-2016-22-103-2-planning-obligation, ukpga-2016-22-8-planning-obligation, uksi-2010-948-2-1-planning-obligation, uksi-2015-595-2-1-planning-obligation, nppf-annex-b-planning-obligation |
+| planning-permission | 4 | ukpga-1990-8-171A-3-planning-permission, ukpga-1991-34-4-1-planning-permission, ukpga-1990-8-336-l-planning-permission, ukpga-2008-29-235-1-planning-permission, ukpga-2016-22-161-14-planning-permission |
+| plant | 3 | ukpga-1981-69-14P-8-plant, ukpga-1991-56-96L-2-plant, ukpga-2023-55-168-1-plant, uksi-2015-596-2-1-plant |
+| possession | 2 | ukpga-1979-46-61-1-possession, ukpga-2017-20-30-possession |
+| premises | 6 | ukpga-1980-66-329-1-premises, ukpga-1981-69-27-1-premises, ukpga-1984-55-126-premises, ukpga-1990-8-225F-12-premises, ukpga-1994-21-4E-premises, ukpga-1995-25-108-15-premises, ukpga-1995-25-110A-6-premises, ukpga-1995-25-123-8-premises |
+| prescribed | 2 | ukpga-1972-70-270-1-prescribed, ukpga-1979-46-61-1-prescribed, ukpga-1980-66-119E-8-prescribed, ukpga-1980-66-135A-9-prescribed, ukpga-1980-66-118ZA-12-prescribed, ukpga-1980-66-119ZA-13-prescribed, ukpga-1980-66-121B-6-prescribed, ukpga-1980-66-31A-5-prescribed |
+| primary-legislation | 7 | ukpga-1998-42-21-1-primary-legislation, ukpga-2004-5-122-11-primary-legislation, ukpga-2009-23-316-11-primary-legislation, ukpga-2013-24-99-7-primary-legislation, ukpga-2017-20-44-7-primary-legislation, ukpga-2021-30-62-8-primary-legislation, ukpga-2022-23-89-1-primary-legislation, ukpga-2023-54-123-1-primary-legislation |
+| procedural-requirement | 2 | ukpga-2009-23-62-6-procedural-requirement, ukpga-2023-54-19-11-procedural-requirement |
+| project | 2 | ukpga-2023-55-154-9-project, uksi-2010-2214-2-1-project |
+| property | 3 | ukpga-1980-66-265-11-property, ukpga-1980-66-266A-9-property, ukpga-2008-17-313-1-property |
+| protected-site | 4 | ukpga-2021-30-110-3-protected-site, ukpga-2025-34-99-protected-site, uksi-2017-1012-68A-15-protected-site, uksi-2017-1012-68ZA-13-protected-site, uksi-2017-1013-36A-11-protected-site |
+| provide | 2 | ukpga-2008-17-5-3-provide, ukpga-2008-17-7-3-provide, ukpga-2011-20-205-3-provide, ukpga-2025-34-103-3-provide, ukpga-2025-34-103-8-provide, ukpga-2011-20-206-6-d-provide |
+| provided | 3 | ukpga-1989-42-103-2-a-provided, ukpga-1990-8-327ZA-11-provided, ukpga-2023-55-124-1-provided, ukpga-2023-55-91-provided |
+| public-authority | 8 | ukpga-1980-66-281B-6-public-authority, ukpga-1991-56-219-1-public-authority, ukpga-1995-25-79-1-public-authority, ukpga-2006-16-40-4-public-authority, ukpga-2008-17-109-8-public-authority, ukpga-2009-23-322-1-public-authority, ukpga-2011-20-20-public-authority, ukpga-2011-20-51-2-public-authority |
+| publish | 2 | ukpga-2018-12-205-1-publish, uksi-2012-2031-5-4-publish |
+| purchaser | 2 | ukpga-2003-14-43-4-purchaser, ukpga-2008-17-292-1-purchaser |
+| qualifying-body | 4 | ukpga-1990-8-61E-6-qualifying-body, ukpga-2003-14-71-3-qualifying-body, ukpga-2004-5-38A-12-qualifying-body, uksi-2017-1012-106-2-qualifying-body |
+| railway | 2 | ukpga-1980-66-118A-8-railway, ukpga-1980-66-119A-12-railway, ukpga-1980-66-329-1-railway |
+| ramsar-site | 2 | ukpga-2025-34-99-ramsar-site, uksi-2017-1012-3-1-ramsar-site, uksi-2017-1013-36A-11-ramsar-site, uksi-2017-1012-68A-15-ramsar-site |
+| recipient | 3 | ukpga-2018-12-33-5-recipient, ukpga-2018-12-84-5-recipient, uksi-2010-2214-2-1-recipient |
+| records | 3 | ukpga-1991-56-219-1-records, ukpga-1994-21-57-8-records, ukpga-1995-25-124-1-records |
+| register | 3 | ukpga-2011-20-29-10-register, uksi-2017-571-2-1-register, uksi-2017-572-3-1-register |
+| regulations | 2 | ukpga-1980-66-118ZA-12-regulations, ukpga-1980-66-119ZA-13-regulations, ukpga-1980-66-121B-6-regulations, ukpga-1980-66-31A-5-regulations, ukpga-1995-25-57-regulations, ukpga-1995-25-58-regulations, ukpga-1995-25-91-1-regulations, ukpga-1981-69-53B-6-regulations |
+| relevant-authority | 8 | ukpga-1984-55-90A-4-relevant-authority, ukpga-1984-55-91A-relevant-authority, ukpga-1989-42-13-9-relevant-authority, ukpga-1989-42-169-9-relevant-authority, ukpga-1989-42-170-9-relevant-authority, ukpga-1990-8-70-4-relevant-authority, ukpga-1991-56-97-relevant-authority, ukpga-2000-22-9EA-7-relevant-authority |
+| relevant-document | 2 | ukpga-2023-55-167-3-relevant-document, uksi-2026-186-57-4-relevant-document |
+| relevant-information | 3 | ukpga-1984-55-56A-6-relevant-information, ukpga-1984-55-56B-4-relevant-information, ukpga-2003-14-78A-2-relevant-information, ukpga-2013-24-47-5-relevant-information |
+| relevant-land | 2 | ukpga-1972-70-128H-1-relevant-land, ukpga-1990-9-47-7-relevant-land |
+| relevant-local-authority | 5 | ukpga-1990-8-314A-3-relevant-local-authority, ukpga-2000-37-89-11-relevant-local-authority, ukpga-2009-23-188-6-relevant-local-authority, ukpga-2011-20-86C-2-relevant-local-authority, ukpga-2025-26-112-9-relevant-local-authority |
+| relevant-local-planning-authority | 3 | ukpga-1990-8-319ZD-relevant-local-planning-authority, ukpga-1990-8-319ZZF-1-relevant-local-planning-authority, ukpga-2025-34-54-1-relevant-local-planning-authority, ukpga-1990-9-26A-9-relevant-local-planning-authority, ukpga-2013-24-60-2-relevant-local-planning-authority |
+| relief | 2 | ukpga-1998-42-12-5-relief, uksi-2010-948-2-1-relief |
+| rent | 4 | ukpga-2008-17-275-rent, ukpga-2016-22-51-2-rent, ukpga-2016-22-52-1-rent, ukpga-2016-22-91-rent |
+| representation | 3 | ukpga-2008-29-102-2-representation, ukpga-2008-29-106-2-representation, uksi-2010-103-2-1-representation |
+| representations | 3 | ukpga-2008-17-275-representations, ukpga-2008-29-95A-10-representations, ukpga-2023-55-182-2-representations |
+| representative | 2 | ukpga-2003-14-24-representative, ukpga-2021-26-67-3-representative |
+| research | 2 | ukpga-2006-16-30-1-research, ukpga-2006-16-39-research, uksi-2010-490-3-1-research, uksi-2017-1012-3-1-research, uksi-2017-1013-77-2-research |
+| residential-property | 2 | ukpga-2003-14-116-1-residential-property, ukpga-2008-17-292-1-residential-property |
+| risk | 3 | ukpga-2010-29-2-1-risk, uksi-2015-1553-2-4-risk, uksi-2015-1553-2-5-risk |
+| sample | 2 | ukpga-1981-69-18C-4-sample, ukpga-2009-23-250-10-sample, uksi-2010-490-3-1-sample, uksi-2017-1012-3-1-sample, uksi-2017-1013-63-5-sample |
+| school | 2 | ukpga-1984-55-126-school, ukpga-2023-54-123-1-school |
+| sea | 4 | ukpga-2009-23-310-sea, ukpga-2009-23-314-1-sea, ukpga-2009-23-42-3-sea, uksi-2010-490-3-1-sea, uksi-2017-1012-3-1-sea |
+| services | 4 | ukpga-1991-56-219-1-services, ukpga-2006-16-11-2-services, ukpga-2006-16-88-6-services, ukpga-2009-23-27-3-services |
+| settlement | 2 | ukpga-2013-24-7-1-settlement, nppf-annex-b-settlement |
+| shares | 2 | ukpga-1994-21-65-1-shares, ukpga-2003-14-53-shares |
+| signature | 3 | ukpga-1972-70-234-2-signature, ukpga-1980-66-321-2-signature, ukpga-1984-55-93-3-signature |
+| site-of-special-scientific-interest | 4 | ukpga-1981-69-52-1-site-of-special-scientific-interest, ukpga-2021-30-110-13-site-of-special-scientific-interest, uksi-2015-596-2-1-site-of-special-scientific-interest, nppf-annex-b-site-of-special-scientific-interest |
+| spatial-development-strategy | 4 | ukpga-2004-5-12W-1-spatial-development-strategy, ukpga-2025-34-58-1-spatial-development-strategy, ukpga-2004-5-12W-2-a-spatial-development-strategy, ukpga-2004-5-15LH-3-spatial-development-strategy, nppf-annex-b-spatial-development-strategy |
+| specified | 7 | ukpga-1984-55-105C-11-specified, ukpga-1984-55-120H-7-specified, ukpga-1984-55-35B-7-b-specified, ukpga-1984-55-56A-6-specified, ukpga-1984-55-56B-4-specified, ukpga-1984-55-58Z1-2-specified, ukpga-1984-55-90A-4-specified, ukpga-1988-4-7-5-specified |
+| sssi | 2 | ukpga-2009-23-123-9-sssi, ukpga-2025-34-99-sssi |
+| statutory-provision | 3 | ukpga-1980-66-300-1-b-statutory-provision, ukpga-1995-25-65B-8-statutory-provision, ukpga-2011-20-11-statutory-provision, ukpga-2011-20-12-1-statutory-provision, ukpga-2011-20-13-1-statutory-provision, ukpga-2011-20-8-1-statutory-provision, ukpga-2011-20-9-1-statutory-provision, ukpga-2003-14-121-statutory-provision |
+| statutory-undertaker | 7 | ukpga-1981-69-28G-4-statutory-undertaker, ukpga-2006-16-30-3-statutory-undertaker, ukpga-1988-4-25-1-statutory-undertaker, ukpga-1990-8-169-8-statutory-undertaker, ukpga-2000-37-85-3-statutory-undertaker, ukpga-2006-16-40-5-statutory-undertaker, ukpga-2008-29-175-6-statutory-undertaker, ukpga-2008-29-176-7-statutory-undertaker |
+| statutory-undertakers | 8 | ukpga-1979-46-61-2-statutory-undertakers, ukpga-1980-66-116-11-statutory-undertakers, ukpga-1980-66-144-6-statutory-undertakers, ukpga-1980-66-170-3-statutory-undertakers, ukpga-1980-66-329-1-statutory-undertakers, ukpga-1984-55-126-statutory-undertakers, ukpga-1990-8-148-1-statutory-undertakers, ukpga-1990-8-262-1-statutory-undertakers |
+| street | 3 | ukpga-1984-55-126-street, ukpga-1990-8-225F-12-street, ukpga-2011-20-127-2-street, ukpga-2023-55-218-5-street |
+| structure | 4 | ukpga-1980-66-143-4-structure, ukpga-1980-66-291-4-structure, ukpga-1990-8-225A-15-structure, ukpga-2011-20-127-1-structure, ukpga-1991-56-114A-3-structure |
+| substance | 2 | ukpga-1991-56-219-1-substance, ukpga-1995-25-57-substance |
+| successor | 3 | ukpga-2011-20-194-3-successor, ukpga-2021-30-122-3-successor, ukpga-2021-30-123-2-successor |
+| supplier | 2 | ukpga-1991-56-40A-8-supplier, ukpga-2023-54-83B-5-b-iii-supplier |
+| tax | 3 | ukpga-2003-14-121-tax, ukpga-2021-26-133-10-tax, ukpga-2021-26-21-8-tax |
+| tenant | 7 | ukpga-1989-42-138-1-tenant, ukpga-1991-56-209A-2-tenant, ukpga-2008-17-275-tenant, ukpga-2016-22-82-4-tenant, ukpga-2016-22-83-8-tenant, ukpga-2016-22-90-8-tenant, ukpga-2016-22-91-tenant, ukpga-2025-26-55-tenant |
+| the-act | 6 | uksi-1998-3132-68.1-the-act, uksi-2010-2214-2-1-the-act, uksi-2012-767-2-1-the-act, uksi-2015-596-2-1-the-act, uksi-2017-571-2-1-the-act, uksi-2015-627-2-1-the-act, uksi-2017-572-3-1-the-act, uksi-2024-333-1-4-the-act |
+| the-agency | 2 | ukpga-1991-59-72-1-the-agency, ukpga-1995-25-104-4-the-agency, ukpga-1995-25-124-1-the-agency, uksi-2017-407-2-1-the-agency, uksi-2013-235-2-the-agency |
+| the-authority | 5 | ukpga-1991-56-219-1-the-authority, ukpga-1994-21-1-1-the-authority, ukpga-1994-21-65-1-the-authority, ukpga-2000-22-21B-6-b-the-authority, ukpga-2000-22-9FF-8-the-authority |
+| the-court | 6 | ukpga-1979-46-9O-3-the-court, ukpga-2009-23-272-4-the-court, ukpga-2009-23-282-2-the-court, ukpga-2011-25-353-1-the-court, ukpga-2023-54-100-9-the-court, ukpga-2023-54-63-5-the-court, ukpga-2025-26-116-6-the-court, ukpga-2025-26-26-5-the-court |
+| the-crown | 2 | ukpga-2008-29-135-4-the-crown, ukpga-2008-29-228-2-the-crown, ukpga-2008-29-231-3-the-crown, uksi-2010-948-2-1-the-crown |
+| the-land | 5 | ukpga-2008-29-102-9-the-land, ukpga-2008-29-57-7-the-land, ukpga-2008-29-41-2-the-land, ukpga-2008-29-52-10-the-land, ukpga-2008-29-56A-4-the-land, ukpga-2011-20-138-3-the-land, ukpga-2008-29-88A-3-the-land, ukpga-2011-20-138-6-the-land |
+| the-register | 6 | ukpga-2011-25-29-3-the-register, ukpga-2021-26-54-7-the-register, ukpga-2021-26-83-the-register, uksi-2010-490-3-1-the-register, uksi-2017-1012-18-4-the-register, uksi-2017-1013-2-1-the-register |
+| the-use-classes-order | 2 | uksi-2008-580-2-1-the-use-classes-order, uksi-2020-757-1-3-the-use-classes-order, uksi-2015-596-2-1-the-use-classes-order |
+| undertaking | 4 | ukpga-1994-21-65-1-undertaking, ukpga-2011-25-141-6-undertaking, ukpga-2011-25-55-3-undertaking, ukpga-2023-55-221-4-undertaking |
+| unitary-authority | 4 | ukpga-1995-25-57-unitary-authority, ukpga-1995-25-58-unitary-authority, ukpga-1995-25-91-1-unitary-authority, ukpga-2004-5-12X-1-unitary-authority, ukpga-2025-34-58-1-unitary-authority, ukpga-2010-29-6-8-unitary-authority, uksi-2026-186-2-2-unitary-authority |
+| vehicle | 4 | ukpga-1981-69-27-1-vehicle, ukpga-1995-25-110A-6-vehicle, uksi-2010-2214-44K-vehicle, uksi-2017-1012-128-2-vehicle |
+| wales | 4 | ukpga-1972-70-269-wales, ukpga-2009-23-147-1-wales, ukpga-2009-23-188-6-wales, ukpga-2009-23-294-8-wales, ukpga-2009-23-324-8-wales, uksi-2011-988-7-3-b-wales |
+| watercourse | 2 | ukpga-1991-56-219-1-watercourse, ukpga-1991-59-72-1-watercourse |
+| working-day | 6 | ukpga-1990-8-336-4A-working-day, ukpga-1990-9-91-5A-working-day, ukpga-2013-24-68-9-working-day, ukpga-2013-27-7-1-working-day, ukpga-2023-54-123-1-working-day, ukpga-2025-34-105-1-working-day, ukpga-2025-34-105-2-working-day, ukpga-2025-34-99-working-day |
+| works | 2 | ukpga-1979-46-61-1-works, ukpga-1990-8-302-6-works |
+| world-heritage-site | 2 | uksi-1995-418-1-world-heritage-site, uksi-2015-596-2-1-world-heritage-site |
+| year | 3 | ukpga-1995-25-74-3-year, ukpga-2003-14-162-1-year, ukpga-2025-26-101-10-year |
+
+## Datasets which don't appear to be used (83)
+
+In the dataset realm, with no `collection` or `environment`.
+
+- [address](../content/dataset/address.md)
 - [article-4-direction-rule](../content/dataset/article-4-direction-rule.md)
-- [building-safety-levy-rate](../content/dataset/building-safety-levy-rate.md)
-- [built-up-area](../content/dataset/built-up-area.md)
-- [checksum](../content/dataset/checksum.md)
-- [collection](../content/dataset/collection.md)
-- [column-field](../content/dataset/column-field.md)
-- [column](../content/dataset/column.md)
-- [combine](../content/dataset/combine.md)
-- [concat](../content/dataset/concat.md)
-- [convert](../content/dataset/convert.md)
-- [converted-resource](../content/dataset/converted-resource.md)
-- [datapackage-dataset](../content/dataset/datapackage-dataset.md)
-- [datapackage](../content/dataset/datapackage.md)
-- [dataset-resource](../content/dataset/dataset-resource.md)
-- [dataset](../content/dataset/dataset.md)
-- [default-value](../content/dataset/default-value.md)
-- [default](../content/dataset/default.md)
-- [design-code-rule](../content/dataset/design-code-rule.md)
-- [development-corporation-boundary](../content/dataset/development-corporation-boundary.md)
+- [best-and-most-versatile-agricultural-land](../content/dataset/best-and-most-versatile-agricultural-land.md)
+- [biodiversity-net-gain-assessment](../content/dataset/biodiversity-net-gain-assessment.md)
+- [buffer-zone](../content/dataset/buffer-zone.md)
+- [coastal-change-management-area](../content/dataset/coastal-change-management-area.md)
+- [common-land-and-village-green](../content/dataset/common-land-and-village-green.md)
+- [contaminated-land](../content/dataset/contaminated-land.md)
+- [control-of-major-accident-hazards-site](../content/dataset/control-of-major-accident-hazards-site.md)
 - [development-metric](../content/dataset/development-metric.md)
 - [development-plan-boundary-type](../content/dataset/development-plan-boundary-type.md)
 - [development-plan-boundary](../content/dataset/development-plan-boundary.md)
-- [development-plan-document-type](../content/dataset/development-plan-document-type.md)
-- [development-plan-document](../content/dataset/development-plan-document.md)
 - [development-plan-geography-type](../content/dataset/development-plan-geography-type.md)
 - [development-plan-geography](../content/dataset/development-plan-geography.md)
 - [development-plan-status](../content/dataset/development-plan-status.md)
 - [development-plan-timetable](../content/dataset/development-plan-timetable.md)
+- [development-plan-type](../content/dataset/development-plan-type.md)
+- [development-plan](../content/dataset/development-plan.md)
+- [development-policy-area](../content/dataset/development-policy-area.md)
+- [development-policy-category](../content/dataset/development-policy-category.md)
 - [development-policy-metric](../content/dataset/development-policy-metric.md)
-- [entity-organisation](../content/dataset/entity-organisation.md)
-- [entity](../content/dataset/entity.md)
-- [expect](../content/dataset/expect.md)
-- [expectation-issue](../content/dataset/expectation-issue.md)
-- [expectation-result](../content/dataset/expectation-result.md)
-- [expectation](../content/dataset/expectation.md)
-- [fact-resource](../content/dataset/fact-resource.md)
-- [fact](../content/dataset/fact.md)
-- [filter](../content/dataset/filter.md)
-- [flood-risk-zone](../content/dataset/flood-risk-zone.md)
-- [flood-storage-area](../content/dataset/flood-storage-area.md)
+- [development-policy](../content/dataset/development-policy.md)
+- [employment-allocation](../content/dataset/employment-allocation.md)
 - [forest-inventory](../content/dataset/forest-inventory.md)
-- [include-exclude](../content/dataset/include-exclude.md)
-- [infrastructure-project-decision](../content/dataset/infrastructure-project-decision.md)
-- [infrastructure-project-document-type](../content/dataset/infrastructure-project-document-type.md)
+- [guardianship-site-and-english-heritage-site](../content/dataset/guardianship-site-and-english-heritage-site.md)
+- [gypsy-and-traveller-site](../content/dataset/gypsy-and-traveller-site.md)
+- [heritage-action-zone](../content/dataset/heritage-action-zone.md)
+- [historic-non-designed-rural-landscape-local-landscape-area](../content/dataset/historic-non-designed-rural-landscape-local-landscape-area.md)
+- [historic-stone-quarry](../content/dataset/historic-stone-quarry.md)
+- [hs2-safeguarded-area](../content/dataset/hs2-safeguarded-area.md)
 - [infrastructure-project-document](../content/dataset/infrastructure-project-document.md)
-- [infrastructure-project-event](../content/dataset/infrastructure-project-event.md)
 - [infrastructure-project-log](../content/dataset/infrastructure-project-log.md)
-- [infrastructure-project-type](../content/dataset/infrastructure-project-type.md)
-- [issue-type](../content/dataset/issue-type.md)
-- [listed-building-outline](../content/dataset/listed-building-outline.md)
-- [local-plan-boundary](../content/dataset/local-plan-boundary.md)
+- [internal-drainage-board](../content/dataset/internal-drainage-board.md)
+- [internal-drainage-district](../content/dataset/internal-drainage-district.md)
+- [local-enterprise-partnership](../content/dataset/local-enterprise-partnership.md)
+- [local-green-space](../content/dataset/local-green-space.md)
+- [local-nature-recovery-strategy](../content/dataset/local-nature-recovery-strategy.md)
 - [local-plan-document-type](../content/dataset/local-plan-document-type.md)
 - [local-plan-document](../content/dataset/local-plan-document.md)
 - [local-plan-event](../content/dataset/local-plan-event.md)
 - [local-plan-housing](../content/dataset/local-plan-housing.md)
 - [local-plan-process](../content/dataset/local-plan-process.md)
 - [local-plan-timetable](../content/dataset/local-plan-timetable.md)
-- [local-planning-group](../content/dataset/local-planning-group.md)
-- [locally-listed-building](../content/dataset/locally-listed-building.md)
-- [lookup](../content/dataset/lookup.md)
+- [london-square](../content/dataset/london-square.md)
+- [long-established-woodland](../content/dataset/long-established-woodland.md)
+- [long-protected-woodland](../content/dataset/long-protected-woodland.md)
+- [main-river](../content/dataset/main-river.md)
+- [metropolitan-open-land](../content/dataset/metropolitan-open-land.md)
+- [mineral-safeguarding-area](../content/dataset/mineral-safeguarding-area.md)
 - [minerals-and-waste-planning-authority](../content/dataset/minerals-and-waste-planning-authority.md)
-- [minerals-plan-boundary](../content/dataset/minerals-plan-boundary.md)
-- [minerals-plan](../content/dataset/minerals-plan.md)
-- [old-entity](../content/dataset/old-entity.md)
-- [old-resource](../content/dataset/old-resource.md)
-- [patch](../content/dataset/patch.md)
-- [phase](../content/dataset/phase.md)
-- [plan-event](../content/dataset/plan-event.md)
-- [plan-timetable](../content/dataset/plan-timetable.md)
+- [neighbourhood-forum](../content/dataset/neighbourhood-forum.md)
+- [non-designated-and-locally-listed-historic-asset](../content/dataset/non-designated-and-locally-listed-historic-asset.md)
+- [non-designated-archeology-asset-of-national-importance](../content/dataset/non-designated-archeology-asset-of-national-importance.md)
+- [nuclear-safety-zone](../content/dataset/nuclear-safety-zone.md)
+- [open-space](../content/dataset/open-space.md)
+- [plan](../content/dataset/plan.md)
 - [planning-application-category](../content/dataset/planning-application-category.md)
-- [planning-application-condition](../content/dataset/planning-application-condition.md)
+- [planning-application-document](../content/dataset/planning-application-document.md)
 - [planning-application-log](../content/dataset/planning-application-log.md)
 - [planning-application-status](../content/dataset/planning-application-status.md)
-- [planning-application-type](../content/dataset/planning-application-type.md)
 - [planning-condition-purpose](../content/dataset/planning-condition-purpose.md)
 - [planning-condition-target](../content/dataset/planning-condition-target.md)
 - [planning-condition-type](../content/dataset/planning-condition-type.md)
@@ -129,28 +688,47 @@ Find an authoritative definition, or keep the plain English description.
 - [planning-decision](../content/dataset/planning-decision.md)
 - [planning-development-category](../content/dataset/planning-development-category.md)
 - [postcode](../content/dataset/postcode.md)
-- [provision-quality](../content/dataset/provision-quality.md)
-- [provision-reason](../content/dataset/provision-reason.md)
-- [provision-rule](../content/dataset/provision-rule.md)
-- [provision](../content/dataset/provision.md)
-- [realm](../content/dataset/realm.md)
-- [requirement-level](../content/dataset/requirement-level.md)
-- [resource](../content/dataset/resource.md)
-- [role-organisation-rule](../content/dataset/role-organisation-rule.md)
-- [severity](../content/dataset/severity.md)
-- [skip](../content/dataset/skip.md)
-- [specification-reason](../content/dataset/specification-reason.md)
-- [specification-status](../content/dataset/specification-status.md)
-- [supplementary-plan](../content/dataset/supplementary-plan.md)
-- [task](../content/dataset/task.md)
-- [transport-access-node](../content/dataset/transport-access-node.md)
-- [tree-preservation-zone-type](../content/dataset/tree-preservation-zone-type.md)
-- [tree-preservation-zone](../content/dataset/tree-preservation-zone.md)
-- [tree](../content/dataset/tree.md)
+- [proposed-ramsar-site](../content/dataset/proposed-ramsar-site.md)
+- [protected-land](../content/dataset/protected-land.md)
+- [protected-view](../content/dataset/protected-view.md)
+- [public-safety-zone-around-airport](../content/dataset/public-safety-zone-around-airport.md)
+- [safeguarded-aerodrome](../content/dataset/safeguarded-aerodrome.md)
+- [safeguarded-military-explosives-site](../content/dataset/safeguarded-military-explosives-site.md)
+- [safeguarded-wharf](../content/dataset/safeguarded-wharf.md)
+- [safety-hazard-area](../content/dataset/safety-hazard-area.md)
+- [self-and-custom-buildarea](../content/dataset/self-and-custom-buildarea.md)
+- [site](../content/dataset/site.md)
+- [street](../content/dataset/street.md)
+- [suitable-alternative-green-space](../content/dataset/suitable-alternative-green-space.md)
+- [transport-under-tcpa-route](../content/dataset/transport-under-tcpa-route.md)
 - [uprn](../content/dataset/uprn.md)
-- [ward](../content/dataset/ward.md)
-- [waste-plan-boundary](../content/dataset/waste-plan-boundary.md)
-- [waste-plan](../content/dataset/waste-plan.md)
+- [wildbelt](../content/dataset/wildbelt.md)
+- [wildlife](../content/dataset/wildlife.md)
+
+## Datasets which could relate to another topic
+
+A dataset belongs to a single topic. These match the name of another topic.
+
+| Dataset | Topic | Also matches |
+| --- | --- | --- |
+| [biodiversity-net-gain-assessment](../content/dataset/biodiversity-net-gain-assessment.md) | biodiversity-net-gain-assessment | biodiversity-net-gain |
+| [building-safety-levy-rate](../content/dataset/building-safety-levy-rate.md) |  | building-safety-levy |
+| [development-corporation-boundary](../content/dataset/development-corporation-boundary.md) |  | development-corporation |
+| [development-plan](../content/dataset/development-plan.md) | development-plan-and-timetable | local-plan |
+| [historic-non-designed-rural-landscape-local-landscape-area](../content/dataset/historic-non-designed-rural-landscape-local-landscape-area.md) |  | local-landscape-area |
+| [local-green-space](../content/dataset/local-green-space.md) | local-green-space | green-space |
+| [local-plan-document-type](../content/dataset/local-plan-document-type.md) | development-plan-and-timetable | local-plan |
+| [local-plan-document](../content/dataset/local-plan-document.md) | development-plan-and-timetable | local-plan |
+| [local-plan-event](../content/dataset/local-plan-event.md) | development-plan-and-timetable | local-plan |
+| [local-plan-timetable](../content/dataset/local-plan-timetable.md) | development-plan-and-timetable | local-plan |
+| [local-plan](../content/dataset/local-plan.md) | local-plan | development-plan-and-timetable |
+| [minerals-and-waste-planning-authority](../content/dataset/minerals-and-waste-planning-authority.md) |  | local-planning-authority |
+| [non-designated-and-locally-listed-historic-asset](../content/dataset/non-designated-and-locally-listed-historic-asset.md) |  | local-heritage-asset |
+| [nuclear-safety-zone](../content/dataset/nuclear-safety-zone.md) |  | nuclear-consultation-zone |
+| [proposed-ramsar-site](../content/dataset/proposed-ramsar-site.md) | proposed-ramsar-site | ramsar |
+| [safety-hazard-area](../content/dataset/safety-hazard-area.md) |  | health-and-safety-executive-consultation-zone |
+| [suitable-alternative-green-space](../content/dataset/suitable-alternative-green-space.md) | suitable-alternative-natural-greenspace-sang | green-space |
+| [supplementary-plan](../content/dataset/supplementary-plan.md) |  | supplementary-plan |
 
 ## No description or term (164)
 

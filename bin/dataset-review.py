@@ -17,6 +17,119 @@ def short(s, n=160):
     return s if len(s) <= n else s[: n - 1] + "…"
 
 
+def entries(directory):
+    return [(f, *read(f)) for f in sorted(Path("content", directory).rglob("*.md"))]
+
+
+def words(s):
+    return re.sub(r"[^a-z0-9]+", " ", str(s).lower()).strip()
+
+
+def draft_terms():
+    """Terms with no sourced definition, for the Service Owner and legal to review."""
+    datasets = {f.stem for f, *_ in entries("dataset")}
+    topics = {f.stem for f, *_ in entries("topic")}
+    rows = []
+    for f, fm, body in entries("term"):
+        if fm.get("term-status") != "draft":
+            continue
+        origin = (
+            "dataset"
+            if f.stem in datasets
+            else "topic" if f.stem in topics else "other"
+        )
+        rows.append((origin, f.stem, body))
+    out = [
+        "",
+        f"## Draft terms ({len(rows)})",
+        "",
+        "Review for the Service Owner and legal. Find an authoritative definition, or keep the plain English text.",
+        "",
+        "| Term | From | Text |",
+        "| --- | --- | --- |",
+    ]
+    out += [
+        f"| [{r}](../content/term/{r}.md) | {origin} | {short(body)} |"
+        for origin, r, body in sorted(rows, key=lambda x: (x[0], x[1]))
+    ]
+    return out
+
+
+def conflicts():
+    """Terms with several definitions whose text differs."""
+    found = {}
+    for f, fm, body in entries("quotation"):
+        if fm.get("role") != "definition":
+            continue
+        text = words(re.sub(r"\[([^\]]*)\]\[[^\]]*\]", r"\1", body))
+        for term in fm.get("terms") or []:
+            found.setdefault(term, {}).setdefault(text, []).append(f.stem)
+    rows = {t: d for t, d in found.items() if len(d) > 1}
+    out = [
+        "",
+        f"## Terms with conflicting definitions ({len(rows)})",
+        "",
+        "Record which definition we adopt in the term's `description`.",
+        "",
+        "| Term | Definitions | Quotations |",
+        "| --- | --- | --- |",
+    ]
+    for term, d in sorted(rows.items()):
+        refs = ", ".join(q for qs in d.values() for q in qs)
+        out.append(f"| {term} | {len(d)} | {refs} |")
+    return out
+
+
+def unused_datasets():
+    """Datasets in the dataset realm with no collection or environment."""
+    rows = [
+        f.stem
+        for f, fm, _ in entries("dataset")
+        if fm.get("realm") == "dataset"
+        and not fm.get("collection")
+        and not fm.get("environment")
+    ]
+    out = [
+        "",
+        f"## Datasets which don't appear to be used ({len(rows)})",
+        "",
+        "In the dataset realm, with no `collection` or `environment`.",
+        "",
+    ]
+    return out + [f"- [{r}](../content/dataset/{r}.md)" for r in rows]
+
+
+def other_topics():
+    """Datasets whose name matches a topic other than their own."""
+    topics = []
+    for f, fm, _ in entries("topic"):
+        names = {words(fm.get("name")), words(fm.get("plural"))} | {
+            words(x) for x in fm.get("synonyms") or []
+        }
+        topics.append((f.stem, {n for n in names if len(n) > 3}))
+    out = [
+        "",
+        "## Datasets which could relate to another topic",
+        "",
+        "A dataset belongs to a single topic. These match the name of another topic.",
+        "",
+        "| Dataset | Topic | Also matches |",
+        "| --- | --- | --- |",
+    ]
+    for f, fm, _ in entries("dataset"):
+        text = f" {words(fm.get('name'))} {words(fm.get('plural'))} "
+        also = [
+            t
+            for t, names in topics
+            if t != fm.get("topic") and any(f" {n} " in text for n in names)
+        ]
+        if also:
+            out.append(
+                f"| [{f.stem}](../content/dataset/{f.stem}.md) | {fm.get('topic', '')} | {', '.join(also)} |"
+            )
+    return out
+
+
 def main():
     groups = {"legislation": [], "guidance": [], "draft": [], "none": []}
     for f in sorted(Path("content/dataset").glob("*.md")):
@@ -36,16 +149,22 @@ def main():
         ("legislation", "Definition from legislation"),
         ("guidance", "Definition from guidance"),
     ):
-        out += [f"## {title} ({len(groups[status])})", "", "| Dataset | Current description | Definition |", "| --- | --- | --- |"]
+        out += [
+            f"## {title} ({len(groups[status])})",
+            "",
+            "| Dataset | Current description | Definition |",
+            "| --- | --- | --- |",
+        ]
         for ref, fm, tfm, body in groups[status]:
             out.append(
                 f"| [{ref}](../content/dataset/{ref}.md) | {short(fm.get('description'))} "
                 f"| {short(body)} ([source]({tfm.get('documentation-url', '')})) |"
             )
         out.append("")
-    out += [f"## Draft term from the dataset description ({len(groups['draft'])})", "",
-        "Find an authoritative definition, or keep the plain English description.", ""]
-    out += [f"- [{r}](../content/dataset/{r}.md)" for r, *_ in groups["draft"]]
+    out += draft_terms()
+    out += conflicts()
+    out += unused_datasets()
+    out += other_topics()
     out += ["", f"## No description or term ({len(groups['none'])})", ""]
     out += [f"- [{r}](../content/dataset/{r}.md)" for r, *_ in groups["none"]]
     Path("notes/dataset-review.md").write_text("\n".join(out) + "\n", encoding="utf-8")

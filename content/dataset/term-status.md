@@ -2,7 +2,7 @@
 reference: term-status
 name: Term status
 plural: Term statuses
-description: Where the text of a term comes from: legislation, guidance or draft
+description: 'Where the text of a term comes from: legislation, guidance or draft'
 attribution: crown-copyright
 entry-date: '2026-11-13'
 fields:

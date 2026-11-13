@@ -1,37 +1,30 @@
-# Plan: a glossary of terms with sourced definitions
+# Plan: migrate content into the design model
 
 ## Goal
 
-Move towards the model in the [README](../README.md): a glossary of **terms**,
+Migrate the content in this repository into the model outlined in the [README](../README.md)
+This is content intended to be served at https://design.planning.data.gov.uk by https://github.com/digital-land/planning-data-design
+
+Every term, topic, dataset and field is named in the singular, with the plural recorded in its `plural` field.
+`make check` should fail on any `reference` that is not singular, unless listed in an exception file.
+
+## Building
+
+* `make check` checks the integrity of the content
+* `make review` creates `notes/dataset-review.md`, highlighting datasets in the dataset realm with names which don't substantially match a definition from legislation or guidance.
+
+### content/term
+
+The glossary of **terms**,
 each with every definition found in legislation, the NPPF glossary and wider GOV.UK guidance.
 Use it to improve the descriptions of datasets, fields and other items,
 and to replace the model managed in [digital-land/specification](https://github.com/digital-land/specification/).
 
-Served at https://design.planning.data.gov.uk, each term page `/term/<term>` shows:
+Served at https://design.planning.data.gov.uk, each term page `/term/<term>` will show:
 
 - the term, its name, and its plural or collective name
 - links to where the term is defined, with the quotation for each definition
 - links to where the term is used
-
-## Current state
-
-- `content/legislation` — 153 instruments (England), with `made-date` and `start-date`
-- `content/govuk` — 236 GOV.UK pages as markdown (`bin/govuk-planning.py`)
-- `content/term`, `content/quotation`, `content/abbreviation` — a handful of hand-written examples
-- `content/class`, `dataset`, `field`, `column`, `intent`, `datatype`, `prefix` — mostly empty
-- `bin/legislation2md.py` — converts legislation XML to markdown and already finds `<Term>` definitions
-- the Makefile only has `init`; no build, no CSV compile, no server yet
-
-## Model
-
-One markdown file per entity, front-matter fields as in the README.
-
-| Dataset | Key | Purpose |
-| --- | --- | --- |
-| term | `term/<slug>` | the concept: `name`, `plural`, `term-status`, `documentation-url`; the markdown text is the definition |
-| quotation | `<source>-<location>` | verbatim definition or reference, with `source`, `url`, `terms` (list) |
-| source | `source/<slug>` | a document: Act, SI, NPPF, GOV.UK page; links to `legislation` or `govuk` |
-| abbreviation | `abbreviation/<abbr>` | already exists; maps to `terms` |
 
 ### Term text and status
 
@@ -41,8 +34,8 @@ The `term-status` field records where it came from:
 
 | `term-status` | Text is | `documentation-url` |
 | --- | --- | --- |
-| `legislation` | quoted from an Act or statutory instrument | link to the definition on legislation.gov.uk (section anchor) |
-| `guidance` | quoted from GOV.UK content, such as the NPPF glossary or PPG | link to the GOV.UK page and anchor |
+| `legislation` | definition substantially matches a definition in an Act or statutory instrument | link to the definition on legislation.gov.uk (section anchor) |
+| `guidance` | definition substantially matches GOV.UK content, such as the NPPF glossary or PPG | link to the GOV.UK page and anchor |
 | `draft` | constructed by us, with no authoritative definition found | blank, or the best related source |
 
 Choose the status by precedence: `legislation`, then `guidance`, then `draft`.
@@ -64,7 +57,8 @@ show them side by side and record which one we adopt in the term's `description`
 - Step 4: done for known terms — `bin/govuk-candidates.py` found 13 candidate quotations (`role: candidate`), 6 promoted to `definition` and 6 marked `use`; 3 new defined terms listed in `notes/govuk-candidates.md`, 1 added; usage counts by `bin/term-usage.py`. Draft terms are promoted when a definition is found
 - Step 5: done — `bin/seed-specification.py` seeded 283 datasets and 537 fields (case-duplicates skipped) and 110 draft terms from dataset descriptions; each dataset links to its term
 - Step 6: started — `make review` writes `notes/dataset-review.md` comparing dataset descriptions with sourced definitions; descriptions not yet replaced
-- Steps 7 and 8: not started
+- Step 7 (topics): not started — see below
+- Steps 8 and 9: not started
 
 Legislation picks: terms are only taken from planning legislation (`planning()` in `bin/build-terms.py`),
 and `notes/ignore-terms.txt` lists generic words (address, document, company) whose statutory definitions are sense-specific.
@@ -122,26 +116,55 @@ and `notes/ignore-terms.txt` lists generic words (address, document, company) wh
 2. List `draft` terms and fields that have no sourced term; resolve or mark "no official definition, plain English chosen" per the design principles.
 3. Record conflicts between sources for review by policy colleagues.
 
-### 7. Serve at design.planning.data.gov.uk
+### 7. Migrate considerations to topics
+
+Source: `content/consideration/` in [planning-data-design](https://github.com/digital-land/planning-data-design), 398 files.
+By `stage`: Archived 122 (**skip**), Backlog 186, On the platform 33, Co-design 30, Research 9, Test and iterate 9, Screen 8, none 1. That leaves 276 to migrate; the file with no `stage` needs a decision.
+
+1. Add `bin/consideration2topic.py`; it reads the source repo (path as an argument), drops `stage: Archived`, and writes `content/topic/<reference>.md`. Re-runnable, so it can be repeated as the source changes until that repo is retired.
+2. Naming: considerations are plural ("Article 4 Directions"). Set `name` to the singular, `plural` to the original title, and `reference` to the singular slug. Singularise by rule, write the result to a review list, and fix by hand; the dataset field `consideration: ancient-woodlands` shows the old slugs in use.
+3. Field mapping:
+
+   | Source | Topic |
+   | --- | --- |
+   | `title` | `name` (singular) and `plural` |
+   | `description` | `description`; skip the placeholder "Planning consideration: X" |
+   | `stage` | `topic-stage`, with a new `content/topic-stage` dataset (do not clash with the development `stage` dataset) |
+   | `datasets` | `datasets`, validated against `content/dataset` |
+   | `legislation`, `specification` | `legislation` and `definition` as CURIEs where the URL resolves to a known legislation or GOV.UK page, otherwise keep the link |
+   | `synonyms` | `synonyms`; where a synonym is also a topic, link it rather than duplicate it |
+   | `tags` | `theme`, once the tag values are mapped (`local plan`, `local land charge` and so on are not all themes) |
+   | `github_discussion_number` | `github-discussion` |
+   | `created`, `updated` | `start-date`, `entry-date` |
+   | `frequency_of_updates`, `useful_links` | keep as fields, or move to the quotation and source datasets |
+
+4. Body: the discovery answers (Backlog, Screen, Research) are long and mostly unanswered. Keep them verbatim under the topic at first so nothing is lost, then split them into `need`, `source` and `quotation` records. The topic text should become a single sourced definition.
+5. Link each topic to a `term` where one matches. The topic's definition comes from the term, not the other way round, so a topic with no term gets a `draft` term.
+6. Replace `consideration` with `topic` in `content/dataset` and `content/field`. A dataset whose consideration is archived gets no topic; list those for review.
+7. Extend `bin/check.py`: topic references are unique and singular, `datasets` and `topic` links resolve, `topic-stage` is valid and never `Archived`.
+8. Update the README: `topic` is already listed; add `topic-stage` and remove the word "consideration" once migrated.
+
+### 8. Serve at design.planning.data.gov.uk
 
 1. Update https://github.com/digital-land/planning-data-design to read `content/` (or the compiled CSVs).
-2. Routes: `/term/` (index, A to Z), `/term/<term>`, `/quotation/<ref>`, `/source/<ref>`, `/abbreviation/<abbr>`.
+2. Routes: `/term/` (index, A to Z), `/term/<term>`, `/quotation/<ref>`, `/source/<ref>`, `/abbreviation/<abbr>`, `/topic/` and `/topic/<topic>`.
 3. Term page: name, plural, description, definitions (quotation, source, date, link to the exact anchor), then uses grouped by source.
 4. Build "used in" indexes at build time by scanning content for `term/<slug>` links and term names.
 5. Redirect old specification URLs to the new routes.
 6. Add the `dataset/` CSV outputs so the specification repo can consume them until it is retired.
 
-### 8. Retire the specification repo
+### 9. Retire the specification and consideration sources
 
 1. Map every specification entity to a content directory; check nothing is lost.
 2. Point https://digital-land.github.io/specification/ at the new site.
 3. Archive the repo once downstream consumers (pipelines, config) read the new CSVs.
+4. Remove `content/consideration` from planning-data-design once topics are served from here.
 
 ## Order of work
 
 Foundations (1) first. Then run 2 and 3 in parallel on a small set of terms
 (development, planning permission, local planning authority, heritage asset, brownfield land),
-and look at the result on a term page before scaling up. Then 4 and 5, then 6 and 7.
+and look at the result on a term page before scaling up. Then 4 and 5, then 6 and 7 (topics; start with the 33 "On the platform" ones), then 8.
 
 ## Open questions
 
@@ -150,4 +173,6 @@ and look at the result on a term page before scaling up. Then 4 and 5, then 6 an
 - Do we store full quotations or only a link and offset? (Copying is allowed under OGL, but long quotes bloat the repo.)
 - Do terms from the specification (e.g. "typology", "entity") belong in the same glossary as planning terms?
 - Scope: England only, or also Wales, Scotland and Northern Ireland terms where they differ?
-- Is the Obsidian vault the source of truth, or the compiled CSVs?
+- The markdown in `content/` is the source of truth and the CSVs are build output; confirm.
+- Should the unanswered discovery questions in each topic be kept, or only the answered ones?
+- Archived considerations are dropped, not migrated. Keep a list of their slugs so old URLs can redirect?

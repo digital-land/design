@@ -118,10 +118,6 @@ The data should be used to plan for housing-led development and more consistent 
 
 - Local plans -  Brownfield land is referenced a number of times in local plans, so we think that this consideration feeds into the process of creating a local plan as there will be associated targets.
 
-### From what we have learnt so far are there any risks to making Brownfield land data available?
-
-N / A
-
 ## Links
 
 - Specification: [Brownfield Land](https://digital-land.github.io/specification/specification/brownfield-land/)

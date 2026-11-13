@@ -82,42 +82,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Coal authority managed tips?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Coal authority managed tips? How do we expect them to use Coal authority managed tips?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset will display the presence of managed tips, which will be useful to know the presence of in plan making, as well as any impacts of growth on the facility.
-
-### Who are the types of users who might benefit from having access to Coal authority managed tips data?
-
-N/A
-
-### What are some potential uses of Coal authority managed tips data?
-
-N/A
-
-### What's the value of adding Coal authority managed tips data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Coal authority managed tips data available?
-
-N/A

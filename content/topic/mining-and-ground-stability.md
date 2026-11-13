@@ -82,45 +82,9 @@ Yes
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Mining and ground stability?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Mining and ground stability? How do we expect them to use Mining and ground stability?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset allows both homeowners, and developers to identify if properties, or sites are affected by coal mining, in a high risk area, or whether coal and mine entries on or near the surface.
-
-### Who are the types of users who might benefit from having access to Mining and ground stability data?
-
-N/A
-
-### What are some potential uses of Mining and ground stability data?
-
-N/A
-
-### What's the value of adding Mining and ground stability data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Mining and ground stability data available?
-
-N/A
 
 ## Links
 

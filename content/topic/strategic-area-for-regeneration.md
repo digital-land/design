@@ -35,10 +35,6 @@ The London Plan sets out strategic areas for regeneration, which are the areas w
 
 No
 
-### Who, in law, is responsible for the planning consideration or makes decisions about 'Strategic areas for regeneration'?
-
-N/A
-
 ### Which organisations do we think should publish the data?
 
 Greater London Authority
@@ -59,10 +55,6 @@ Local planning authorities will need to plan for strategic areas for regeneratio
 
 Yes
 
-### What Strategic areas for regeneration data is currently available?
-
-- 
-
 ### Do we think the data should come from a single source?
 
 Yes
@@ -77,42 +69,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Strategic areas for regeneration?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Strategic areas for regeneration? How do we expect them to use Strategic areas for regeneration?
-
-N/A
-
 ### What are the planning needs for this data?
 
 The London Plan sets out strategic areas for regeneration, which are the areas within London in greatest socio-economic need. These areas have been identified as being potentially suitable areas to contribute towards regeneration objectives by tackling spatial inequalities and environmental, economic and social barriers that affect the lives of people in the area.
-
-### Who are the types of users who might benefit from having access to Strategic areas for regeneration data?
-
-N/A
-
-### What are some potential uses of Strategic areas for regeneration data?
-
-N/A
-
-### What's the value of adding Strategic areas for regeneration data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Strategic areas for regeneration data available?
-
-N/A

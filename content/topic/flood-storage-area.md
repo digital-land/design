@@ -75,10 +75,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
 ### What other planning considerations does it interact with?
 
 It is part of the 'Flood Map for Planning (Rivers and Sea)' data that the Environment Agency shares
@@ -87,29 +83,9 @@ It is part of the 'Flood Map for Planning (Rivers and Sea)' data that the Enviro
 
 The Environment Agency
 
-### Other than the statutory consultees who are the primary users of Flood storage areas? How do we expect them to use Flood storage areas?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset is useful to understand existing land use of a flood storage area, as well as the presence of this type of flood defence, when considering development.
-
-### Who are the types of users who might benefit from having access to Flood storage areas data?
-
-N/A
-
-### What are some potential uses of Flood storage areas data?
-
-N/A
-
-### What's the value of adding Flood storage areas data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Flood storage areas data available?
-
-N/A
 
 ## Links
 

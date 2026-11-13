@@ -39,10 +39,6 @@ No
 
 There is nothing in law regarding golf courses, but they are generally privately owned parcels of land, so the owner would be responsible in this case.
 
-### Which organisations do we think should publish the data?
-
-Unknown
-
 ### Is the Golf courses a trigger?
 
 Yes

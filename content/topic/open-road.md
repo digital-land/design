@@ -33,10 +33,6 @@ OS Open Roads is a high-level view of the road network, from motorways to countr
 
 No
 
-### Who, in law, is responsible for the planning consideration or makes decisions about 'Open roads'?
-
-N/A
-
 ### Which organisations do we think should publish the data?
 
 Uknown
@@ -79,45 +75,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Open roads?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Open roads? How do we expect them to use Open roads?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset displays the existing road network, which will inform the preparation of planning applications, as well as the decision making of these. This can also be used for plan-making when considering access to sites, or any required improvement schemes to support growth.
-
-### Who are the types of users who might benefit from having access to Open roads data?
-
-N/A
-
-### What are some potential uses of Open roads data?
-
-N/A
-
-### What's the value of adding Open roads data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Open roads data available?
-
-N/A
 
 ## Links
 

@@ -43,10 +43,6 @@ NOT LEGISLATION - [Building Regulations 2004](https://assets.publishing.service.
 
 [Building Regulations 2004](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/431943/BR_PDF_AD_C_2013.pdf) - "BR 211 provides guidance on basic radon protective measures appropriate in areas where 3% - 10% of homes and full radon protective measures in areas where more than 10% of homes are predicted to have radon at or above the Radon Action Level of 200Bq/m3."
 
-### What is the specific part of the legislation that requires the publication of 'Radon'?
-
-N / A
-
 ### Who, in law, is responsible for the planning consideration or makes decisions about 'Radon'?
 
 - UKRadon
@@ -91,10 +87,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
 ### Where will or should the data be used?
 
 During the assessment of a site.
@@ -107,14 +99,6 @@ During the "searches" process in conveyancing.
 
 * Local plans - Radon gas is occasionally referenced in local plans, so we think that this consideration feeds into the process of creating a local plan.
 * [Planning conditions](/consideration/planning-conditions)
-
-### Who are the statutory consultees for Radon?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Radon? How do we expect them to use Radon?
-
-N/A
 
 ### What are the planning needs for this data?
 
@@ -135,10 +119,6 @@ Understanding mitigating Radon levels is important for building controls - as re
 ### What's the value of adding Radon data to the platform?
 
 It could be built into services helping developers to assess and prepare proposals for a site
-
-### From what we have learnt so far are there any risks to making Radon data available?
-
-N/A
 
 ## Links
 

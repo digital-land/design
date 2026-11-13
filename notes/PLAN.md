@@ -59,7 +59,7 @@ show them side by side and record which one we adopt in the term's `description`
 - Step 4: done for known terms — `bin/govuk-candidates.py` found 13 candidate quotations (`role: candidate`), 6 promoted to `definition` and 6 marked `use`; 3 new defined terms listed in `notes/govuk-candidates.md`, 1 added; usage counts by `bin/term-usage.py`. Draft terms are promoted when a definition is found
 - Step 5: done — `bin/seed-specification.py` seeded 283 datasets and 537 fields (case-duplicates skipped) and 110 draft terms from dataset descriptions; each dataset links to its term
 - Step 6: started — `make review` writes `notes/dataset-review.md` comparing dataset descriptions with sourced definitions; descriptions not yet replaced
-- Step 7 (topics): done by `bin/consideration2topic.py` — 275 topics, 122 archived skipped, no stages, each dataset carries its `topic`; 9 datasets left without a topic (their considerations were archived); names to check are in `notes/topic-review.md`; topics have no draft terms yet, only those matching an existing term are linked
+- Step 7 (topics): done by `bin/consideration2topic.py` and `bin/topic-strip.py` (unanswered questions removed) — 275 topics, 122 archived skipped, no stages, each dataset carries its `topic`; 9 datasets left without a topic (their considerations were archived); names to check are in `notes/topic-review.md`; topics have no draft terms yet, only those matching an existing term are linked
 - Steps 8 and 9: not started
 
 Legislation picks: terms are only taken from planning legislation (`planning()` in `bin/build-terms.py`),

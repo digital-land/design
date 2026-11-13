@@ -78,45 +78,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Casi and lidar habitat?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Casi and lidar habitat? How do we expect them to use Casi and lidar habitat?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset presents the characteristics of different habitats, through CASI and LiDAR data. This dataset allows us to identify the presence of different types of habitats through airbourne data, allowing planning and land use decisions to be made in a sensitive way to the site.
-
-### Who are the types of users who might benefit from having access to Casi and lidar habitat data?
-
-N/A
-
-### What are some potential uses of Casi and lidar habitat data?
-
-N/A
-
-### What's the value of adding Casi and lidar habitat data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Casi and lidar habitat data available?
-
-N/A
 
 ## Links
 

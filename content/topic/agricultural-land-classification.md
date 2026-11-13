@@ -44,14 +44,6 @@ Planning authorities must consult Natural England on all non-agricultural applic
 
 This is required by [schedule 4(y) of the Order](https://www.legislation.gov.uk/uksi/2015/595/schedule/4/made).
 
-### What is the specific part of the legislation that describes how a 'Agricultural land classification' gets designated?
-
-N/A
-
-### What is the specific part of the legislation that requires the publication of 'Agricultural land classification'?
-
-N/A
-
 ### Who, in law, is responsible for the planning consideration or makes decisions about 'Agricultural land classification'?
 
 Natural England
@@ -96,41 +88,13 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
 ### What other planning considerations does it interact with?
 
 Best and Most Versatile Agricultural Land
 
-### Other than the statutory consultees who are the primary users of Agricultural land classification? How do we expect them to use Agricultural land classification?
-
-N/A
-
 ### What are the planning needs for this data?
 
 Agricultural Land Classification is an important consideration for developers to understand any potential restrictions or complications associated with land. It is important to know use class also. Developers and LPAs will need to refer to national and local policies related to agricultural land when considering potential development proposals affecting agricultural land and soils, to protect Best and Most Versatile (BMV) agricultural land from significant, innappropriate or unsustainable development proposals, as well as all soils by managing them in a sustainable way. Natural England will need to be consulted as a Statutory Consultee.
-
-### Who are the types of users who might benefit from having access to Agricultural land classification data?
-
-As per above
-
-### What are some potential uses of Agricultural land classification data?
-
-As per above
-
-### What's the value of adding Agricultural land classification data to the platform?
-
-As per above
-
-### From what we have learnt so far are there any risks to making Agricultural land classification data available?
-
-N/A
 
 ## Links
 

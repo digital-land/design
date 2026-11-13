@@ -92,41 +92,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Main rivers?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Main rivers? How do we expect them to use Main rivers?
-
-N/A
-
 ### What are the planning needs for this data?
 
 In both policy and DM planning the presence of rivers indicates other constraints and considerations, such as; flood plain, nutrient neutrality requirements and biodiversity. The river itself is a constraint that would be considered when looking for suitable sites to develop.
-
-### Who are the types of users who might benefit from having access to Main rivers data?
-
-N/A
-
-### What are some potential uses of Main rivers data?
-
-N/A
-
-### What's the value of adding Main rivers data to the platform?
-
-N/A
 
 ### From what we have learnt so far are there any risks to making Main rivers data available?
 

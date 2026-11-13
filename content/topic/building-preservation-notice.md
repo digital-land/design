@@ -133,7 +133,3 @@ Knowing about a building with a BPN will impact the information an applicant wil
 
 - Listed buildings
 - Certificate of immunity
-
-### From what we have learnt so far are there any risks to making Building preservation notices data available?
-
-N / A

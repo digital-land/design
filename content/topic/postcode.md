@@ -63,26 +63,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Postcodes?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Postcodes? How do we expect them to use Postcodes?
-
-N/A
-
 ### What are the planning needs for this data?
 
 Planning need is unclear
@@ -107,10 +87,6 @@ Post codes can be used to group data together for research and statistical analy
 ### What's the value of adding Postcodes data to the platform?
 
 Making postcodes available through the platform means service builders can use them in their services. This would help their users because it is common for people to know and use post codes to find or refer to an area.
-
-### From what we have learnt so far are there any risks to making Postcodes data available?
-
-N/A
 
 ## Links
 

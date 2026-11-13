@@ -86,10 +86,6 @@ The data should be used to speed up the process for dealing with planning applic
 
 - Local plans - Battlefields are referenced regularly in local plans under the guise of 'heritage assets', so we think that this consideration feeds into the process of creating a local plan.
 
-### From what we have learnt so far are there any risks to making Battlefields data available?
-
-N / A
-
 ## Links
 
 - [National dataset documentation page](https://historicengland.org.uk/listing/the-list/data-downloads)

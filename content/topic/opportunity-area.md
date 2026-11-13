@@ -59,10 +59,6 @@ Local planning authorities will need to plan for opportunty areas within their L
 
 Yes
 
-### What Opportunity areas data is currently available?
-
-- 
-
 ### Do we think the data should come from a single source?
 
 Yes
@@ -77,42 +73,6 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Opportunity areas?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Opportunity areas? How do we expect them to use Opportunity areas?
-
-N/A
-
 ### What are the planning needs for this data?
 
 The London Plan (2021) sets out opportunity area designations, which are significant locations with development capacity to accomodate new housing, commercial development and infrastructure, linked to existing or potential improvements in public trasport connectivity and capacity.
-
-### Who are the types of users who might benefit from having access to Opportunity areas data?
-
-N/A
-
-### What are some potential uses of Opportunity areas data?
-
-N/A
-
-### What's the value of adding Opportunity areas data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Opportunity areas data available?
-
-N/A

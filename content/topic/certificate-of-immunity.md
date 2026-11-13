@@ -89,10 +89,6 @@ Yes
 
 - [Historic England](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=2) (coverage: National; licence: [OGL](https://historicengland.org.uk/terms/website-terms-conditions/open-data-hub/ ); fields: ListEntry;Name;Certificate of Immunity start date;Certificate of Immunity expiry date;Capture scale;NHLE link;National Grid Reference;Easting;Northing)
 
-### Do we think the data should come from a single source?
-
-N / A
-
 ### Will a data standard be required?
 
 No
@@ -124,10 +120,6 @@ COI data will be used by LPAs to inform the completion of local plans, as a COI 
 
 - Listed buildings
 - Building preservation notices
-
-### From what we have learnt so far are there any risks to making Certificate of immunity data available?
-
-N / A
 
 ## Links
 

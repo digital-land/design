@@ -85,10 +85,6 @@ Yes
 
 - [Greater London Authority](https://data.london.gov.uk/dataset/central-activities-zone-23jxk) (coverage: National; licence: UK Open Government Licence; fields: unknown)
 
-### Do we think the data should come from a single source?
-
-N / A
-
 ### Will a data standard be required?
 
 No
@@ -112,10 +108,6 @@ The CAZ and it’s SPG should be used to help keep central London local authorit
 ### What other planning considerations does it interact with?
 
 - Local Plans
-
-### From what we have learnt so far are there any risks to making Central activities zone data available?
-
-N / A
 
 ## Links
 

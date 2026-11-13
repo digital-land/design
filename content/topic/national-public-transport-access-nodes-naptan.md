@@ -81,37 +81,13 @@ No
 
 We do not need to understand this at this point.
 
-### Where will or should the data be used?
-
-N/A
-
 ### What other planning considerations does it interact with?
 
 [National Public Transport Gazetteer (NPTG)](https://beta-naptan.dft.gov.uk/download/nptg)
 
-### Other than the statutory consultees who are the primary users of National Public Transport Access Nodes (NaPTAN)? How do we expect them to use National Public Transport Access Nodes (NaPTAN)?
-
-N/A
-
 ### What are the planning needs for this data?
 
 This dataset will help users to locate transport access points, including bus, rail, tram, metro, underground, air and ferry services. It will inform development management decision making through development of transport assessments / travel plans for access / design and access statements, as well as in planmaking, when assessing the suitability of a site, in terms of transport accessibility.
-
-### Who are the types of users who might benefit from having access to National Public Transport Access Nodes (NaPTAN) data?
-
-As per above
-
-### What are some potential uses of National Public Transport Access Nodes (NaPTAN) data?
-
-As per above
-
-### What's the value of adding National Public Transport Access Nodes (NaPTAN) data to the platform?
-
-As per above
-
-### From what we have learnt so far are there any risks to making National Public Transport Access Nodes (NaPTAN) data available?
-
-N/A
 
 ## Links
 

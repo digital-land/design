@@ -45,10 +45,6 @@ separate files.
 
 No
 
-### Who, in law, is responsible for the planning consideration or makes decisions about 'Council wards'?
-
-Unknown
-
 ### Which organisations do we think should publish the data?
 
 Local authorities;Ordnance Survey
@@ -80,45 +76,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Council wards?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Council wards? How do we expect them to use Council wards?
-
-N/A
-
 ### What are the planning needs for this data?
 
 Council wards are an important dataset for planning, as often neighbourhood plan areas are split by ward - or sometimes multiple wards. Planning applications are also often mapped against ward, and this allows LPAs to consider homes coming forward / completed against housing targets through the authrority monitoring report.
-
-### Who are the types of users who might benefit from having access to Council wards data?
-
-N/A
-
-### What are some potential uses of Council wards data?
-
-N/A
-
-### What's the value of adding Council wards data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Council wards data available?
-
-N/A
 
 ## Links
 

@@ -77,45 +77,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Nature improvement areas?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Nature improvement areas? How do we expect them to use Nature improvement areas?
-
-N/A
-
 ### What are the planning needs for this data?
 
 Nature Improvement Areas (NIA) were established to create joined up and resilient ecological networks at a landscape scale. This dataset displays these, allowing their presence to be taken into consideration when plan-making and decision making.
-
-### Who are the types of users who might benefit from having access to Nature improvement areas data?
-
-N/A
-
-### What are some potential uses of Nature improvement areas data?
-
-N/A
-
-### What's the value of adding Nature improvement areas data to the platform?
-
-N/A
-
-### From what we have learnt so far are there any risks to making Nature improvement areas data available?
-
-N/A
 
 ## Links
 

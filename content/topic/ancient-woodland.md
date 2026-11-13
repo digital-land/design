@@ -121,10 +121,6 @@ Planning authorities will be able to see and react very quickly to applications 
 - Ancient and veteran trees
 - Local plans - Ancient woodland is referenced a number of times in local plans, so we think that this consideration feeds into the process of creating a local plan.
 
-### From what we have learnt so far are there any risks to making Ancient woodlands data available?
-
-N / A
-
 ## Links
 
 - [National dataset documentation page](https://www.data.gov.uk/dataset/9461f463-c363-4309-ae77-fdcd7e9df7d3/ancient-woodland-england)

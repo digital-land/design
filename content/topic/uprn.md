@@ -65,10 +65,6 @@ No
 
 Yes
 
-### Document a stage of the high-level lifecycle of a Uprn
-
-- 
-
 ### Do we understand how the data is created/produced?
 
 A UPRN is a unique numeric identifier for every addressable location in Great Britain. The UPRN is the
@@ -91,17 +87,9 @@ UPRNs are used in lots of datasets so would be useful to link datasets together
 * [Energy performance certificates](/consideration/energy-performance-certificates) - each certificate has a uprn for the property
 * [Article 4 directions](/consideration/article-4-directions) - these can reference specific properties using UPRNs
 
-### Other than the statutory consultees who are the primary users of Uprn? How do we expect them to use Uprn?
-
-N/A
-
 ### What are the planning needs for this data?
 
 A specific planning need is unclear
-
-### Who are the types of users who might benefit from having access to Uprn data?
-
-N/A
 
 ### What are some potential uses of Uprn data?
 

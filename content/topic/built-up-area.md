@@ -75,29 +75,9 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Built up areas? How do we expect them to use Built up areas?
-
-N/A
-
 ### What are the planning needs for this data?
 
 In order to support analysis into land use, statistical data such as built up areas can be used. Using this dataset, we are able to see what land is not built-up, and which can contribute towards understanding what land is available for development. While this is a useful statistical dataset, a more precise source will be required for site selection purposes.
-
-### From what we have learnt so far are there any risks to making Built up areas data available?
-
-N/A
 
 ## Links
 

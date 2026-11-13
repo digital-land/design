@@ -61,10 +61,6 @@ No
 
 Yes
 
-### Document a stage of the high-level lifecycle of a Usrn
-
-- 
-
 ### Do we understand how the data is created/produced?
 
 A USRN is a unique and persistent identifier for a street contained in either the National or Scottish Street
@@ -84,22 +80,6 @@ assigned, but a Type 3 or Type 4 USRN can also represent the same sections of ca
 2 are assigned. 
 
 Table 1 provides the definitions for different street types.
-
-### Where will or should the data be used?
-
-N/A
-
-### What other planning considerations does it interact with?
-
-N/A
-
-### Who are the statutory consultees for Usrn?
-
-N/A
-
-### Other than the statutory consultees who are the primary users of Usrn? How do we expect them to use Usrn?
-
-N/A
 
 ### What are the planning needs for this data?
 
@@ -124,10 +104,6 @@ The Government Digital Service has mandated that the UPRN and USRN are to be the
 -- [Geoplace](https://www.geoplace.co.uk/addresses-streets/location-data/usrn)
 
 Therefore we should make these available to service builders so that they can be used as intended.
-
-### From what we have learnt so far are there any risks to making Usrn data available?
-
-N/A
 
 ## Links
 

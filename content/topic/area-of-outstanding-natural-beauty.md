@@ -129,14 +129,6 @@ We do not know how this data is created, further research is required.
 
 Development applications based in areas of outstanding natural beauty will be dealt with efficiently, as the area will be highlighted as being under the highest protection.
 
-### What other planning considerations does it interact with?
-
-N / A
-
-### From what we have learnt so far are there any risks to making Areas of outstanding natural beauty data available?
-
-N / A
-
 ## Links
 
 - [National dataset documentation page](https://naturalengland-defra.opendata.arcgis.com/datasets/areas-of-outstanding-natural-beauty-england)

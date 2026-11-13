@@ -80,30 +80,14 @@ No
 
 No
 
-### Do we understand how the data is created/produced?
-
-N/A
-
-### Where will or should the data be used?
-
-N/A
-
 ### Who are the statutory consultees for Educational establishment?
 
 * Department for Education
 * Planning authorities
 
-### Other than the statutory consultees who are the primary users of Educational establishment? How do we expect them to use Educational establishment?
-
-N/A
-
 ### What are the planning needs for this data?
 
 The presence, distance, and capacity of existing schools are something to be consulted as part of plan-making, during the assessment of sites prior to site allocation, as well as when assessing existing infrastructure capacity when planning for growth. Understanding existing school capacity also allows for education authorities to plan for the need for expansion of existing schools, and the delivery of new schools.
-
-### Who are the types of users who might benefit from having access to Educational establishment data?
-
-N/A
 
 ### What are some potential uses of Educational establishment data?
 

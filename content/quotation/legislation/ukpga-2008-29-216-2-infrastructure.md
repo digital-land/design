@@ -4,8 +4,6 @@ name: Planning Act 2008, section 216
 url: https://www.legislation.gov.uk/ukpga/2008/29/section/216#term-infrastructure
 source-class: legislation
 role: definition
-terms:
-- infrastructure
 start-date: 2008-11-26
 entry-date: 2026-11-12
 ---

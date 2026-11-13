@@ -4,8 +4,6 @@ name: The Town and Country Planning (General Permitted Development) (England) Or
 url: https://www.legislation.gov.uk/uksi/2015/596/article/2#term-caravan
 source-class: legislation
 role: reference
-terms:
-- caravan
 start-date: 2015-04-15
 entry-date: 2026-11-12
 ---

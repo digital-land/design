@@ -4,8 +4,6 @@ name: Environment Act 2021, section 87
 url: https://www.legislation.gov.uk/ukpga/2021/30/section/87
 source-class: legislation
 role: definition
-terms:
-- consumer
 start-date: 2021-11-09
 entry-date: 2026-11-12
 ---

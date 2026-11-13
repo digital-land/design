@@ -4,8 +4,6 @@ name: The Neighbourhood Planning (Referendums) Regulations 2012, regulation 5
 url: https://www.legislation.gov.uk/uksi/2012/2031/regulation/5#term-publish
 source-class: legislation
 role: definition
-terms:
-- publish
 start-date: 2012-08-02
 entry-date: 2026-11-12
 ---

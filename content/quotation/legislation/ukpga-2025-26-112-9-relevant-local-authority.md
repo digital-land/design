@@ -4,8 +4,6 @@ name: Renters’ Rights Act 2025, section 112
 url: https://www.legislation.gov.uk/ukpga/2025/26/section/112#term-relevant-local-authority
 source-class: legislation
 role: definition
-terms:
-- relevant-local-authority
 start-date: 2025-10-27
 entry-date: 2026-11-12
 ---

@@ -4,8 +4,6 @@ name: The Town and Country Planning (Discharge of Local Planning Authority Funct
 url: https://www.legislation.gov.uk/uksi/2026/854/regulation/2#term-committee
 source-class: legislation
 role: definition
-terms:
-- committee
 start-date: 2026-10-31
 entry-date: 2026-11-12
 ---

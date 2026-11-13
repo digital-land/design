@@ -4,8 +4,6 @@ name: The Infrastructure Planning (Environmental Impact Assessment) Regulations 
 url: https://www.legislation.gov.uk/uksi/2017/572/regulation/3#term-any-other-information
 source-class: legislation
 role: definition
-terms:
-- any-other-information
 start-date: 2017-05-16
 entry-date: 2026-11-12
 ---

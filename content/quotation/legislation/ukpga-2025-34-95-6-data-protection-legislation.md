@@ -4,8 +4,6 @@ name: Planning and Infrastructure Act 2025, section 95
 url: https://www.legislation.gov.uk/ukpga/2025/34/section/95#term-data-protection-legislation
 source-class: legislation
 role: reference
-terms:
-- data-protection-legislation
 start-date: 2025-12-18
 entry-date: 2026-11-12
 ---

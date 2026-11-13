@@ -4,8 +4,6 @@ name: Renters’ Rights Act 2025, section 60
 url: https://www.legislation.gov.uk/ukpga/2025/26/section/60
 source-class: legislation
 role: definition
-terms:
-- dwelling-house
 start-date: 2025-10-27
 entry-date: 2026-11-12
 ---

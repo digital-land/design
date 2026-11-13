@@ -4,8 +4,6 @@ name: Environment Act 2021, section 77
 url: https://www.legislation.gov.uk/ukpga/2021/30/section/77#term-manufacturer
 source-class: legislation
 role: reference
-terms:
-- manufacturer
 start-date: 2021-11-09
 entry-date: 2026-11-12
 ---

@@ -4,8 +4,6 @@ name: The Town and Country Planning (Local Planning) (England) Regulations 2012,
 url: https://www.legislation.gov.uk/uksi/2012/767/regulation/2#term-address
 source-class: legislation
 role: definition
-terms:
-- address
 start-date: 2012-04-06
 entry-date: 2026-11-12
 ---

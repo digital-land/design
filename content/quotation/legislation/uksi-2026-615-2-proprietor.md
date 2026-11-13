@@ -4,8 +4,6 @@ name: The Provision of Information (Contractual Control) (Registered Land) Regul
 url: https://www.legislation.gov.uk/uksi/2026/615/regulation/2#term-proprietor
 source-class: legislation
 role: definition
-terms:
-- proprietor
 start-date: 2027-04-06
 entry-date: 2026-11-12
 ---

@@ -4,8 +4,6 @@ name: Norfolk and Suffolk Broads Act 1988, section 2
 url: https://www.legislation.gov.uk/ukpga/1988/4/section/2#term-the-broads
 source-class: legislation
 role: definition
-terms:
-- the-broads
 start-date: 1988-03-15
 entry-date: 2026-11-12
 ---

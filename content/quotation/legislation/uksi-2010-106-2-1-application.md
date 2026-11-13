@@ -4,8 +4,6 @@ name: The Infrastructure Planning (Fees) Regulations 2010, regulation 2
 url: https://www.legislation.gov.uk/uksi/2010/106/regulation/2
 source-class: legislation
 role: definition
-terms:
-- application
 start-date: 2010-03-01
 entry-date: 2026-11-12
 ---

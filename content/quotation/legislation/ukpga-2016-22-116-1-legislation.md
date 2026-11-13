@@ -4,8 +4,6 @@ name: Housing and Planning Act 2016, section 116
 url: https://www.legislation.gov.uk/ukpga/2016/22/section/116#term-legislation
 source-class: legislation
 role: definition
-terms:
-- legislation
 start-date: 2016-05-12
 entry-date: 2026-11-12
 ---

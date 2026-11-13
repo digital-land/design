@@ -4,8 +4,6 @@ name: Water Industry Act 1991, section 114A
 url: https://www.legislation.gov.uk/ukpga/1991/56/section/114A
 source-class: legislation
 role: definition
-terms:
-- structure
 start-date: 1991-07-25
 entry-date: 2026-11-12
 ---

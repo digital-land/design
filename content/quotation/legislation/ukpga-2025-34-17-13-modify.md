@@ -4,8 +4,6 @@ name: Planning and Infrastructure Act 2025, section 17
 url: https://www.legislation.gov.uk/ukpga/2025/34/section/17#term-modify
 source-class: legislation
 role: definition
-terms:
-- modify
 start-date: 2025-12-18
 entry-date: 2026-11-12
 ---

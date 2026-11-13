@@ -4,8 +4,6 @@ name: Procurement Act 2023, section 100
 url: https://www.legislation.gov.uk/ukpga/2023/54/section/100#term-the-court
 source-class: legislation
 role: definition
-terms:
-- the-court
 start-date: 2023-10-26
 entry-date: 2026-11-12
 ---

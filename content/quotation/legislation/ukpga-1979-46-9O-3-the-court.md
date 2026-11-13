@@ -4,8 +4,6 @@ name: Ancient Monuments and Archaeological Areas Act 1979, section 9O
 url: https://www.legislation.gov.uk/ukpga/1979/46/section/9O
 source-class: legislation
 role: definition
-terms:
-- the-court
 start-date: 1979-07-16
 entry-date: 2026-11-12
 ---

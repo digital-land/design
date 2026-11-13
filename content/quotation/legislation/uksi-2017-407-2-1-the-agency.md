@@ -4,8 +4,6 @@ name: The Water Environment (Water Framework Directive) (England and Wales) Regu
 url: https://www.legislation.gov.uk/uksi/2017/407/regulation/2#term-the-agency
 source-class: legislation
 role: definition
-terms:
-- the-agency
 start-date: 2017-04-10
 entry-date: 2026-11-12
 ---

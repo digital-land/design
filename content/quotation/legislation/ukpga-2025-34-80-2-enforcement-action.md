@@ -4,8 +4,6 @@ name: Planning and Infrastructure Act 2025, section 80
 url: https://www.legislation.gov.uk/ukpga/2025/34/section/80#term-enforcement-action
 source-class: legislation
 role: definition
-terms:
-- enforcement-action
 start-date: 2025-12-18
 entry-date: 2026-11-12
 ---

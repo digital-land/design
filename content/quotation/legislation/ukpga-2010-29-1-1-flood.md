@@ -4,8 +4,6 @@ name: Flood and Water Management Act 2010, section 1
 url: https://www.legislation.gov.uk/ukpga/2010/29/section/1#term-flood
 source-class: legislation
 role: definition
-terms:
-- flood
 start-date: 2010-04-08
 entry-date: 2026-11-12
 ---

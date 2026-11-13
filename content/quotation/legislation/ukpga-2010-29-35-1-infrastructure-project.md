@@ -4,8 +4,6 @@ name: Flood and Water Management Act 2010, section 35
 url: https://www.legislation.gov.uk/ukpga/2010/29/section/35
 source-class: legislation
 role: definition
-terms:
-- infrastructure-project
 start-date: 2010-04-08
 entry-date: 2026-11-12
 ---

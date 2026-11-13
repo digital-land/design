@@ -4,8 +4,6 @@ name: Waste and Emissions Trading Act 2003, section 22
 url: https://www.legislation.gov.uk/ukpga/2003/33/section/22#term-landfill
 source-class: legislation
 role: definition
-terms:
-- landfill
 start-date: 2003-11-13
 entry-date: 2026-11-12
 ---

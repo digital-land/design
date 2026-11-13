@@ -4,8 +4,6 @@ name: Wildlife and Countryside Act 1981, section 66
 url: https://www.legislation.gov.uk/ukpga/1981/69/section/66#term-footpath
 source-class: legislation
 role: definition
-terms:
-- footpath
 start-date: 1981-11-30
 entry-date: 2026-11-12
 ---

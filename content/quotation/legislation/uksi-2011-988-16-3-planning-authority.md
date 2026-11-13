@@ -4,8 +4,6 @@ name: The Waste (England and Wales) Regulations 2011, regulation 16
 url: https://www.legislation.gov.uk/uksi/2011/988/regulation/16#term-planning-authority
 source-class: legislation
 role: definition
-terms:
-- planning-authority
 start-date: 2011-03-28
 entry-date: 2026-11-12
 ---

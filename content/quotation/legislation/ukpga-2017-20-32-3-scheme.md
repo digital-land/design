@@ -4,8 +4,6 @@ name: Neighbourhood Planning Act 2017, section 32
 url: https://www.legislation.gov.uk/ukpga/2017/20/section/32
 source-class: legislation
 role: definition
-terms:
-- scheme
 start-date: 2017-04-27
 entry-date: 2026-11-12
 ---

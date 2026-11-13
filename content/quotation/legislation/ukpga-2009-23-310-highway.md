@@ -4,8 +4,6 @@ name: Marine and Coastal Access Act 2009, section 310
 url: https://www.legislation.gov.uk/ukpga/2009/23/section/310
 source-class: legislation
 role: reference
-terms:
-- highway
 start-date: 2009-11-12
 entry-date: 2026-11-12
 ---

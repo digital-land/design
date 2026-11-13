@@ -4,8 +4,6 @@ name: Finance Act 2003, section 43
 url: https://www.legislation.gov.uk/ukpga/2003/14/section/43#term-purchaser
 source-class: legislation
 role: definition
-terms:
-- purchaser
 start-date: 2003-07-10
 entry-date: 2026-11-12
 ---

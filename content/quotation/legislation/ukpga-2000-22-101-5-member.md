@@ -4,8 +4,6 @@ name: Local Government Act 2000, section 101
 url: https://www.legislation.gov.uk/ukpga/2000/22/section/101#term-member
 source-class: legislation
 role: definition
-terms:
-- member
 start-date: 2000-07-28
 entry-date: 2026-11-12
 ---

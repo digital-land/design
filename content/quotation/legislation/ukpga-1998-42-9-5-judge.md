@@ -4,8 +4,6 @@ name: Human Rights Act 1998, section 9
 url: https://www.legislation.gov.uk/ukpga/1998/42/section/9#term-judge
 source-class: legislation
 role: definition
-terms:
-- judge
 start-date: 1998-11-09
 entry-date: 2026-11-12
 ---

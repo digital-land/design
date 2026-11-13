@@ -4,8 +4,6 @@ name: The National Treatment Agency (Abolition) and the Health and Social Care A
 url: https://www.legislation.gov.uk/uksi/2013/235/article/2#term-the-agency
 source-class: legislation
 role: definition
-terms:
-- the-agency
 start-date: 2013-04-01
 entry-date: 2026-11-12
 ---

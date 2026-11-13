@@ -4,8 +4,6 @@ name: The Conservation of Habitats and Species Regulations 2017, regulation 54
 url: https://www.legislation.gov.uk/uksi/2017/1012/regulation/54#term-relevant-part
 source-class: legislation
 role: definition
-terms:
-- relevant-part
 start-date: 2017-11-30
 entry-date: 2026-11-12
 ---

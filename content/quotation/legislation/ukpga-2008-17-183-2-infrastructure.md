@@ -4,8 +4,6 @@ name: Housing and Regeneration Act 2008, section 183
 url: https://www.legislation.gov.uk/ukpga/2008/17/section/183#term-infrastructure
 source-class: legislation
 role: reference
-terms:
-- infrastructure
 start-date: 2008-07-22
 entry-date: 2026-11-12
 ---

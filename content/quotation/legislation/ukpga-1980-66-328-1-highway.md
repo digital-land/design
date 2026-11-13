@@ -4,8 +4,6 @@ name: Highways Act 1980, section 328
 url: https://www.legislation.gov.uk/ukpga/1980/66/section/328#term-highway
 source-class: legislation
 role: definition
-terms:
-- highway
 start-date: 1980-11-13
 entry-date: 2026-11-12
 ---

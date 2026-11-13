@@ -4,8 +4,6 @@ name: Localism Act 2011, section 216
 url: https://www.legislation.gov.uk/ukpga/2011/20/section/216#term-company
 source-class: legislation
 role: definition
-terms:
-- company
 start-date: 2011-11-15
 entry-date: 2026-11-12
 ---

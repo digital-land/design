@@ -4,8 +4,6 @@ name: Environment Act 2021, section 74
 url: https://www.legislation.gov.uk/ukpga/2021/30/section/74#term-environmental-impact
 source-class: legislation
 role: definition
-terms:
-- environmental-impact
 start-date: 2021-11-09
 entry-date: 2026-11-12
 ---

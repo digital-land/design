@@ -4,8 +4,6 @@ name: The Environmental Assessment of Plans and Programmes Regulations 2004, reg
 url: https://www.legislation.gov.uk/uksi/2004/1633/regulation/2#term-scotland
 source-class: legislation
 role: reference
-terms:
-- scotland
 start-date: 2004-07-20
 entry-date: 2026-11-12
 ---

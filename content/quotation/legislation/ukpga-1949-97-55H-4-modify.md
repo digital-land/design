@@ -4,8 +4,6 @@ name: National Parks and Access to the Countryside Act 1949, section 55H
 url: https://www.legislation.gov.uk/ukpga/1949/97/section/55H
 source-class: legislation
 role: definition
-terms:
-- modify
 start-date: 1949-12-16
 entry-date: 2026-11-12
 ---

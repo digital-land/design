@@ -4,8 +4,6 @@ name: The Town and Country Planning (Environmental Impact Assessment) Regulation
 url: https://www.legislation.gov.uk/uksi/2017/571/regulation/2#term-further-information
 source-class: legislation
 role: reference
-terms:
-- further-information
 start-date: 2017-05-16
 entry-date: 2026-11-12
 ---

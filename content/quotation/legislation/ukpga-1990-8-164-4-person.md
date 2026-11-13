@@ -4,8 +4,6 @@ name: Town and Country Planning Act 1990, section 164
 url: https://www.legislation.gov.uk/ukpga/1990/8/section/164#term-person
 source-class: legislation
 role: reference
-terms:
-- person
 start-date: 1990-08-24
 entry-date: 2026-11-12
 ---

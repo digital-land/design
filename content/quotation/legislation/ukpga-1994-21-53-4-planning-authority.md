@@ -4,8 +4,6 @@ name: Coal industry Act 1994, section 53
 url: https://www.legislation.gov.uk/ukpga/1994/21/section/53#term-planning-authority
 source-class: legislation
 role: definition
-terms:
-- planning-authority
 start-date: 1994-07-05
 entry-date: 2026-11-12
 ---

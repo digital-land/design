@@ -4,8 +4,6 @@ name: Finance Act 2003, section 116
 url: https://www.legislation.gov.uk/ukpga/2003/14/section/116#term-residential-property
 source-class: legislation
 role: definition
-terms:
-- residential-property
 start-date: 2003-07-10
 entry-date: 2026-11-12
 ---

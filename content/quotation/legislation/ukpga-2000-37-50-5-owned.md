@@ -4,8 +4,6 @@ name: Countryside and Rights of Way Act 2000, section 50
 url: https://www.legislation.gov.uk/ukpga/2000/37/section/50#term-owned
 source-class: legislation
 role: reference
-terms:
-- owned
 start-date: 2000-11-30
 entry-date: 2026-11-12
 ---

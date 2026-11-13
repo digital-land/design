@@ -4,8 +4,6 @@ name: Charities Act 2011, section 59
 url: https://www.legislation.gov.uk/ukpga/2011/25/section/59
 source-class: legislation
 role: reference
-terms:
-- the-data-protection-legislation
 start-date: 2011-12-14
 entry-date: 2026-11-12
 ---

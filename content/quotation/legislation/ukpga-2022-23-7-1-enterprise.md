@@ -4,8 +4,6 @@ name: Subsidy Control Act 2022, section 7
 url: https://www.legislation.gov.uk/ukpga/2022/23/section/7#term-enterprise
 source-class: legislation
 role: definition
-terms:
-- enterprise
 start-date: 2022-04-28
 entry-date: 2026-11-12
 ---

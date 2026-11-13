@@ -88,12 +88,6 @@ def check(path, errors, warnings):
                 errors.append(f"{where}: legislation {leg} not in content/legislation")
         if not body.strip():
             errors.append(f"{where}: no definition text")
-    listed = fm.get("terms") or []
-    if isinstance(listed, str):  # semi-colon separated list
-        listed = [t.strip() for t in listed.split(";") if t.strip()]
-    for t in listed:
-        if not (CONTENT / "term" / f"{t}.md").exists():
-            warnings.append(f"{where}: unknown term {t}")
     for label in sorted(set(re.findall(r"\]\[([a-z-]+:[^\]\s]+)\]", body))):
         prefix, _, key = label.partition(":")
         key = key.split("#")[0]

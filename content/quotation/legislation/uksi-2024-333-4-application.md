@@ -4,8 +4,6 @@ name: The Infrastructure Planning (Fees) (Amendment) Regulations 2024, regulatio
 url: https://www.legislation.gov.uk/uksi/2024/333/regulation/4
 source-class: legislation
 role: definition
-terms:
-- application
 start-date: 2024-04-01
 entry-date: 2026-11-12
 ---

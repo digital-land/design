@@ -4,8 +4,6 @@ name: Data Protection Act 2018, section 3
 url: https://www.legislation.gov.uk/ukpga/2018/12/section/3#term-the-data-protection-legislation
 source-class: legislation
 role: definition
-terms:
-- the-data-protection-legislation
 start-date: 2018-05-23
 entry-date: 2026-11-12
 ---
